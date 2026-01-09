@@ -1,0 +1,12 @@
+ N --> N V
+ N --> N A
+ N --> V N
+ N --> A N
+ V --> N V
+ V --> V N
+ V --> V A
+ V --> A V
+ A --> N A
+ A --> V A
+ A --> A N
+ A --> A V

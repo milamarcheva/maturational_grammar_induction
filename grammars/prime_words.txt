@@ -1,0 +1,15 @@
+baby N    1000.0
+book N     1000.0
+thing    N     1000.0
+toy N     1000.0
+car    N     1000.0
+food   N     1000.0
+house N     1000.0
+mommy   N     1000.0
+boy    N     1000.0
+girl   N     1000.0
+dog   N     1000.0
+go V     1000.0
+get   V    1000.0
+see   V     1000.0
+want    V     1000.0

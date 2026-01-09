@@ -1,0 +1,7982 @@
+(N
+  (N you)
+  (A
+    (A (A 're) (V put))
+    (V (V (A (A ing) (V on)) (V (A your) (V cheek))) (A s)))) (p=6.47276e-25)
+(N (N where) (V (V are) (A (A you) (V (V go) (A ing))))) (p=6.90077e-14)
+(N
+  (N what)
+  (V (V are) (A (A (A you) (V do)) (V (A ing) (V sarah))))) (p=1.77937e-17)
+(N
+  (N (V (V is) (A that)) (N what))
+  (A
+    (A you)
+    (V (A (A 're) (V go)) (V (A ing) (V (A to) (V do)))))) (p=7.76974e-25)
+(N
+  (N is)
+  (A
+    (A (A he) (V give))
+    (V (A (A ing) (V bread)) (V elephant)))) (p=5.78668e-22)
+(N
+  (N but)
+  (A
+    (A
+      (A (A i) (V (A 'm) (V go)))
+      (V
+        (A (A ing) (V (A to) (V get)))
+        (V (A a) (V (A new) (V needle)))))
+    (V (A tomorrow) (V morning)))) (p=2.37654e-42)
+(N
+  (N what)
+  (V
+    (V am)
+    (A
+      (A (A i) (V draw))
+      (V (A (A ing) (V inside)) (V (A the) (V mouth)))))) (p=1.47779e-27)
+(N
+  (N (V (V (A what) (V 's)) (A that)) (N dog))
+  (V (V wear) (A ing))) (p=2.65813e-19)
+(N
+  (N is)
+  (V
+    (V santa)
+    (A
+      (A (A claus) (V go))
+      (V (V (A ing) (V (A to) (V bring))) (A you))))) (p=1.08344e-26)
+(N
+  (N now)
+  (A (A you) (V (V (A 're) (V (V say) (A ing))) (A hello)))) (p=1.60506e-20)
+(N
+  (N what)
+  (V (V is) (A (A (A the) (V lady)) (V (V wear) (A ing))))) (p=1.08074e-18)
+(N
+  (N chi)
+  (A
+    (A (A (A our) (V house)) (V is))
+    (V
+      (A (A n't) (V go))
+      (V (A ing) (V (A (A to) (V come)) (V alive)))))) (p=1.41627e-35)
+(N
+  (V
+    (V
+      (V
+        (V (A they) (V (A (A must) (V be)) (V hide)))
+        (A ing))
+      (A really))
+    (A really))
+  (N well)) (p=4.61004e-31)
+(N
+  (N (V (A the) (V birdie)) (N and))
+  (A
+    (A (A (A (A the) (V lamb)) (V are)) (V try))
+    (V (V (V (A ing) (V (A to) (V wake))) (A him)) (A up)))) (p=2.03663e-42)
+(N
+  (N what)
+  (V
+    (V 'd)
+    (A
+      (A (A (A i) (V tell)) (V (A you) (V about)))
+      (V (V (V say) (A ing)) (A that))))) (p=3.02554e-28)
+(N
+  (N it)
+  (A
+    (A 's)
+    (V
+      (V
+        (A (A (A her) (V second)) (V year))
+        (V (V wear) (A ing)))
+      (A them)))) (p=1.63923e-28)
+(N
+  (V
+    (A we)
+    (V (A (A 're) (V go)) (V (A ing) (V (A to) (V be)))))
+  (N supercut)) (p=2.28543e-25)
+(N
+  (N you)
+  (A
+    (A (A 're) (V go))
+    (V (A (A ing) (V (A to) (V be))) (V tired)))) (p=1.67546e-21)
+(N
+  (N i)
+  (V
+    (V see)
+    (A (A what) (V (V (A you) (V (A 're) (V do))) (A ing))))) (p=6.20372e-20)
+(N
+  (N you)
+  (V
+    (V drop)
+    (A
+      (A (A (A (A ing) (V stuff)) (V all)) (V over))
+      (V (A the) (V floor))))) (p=5.52983e-28)
+(N
+  (N (N (V remember) (N mommy)) (V was))
+  (V
+    (V wear)
+    (A
+      (A ing)
+      (V
+        (V
+          (V
+            (V
+              (A some)
+              (V
+                (A (A yesterday) (V when))
+                (V (A she) (V pick))))
+            (A ed))
+          (A up))
+        (A the))))) (p=5.38552e-46)
+(N
+  (N he)
+  (A
+    (A (A (A 's) (V not)) (V come))
+    (V
+      (V
+        (A (A (A ing) (V into)) (V bed))
+        (V (V with) (A us)))
+      (A anymore)))) (p=1.19207e-36)
+(N
+  (N and)
+  (A
+    (A what)
+    (V (V (A 's) (V (A (A this) (V one)) (V do))) (A ing)))) (p=8.26875e-21)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V go))
+    (V
+      (A ing)
+      (V (A (A to) (V put)) (V (A this) (V away)))))) (p=1.3293e-24)
+(N
+  (N what)
+  (V (V are) (A (A (A you) (V play)) (V (A ing) (V with))))) (p=5.30687e-17)
+(N
+  (N he)
+  (A
+    (A (A 's) (V walk))
+    (V (A (A ing) (V on)) (V (A the) (V cheese))))) (p=2.51305e-22)
+(N
+  (N you)
+  (V
+    (V go)
+    (A
+      (A ing)
+      (V
+        (A (A to) (V (A just) (V sit)))
+        (V (A (A there) (V for)) (V (A a) (V while))))))) (p=4.19954e-31)
+(N
+  (N oh)
+  (A
+    (A you)
+    (V
+      (V
+        (A (A 're) (V go))
+        (V (V (A ing) (V (A to) (V pick))) (A it)))
+      (A up)))) (p=1.52293e-26)
+(N
+  (N what)
+  (A
+    (A 's)
+    (V
+      (A (A your) (V (A (A next) (V trick)) (V go)))
+      (V (A ing) (V (A to) (V be)))))) (p=7.18085e-29)
+(N (N what) (A (A 's) (V (A he) (V (V hold) (A ing))))) (p=4.7032e-15)
+(N
+  (N are)
+  (A
+    (A (A n't) (V (A you) (V go)))
+    (V (A ing) (V (A (A to) (V go)) (V (A to) (V sleep)))))) (p=7.57064e-25)
+(N
+  (N what)
+  (V (V are) (A (A (A you) (V do)) (V (A ing) (V sit))))) (p=5.11047e-17)
+(N (N what) (A (A 're) (V (V (A you) (V do)) (A ing)))) (p=2.36296e-13)
+(N
+  (N they)
+  (A
+    (A (A 're) (V have))
+    (V
+      (V
+        (A (A ing) (V (A a) (V picnic)))
+        (V (V are) (A n't)))
+      (A they)))) (p=7.93564e-29)
+(N
+  (N it)
+  (A
+    (A
+      (A
+        (A (A 's) (V go))
+        (V (A (A ing) (V (A to) (V get))) (V knock)))
+      (V
+        (A (A (A ed) (V over)) (V before))
+        (V
+          (A (A i) (V (A even) (V get)))
+          (V (A a) (V chance)))))
+    (V (A to) (V (V knock) (A it))))) (p=2.49466e-60)
+(N
+  (N did)
+  (A
+    (A (A (A you) (V finish)) (V play))
+    (V (A ing) (V (V with) (A them))))) (p=1.40758e-22)
+(N
+  (N she)
+  (V
+    (V want)
+    (A
+      (A ed)
+      (V
+        (A (A to) (V do))
+        (V
+          (A
+            (A
+              (A (A this) (V (A just) (V as)))
+              (V (A you) (V were)))
+            (V come))
+          (V (A ing) (V in))))))) (p=1.29426e-40)
+(N
+  (N what)
+  (A
+    (A (A 're) (V (A you) (V smile)))
+    (V (A ing) (V about)))) (p=2.34304e-19)
+(N
+  (N is)
+  (A (A (A he) (V hide)) (V (A ing) (V (V in) (A there))))) (p=7.84232e-20)
+(N
+  (N uhoh)
+  (A
+    (A what)
+    (V (A 's) (V (V (V happen) (A ing)) (A here))))) (p=2.62845e-20)
+(N
+  (N (N i) (V was))
+  (V
+    (V teach)
+    (A
+      (A ing)
+      (V
+        (A her)
+        (V
+          (A how)
+          (V
+            (A (A to) (V do))
+            (V
+              (A (A her) (V abc))
+              (V (A 's) (V (A last) (V night)))))))))) (p=8.85041e-47)
+(N
+  (N i)
+  (V
+    (V
+      (V do)
+      (A
+        (A (A n't) (V believe))
+        (V (A it) (V (A 's) (V snow)))))
+    (A ing))) (p=3.9245e-26)
+(N
+  (N and)
+  (A
+    (A (A who) (V (A 's) (V (A she) (V go))))
+    (V
+      (A (A (A ing) (V on)) (V (A the) (V seesaw)))
+      (V with)))) (p=3.73317e-32)
+(N
+  (N who)
+  (V
+    (V are)
+    (A
+      (A (A you) (V go))
+      (V
+        (A ing)
+        (V
+          (A (A (A to) (V put)) (V in))
+          (V (A mommy) (V (A 's) (V lap)))))))) (p=1.36626e-33)
+(N (N nonna) (A (A 's) (V (V come) (A ing)))) (p=2.66945e-14)
+(N
+  (N i)
+  (V
+    (V was)
+    (A
+      (A (A just) (V write))
+      (V
+        (A (A ing) (V (A your) (V brother)))
+        (V (A a) (V note)))))) (p=8.5408e-33)
+(N
+  (N what)
+  (A (A 's) (V (V (A (A that) (V man)) (V do)) (A ing)))) (p=2.11975e-17)
+(N
+  (N oh)
+  (A
+    (A you)
+    (V
+      (A
+        (A (A 're) (V take))
+        (V
+          (A (A ing) (V out))
+          (V (A a) (V (A (A band) (V aid)) (V for)))))
+      (V beth)))) (p=6.10844e-39)
+(N
+  (N (A your) (N mommy))
+  (A
+    (A (A 's) (V come))
+    (V
+      (V
+        (V (A ing) (V (V (A to) (V see)) (A you)))
+        (A very))
+      (A soon)))) (p=4.79002e-33)
+(N
+  (N he)
+  (A
+    (A (A 's) (V bite))
+    (V (A ing) (V (A his) (V bottom))))) (p=4.15784e-21)
+(N
+  (N ok)
+  (A (A what) (V (V (A 's) (V (A he) (V do))) (A ing)))) (p=3.32914e-18)
+(N
+  (N (N she) (V was))
+  (V
+    (V look)
+    (A
+      (A
+        (A (A (A ing) (V for)) (V (A the) (V bone)))
+        (V for))
+      (V (A (A the) (V doll)) (V (A 's) (V head)))))) (p=1.21633e-39)
+(N
+  (N are)
+  (A
+    (A (A you) (V go))
+    (V
+      (A
+        (A (A ing) (V (A to) (V try)))
+        (V
+          (A
+            (A (A (A to) (V eat)) (V (A your) (V corn)))
+            (V off))
+          (V (A the) (V cob))))
+      (V tonight)))) (p=7.02517e-47)
+(N
+  (N what)
+  (V
+    (V are)
+    (A
+      (A (A you) (V do))
+      (V (A (A ing) (V with)) (V (A the) (V cookie)))))) (p=4.10894e-23)
+(N
+  (N (N six) (V little))
+  (V
+    (V taxi)
+    (A
+      (A (A s) (V stand))
+      (V (A (A ing) (V in)) (V (A a) (V row)))))) (p=1.26452e-34)
+(N
+  (N she)
+  (A
+    (A (A 's) (V go))
+    (V (A ing) (V (A (A to) (V take)) (V (A a) (V nap)))))) (p=1.83262e-24)
+(N
+  (N i)
+  (A (A (A (A 'm) (V not)) (V cook)) (V (A ing) (V good)))) (p=1.14381e-20)
+(N
+  (N i)
+  (A
+    (A
+      (A (A 'm) (V go))
+      (V
+        (A
+          (A ing)
+          (V (A (A to) (V take)) (V (A a) (V little))))
+        (V air)))
+    (V (V (V out) (A of)) (A mine)))) (p=1.65046e-39)
+(N
+  (N you)
+  (V
+    (V go)
+    (A
+      (A ing)
+      (V
+        (A (A (A to) (V eat)) (V (A your) (V sandwich)))
+        (V then))))) (p=4.02111e-25)
+(N (N what) (V (V is) (A (A she) (V (V say) (A ing))))) (p=4.53863e-15)
+(N (N what) (V (V (V are) (A (A you) (V write))) (A ing))) (p=6.89111e-15)
+(N
+  (N now)
+  (A
+    (A you)
+    (V
+      (V (A (A 're) (V look)) (V (A ing) (V at)))
+      (A that)))) (p=2.35587e-21)
+(N
+  (N you)
+  (A
+    (A (A 're) (V shave))
+    (V (A ing) (V (A your) (V face))))) (p=7.3296e-21)
+(N
+  (N see)
+  (A
+    (A he)
+    (V
+      (V
+        (A (A 's) (V give))
+        (V (A ing) (V (A (A them) (V bread)) (V crumb))))
+      (A s)))) (p=2.42744e-32)
+(N
+  (N you)
+  (A
+    (A (A 're) (V build))
+    (V (A ing) (V (A a) (V digger))))) (p=4.9953e-21)
+(N
+  (N well)
+  (A
+    (A it)
+    (V
+      (A (A (A 's) (V lay)) (V (A ing) (V right)))
+      (V
+        (A (A there) (V until))
+        (V
+          (A (A we) (V have))
+          (V (A (A a) (V fly)) (V (A to) (V kill)))))))) (p=1.58548e-48)
+(N (N where) (A (A 's) (V (V (A he) (V go)) (A ing)))) (p=2.55859e-14)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V go))
+    (V
+      (A (A ing) (V (A to) (V get)))
+      (V (A her) (V (A a) (V surprise)))))) (p=1.40977e-28)
+(N
+  (N i)
+  (V
+    (V guess)
+    (A
+      (A it)
+      (V
+        (V
+          (V
+            (V
+              (A
+                (A
+                  (A (A 's) (V because))
+                  (V (A you) (V were)))
+                (V (A n't) (V play)))
+              (V (A ing) (V with)))
+            (A it))
+          (A gently))
+        (A enough))))) (p=1.35733e-46)
+(N (N what) (V (V is) (A (A nina) (V (V do) (A ing))))) (p=6.18347e-15)
+(N (N what) (V (V are) (A (A they) (V (V do) (A ing))))) (p=2.54106e-14)
+(N
+  (N (N how) (V about))
+  (V
+    (V
+      (V put)
+      (A (A (A ing) (V (A him) (V right))) (V back)))
+    (A here))) (p=1.24081e-27)
+(N
+  (N you)
+  (A
+    (A (A 're) (V get))
+    (V
+      (A (A (A ing) (V wet)) (V because))
+      (V (V (A it) (V (A 's) (V rain))) (A ing))))) (p=2.50943e-32)
+(N
+  (N yeah)
+  (V
+    (V see)
+    (A
+      (A
+        (A
+          (A him)
+          (V (A here) (V (A he) (V (A 's) (V go)))))
+        (V (A (A ing) (V off)) (V for)))
+      (V (A a) (V walk))))) (p=2.15768e-38)
+(N (N who) (A (A 's) (V (V (V hug) (A ing)) (A you)))) (p=9.68987e-16)
+(N
+  (N (V (V is) (A that)) (N what))
+  (A (A she) (V (A 's) (V (V wear) (A ing))))) (p=1.1467e-21)
+(N
+  (N what)
+  (V
+    (V are)
+    (A
+      (A (A we) (V go))
+      (V
+        (A (A ing) (V (A (A to) (V do)) (V at)))
+        (V (A the) (V beach)))))) (p=4.87722e-29)
+(N
+  (N and)
+  (A
+    (A (A (A why) (V are)) (V (A you) (V take)))
+    (V (A ing) (V (A my) (V garage))))) (p=1.19276e-27)
+(N (V (V play) (A ing)) (N what)) (p=2.38074e-09)
+(N
+  (N i)
+  (A
+    (A (A (A 'm) (V not)) (V go))
+    (V
+      (A (A ing) (V (A to) (V buy)))
+      (V
+        (V
+          (A (A you) (V (A any) (V (A more) (V sock))))
+          (V
+            (A
+              (A s)
+              (V (A (A or) (V put)) (V (A any) (V sock))))
+            (V (A s) (V on))))
+        (A you))))) (p=1.56105e-61)
+(N (N what) (V (V is) (A (A she) (V (V do) (A ing))))) (p=3.19436e-14)
+(N
+  (N (N who) (V was))
+  (V
+    (V tickle)
+    (A
+      (A ing)
+      (V (A you) (V (V (A a) (V little)) (A bit)))))) (p=3.8498e-27)
+(N
+  (N are)
+  (A
+    (A (A you) (V look))
+    (V
+      (A (A ing) (V for))
+      (V (A a) (V (A certain) (V page)))))) (p=3.43155e-28)
+(N
+  (N are)
+  (A
+    (A (A you) (V unwrap))
+    (V
+      (A (A ing) (V (A the) (V santa)))
+      (V (A (A claus) (V cookie)) (V again))))) (p=8.09912e-35)
+(N
+  (N you)
+  (A
+    (A (A 're) (V go))
+    (V (A (A ing) (V right)) (V (A to) (V bed))))) (p=3.78769e-21)
+(N
+  (N are)
+  (A
+    (A (A you) (V give))
+    (V (A ing) (V (A him) (V (A a) (V hug)))))) (p=5.27269e-23)
+(N
+  (V (V (A (A you) (V swim)) (V (A ing) (V in))) (A the))
+  (N water)) (p=1.52684e-18)
+(N
+  (N oh)
+  (A
+    (A we)
+    (V
+      (A (A 're) (V go))
+      (V
+        (A
+          (A ing)
+          (V (A (A (A to) (V have)) (V icecream)) (V for)))
+        (V dessert))))) (p=3.25547e-33)
+(N
+  (N and)
+  (A
+    (A
+      (A you)
+      (V
+        (A (A (A 're) (V throw)) (V (A ing) (V around)))
+        (V (A the) (V floor))))
+    (V now))) (p=1.5733e-29)
+(N
+  (N go)
+  (A
+    (A ing)
+    (V
+      (A (A to) (V make))
+      (V (A (A him) (V make)) (V (A a) (V somersault)))))) (p=3.63539e-28)
+(N (N are) (A (A you) (V (V (V tease) (A ing)) (A me)))) (p=5.64342e-17)
+(N
+  (N are)
+  (A (A (A you) (V all)) (V (V (A done) (V eat)) (A ing)))) (p=1.12665e-19)
+(N
+  (N what)
+  (A
+    (A (A 's) (V do))
+    (V (V (A ing) (V (A just) (V like))) (A that)))) (p=5.5378e-20)
+(N
+  (N go)
+  (A
+    (A (A ing) (V (A (A to) (V talk)) (V on)))
+    (V (V (A the) (V (V phone) (A some))) (A more)))) (p=1.94616e-30)
+(N
+  (N are)
+  (A
+    (A
+      (A (A the) (V cup))
+      (V
+        (A (A s) (V hide))
+        (V (A ing) (V (A can) (V (A you) (V take))))))
+    (V (A them) (V out)))) (p=7.95869e-36)
+(N
+  (N (N they) (V were))
+  (V
+    (V make)
+    (A
+      (A (A ing) (V (A it) (V on)))
+      (V (A captain) (V kangaroo))))) (p=1.08119e-29)
+(N
+  (N are)
+  (A
+    (A (A you) (V go))
+    (V
+      (A
+        (A ing)
+        (V (A (A to) (V take)) (V (A the) (V shell))))
+      (V off)))) (p=1.34827e-28)
+(N
+  (N and)
+  (A
+    (A what)
+    (V
+      (V
+        (A 's)
+        (V (A (A (A this) (V little)) (V girl)) (V do)))
+      (A ing)))) (p=9.15675e-25)
+(N
+  (N you)
+  (A
+    (A
+      (A
+        (A (A 're) (V wear))
+        (V (A ing) (V (A a) (V birthday))))
+      (V present))
+    (V (A today) (V (A you) (V know))))) (p=3.60835e-33)
+(N
+  (N she)
+  (A
+    (A (A 's) (V play))
+    (V (A (A ing) (V with)) (V (A the) (V ball))))) (p=1.58394e-21)
+(N
+  (N (N that) (V little))
+  (V
+    (V girl)
+    (A
+      (A (A 's) (V go))
+      (V
+        (A
+          (A ing)
+          (V
+            (A (A (A to) (V go)) (V (A to) (V bed)))
+            (V nice)))
+        (V (A and) (V (A early) (V tonight))))))) (p=8.57521e-47)
+(N
+  (N
+    (V (V remember) (A (A the) (V one)))
+    (N (N mommy) (V was)))
+  (V (V do) (A ing))) (p=1.42644e-22)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V go))
+    (V
+      (A ing)
+      (V (A (A to) (V make)) (V (A him) (V smile)))))) (p=2.84419e-26)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V afraid))
+    (V
+      (A
+        (A (A (A that) (V (A the) (V fish))) (V are))
+        (V go))
+      (V
+        (A (A ing) (V (A to) (V get)))
+        (V (V ruin) (A ed)))))) (p=1.1194e-42)
+(N (V (V (V (A you) (V drink)) (A ing)) (A your)) (N milk)) (p=2.15247e-15)
+(N (N what) (V (V are) (A (A you) (V (V do) (A ing))))) (p=2.83287e-13)
+(N (N turn) (A (A ing) (V (A a) (V somersault)))) (p=1.11526e-15)
+(N
+  (N what)
+  (A
+    (A 're)
+    (V (A (A you) (V go)) (V (A ing) (V (A to) (V do)))))) (p=1.86059e-18)
+(N
+  (N papa)
+  (A (A (A 's) (V wear)) (V (A ing) (V (A a) (V dress))))) (p=3.45671e-21)
+(N (N whatcha) (V (V do) (A ing))) (p=1.40131e-10)
+(N
+  (N oh)
+  (A
+    (A (A (A the) (V mosquito)) (V (A 's) (V go)))
+    (V (V (A ing) (V (A to) (V bite))) (A you)))) (p=1.58181e-27)
+(N (N where) (V (V are) (A (A they) (V (V walk) (A ing))))) (p=1.8991e-16)
+(N
+  (N where)
+  (V
+    (V is)
+    (A (A (A the) (V kitty)) (V (V stand) (A ing))))) (p=2.65789e-19)
+(N
+  (N they)
+  (A
+    (A (A 're) (V peek))
+    (V
+      (A (A ing) (V out))
+      (V (A (A of) (V (A the) (V kitchen))) (V door))))) (p=3.46961e-32)
+(N
+  (V (A (A she) (V got)) (V (A a) (V broken)))
+  (N
+    (N toy)
+    (V
+      (V so)
+      (A
+        (A (A (A she) (V was)) (V go))
+        (V
+          (A
+            (A
+              (A ing)
+              (V (A (A to) (V take)) (V (A it) (V back))))
+            (V (A and) (V get)))
+          (V (A (A her) (V money)) (V back))))))) (p=2.56813e-64)
+(N
+  (N (N the) (V car))
+  (V (V hit) (A (A ing) (V (A the) (V train))))) (p=5.36756e-21)
+(N
+  (N (V (A nothing) (V (A more) (V than))) (N what))
+  (A (A we) (V (V (A 're) (V do)) (A ing)))) (p=2.8309e-28)
+(N
+  (N (A nina) (N what))
+  (V
+    (V are)
+    (A
+      (A (A you) (V do))
+      (V
+        (A (A ing) (V (A there) (V on)))
+        (V (A the) (V floor)))))) (p=1.03686e-30)
+(N (N on) (V (V top) (A (A of) (V (A a) (V closet))))) (p=2.60726e-19)
+(N
+  (N what)
+  (V
+    (V does)
+    (A
+      (A the)
+      (V (A (A message) (V mean)) (V (V on) (A this)))))) (p=2.07713e-25)
+(N
+  (N what)
+  (A (A 's) (V (A (A that) (V on)) (V (A the) (V floor))))) (p=2.50369e-17)
+(N
+  (N (N it) (V was))
+  (V
+    (V on)
+    (A
+      (A
+        (A (A (A the) (V wall)) (V across))
+        (V (A the) (V street)))
+      (V (V (V was) (A n't)) (A it))))) (p=2.41467e-37)
+(N (N sarah) (V (V (V on) (A a)) (A diet))) (p=2.15809e-15)
+(N
+  (N here)
+  (A
+    (A 's)
+    (V
+      (A (A a) (V piece))
+      (V
+        (A (A (A of) (V paper)) (V for))
+        (V (A you) (V (A (A to) (V draw)) (V on))))))) (p=2.02911e-35)
+(N
+  (N oh)
+  (A
+    (A (A there) (V is))
+    (V (A (A (A a) (N dog)) (V on)) (V (A that) (V page))))) (p=9.95634e-27)
+(N
+  (N there)
+  (A
+    (A 's)
+    (V (V (A (A an) (V alphabet)) (V on)) (A here)))) (p=5.16775e-22)
+(N
+  (N (N (N and) (V rode)) (V around))
+  (V (V on) (A (A the) (V horse)))) (p=2.19436e-22)
+(N
+  (N you)
+  (A
+    (A (A and) (V ann))
+    (V (A marie) (V (V (A (A can) (V sit)) (V on)) (A it))))) (p=2.95071e-28)
+(N (N on) (A (A your) (V belly))) (p=1.71025e-12)
+(N
+  (N sure)
+  (A
+    (A (A (A (A they) (V do)) (V come)) (V on))
+    (V wednesday))) (p=3.08956e-23)
+(N (N you) (A (A fell) (V (V on) (A me)))) (p=9.905e-14)
+(N
+  (V have)
+  (N
+    (N you)
+    (A
+      (A (A (A ever) (V ridden)) (V on))
+      (V (A (A a) (V horse)) (V before))))) (p=1.1042e-31)
+(N
+  (N you)
+  (V
+    (V have)
+    (A
+      (A (A (A to) (V stay)) (V on))
+      (V
+        (A (A (A your) (V belly)) (V sometimes))
+        (V buddy))))) (p=4.94793e-34)
+(N
+  (V
+    (A (A why) (V do))
+    (V
+      (A n't)
+      (V
+        (A (A (A you) (V play)) (V with))
+        (V (A them) (V (V on) (A the))))))
+  (N table)) (p=3.58166e-31)
+(N (N it) (A (A (A 's) (V on)) (V (A your) (V foot)))) (p=3.20331e-16)
+(N
+  (V (V show) (A me))
+  (N (N what) (A (A 's) (V (V on) (A it))))) (p=3.83382e-19)
+(N (N (N (N i) (V mean)) (V on)) (V friday)) (p=2.76624e-15)
+(N
+  (N are)
+  (A
+    (A (A you) (V give))
+    (V
+      (A
+        (A (A ing) (V (A the) (V horse)))
+        (V (A (A a) (V ride)) (V on)))
+      (V (A the) (V truck))))) (p=3.04839e-34)
+(N
+  (N maybe)
+  (A
+    (A (A you) (V (A should) (V put)))
+    (V (A (A (A it) (V on)) (V (A the) (V other))) (V end)))) (p=2.25542e-30)
+(N
+  (N because)
+  (A
+    (A (A (A i) (V would)) (V like))
+    (V
+      (A (A to) (V take))
+      (V
+        (A (A her) (V on))
+        (V (A (A a) (V trip)) (V somewhere)))))) (p=1.95241e-39)
+(N
+  (N
+    (N
+      (N (V if) (N (N (N you) (V grouchy)) (V then)))
+      (V go))
+    (V on))
+  (V (V on) (A (A your) (V way)))) (p=8.29598e-33)
+(N
+  (N come)
+  (V
+    (V out)
+    (A (A (A where) (V on)) (V (A the) (V paper))))) (p=9.30054e-21)
+(N (N it) (A (A (A 's) (V on)) (V (A your) (V bed)))) (p=8.80671e-16)
+(N (N do) (A (A (A it) (V on)) (V (A the) (V newspaper)))) (p=5.51996e-17)
+(N (V on) (N (N what) (A dear))) (p=1.16224e-11)
+(N
+  (N she)
+  (A (A (A 's) (V ride)) (V (V (A ing) (V on)) (A the)))) (p=6.5757e-18)
+(N
+  (N and)
+  (A
+    (A (A (A (A raggedy) (V ann)) (V is)) (V sit))
+    (V (A (A ing) (V on)) (V (A my) (V lap))))) (p=2.34034e-34)
+(N (N on) (V wednesday)) (p=9.49108e-10)
+(N (N something) (A (A (A to) (V play)) (V on))) (p=8.14171e-14)
+(N
+  (N look)
+  (V
+    (V at)
+    (A
+      (A the)
+      (V
+        (A pretty)
+        (V
+          (A (A pretty) (V thing))
+          (V (V (A s) (V on)) (A them))))))) (p=1.47316e-30)
+(N
+  (N do)
+  (A (A (A (A n't) (V bite)) (V on)) (V (A the) (V spoon)))) (p=3.17129e-20)
+(N
+  (N
+    (V
+      (V (V (V (A that) (V 's)) (A an)) (A awfully))
+      (A big))
+    (N mouse))
+  (A
+    (A (A (A to) (V ride)) (V on))
+    (V
+      (V (A (A that) (V reindeer)) (V (V is) (A n't)))
+      (A it)))) (p=3.94099e-48)
+(N
+  (N you)
+  (A
+    (A 're)
+    (V
+      (A (A just) (V (A a) (V little)))
+      (V
+        (A (A (A white) (V whale)) (V on))
+        (V (A the) (V go)))))) (p=6.14559e-33)
+(N
+  (N the)
+  (V
+    (V door)
+    (A (A (A s) (V on)) (V (A (A the) (V bus)) (V go))))) (p=2.16752e-22)
+(N
+  (N what)
+  (V
+    (V does)
+    (A
+      (A
+        (A (A (A (A this) (V little)) (V girl)) (V have))
+        (V on))
+      (V (A her) (V hand))))) (p=7.16134e-30)
+(N
+  (N on)
+  (A
+    (A (A the) (V floor))
+    (V
+      (A (A (A or) (V on)) (V (A the) (V top)))
+      (V (A of) (V (A the) (V box)))))) (p=4.98365e-33)
+(N
+  (N get)
+  (V
+    (V out)
+    (A
+      (A (A (A here) (V (A and) (V talk))) (V on))
+      (V (A the) (V telephone))))) (p=4.83899e-28)
+(N
+  (N maybe)
+  (V
+    (V on)
+    (A
+      (A (A another) (V page))
+      (V
+        (V
+          (A you)
+          (V
+            (A (A 'll) (V use))
+            (V (A (A the) (V other)) (V one))))
+        (A s))))) (p=1.58401e-37)
+(N
+  (N (N for) (V one))
+  (V
+    (V thing)
+    (A
+      (A
+        (A there)
+        (V (A (A (A 's) (V all)) (V rice)) (V on)))
+      (V (A this) (V plate))))) (p=6.16258e-37)
+(N (N that) (A (A (A 's) (V on)) (V (A this) (V side)))) (p=3.43027e-16)
+(N
+  (N um)
+  (A
+    (A
+      (A (A what) (V do))
+      (V
+        (A (A you) (V like))
+        (V (A (A (A to) (V play)) (V with)) (V on))))
+    (V (A this) (V page)))) (p=1.78697e-35)
+(N
+  (N you)
+  (A
+    (A (A still) (V have))
+    (V
+      (A
+        (A (A (A (A your) (V bald)) (V spot)) (V on))
+        (V (A the) (V back)))
+      (V (A my) (V friend))))) (p=1.84136e-41)
+(N
+  (N can)
+  (A
+    (A
+      (A (A (A i) (V put)) (V (A (A my) (V tea)) (V bag)))
+      (V on))
+    (V (A (A your) (V tea)) (V plate)))) (p=5.58098e-37)
+(N
+  (N did)
+  (A (A (A you) (V find)) (V (V (A it) (V on)) (A the)))) (p=9.13861e-18)
+(N
+  (V
+    (A it)
+    (V
+      (A (A (A 's) (V right)) (V on))
+      (V (A the) (V floor))))
+  (N (N where) (A (A ya) (V (V left) (A it))))) (p=4.7354e-33)
+(N
+  (N it)
+  (A
+    (A (A 's) (V easier))
+    (V
+      (A (A to) (V read))
+      (V
+        (A (A the) (V letter))
+        (V
+          (A (A s) (V on))
+          (V (A (A the) (V refrigerator)) (V right))))))) (p=4.05633e-40)
+(N
+  (N you)
+  (A
+    (A (A can) (V do))
+    (V
+      (A (A (A it) (V on)) (V (A the) (V floor)))
+      (V (A too) (V adam))))) (p=7.06522e-29)
+(N (N put) (A (A butter) (V (V on) (A it)))) (p=1.03167e-14)
+(N
+  (N what)
+  (V
+    (V do)
+    (A
+      (A (A (A ya) (V have)) (V on))
+      (V (A the) (V picnic))))) (p=1.67179e-22)
+(N
+  (N what)
+  (V
+    (V did)
+    (A
+      (A (A (A you) (V see)) (V on))
+      (V (A the) (V (A big) (V boat)))))) (p=1.43594e-24)
+(N
+  (N remember)
+  (A
+    (A we)
+    (V (A (A (A always) (V draw)) (V on)) (V paper)))) (p=9.50405e-24)
+(N (N not) (V (V on) (A (A your) (V finger)))) (p=1.20149e-14)
+(N
+  (N yeah)
+  (A
+    (A (A (A (A he) (V has)) (V (A a) (V blanket))) (V on))
+    (V (A his) (V leg)))) (p=2.73629e-28)
+(N
+  (N but)
+  (A
+    (A (A (A her) (V name)) (V was))
+    (V
+      (A (A n't) (V on))
+      (V (A (A the) (V schedule)) (V (A you) (V know)))))) (p=2.12135e-34)
+(N
+  (N sit)
+  (A
+    (A there)
+    (V
+      (A
+        (A (A and) (V take))
+        (V
+          (A (A your) (V boot))
+          (V (A (A s) (V off)) (V on))))
+      (V (A the) (V chair))))) (p=6.28406e-38)
+(N
+  (N (V peanut) (N how))
+  (V
+    (V did)
+    (A
+      (A
+        (A (A (A (A your) (V food)) (V get)) (V on))
+        (V (A the) (V floor)))
+      (V (V like) (A that))))) (p=3.99035e-38)
+(N
+  (N because)
+  (A
+    (A (A (A they) (V (A 'll) (V get))) (V on))
+    (V
+      (A (A the) (V rug))
+      (V
+        (A and)
+        (V (A (A that) (V (A 's) (V not))) (V good)))))) (p=8.57048e-40)
+(N
+  (N i)
+  (A
+    (A (A will) (V make))
+    (V
+      (A you)
+      (V (A (A (A some) (V tapioca)) (V on)) (V wednesday))))) (p=1.16418e-29)
+(N
+  (N do)
+  (A
+    (A (A you) (V want))
+    (V
+      (V
+        (A (A to) (V put))
+        (V (A (A them) (V on)) (V (A these) (V block))))
+      (A s)))) (p=1.62288e-31)
+(N
+  (N i)
+  (V
+    (V see)
+    (A
+      (A (A you) (V built))
+      (V (A (A a) (V ramp)) (V (V on) (A yourself)))))) (p=1.04017e-30)
+(N
+  (N (N are) (V people))
+  (V
+    (V go)
+    (A
+      (A
+        (A ing)
+        (V
+          (A
+            (A (A (A to) (V go)) (V on))
+            (V (A the) (V train)))
+          (V (A (A to) (V take)) (V care))))
+      (V (V (A of) (V (A the) (V animal))) (A s))))) (p=3.91449e-50)
+(N
+  (V (V (A that) (V 's)) (A a))
+  (N
+    (N calendar)
+    (V
+      (V right)
+      (A
+        (A (A (A there) (V with)) (V number))
+        (V (V (A s) (V on)) (A it)))))) (p=1.5922e-37)
+(N
+  (N no)
+  (A
+    (A (A (A no) (V (A no) (V put))) (V (A it) (V on)))
+    (V (A your) (V plate)))) (p=1.54705e-27)
+(N
+  (N you)
+  (V
+    (V ca)
+    (A
+      (A
+        (A (A (A n't) (V put)) (V (A a) (V dress)))
+        (V on))
+      (V
+        (V
+          (A (A her) (V until))
+          (V
+            (A she)
+            (V
+              (A
+                (A (A 's) (V go))
+                (V
+                  (A
+                    (A (A ing) (V out))
+                    (V (A (A the) (V door)) (V because)))
+                  (V (A she) (V 'd))))
+              (V (A never) (V make)))))
+        (A it))))) (p=1.85874e-72)
+(N
+  (N where)
+  (V
+    (V have)
+    (A
+      (A (A (A you) (V gone)) (V on))
+      (V (A a) (V seesaw))))) (p=1.01442e-23)
+(N (N put) (A (A (A it) (V on)) (V (A that) (V one)))) (p=7.82933e-16)
+(N (N on) (A (A a) (V horsie))) (p=1.92879e-11)
+(N (N on) (V tuesday)) (p=4.92526e-10)
+(N
+  (N oh)
+  (A
+    (A (A you) (V want))
+    (V
+      (A (A (A to) (V sit)) (V on))
+      (V (A eve) (V (A 's) (V stool)))))) (p=1.21353e-29)
+(N
+  (N (N (N here) (V come)) (V over))
+  (V (V on) (A (A (A the) (V other)) (V side)))) (p=1.4409e-24)
+(N (N on) (A (A her) (V (V knee) (A s)))) (p=3.29891e-15)
+(N
+  (N did)
+  (A
+    (A (A (A you) (V spill)) (V (A it) (V on)))
+    (V (A your) (V dress)))) (p=2.51469e-23)
+(N
+  (N what)
+  (V
+    (V do)
+    (A
+      (A (A (A you) (V think)) (V (A that) (V has)))
+      (V (V on) (A it))))) (p=5.07674e-23)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V put))
+    (V
+      (A (A ing) (V (A it) (V on)))
+      (V (A mommy) (V (A 's) (V foot)))))) (p=2.08688e-28)
+(N
+  (N no)
+  (A
+    (A (A you) (V (A (A could) (V choke)) (V on)))
+    (V (A that) (V button)))) (p=1.33488e-25)
+(N (N what) (V (V do) (A (A (A you) (V ride)) (V on)))) (p=7.74018e-15)
+(N
+  (N why)
+  (V
+    (V do)
+    (A
+      (A
+        (A n't)
+        (V (A (A you) (V leave)) (V (A it) (V on))))
+      (V (A the) (V floor))))) (p=7.2292e-28)
+(N (N got) (V (V on) (A (A your) (V nose)))) (p=4.57007e-15)
+(N
+  (N she)
+  (V
+    (V saw)
+    (A
+      (A
+        (A (A (A some) (V people)) (V on))
+        (V (A (A tv) (V once)) (V kiss)))
+      (V (A ing) (V (A and) (V (A she) (V said))))))) (p=1.39616e-45)
+(N
+  (N and)
+  (A
+    (A (A (A frank) (V (A 's) (V on))) (V top))
+    (V (A of) (V (A your) (V frog))))) (p=2.45208e-29)
+(N
+  (N one)
+  (A
+    (A
+      (A
+        (A
+          (A
+            (A (A (A (A must) (V go)) (V on)) (V one))
+            (V side))
+          (V (A of) (V (A the) (V head))))
+        (V (A and) (V one)))
+      (V (A (A must) (V go)) (V on)))
+    (V (A the) (V other)))) (p=1.38001e-53)
+(N
+  (N they)
+  (A
+    (A (A (A 're) (V on)) (V (A the) (V other)))
+    (V chair))) (p=5.53673e-20)
+(N
+  (N shall)
+  (A
+    (A (A (A we) (V put)) (V (A (A it) (V in)) (V on)))
+    (V (A the) (V zipper)))) (p=2.74128e-26)
+(N
+  (N i)
+  (A
+    (A 've)
+    (V
+      (A (A been) (V work))
+      (V (A (A ing) (V on)) (V (A the) (V railroad)))))) (p=9.77624e-29)
+(N
+  (V
+    (V was)
+    (A
+      (A (A just) (V go))
+      (V
+        (A
+          (A
+            (A
+              (A ing)
+              (V (A (A to) (V do)) (V (A a) (V quickpick))))
+            (V on))
+          (V (A (A that) (V one)) (V but)))
+        (V then))))
+  (N i)) (p=7.61535e-47)
+; PARSE_ERROR: no you supposed to put them on your face here
+(N
+  (V (V see) (A (A (A him) (V walk)) (V (V on) (A the))))
+  (N table)) (p=1.72919e-20)
+(N
+  (N it)
+  (V
+    (V roll)
+    (A
+      (A (A (A ed) (V right)) (V on))
+      (V (A (A my) (V plate)) (V mom))))) (p=2.89525e-30)
+(N
+  (N do)
+  (A
+    (A (A (A you) (V go)) (V on))
+    (V
+      (A (A the) (V swing))
+      (V
+        (A (A (A s) (V when)) (V (A you) (V go)))
+        (V (A to) (V (A the) (V park))))))) (p=1.77587e-38)
+(N (N on) (A (A an) (V airplane))) (p=5.94567e-13)
+(N
+  (V
+    (A who)
+    (V (A (A 's) (V step)) (V (V (A ing) (V on)) (A the))))
+  (N mat)) (p=1.41543e-25)
+(N (N (N you) (V bounce)) (V (V on) (A (A the) (V couch)))) (p=4.3213e-18)
+(N
+  (N you)
+  (V
+    (V have)
+    (A
+      (A (A to) (V teach))
+      (V
+        (A him)
+        (V
+          (A (A (A to) (V go)) (V on))
+          (V (A your) (V finger))))))) (p=2.29322e-32)
+(N
+  (N you)
+  (A
+    (A color)
+    (V (A (A ed) (V on)) (V (A your) (V picture))))) (p=6.9698e-20)
+(N
+  (V
+    (V (V do) (A (A (A n't) (V scribble)) (V on)))
+    (A your))
+  (N (N book) (A s))) (p=1.90051e-23)
+(N
+  (N what)
+  (A
+    (A
+      (A 's)
+      (V (A (A (A the) (V number)) (V on)) (V greenwich)))
+    (V park))) (p=2.04441e-26)
+(N
+  (N (V upside) (N down))
+  (V (V on) (A (A the) (V floor)))) (p=3.23905e-20)
+(N
+  (V
+    (A you)
+    (V
+      (A (A can) (V put))
+      (V
+        (A
+          (A (A (A it) (V on)) (V (A the) (V floor)))
+          (V somewhere))
+        (V (A or) (V (V on) (A the))))))
+  (N table)) (p=5.56236e-39)
+(N (N on) (A (A the) (V farm))) (p=1.6855e-11)
+(N
+  (N maybe)
+  (A
+    (A (A she) (V (A 's) (V (A only) (V on))))
+    (V (A the) (V cover)))) (p=1.83432e-24)
+(N
+  (N well)
+  (V
+    (V if)
+    (A
+      (A
+        (A (A (A i) (V keep)) (V (A butter) (V on)))
+        (V (A the) (V shelf)))
+      (V
+        (A it)
+        (V (V (A will) (V (V melt) (A will))) (A it)))))) (p=4.75239e-48)
+(N
+  (N shall)
+  (A
+    (A (A we) (V clear))
+    (V
+      (V
+        (A (A (A a) (V space)) (V on))
+        (V (A the) (V floor)))
+      (A here)))) (p=2.73624e-33)
+(N
+  (N did)
+  (A
+    (A (A (A the) (V lady)) (V talk))
+    (V (A (A to) (V (A you) (V on))) (V (A the) (V phone))))) (p=2.13986e-28)
+(N
+  (V (V (V do) (A (A (A n't) (V write)) (V on))) (A my))
+  (N tablet)) (p=2.36798e-23)
+(N
+  (N because)
+  (A
+    (A
+      (A (A you) (V want))
+      (V
+        (A ed)
+        (V (A me) (V (A (A to) (V put)) (V (A it) (V on))))))
+    (V (A your) (V finger)))) (p=2.82695e-34)
+(N
+  (N that)
+  (A
+    (A 's)
+    (V
+      (A (A (A a) (V towel)) (V on))
+      (V (A your) (V head))))) (p=6.32457e-23)
+(N
+  (N oh)
+  (V
+    (V is)
+    (A
+      (A (A there) (V (A (A a) (V difference)) (V in)))
+      (V (V (V jesus) (A and)) (A god))))) (p=7.77231e-34)
+(N
+  (N can)
+  (A
+    (A (A you) (V see))
+    (V (A (A it) (V in)) (V (A the) (V mirror))))) (p=1.58557e-21)
+(N
+  (N let)
+  (A
+    (A (A 's) (V see))
+    (V
+      (A (A what) (V (A we) (V got)))
+      (V (V (V in) (A this)) (A department))))) (p=8.37497e-31)
+(N
+  (N who)
+  (A
+    (A 's)
+    (V (A this) (V (A (A up) (V in)) (V (A the) (V air)))))) (p=1.47904e-22)
+(N
+  (N should)
+  (A
+    (A
+      (A (A (A they) (V be)) (V in))
+      (V (A the) (V middle)))
+    (V
+      (A (A of) (V (A (A the) (V road)) (V (A or) (V on))))
+      (V
+        (A (A the) (V side))
+        (V (A of) (V (A the) (V road))))))) (p=1.2921e-54)
+(N (N get) (A (A (A s) (V in)) (V (A his) (V car)))) (p=2.79277e-17)
+(N
+  (N (N (V (A the) (V night)) (N he)) (V was))
+  (V
+    (V make)
+    (A (A ing) (V (A (A ham) (V in)) (V (A the) (V oven)))))) (p=4.48754e-36)
+(N (N in) (A (A my) (V closet))) (p=4.70168e-13)
+(N
+  (N are)
+  (A (A (A we) (V in)) (V (V (A the) (V baby)) (A s)))) (p=6.26646e-18)
+(N (N (V in) (N what)) (V room)) (p=7.56646e-11)
+(N
+  (N there)
+  (V
+    (V now)
+    (A
+      (A (A (A everyone) (V is)) (V sleep))
+      (V
+        (A
+          (A (A ing) (V (A quietly) (V in)))
+          (V (A the) (V doll)))
+        (V house))))) (p=5.80713e-40)
+(N
+  (N how)
+  (V
+    (V come)
+    (A
+      (A (A these) (V (A you) (V have)))
+      (V
+        (A n't)
+        (V
+          (A (A even) (V try))
+          (V
+            (A ed)
+            (V
+              (A (A (A to) (V put)) (V in))
+              (V (A your) (V mouth))))))))) (p=5.14926e-46)
+(N
+  (N well)
+  (V
+    (V eat)
+    (A
+      (A
+        (A
+          (A (A your) (V meat))
+          (V
+            (A (A honey) (V (A you) (V have)))
+            (V
+              (A (A n't) (V dip))
+              (V (A ed) (V (A it) (V in))))))
+        (V (A your) (V steak)))
+      (N sauce)))) (p=4.43343e-57)
+(N
+  (N who)
+  (A
+    (A (A (A 's) (V (A the) (V little))) (V baby))
+    (V
+      (A (A (A here) (V in)) (V (A a) (V carriage)))
+      (V see)))) (p=4.39925e-32)
+(N (N ok) (V (V in) (A (A (A a) (V little)) (V while)))) (p=2.42075e-17)
+(N (N in) (A (A your) (V drawer))) (p=2.05413e-12)
+(N
+  (N no)
+  (A
+    (A (A there) (V is))
+    (V
+      (A (A (A no) (V adam)) (V in))
+      (V (A the) (V bathtub))))) (p=1.41485e-27)
+(N
+  (N why)
+  (V
+    (V do)
+    (A
+      (A (A you) (V want))
+      (V
+        (A (A to) (V put))
+        (V (A (A it) (V in)) (V (A your) (V mouth))))))) (p=3.28585e-30)
+(N
+  (N you)
+  (A
+    (A (A 're) (V go))
+    (V
+      (A ing)
+      (V
+        (A (A to) (V end))
+        (V
+          (A
+            (A (A up) (V in))
+            (V
+              (A (A (A that) (V bed)) (V with))
+              (V (A a) (V good))))
+          (V spanking)))))) (p=1.50733e-45)
+(N (N in) (A (A the) (V bedroom))) (p=8.02132e-12)
+(N (N arise) (V (V in) (A me))) (p=1.35689e-13)
+(N
+  (N you)
+  (V
+    (V have)
+    (A
+      (A (A (A (A to) (V go)) (V out)) (V in))
+      (V
+        (V
+          (V (A (A the) (V yard)) (V (A and) (V get)))
+          (A dirty))
+        (A first))))) (p=1.60939e-39)
+(N
+  (N that)
+  (V
+    (V look)
+    (A
+      (A
+        (A (A (A s) (V like)) (V (A a) (V forest)))
+        (V with))
+      (V (V (A (A a) (V tree)) (V in)) (A it))))) (p=2.18715e-35)
+(N
+  (N do)
+  (A
+    (A (A n't) (V put))
+    (V (V (A (A it) (V in)) (V (A your) (V hair))) (A boo)))) (p=3.55522e-27)
+(N
+  (N
+    (V (V did) (A (A (A you) (V go)) (V (V in) (A the))))
+    (N water))
+  (V (V with) (A (A your) (V feet)))) (p=3.65755e-28)
+(N (V in) (N where)) (p=3.45555e-07)
+(N
+  (N we)
+  (A
+    (A (A 'll) (V put))
+    (V
+      (A (A (A the) (V string)) (V in))
+      (V (A the) (V garbage))))) (p=1.58317e-27)
+(N
+  (N they)
+  (A
+    (A (A 're) (V (A both) (V in)))
+    (V (A (A the) (V same)) (V block)))) (p=3.55335e-25)
+(N
+  (N lull)
+  (A
+    (A (A (A s) (V in)) (V (A the) (V conversation)))
+    (V
+      (V (A (A their) (V action)) (V (A s) (V speak)))
+      (A too)))) (p=1.04239e-42)
+(N
+  (N (N (V (V in) (A (A my) (V pocket))) (N and)) (V go))
+  (V (V for) (A (A a) (V ride)))) (p=2.2681e-28)
+(N
+  (N oh)
+  (V
+    (V adam)
+    (A
+      (A
+        (A
+          (A
+            (A
+              (A you)
+              (V (A (A 've) (V had)) (V (A a) (V horse))))
+            (V in))
+          (V (A the) (V armored)))
+        (V car))
+      (V truck)))) (p=3.35374e-44)
+(N
+  (N are)
+  (A
+    (A (A (A there) (V people)) (V in))
+    (V (A the) (V bus)))) (p=8.08605e-21)
+(N
+  (N and)
+  (A
+    (A (A we) (V pretend))
+    (V
+      (A ed)
+      (V
+        (V
+          (A (A that) (V (A (A we) (V were)) (V have)))
+          (V
+            (A (A ing) (V (A breakfast) (V in)))
+            (V
+              (A (A (A the) (V cafeteria)) (V at))
+              (V school))))
+        (A huh))))) (p=5.76718e-57)
+(N
+  (N well)
+  (A
+    (A (A i) (V have))
+    (V (V (A (A it) (V in)) (V middlesex)) (A county)))) (p=4.13381e-31)
+(N
+  (N oh)
+  (A (A (A who) (V (A 's) (V in))) (V (A the) (V house)))) (p=1.56112e-18)
+(N
+  (N you)
+  (V
+    (V put)
+    (A
+      (A (A (A the) (V tiger)) (V in))
+      (V (A the) (V (A living) (V room)))))) (p=1.92124e-27)
+(N
+  (N (V (V (V let) (A (A 's) (V put))) (A the)) (N book))
+  (A (A (A s) (V in)) (V (A the) (V basket)))) (p=4.45544e-28)
+(N
+  (N (V (A there) (V (A (A 's) (V not)) (V one))) (N soul))
+  (V (V in) (A (A the) (V neighborhood)))) (p=1.17542e-31)
+(N
+  (N and)
+  (A
+    (A (A who) (V (A 's) (V sit)))
+    (V (A (A ing) (V in)) (V (A the) (V train))))) (p=2.08872e-25)
+(N (N (A a) (N mouse)) (V (V in) (A (A my) (V hair)))) (p=1.0931e-17)
+(N
+  (N what)
+  (A (A 's) (V (A (A up) (V in)) (V (A the) (V sky))))) (p=9.15904e-19)
+(N
+  (N
+    (V
+      (V
+        (V think)
+        (A (A (A you) (V have)) (V (A to) (V push))))
+      (A the))
+    (N dog))
+  (V (V (V in) (A some)) (A more))) (p=2.98914e-32)
+(N (N do) (A (A (A you) (V ride)) (V (V in) (A it)))) (p=1.62526e-15)
+(N
+  (N what)
+  (V
+    (V is)
+    (A
+      (A (A he) (V push))
+      (V (A (A ing) (V in)) (V (A the) (V ground)))))) (p=2.35746e-25)
+(N
+  (N you)
+  (V
+    (V go)
+    (A
+      (A ing)
+      (V
+        (V
+          (A (A to) (V give))
+          (V
+            (A the)
+            (V
+              (A (A snoopy) (V in))
+              (V
+                (A (A the) (V picture))
+                (V (A something) (V (A to) (V drink)))))))
+        (A too))))) (p=7.78607e-44)
+(N
+  (N what)
+  (V
+    (V is)
+    (A
+      (A (A (A the) (V horsie)) (V do))
+      (V (A (A ing) (V in)) (V (A that) (V house)))))) (p=1.52805e-26)
+(N
+  (N let)
+  (A
+    (A (A 's) (V put))
+    (V (A (A it) (V in)) (V (A the) (V paper))))) (p=2.3265e-21)
+(N (N he) (A (A (A 's) (V in)) (V (A the) (V pot)))) (p=4.74081e-16)
+(N
+  (N i)
+  (V
+    (V know)
+    (A
+      (A (A (A (A you) (V ate)) (V in)) (V rachel))
+      (V (A 's) (V house))))) (p=2.34862e-27)
+(N
+  (N (N you) (V got))
+  (V
+    (V all)
+    (A
+      (A (A (A the) (V farm)) (V animal))
+      (V (A (A s) (V in)) (V (A your) (V shirt)))))) (p=1.84365e-33)
+(N
+  (N she)
+  (V
+    (V does)
+    (A (A (A (A n't) (V go)) (V in)) (V (A the) (V crib))))) (p=1.76438e-22)
+(N
+  (V
+    (V is)
+    (A
+      (A (A it) (V time))
+      (V
+        (V (A (A (A to) (V go)) (V peepee)) (V in))
+        (A the))))
+  (N potty)) (p=8.32134e-32)
+(N
+  (N (V (V put) (A (A them) (V (V in) (A your)))) (N toy))
+  (V box)) (p=9.81108e-21)
+(N (N in) (A (A the) (V sand))) (p=2.01958e-11)
+(N
+  (N do)
+  (A
+    (A (A you) (V want))
+    (V
+      (V
+        (A (A to) (V put))
+        (V
+          (A the)
+          (V
+            (A
+              (A
+                (A (A q) (V tip))
+                (V (A (A s) (V back)) (V in)))
+              (V (A the) (V diaper)))
+            (V bag))))
+      (A too)))) (p=7.92193e-52)
+(N
+  (N what)
+  (V
+    (V did)
+    (A (A (A (A (A we) (V see)) (V at)) (V night)) (V in)))) (p=9.9574e-23)
+(N
+  (N (N i) (V saw))
+  (V
+    (V
+      (V sailboat)
+      (A (A (A s) (V (A yesterday) (V in))) (V san)))
+    (A francisco))) (p=5.98434e-33)
+(N
+  (N can)
+  (A
+    (A (A you) (V put))
+    (V
+      (A (A (A (A the) (V little)) (V box)) (V in))
+      (V (A the) (V (A big) (V box)))))) (p=1.09049e-31)
+(N
+  (N just)
+  (V
+    (V put)
+    (A
+      (A (A (A (A that) (V one)) (V in)) (V in))
+      (V (A (A the) (V right)) (V place))))) (p=2.55693e-29)
+(N
+  (N no)
+  (A
+    (A there)
+    (V
+      (A (A 're) (V (A no) (V (A more) (V animal))))
+      (V (A s) (V (V in) (A there)))))) (p=4.46888e-30)
+(N
+  (N
+    (V (V (A (A you) (V get)) (V in)) (A your))
+    (N highchair))
+  (A
+    (A and)
+    (V
+      (V
+        (A i)
+        (V (A (A 'll) (V wash)) (V (A your) (V hand))))
+      (A s)))) (p=2.31354e-40)
+(N
+  (N you)
+  (V
+    (V want)
+    (A
+      (A
+        (A (A to) (V stick))
+        (V
+          (A (A (A your) (V finger)) (V in))
+          (V (A that) (V little))))
+      (V hole)))) (p=2.01977e-33)
+(N
+  (N (A nina) (N let))
+  (A
+    (A (A 's) (V put))
+    (V
+      (A (A the) (V letter))
+      (V
+        (A (A s) (V in))
+        (V (A here) (V (A you) (V (V want) (A to)))))))) (p=8.21123e-38)
+(N (N in) (A (A (A a) (V few)) (V (V minute) (A s)))) (p=5.81395e-18)
+(N
+  (N in)
+  (A
+    (A
+      (A (A (A the) (V summer)) (V when))
+      (V (A we) (V go)))
+    (V (A to) (V (A the) (V beach))))) (p=9.39905e-30)
+(N
+  (V
+    (V did)
+    (A
+      (A (A you) (V (A ever) (V go)))
+      (V (A (A to) (V centerville)) (V in))))
+  (N toronto)) (p=3.91552e-34)
+(N
+  (N
+    (V
+      (A (A it) (V look))
+      (V
+        (A
+          (A (A s) (V wonderful))
+          (V (A you) (V (A (A 're) (V so)) (V radiant))))
+        (V (A just) (V like))))
+    (N what))
+  (A
+    (A 's)
+    (V
+      (A (A the) (V name))
+      (V
+        (A of)
+        (V
+          (A (A (A (A that) (V pig)) (V in)) (V charlotte))
+          (V (A 's) (V web))))))) (p=1.9924e-77)
+(N
+  (N too)
+  (V
+    (V hot)
+    (A
+      (A (A (A to) (V eat)) (V in))
+      (V (A the) (V kitchen))))) (p=5.87953e-25)
+(N (N (V in) (N what)) (V restaurant)) (p=7.38928e-12)
+(N (N (V in) (N what)) (V room)) (p=7.56646e-11)
+(N (N no) (V (V in) (A (A two) (V (V week) (A s))))) (p=4.74145e-17)
+(N
+  (N there)
+  (V
+    (V dehydrate)
+    (A
+      (A (A ed) (V potato))
+      (V (A s) (V (V in) (A there)))))) (p=2.78226e-26)
+(N
+  (V
+    (V
+      (A (A it) (V fly))
+      (V
+        (A
+          (A s)
+          (V
+            (A up)
+            (V (A (A and) (V then)) (V (A it) (V land)))))
+        (V (A s) (V in))))
+    (A the))
+  (N water)) (p=1.7142e-39)
+(N
+  (N she)
+  (A
+    (A
+      (A
+        (A (A 's) (V hold))
+        (V (A (A ing) (V (A the) (V broom))) (V in)))
+      (V (A her) (V hand)))
+    (V (V (V is) (A n't)) (A she)))) (p=5.33618e-39)
+(N
+  (N the)
+  (A
+    (A
+      (A
+        (A
+          (A (A snort) (V put))
+          (V
+            (A
+              (A (A (A that) (V baby)) (V bird))
+              (V right))
+            (V back)))
+        (V in))
+      (V (A the) (V tree)))
+    (V (A (A the) (V baby)) (V bird)))) (p=2.54108e-49)
+(N
+  (N who)
+  (A
+    (A (A 's) (V go))
+    (V
+      (A ing)
+      (V
+        (A
+          (A (A (A to) (V be)) (V take))
+          (V (A (A ing) (V sarah)) (V when)))
+        (V
+          (A she)
+          (V
+            (A (A (A 's) (V in)) (V (A the) (V um)))
+            (V um))))))) (p=1.67949e-51)
+(N
+  (N you)
+  (A
+    (A (A 'll) (V fall))
+    (V
+      (A and)
+      (V
+        (A (A (A you) (V (A 'll) (V be))) (V in))
+        (V trouble))))) (p=2.35098e-30)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V go))
+    (V
+      (A (A ing) (V in))
+      (V (A (A the) (V other)) (V room))))) (p=1.03915e-24)
+(N
+  (N is)
+  (A
+    (A (A he) (V play))
+    (V (A (A ing) (V in)) (V (A the) (V yard))))) (p=5.05855e-22)
+(N
+  (N there)
+  (V
+    (V
+      (V are)
+      (A
+        (A some)
+        (V (A (A tiny) (V car)) (V (A s) (V in)))))
+    (A here))) (p=1.92046e-27)
+(N
+  (V
+    (V behind)
+    (A
+      (A (A the) (V scene))
+      (V (A s) (V (A today) (V in)))))
+  (N america)) (p=1.12324e-30)
+(N (N in) (A (A a) (V while))) (p=3.76294e-11)
+(N (V (A who) (V (A 's) (V in))) (N florida)) (p=1.47969e-16)
+(N (N (N she) (V in)) (V school)) (p=1.09051e-10)
+(N
+  (N but)
+  (V
+    (V did)
+    (A
+      (A (A (A nina) (V go)) (V in))
+      (V (A the) (V airplane))))) (p=1.24295e-23)
+(N
+  (N these)
+  (V
+    (V guy)
+    (A
+      (A (A s) (V have))
+      (V
+        (V (A (A (A to) (V be)) (V in)) (V bed))
+        (A early))))) (p=3.09316e-32)
+(N
+  (N should)
+  (A (A (A i) (V cut)) (V (A (A it) (V in)) (V half)))) (p=2.07874e-22)
+(N
+  (N you)
+  (V
+    (V go)
+    (A
+      (A (A ing) (V (A (A to) (V sit)) (V in)))
+      (V (A that) (V basket))))) (p=2.28662e-24)
+(N (N (N you) (V went)) (V (V in) (A (A a) (V car)))) (p=4.22097e-16)
+(N
+  (N why)
+  (A
+    (A should)
+    (V (A (A (A he) (V cry)) (V in)) (V school)))) (p=1.55139e-22)
+(N (N (V strap) (N you)) (V in)) (p=1.94878e-12)
+(N
+  (N what)
+  (A (A 's) (V (A (A up) (V in)) (V (A the) (V sky))))) (p=9.15904e-19)
+(N (V (V out) (A (A there) (V in))) (N mattapan)) (p=5.08199e-19)
+(N
+  (V (V if) (A (A (A you) (V open)) (V (A it) (V again))))
+  (N
+    (N you)
+    (A
+      (A (A 're) (V go))
+      (V (A (A ing) (V in)) (V (A your) (V room)))))) (p=1.3095e-38)
+(N
+  (N you)
+  (A (A (A (A 're) (V in)) (V sarah)) (V (A 's) (V bed)))) (p=1.27136e-19)
+(N
+  (N the)
+  (V
+    (V horsie)
+    (A (A (A 's) (V in)) (V (A your) (V shirt))))) (p=4.74182e-21)
+(N
+  (N and)
+  (A
+    (A what)
+    (V
+      (A (A (A else) (V are)) (V (A you) (V go)))
+      (V
+        (V
+          (V
+            (A (A ing) (V (A (A to) (V do)) (V in)))
+            (V san))
+          (A francisco))
+        (A today))))) (p=3.31545e-43)
+(N
+  (N because)
+  (A
+    (A
+      (A
+        (A (A he) (V put))
+        (V
+          (A (A (A his) (V paw)) (V in))
+          (V (A the) (V beehive))))
+      (V (A (A and) (V all)) (V (A the) (V bee))))
+    (V (A (A s) (V came)) (V out)))) (p=7.21742e-55)
+(N
+  (N do)
+  (A
+    (A (A you) (V want))
+    (V
+      (A (A to) (V put))
+      (V
+        (A (A (A the) (V crib)) (V in))
+        (V (A (A the) (V doll)) (V house)))))) (p=1.60312e-34)
+(N
+  (N (V (A any) (V more)) (N milk))
+  (V (V in) (A (A the) (V glass)))) (p=4.84107e-22)
+(N
+  (N you)
+  (V
+    (V do)
+    (A
+      (A (A n't) (V have))
+      (V (A (A it) (V in)) (V (A the) (V container)))))) (p=4.44744e-25)
+(N
+  (N it)
+  (A (A (A 's) (V in)) (V (A (A the) (V dining)) (V room)))) (p=4.83946e-21)
+(N
+  (N i)
+  (V
+    (V do)
+    (A
+      (A (A (A n't) (V see)) (V (A them) (V in)))
+      (V (A the) (V box))))) (p=2.99024e-24)
+(N
+  (N you)
+  (A
+    (A (A 're) (V wear))
+    (V
+      (A ing)
+      (V
+        (A a)
+        (V
+          (A very)
+          (V
+            (A (A (A pretty) (V dress)) (V in))
+            (V (A that) (V picture)))))))) (p=9.84431e-37)
+(N
+  (N (V (V tell) (A me)) (N who))
+  (A (A (A 's) (V in)) (V (A that) (V family)))) (p=1.0636e-24)
+(N
+  (N (V (V in) (A (A the) (V car))) (N what))
+  (V
+    (V happen)
+    (A
+      (A
+        (A ed)
+        (V (A (A to) (V (A the) (V balloon))) (V in)))
+      (V (A the) (V car))))) (p=1.23863e-37)
+(N
+  (N yeah)
+  (A
+    (A
+      (A
+        (A that)
+        (V
+          (A (A (A 's) (V (A a) (V good))) (V boy))
+          (V but)))
+      (V (A you) (V ca)))
+    (V
+      (A (A n't) (V keep))
+      (V (A (A it) (V in)) (V (A your) (V mouth)))))) (p=4.68385e-48)
+(N (N let) (A (A (A 's) (V look)) (V (V in) (A here)))) (p=5.40143e-16)
+(N
+  (N i)
+  (A (A (A (A 'm) (V not)) (V in)) (V (A the) (V movie)))) (p=6.43892e-20)
+(N
+  (N did)
+  (A
+    (A (A (A you) (V fall)) (V in))
+    (V (A gail) (V (A 's) (V (A swimming) (V pool)))))) (p=2.1087e-30)
+(N
+  (N oh)
+  (A
+    (A (A (A and) (V left)) (V (A the) (V boy)))
+    (V
+      (A (A (A (A s) (V in)) (V (A the) (V room))) (V in))
+      (V (A a) (V circle))))) (p=3.05797e-38)
+(N
+  (N i)
+  (V
+    (V had)
+    (A
+      (A (A (A my) (V hair)) (V in))
+      (V
+        (A
+          (A (A (A a) (V pony)) (V tail))
+          (V (A and) (V (A he) (V ask))))
+        (V (A ed) (V (A what) (V (A it) (V was)))))))) (p=7.45012e-52)
+(N
+  (N (N paul) (V is))
+  (V
+    (V play)
+    (A
+      (A
+        (A (A ing) (V with))
+        (V (A (A the) (V trailer)) (V because)))
+      (V (A (A you) (V had)) (V (A the) (V barn)))))) (p=1.38171e-41)
+(N
+  (N do)
+  (A
+    (A (A you) (V want))
+    (V
+      (A
+        (A
+          (A (A to) (V tell))
+          (V
+            (A (A ursula) (V about))
+            (V (A the) (V museum))))
+        (V (A you) (V went)))
+      (V (A to) (V (A the) (V other)))))) (p=1.75625e-46)
+(N
+  (V
+    (V maybe)
+    (A
+      (A (A ursula) (V brought))
+      (V (A some) (V (A of) (V (A robin) (V 's))))))
+  (N (N book) (A s))) (p=1.71841e-34)
+(N
+  (V
+    (A (A her) (V mother))
+    (V
+      (A (A (A 's) (V got)) (V (A three) (V costume)))
+      (V (A (A s) (V all)) (V bought))))
+  (N (N and) (A everything))) (p=7.19853e-43)
+(N
+  (N and)
+  (V
+    (V
+      (V then)
+      (A
+        (A (A (A you) (V let)) (V (A it) (V go)))
+        (V like)))
+    (A that))) (p=7.28647e-25)
+(N (N oh) (A (A no) (V (V (A she) (V did)) (A n't)))) (p=1.69535e-16)
+(N
+  (N (N (N david) (V went)) (V in))
+  (V (V tom) (A (A 's) (V (V truck) (A too))))) (p=8.40005e-29)
+(N (N (N they) (A 're)) (A done)) (p=1.7187e-11)
+(N
+  (N uncle)
+  (A
+    (A (A (A george) (V put)) (V (A you) (V on)))
+    (V (A the) (V horsie)))) (p=9.6687e-26)
+(N (N he) (V did)) (p=7.10431e-07)
+(N
+  (N (V (A joan) (V and)) (N i))
+  (V (V went) (A (A (A the) (V same)) (V time)))) (p=2.49141e-28)
+(N
+  (N i)
+  (V
+    (V thought)
+    (A
+      (A (A you) (V want))
+      (V (V (A ed) (V (A to) (V get))) (A some))))) (p=4.09854e-25)
+(N
+  (V (V has) (A the))
+  (N (N bear) (V (V got) (A (A a) (V tail))))) (p=9.89042e-23)
+(N
+  (N yes)
+  (A
+    (A
+      (A
+        (A
+          (A (A (A you) (V do)) (V yes))
+          (V (A you) (V do)))
+        (V because))
+      (V (A you) (V said)))
+    (V
+      (A (A (A you) (V had)) (V (A a) (V prize)))
+      (V (V for) (A me))))) (p=5.09e-49)
+(N
+  (N he)
+  (A
+    (A (A (A must) (V have)) (V said))
+    (V (V (A we) (V (V (A 're) (V go)) (A ing))) (A poor)))) (p=5.69487e-31)
+(N
+  (N op)
+  (A
+    (A
+      (A you)
+      (V (A (A 've) (V found)) (V (A your) (V best))))
+    (N toy))) (p=7.3397e-30)
+(N (N you) (V (V got) (A (A that) (V one)))) (p=1.48428e-12)
+(N
+  (N (N (N (N she) (V brought)) (V one)) (V balloon))
+  (V
+    (V
+      (V for)
+      (A
+        (A
+          (A you)
+          (V (A (A and) (V (A you) (V were))) (V dance)))
+        (V (A ing) (V with))))
+    (A it))) (p=1.02513e-43)
+(N (N you) (V (V won) (A (A a) (V birdie)))) (p=5.81792e-16)
+(N
+  (N did)
+  (A
+    (A (A you) (V tell))
+    (V
+      (A
+        (A (A ursula) (V (A we) (V saw)))
+        (V (A a) (V train)))
+      (V (A this) (V morning))))) (p=8.43982e-36)
+(N (N he) (V (V gave) (A (A me) (V (A a) (V block))))) (p=4.86462e-18)
+(N (N i) (V (V (V got) (A (A chu) (V right))) (A here))) (p=1.18406e-19)
+(N
+  (N remember)
+  (A (A (A you) (V had)) (V (A an) (V (V ice) (A cream))))) (p=3.55279e-24)
+(N (N oh) (A (A (A i) (V said)) (V (A the) (V name)))) (p=2.3793e-16)
+(N
+  (N we)
+  (V
+    (V went)
+    (A
+      (A (A (A to) (V (A the) (V pool))) (V with))
+      (V (A (A him) (V on)) (V friday))))) (p=5.00137e-32)
+(N
+  (N what)
+  (V
+    (V were)
+    (A
+      (A (A you) (V watch))
+      (V
+        (A
+          (A (A (A ing) (V when)) (V (A i) (V came)))
+          (V (A to) (V pick)))
+        (V (A (A you) (V (A up) (V at))) (V school)))))) (p=4.28527e-46)
+(N
+  (N yeah)
+  (A
+    (A
+      (A (A (A and) (V (A you) (V said))) (V trick))
+      (V (A or) (V treat)))
+    (V (V (V did) (A n't)) (A you)))) (p=9.47904e-36)
+(N
+  (N yes)
+  (A
+    (A (A sir) (V (A and) (V (A you) (V brought))))
+    (V (A something) (V home)))) (p=6.28227e-28)
+(N (N (N he) (A fell)) (A down)) (p=4.8019e-12)
+(N
+  (N how)
+  (A
+    (A (A many) (V head))
+    (V (A (A s) (V have)) (V (A you) (V got))))) (p=4.14584e-23)
+(N
+  (N (N (N you) (V got)) (V sand))
+  (V (V in) (A (A your) (V diaper)))) (p=1.80428e-21)
+(N
+  (N who)
+  (V
+    (V gave)
+    (A
+      (A (A (A you) (V such)) (V funny))
+      (V (V idea) (A s))))) (p=2.08926e-26)
+(N got) (p=4.16422e-05)
+(N
+  (N i)
+  (V
+    (V knew)
+    (A
+      (A
+        (A (A (A (A she) (V 'd)) (V come)) (V in))
+        (V handy))
+      (V (A some) (V day))))) (p=2.02889e-35)
+(N
+  (N (N i) (V think))
+  (V (V nonno) (A (A (A just) (V got)) (V back)))) (p=1.20631e-22)
+(N (V (V (A (A we) (V went)) (V out)) (A to)) (N what)) (p=8.43713e-17)
+(N (N he) (V did)) (p=7.10431e-07)
+(N
+  (N no)
+  (A
+    (A (A i) (V said))
+    (V
+      (A wide)
+      (V
+        (A (A enough) (V but))
+        (V
+          (A big)
+          (V (A (A enough) (V is)) (V (A the) (V same)))))))) (p=5.27887e-42)
+(N (N you) (A (A (A 've) (V had)) (V (A your) (V fun)))) (p=1.55612e-18)
+(N (V (V got) (A (A ta) (V chew))) (N that)) (p=2.98382e-16)
+(N
+  (N i)
+  (V
+    (V have)
+    (A
+      (A (A n't) (V seen))
+      (V
+        (A (A it) (V for))
+        (V (A a) (V (A long) (V time))))))) (p=7.30259e-30)
+(N (V (V is) (A the)) (N (N milk) (A (A all) (V gone)))) (p=1.88441e-17)
+(N
+  (V
+    (A (A i) (V ate))
+    (V
+      (A (A (A a) (V couple)) (V (A of) (V bite)))
+      (V (A s) (V (A of) (V clam)))))
+  (N
+    (N chowder)
+    (V (V all) (A (A of) (V (A my) (V corn)))))) (p=2.34234e-55)
+(N
+  (V (V (V (A it) (V (A fell) (V out))) (A of)) (A the))
+  (N jeep)) (p=1.24048e-22)
+(N
+  (N i)
+  (V
+    (V do)
+    (A
+      (A
+        (A (A n't) (V think))
+        (V (A (A brad) (V seen)) (V all)))
+      (V (A that) (V (V did) (A you)))))) (p=7.88647e-34)
+(N
+  (N (V so) (N what))
+  (V
+    (V happen)
+    (A
+      (A
+        (A
+          (A (A ed) (V when))
+          (V
+            (A (A we) (V went))
+            (V (A to) (V (A the) (V park)))))
+        (V (A what) (V did)))
+      (V (A you) (V do))))) (p=2.24498e-45)
+(N
+  (N (V (V made) (A (A all) (V (A the) (V time)))) (N we))
+  (V (V (V need) (A ed)) (A huh))) (p=1.28676e-29)
+(N (N you) (V (V made) (A (A a) (V mess)))) (p=2.21412e-14)
+(N
+  (N you)
+  (V
+    (V got)
+    (A
+      (A a)
+      (V
+        (A (A red) (V ribbon))
+        (V
+          (A and)
+          (V
+            (A (A i) (V got))
+            (V (A (A a) (V pink)) (V ribbon)))))))) (p=5.96337e-40)
+(N
+  (N you)
+  (V
+    (V put)
+    (A
+      (A (A (A it) (V in)) (V front))
+      (V (V (A of) (V (A her) (V eye))) (A s))))) (p=5.62836e-29)
+(N (N you) (A (A almost) (V (V lost) (A him)))) (p=4.5712e-16)
+(N
+  (N (V (V tell) (A melissa)) (N what))
+  (A (A you) (V (V did) (A yesterday)))) (p=1.97762e-22)
+(N (N got) (A it)) (p=9.79556e-08)
+(N (N you) (V (V made) (A it))) (p=5.92377e-10)
+(N (N (N you) (V had)) (V ketchup)) (p=3.11444e-12)
+(N (N that) (V (V sure) (A (A became) (V full)))) (p=5.08705e-19)
+(N
+  (N come)
+  (V
+    (V on)
+    (A
+      (A
+        (A
+          (A (A two) (V (A more) (V bite)))
+          (V (A (A s) (V (A i) (V said))) (V come)))
+        (V on))
+      (V (V move) (A it))))) (p=1.52845e-41)
+(N
+  (N i)
+  (V
+    (V gave)
+    (A (A (A you) (V (A a) (V little))) (V kiss)))) (p=3.14391e-20)
+(N (N he) (V (V said) (A (A no) (V yes)))) (p=5.0931e-16)
+(N (N he) (A (A (A 's) (V gone)) (V away))) (p=9.0585e-15)
+(N
+  (V (V (V (A who) (V gave)) (A you)) (A your))
+  (N locomotive)) (p=1.04176e-20)
+(N (N (N what) (V came)) (V off)) (p=3.2155e-11)
+(N (N (V see) (N where)) (A (A you) (V (V broke) (A it)))) (p=2.96382e-17)
+(N (N all) (A done)) (p=5.42399e-09)
+(N (N she) (A (A kept) (V (V say) (A ing)))) (p=6.18884e-15)
+(N
+  (N no)
+  (A
+    (A (A i) (V think))
+    (V
+      (A
+        (A
+          (A (A (A (A we) (V went)) (V with)) (V rebecca))
+          (V (A and) (V with)))
+        (V rachel))
+      (V (A to) (V (A the) (V zoo)))))) (p=5.16749e-48)
+(N
+  (N you)
+  (V
+    (V had)
+    (A
+      (A
+        (A
+          (A (A (A (A a) (V funny)) (V chin)) (V when))
+          (V (A you) (V were)))
+        (V (A a) (V baby)))
+      (V (V (V did) (A n't)) (A you))))) (p=1.85939e-42)
+(N (N you) (V did)) (p=2.89349e-06)
+(N (N you) (V (V took) (A (A two) (V (V drink) (A s))))) (p=5.32022e-17)
+(N
+  (N (V (V (A auntie) (V taught)) (A jerry)) (N how))
+  (A (A (A (A to) (V go)) (V on)) (V (A your) (V finger)))) (p=4.49183e-36)
+(N
+  (N when)
+  (A
+    (A
+      (A
+        (A
+          (A (A (A he) (V said)) (V (A it) (V was)))
+          (V one))
+        (V hundred))
+      (V twelve))
+    (V (A we) (V said)))) (p=4.9445e-39)
+(N
+  (N no)
+  (A
+    (A (A you) (V put))
+    (V (A (A it) (V in)) (V (A the) (V stove))))) (p=1.82697e-21)
+(N (N you) (V (V did) (A that))) (p=5.56646e-09)
+(N
+  (N my)
+  (A
+    (A (A husband) (V got))
+    (V
+      (A (A (A to) (V be)) (V fanatic))
+      (V (V about) (A it))))) (p=4.52029e-34)
+(N
+  (N i)
+  (V
+    (V have)
+    (A
+      (A
+        (A (A (A n't) (V seen)) (V shadow))
+        (V (A gay) (V in)))
+      (V (A a) (V (A long) (V time)))))) (p=6.94159e-38)
+(N
+  (N oh)
+  (A
+    (A (A (A and) (V left)) (V (A the) (V boy)))
+    (V
+      (A (A (A (A s) (V in)) (V (A the) (V room))) (V in))
+      (V (A a) (V circle))))) (p=3.05797e-38)
+(N (N the) (V (V cover) (A (A fell) (V off)))) (p=5.70812e-17)
+(N
+  (N and)
+  (A
+    (A (A you) (V took))
+    (V (A (A his) (V eye)) (V (A s) (V out))))) (p=9.35232e-24)
+(N
+  (N well)
+  (V
+    (V
+      (V thank)
+      (A
+        (A you)
+        (V (V (V (A you) (V gave)) (A it)) (A to))))
+    (A me))) (p=8.81173e-26)
+(N
+  (N you)
+  (V
+    (V rode)
+    (A
+      (A (A the) (V horse))
+      (V
+        (V
+          (A s)
+          (V
+            (A and)
+            (V
+              (V (V (A the) (V (V car) (A s))) (A and))
+              (A everything))))
+        (A huh))))) (p=2.46338e-40)
+(N
+  (N i)
+  (V
+    (V put)
+    (A
+      (A (A the) (V medicine))
+      (V
+        (V (A (A there) (V because)) (V (A i) (V have)))
+        (A to))))) (p=3.1889e-29)
+(N
+  (N when)
+  (A
+    (A (A we) (V went))
+    (V (A down) (V (A to) (V (A the) (V square)))))) (p=6.15364e-25)
+(N
+  (N (N he) (V sat))
+  (V
+    (V on)
+    (A
+      (A (A the) (V house))
+      (V
+        (V
+          (A and)
+          (V (A (A he) (V broke)) (V (A it) (V all))))
+        (A down))))) (p=2.79792e-38)
+(N
+  (N did)
+  (A
+    (A (A ya) (V tell))
+    (V
+      (A kent)
+      (V
+        (A what)
+        (V
+          (A the)
+          (V (A (A easter) (V bunny)) (V brought))))))) (p=4.09137e-35)
+(N (N you) (V (V got) (A (A (A a) (V little)) (V piano)))) (p=1.44944e-17)
+(N
+  (V
+    (V
+      (A (A you) (V (A 've) (V got)))
+      (V (A a) (V (A new) (V tooth))))
+    (A too))
+  (N yeah)) (p=2.79049e-30)
+(N
+  (N i)
+  (V
+    (V was)
+    (A
+      (A (A (A just) (V bent)) (V over))
+      (V (A and) (V (A (A i) (V said)) (V uh)))))) (p=1.14226e-34)
+(N
+  (N yep)
+  (A
+    (A (A (A i) (V made)) (V (A a) (V lot)))
+    (V (V for) (A you)))) (p=1.28538e-24)
+(N
+  (V
+    (A (A (A (A this) (V little)) (V piggy)) (V had))
+    (V roast))
+  (N beef)) (p=4.07325e-28)
+(N
+  (N (N you) (V gave))
+  (V (V parent) (A (A the) (V ball)))) (p=5.01829e-19)
+(N
+  (N yeah)
+  (V
+    (V santa)
+    (A
+      (A (A claus) (V came))
+      (V
+        (V
+          (A to)
+          (V
+            (A (A your) (V house))
+            (V
+              (A (A (A christmas) (V morning)) (V when))
+              (V (A you) (V were)))))
+        (A asleep))))) (p=2.14881e-49)
+(N (N it) (V went)) (p=1.86453e-07)
+(N (N you) (V (V got) (A (A two) (V (V horsie) (A huh))))) (p=8.96919e-19)
+(N
+  (N
+    (V
+      (V (V did) (A (A you) (V (V show) (A linda))))
+      (A the))
+    (N book))
+  (A
+    (A (A (A that) (V maggie)) (V gave))
+    (V (V (A you) (V for)) (A christmas)))) (p=2.14659e-42)
+(N
+  (N remember)
+  (V
+    (V santa)
+    (A
+      (A
+        (A (A claus) (V gave))
+        (V (A (A them) (V for)) (V all)))
+      (V
+        (A (A the) (V children))
+        (V (A (A to) (V eat)) (V together)))))) (p=2.76129e-45)
+(N (N (V iced) (N (V tea) (N she))) (V said)) (p=6.59585e-20)
+(N (N (V (V is) (A that)) (N what)) (A (A you) (V caught))) (p=8.86159e-17)
+(N (N oh) (A (A it) (V did))) (p=3.89873e-09)
+(N
+  (N
+    (V
+      (A (A (A the) (V people)) (V at))
+      (V (A the) (V factory)))
+    (N who))
+  (V
+    (V made)
+    (A (A (A the) (V car)) (V (V (V paint) (A ed)) (A it))))) (p=2.11647e-43)
+(N
+  (N
+    (N (N (N (N i) (V thought)) (V one)) (V name))
+    (V was))
+  (V
+    (V mona)
+    (A (A you) (V (V (V told) (A me)) (A yesterday))))) (p=1.16582e-40)
+(N
+  (N are)
+  (A
+    (A
+      (A
+        (A (A you) (V drink))
+        (V (A (A ing) (V from)) (V (A the) (V dolly))))
+      (V (A 's) (V cup)))
+    (V now))) (p=1.79105e-32)
+(N
+  (N (N (N what) (V is)) (V on))
+  (V (V doll) (A (A 's) (V foot)))) (p=7.74241e-20)
+(N
+  (N chi)
+  (A
+    (A what)
+    (V
+      (A (A color) (V are))
+      (V (A auntie) (V (A 's) (V (V kitty) (A s))))))) (p=3.126e-29)
+(N (V (A cromer) (V (A 's) (V coffee))) (N yes)) (p=3.74694e-17)
+(N
+  (N becky)
+  (A (A (A 's) (V puzzle)) (V (A (A 's) (V at)) (V home)))) (p=1.90601e-23)
+(N
+  (N did)
+  (A
+    (A
+      (A (A (A you) (V see)) (V (A a) (V picture)))
+      (V at))
+    (V (A barbara) (V (A 's) (V house))))) (p=1.39004e-30)
+(N
+  (N would)
+  (A
+    (A (A you) (V like))
+    (V
+      (V
+        (A (A to) (V take))
+        (V
+          (A (A your) (V doll))
+          (V (A (A to) (V maggie)) (V (A 's) (V house)))))
+      (A today)))) (p=1.45207e-40)
+(N (N where) (A (A 's) (V (A mummy) (V (A 's) (V clock))))) (p=4.88503e-18)
+(N
+  (N (V (A and) (V (A what) (V 's))) (N daddy))
+  (A (A (A 's) (V mumma)) (V (A 's) (V name)))) (p=1.47629e-27)
+(N
+  (N roger)
+  (A
+    (A
+      (A brown)
+      (V
+        (A 's)
+        (V
+          (A (A secretary) (V tell))
+          (V
+            (A
+              (A s)
+              (V
+                (A (A us) (V all))
+                (V
+                  (A
+                    (A we)
+                    (V
+                      (A
+                        (A (A ever) (V seem))
+                        (V (A (A to) (V do)) (V is)))
+                      (V sit)))
+                  (V around))))
+            (V (A and) (V drink))))))
+    (V tea))) (p=5.61256e-76)
+(N
+  (V
+    (V like)
+    (A
+      (A
+        (A barbara)
+        (V
+          (A (A 's) (V car))
+          (V
+            (A that)
+            (V (A (A you) (V ride)) (V (A to) (V school))))))
+      (V in)))
+  (N sometimes)) (p=1.63921e-39)
+(N
+  (V
+    (A what)
+    (V
+      (A (A 's) (V (A it) (V do)))
+      (V (A (A ing) (V in)) (V (A cromer) (V 's)))))
+  (N livingroom)) (p=2.64543e-30)
+(N
+  (N she)
+  (A
+    (A (A (A (A must) (V be)) (V at)) (V maggie))
+    (V (A 's) (V house)))) (p=6.58744e-26)
+(N (N snap) (A (A morgan) (V (A 's) (V shirt)))) (p=2.56027e-18)
+; PARSE_ERROR: i sew ed nina 's clothes with the needle
+(N
+  (N (V (V (A what) (V 's)) (A your)) (N daddy))
+  (A (A 's) (V name))) (p=1.83034e-19)
+(N (N mandy) (A (A (A 's) (V pink)) (V sweatshirt))) (p=1.19807e-19)
+(N
+  (N what)
+  (A
+    (A 's)
+    (V
+      (A (A your) (V bus))
+      (V
+        (A driver)
+        (V
+          (A 's)
+          (V
+            (A what)
+            (V
+              (A 's)
+              (V
+                (A (A your) (V van))
+                (V (A driver) (V (A 's) (V name))))))))))) (p=1.48724e-46)
+(N
+  (N teppy)
+  (V
+    (V is)
+    (A
+      (A (A the) (V kitty))
+      (V (A (A 's) (V name)) (V yeah))))) (p=8.98749e-26)
+(N
+  (V (A (A that) (V (A 's) (V becca))) (V 's))
+  (N (N super) (V car))) (p=3.13091e-24)
+(N (N a) (V (V dolly) (A (A 's) (V leg)))) (p=4.01325e-15)
+(N (V (A that) (V (A 's) (V (A papa) (V 's)))) (N ashtray)) (p=7.25108e-20)
+(N
+  (N (V (V is) (A (A (A it) (V time)) (V for))) (N mommy))
+  (A (A (A 's) (V nap)) (V now))) (p=1.15852e-27)
+(N
+  (N where)
+  (A
+    (A (A 's) (V rachel))
+    (V (A (A 's) (V birthday)) (V present)))) (p=2.70598e-22)
+(N
+  (N is)
+  (A
+    (A that)
+    (V
+      (A (A (A a) (V (A different) (V kind))) (V from))
+      (V (A papa) (V (A 's) (V dinosaur)))))) (p=1.57745e-33)
+(N (N yes) (A (A (A yours) (V (A and) (V sarah))) (V 's))) (p=6.65437e-19)
+(N
+  (N (V (V (A what) (V 's)) (A your)) (N dog))
+  (A (A 's) (V name))) (p=1.90446e-19)
+(N
+  (N
+    (V (V so) (A (A that) (V (A 's) (V (A paul) (V 's)))))
+    (N mommy))
+  (A (A (A 's) (V problem)) (V (V not) (A mine)))) (p=3.42758e-36)
+(N
+  (N that)
+  (A
+    (A 's)
+    (V
+      (A (A pierre) (V (A and) (V maryse)))
+      (V (A 's) (V house))))) (p=4.62402e-26)
+(N
+  (N cream)
+  (V (V on) (A (A (A the) (V dolly)) (V (A 's) (V hair))))) (p=1.06783e-22)
+(N (N my) (V (V uncle) (A (A 's) (V funeral)))) (p=2.38964e-19)
+(N
+  (N no)
+  (A
+    (A (A (A that) (V (A 's) (V not))) (V becky))
+    (V (A 's) (V puzzle)))) (p=1.10081e-24)
+(N
+  (N (V (V do) (A (A n't) (V take))) (N mommy))
+  (A (A 's) (V (V (V glass) (A s)) (A please)))) (p=3.94588e-27)
+(N
+  (N because)
+  (A (A that) (V (A (A 's) (V kenna)) (V 's)))) (p=7.55681e-20)
+(N (N (N or) (V at)) (V (V beth) (A (A 's) (V house)))) (p=2.78716e-20)
+(N (N on) (V (V annie) (A (A 's) (V knee)))) (p=1.29825e-17)
+(N
+  (N what)
+  (A (A 's) (V (A (A the) (V kitty)) (V (A 's) (V name))))) (p=3.90375e-18)
+(N
+  (N you)
+  (A
+    (A (A 're) (V go))
+    (V
+      (A ing)
+      (V
+        (A (A to) (V go))
+        (V
+          (A (A to) (V gram))
+          (V (A 's) (V (A (A and) (V come)) (V back)))))))) (p=5.09477e-38)
+(N
+  (N no)
+  (A
+    (A i)
+    (V
+      (A
+        (A (A 'm) (V go))
+        (V
+          (A (A ing) (V (A to) (V gram)))
+          (V
+            (A (A 's) (V then))
+            (V
+              (A (A i) (V (A 'll) (V go)))
+              (V (A to) (V framingham))))))
+      (V
+        (A (A and) (V then))
+        (V (A (A i) (V (A 'll) (V come))) (V back)))))) (p=1.04878e-68)
+(N
+  (N she)
+  (A (A (A 's) (V eat)) (V (A ing) (V (A emily) (V 's))))) (p=2.33416e-20)
+(N
+  (N
+    (V (V (A who) (V (A 's) (V winnie))) (A the))
+    (N pooh))
+  (A (A 's) (V friend))) (p=6.64241e-28)
+(N
+  (N (V (V (V is) (A that)) (A the)) (N dog))
+  (A (A 's) (V house))) (p=1.85928e-18)
+(N (N dolly) (A (A 's) (V dress))) (p=5.42242e-13)
+(N (N mommy) (A (A (A 's) (V foot)) (V (V 's) (A asleep)))) (p=2.57436e-18)
+(N
+  (N we)
+  (V
+    (V went)
+    (A
+      (A
+        (A (A to) (V cathy))
+        (V (A 's) (V (A and) (V got))))
+      (V
+        (A (A (A your) (V airplane)) (V because))
+        (V (V (A you) (V left)) (A it)))))) (p=7.72044e-46)
+(N
+  (N let)
+  (A
+    (A (A (A 's) (V get)) (V dress))
+    (V
+      (A (A ed) (V (A up) (V for)))
+      (V (A ari) (V (A 's) (V birthday)))))) (p=1.90906e-35)
+(N (N uncle) (A (A ernest) (V (A 's) (V doggie)))) (p=3.95185e-19)
+(N (N the) (V (V boy) (A (A 's) (V turn)))) (p=2.52193e-14)
+(N
+  (N shall)
+  (A
+    (A (A (A we) (V get)) (V dress))
+    (V
+      (A (A ed) (V (A up) (V for)))
+      (V (A (A ari) (V (A 's) (V birthday))) (V party))))) (p=3.92561e-41)
+(N (N is) (A (A (A that) (V max)) (V (A 's) (V nose)))) (p=4.38627e-19)
+(N (N the) (V (V ladybug) (A 's))) (p=4.51661e-12)
+(N
+  (N is)
+  (A
+    (A (A (A it) (V baby)) (V sarah))
+    (V (A (A 's) (V turn)) (V now)))) (p=2.21969e-24)
+(N
+  (N are)
+  (A
+    (A (A you) (V go))
+    (V
+      (A
+        (A ing)
+        (V (A (A to) (V take)) (V (A your) (V dolly))))
+      (V
+        (A s)
+        (V (A (A to) (V nola)) (V (A 's) (V house))))))) (p=9.56323e-41)
+(N
+  (N
+    (N
+      (N
+        (V
+          (A she)
+          (V
+            (A (A 's) (V know))
+            (V (A s) (V (A (A what) (V parent)) (V 's)))))
+        (N pacifier))
+      (V is))
+    (V but))
+  (V (V (V for) (A (A some) (V reason))) (A she))) (p=5.03952e-52)
+(N
+  (N
+    (V
+      (V is)
+      (A
+        (A (A it) (V under))
+        (V
+          (A (A nina) (V (A 's) (V nose)))
+          (V (A or) (V under)))))
+    (N mommy))
+  (A (A 's) (V nose))) (p=4.50425e-40)
+(N
+  (N you)
+  (V
+    (V found)
+    (A
+      (A (A (A that) (V at)) (V rachel))
+      (V (A 's) (V home))))) (p=1.07545e-25)
+(N
+  (N (N (N on) (V television)) (V at))
+  (V
+    (V jill)
+    (A (A (A (A 's) (V house)) (V (A or) (V at))) (V home)))) (p=1.85801e-36)
+(N
+  (N and)
+  (A
+    (A
+      (A grandma)
+      (V (A (A (A 's) (V other)) (V name)) (V is)))
+    (V laura))) (p=1.81698e-27)
+(N
+  (N who)
+  (A (A 's) (V (V (A (A the) (V baby)) (V 's)) (A mommy)))) (p=1.04085e-18)
+(N
+  (V
+    (A that)
+    (V (A 's) (V (A (A the) (V baby)) (V (A 's) (V room)))))
+  (N yeah)) (p=1.75918e-22)
+(N
+  (N oh)
+  (A
+    (A (A (A this) (V is)) (V kangaroo))
+    (V (A 's) (V dress)))) (p=7.49958e-21)
+(N
+  (N (V (V (A what) (V 's)) (A your)) (N dog))
+  (A (A 's) (V name))) (p=1.90446e-19)
+(N (N see) (A (A (A the) (V bird)) (V (A 's) (V tail)))) (p=8.60392e-18)
+(N
+  (N yeah)
+  (V
+    (V when)
+    (A
+      (A (A (A you) (V wake)) (V (A up) (V from)))
+      (V (A (A your) (V night)) (V 's))))) (p=8.1419e-32)
+(N (N (N this) (V is)) (V (V andrew) (A 's))) (p=1.8445e-15)
+(N (N chatty) (V (V baby) (A (A 's) (V brother)))) (p=1.14896e-17)
+(N
+  (N (V (A he) (V (V (V know) (A s)) (A his))) (N mommy))
+  (A (A 's) (V leg))) (p=9.40597e-24)
+(N (N yeah) (A (A robin) (V 's))) (p=3.15281e-11)
+(N
+  (N you)
+  (V
+    (V want)
+    (A
+      (A (A to) (V move))
+      (V
+        (A
+          (A (A (A your) (V bed)) (V (A down) (V into)))
+          (V kean))
+        (V (A 's) (V room)))))) (p=7.46002e-41)
+(N
+  (N what)
+  (A
+    (A 's)
+    (V (A spencer) (V (A 's) (V (V favorite) (A color)))))) (p=9.91293e-22)
+(N (N tie) (A (A (A the) (V boy)) (V (A 's) (V shoe)))) (p=6.61397e-19)
+(N
+  (N get)
+  (A (A (A your) (V dollie)) (V (A 's) (V chair)))) (p=3.49298e-19)
+(N (N (N a) (V little)) (V (V doll) (A (A 's) (V chair)))) (p=2.28885e-18)
+(N
+  (N well)
+  (A
+    (A (A (A you) (V have)) (V girl))
+    (V (V (A 's) (V plate)) (A s)))) (p=1.38592e-22)
+(N
+  (V
+    (V do)
+    (A
+      (A (A you) (V have))
+      (V (A (A (A your) (V little)) (V noah)) (V 's))))
+  (N ark)) (p=2.39519e-29)
+(N (N mommy) (A (A 's) (V button))) (p=1.13143e-10)
+(N
+  (N somebody)
+  (A
+    (A (A 's) (V place))
+    (V (A (A i) (V think)) (V (A it) (V was))))) (p=1.40494e-24)
+(N
+  (N
+    (V (V (A and) (V (A what) (V 's))) (A your))
+    (N mommy))
+  (A (A 's) (V name))) (p=1.58403e-22)
+(N (V (A somebody) (V 's)) (N book)) (p=1.2261e-11)
+(N
+  (V
+    (V did)
+    (A
+      (A (A (A (A you) (V play)) (V with)) (V gilly))
+      (V 's)))
+  (N daddy)) (p=2.22124e-24)
+(N
+  (N that)
+  (A
+    (A (A (A 's) (V sarah)) (V (A 's) (V do)))
+    (V
+      (A (A n't) (V put))
+      (V (A (A it) (V in)) (V (A your) (V mouth)))))) (p=1.65914e-33)
+(N
+  (N did)
+  (A
+    (A
+      (A (A we) (V hit))
+      (V (A timmy) (V (A 's) (V head))))
+    (V (V (A a) (V little)) (A bit)))) (p=1.34576e-33)
+(N
+  (N you)
+  (V
+    (V mean)
+    (A
+      (A (A mrs) (V wood))
+      (V (A 's) (V (A big) (V horsie)))))) (p=1.7287e-27)
+(N
+  (N that)
+  (A (A (A 's) (V rachel)) (V (A 's) (V present)))) (p=7.13647e-18)
+(N
+  (N oh)
+  (A
+    (A (A you) (V mean))
+    (V
+      (A
+        (A
+          (A (A (A (A the) (V helmet)) (V was)) (V on))
+          (V (A the) (V little)))
+        (V girl))
+      (V (A 's) (V head))))) (p=2.65941e-40)
+(N (A s) (N (N nana) (A 's))) (p=6.8511e-12)
+(N
+  (N (A of) (N you))
+  (V (V went) (A (A to) (V (A (A a) (V relative)) (V 's))))) (p=3.78177e-25)
+(N
+  (N are)
+  (A
+    (A (A we) (V go))
+    (V
+      (A
+        (A ing)
+        (V (A (A to) (V go)) (V (A to) (V maggie))))
+      (V (A 's) (V (V house) (A today)))))) (p=1.2083e-34)
+(N
+  (N look)
+  (V
+    (V at)
+    (A (A (A the) (V doll)) (V (A 's) (V (V shoe) (A s)))))) (p=5.65276e-23)
+(N (V (V remember) (A (A betta) (V 's))) (N mouse)) (p=7.05678e-17)
+(N
+  (N and)
+  (A
+    (A (A what) (V did))
+    (V
+      (A (A (A (A you) (V do)) (V at)) (V viki))
+      (V (A 's) (V house))))) (p=5.611e-32)
+(N
+  (V
+    (A you)
+    (V
+      (A (A (A could) (V have)) (V (A the) (V strap)))
+      (V from)))
+  (N (N mommy) (A (A 's) (V purse)))) (p=4.72634e-34)
+(N
+  (N yes)
+  (A
+    (A you)
+    (V
+      (A (A 're) (V under))
+      (V (A papa) (V (A 's) (V desk)))))) (p=1.10957e-26)
+(N
+  (N (N (N one) (V girl)) (V is))
+  (V
+    (V stand)
+    (A
+      (A (A ing) (V on))
+      (V
+        (A (A (A the) (V other)) (V girl))
+        (V (A 's) (V head)))))) (p=2.77048e-37)
+(N
+  (N (V (A the) (V (A stewardess) (V was))) (N so))
+  (V (V (V nice) (A to)) (A nina))) (p=1.48666e-27)
+(N (V am) (N (N i) (V scared))) (p=1.59488e-13)
+(N
+  (N (V (V is) (A that)) (N (N what) (V maggie)))
+  (V (V say) (A s))) (p=3.96688e-20)
+(N (N what) (V (V is) (A it))) (p=1.58985e-08)
+(N
+  (N that)
+  (V (V was) (A (A pretty) (V (V exciting) (A huh))))) (p=1.26051e-20)
+(N (N (N is) (A n't)) (A it)) (p=3.28796e-09)
+(N (N what) (V (V is) (A that))) (p=1.28442e-08)
+(N
+  (N are)
+  (A
+    (A these)
+    (V (V (V (A just) (V way)) (A too)) (A big)))) (p=1.58231e-22)
+(N
+  (V
+    (V because)
+    (A
+      (A
+        (A i)
+        (V
+          (A (A (A i) (V know)) (V when))
+          (V (A (A you) (V go)) (V home))))
+      (V (A you) (V say))))
+  (N
+    (N where)
+    (V
+      (V is)
+      (A
+        (A she)
+        (V
+          (A (A (A i) (V was)) (V like))
+          (V (A what) (V (A the) (V heck)))))))) (p=6.45306e-63)
+(N
+  (N those)
+  (V
+    (V
+      (V are)
+      (A (A (A your) (V clean)) (V (A new) (V shoe))))
+    (A s))) (p=1.34187e-25)
+(N
+  (N that)
+  (A (A 's) (V (V (V (A better) (V is)) (A n't)) (A it)))) (p=3.08817e-18)
+(N
+  (V (A (A what) (V is)) (V (A this) (V (V in) (A this))))
+  (N book)) (p=2.88226e-19)
+(N (N is) (A (A that) (V (A a) (V king)))) (p=5.74875e-14)
+(N (N where) (V (V is) (A (A the) (V bone)))) (p=9.26394e-14)
+(N
+  (N whose)
+  (V (V suspender) (A (A s) (V (V are) (A these))))) (p=4.7281e-20)
+(N (N is) (A (A that) (V right))) (p=4.60098e-10)
+(N
+  (N here)
+  (A
+    (A (A (A (A it) (V is)) (V right)) (V under))
+    (V (A your) (V knee)))) (p=4.34402e-25)
+(N (N what) (V (V is) (A that))) (p=1.28442e-08)
+(N (N (V (V was) (A n't)) (N that)) (V exciting)) (p=5.22672e-16)
+(N
+  (N and)
+  (A
+    (A
+      (A
+        (A (A papa) (V (A (A 's) (V coat)) (V is)))
+        (V in))
+      (V (A the) (V closet)))
+    (V (A too) (V right)))) (p=6.47247e-36)
+(N
+  (N that)
+  (A
+    (A 's)
+    (V
+      (V
+        (V (A (A (A a) (V little)) (V rabbit)) (V is))
+        (A n't))
+      (A it)))) (p=2.12338e-24)
+(N
+  (N oh)
+  (A (A (A (A (A that) (V place)) (V is)) (V so)) (V hot))) (p=1.8162e-21)
+(N (N how) (V (V are) (A (A you) (V ducky)))) (p=8.07431e-15)
+(N
+  (N (V (V is) (A that)) (N why))
+  (A
+    (A (A (A (A you) (V had)) (V trouble)) (V take))
+    (V (A ing) (V (A a) (V nap))))) (p=2.65301e-34)
+(N (N is) (A (A (A that) (V funny)) (V henry))) (p=1.38221e-15)
+(N (N (V is) (N daddy)) (A (A all) (V ready))) (p=2.24652e-15)
+(N (N who) (V (V is) (A it))) (p=2.31339e-09)
+(N
+  (N (N she) (V was))
+  (V (V restless) (A (A all) (V night)))) (p=1.64866e-23)
+(N (N what) (V (V is) (A (A that) (V then)))) (p=1.99873e-12)
+(N
+  (N well)
+  (A
+    (A (A (A your) (V humorus)) (V is))
+    (V (V (V inside) (A there)) (A child)))) (p=6.23207e-30)
+(N
+  (N and)
+  (A (A (A where) (V are)) (V (V (A the) (V lamp)) (A s)))) (p=1.08708e-20)
+(N
+  (V (V is) (A that))
+  (N
+    (N what)
+    (A
+      (A (A you) (V play))
+      (V
+        (A (A (A ed) (V with)) (V at))
+        (V (A spencer) (V (A 's) (V house))))))) (p=1.39889e-35)
+(N
+  (N now)
+  (A
+    (A (A there) (V are))
+    (V (A two) (V (V in) (A there))))) (p=3.94581e-20)
+(N (N (N are) (A they)) (A better)) (p=2.118e-11)
+(N (N what) (V (V are) (A they))) (p=2.54622e-09)
+(N
+  (N where)
+  (V (V are) (A (A (A the) (V monkey)) (V (A s) (V now))))) (p=4.53756e-19)
+(N (N what) (V (V are) (A those))) (p=1.11531e-09)
+(N (N where) (V (V is) (A it))) (p=4.04788e-09)
+(N
+  (N (V (V if) (A (A (A your) (V tummy)) (V is))) (N all))
+  (A better)) (p=1.02242e-23)
+(N
+  (V
+    (V like)
+    (A (A all) (V (A the) (V (A fisher) (V price)))))
+  (N
+    (N toy)
+    (A
+      (A (A (A (A s) (V are)) (V little)) (V people))
+      (V (V (A and) (V animal)) (A s))))) (p=3.69798e-49)
+(N (N there) (A (A they) (V are))) (p=4.15687e-10)
+(N
+  (N is)
+  (A
+    (A (A (A (A the) (V banana)) (V in)) (V front))
+    (V (A of) (V (A the) (V birdie))))) (p=2.6112e-28)
+; PARSE_ERROR: well those are your two choice s so what do you want the shorts
+(N (N (N where) (V is)) (V doggie)) (p=9.0215e-11)
+(N (V (V is) (A that)) (N (N what) (V (V happen) (A ed)))) (p=2.28056e-16)
+(N (N there) (V (V was) (A (A a) (V (A green) (V one))))) (p=1.4602e-17)
+(N (N no) (A (A what) (V (V (A color) (V is)) (A it)))) (p=2.2211e-16)
+(N (N yeah) (A (A (A what) (V kind)) (V (V is) (A he)))) (p=7.17866e-17)
+(N
+  (N what)
+  (V
+    (V are)
+    (A (A (A two) (V little)) (V (V birdie) (A s))))) (p=1.34302e-20)
+(N (N where) (V (V is) (A (A this) (V bird)))) (p=1.11507e-13)
+(N (N there) (A (A you) (V are))) (p=4.63425e-09)
+(N (N is) (A (A that) (V (A a) (V kangaroo)))) (p=9.20892e-14)
+(N (N yes) (A (A it) (V is))) (p=1.25586e-09)
+(N (N and) (A (A what) (V (V are) (A these)))) (p=1.47401e-13)
+(N
+  (N this)
+  (V (V is) (A (A just) (V (A a) (V (A small) (V one)))))) (p=2.54855e-21)
+(N
+  (N are)
+  (A
+    (A n't)
+    (V
+      (A (A these) (V like))
+      (V
+        (A (A the) (V car))
+        (V (A s) (V (A that) (V (A harvey) (V had)))))))) (p=2.16925e-35)
+(N (N was) (A (A (A it) (V hard)) (V (A to) (V walk)))) (p=1.65877e-18)
+(N
+  (N this)
+  (V
+    (V is)
+    (A
+      (A (A a) (V picture))
+      (V (A (A of) (V (A a) (V frog))) (V see))))) (p=4.92807e-27)
+(N (V (V (A she) (V is)) (A asleep)) (N yeah)) (p=5.50928e-16)
+(N (N where) (V (V is) (A he))) (p=1.30911e-09)
+(N (N who) (V (V are) (A they))) (p=3.70499e-10)
+(N (N (N is) (A that)) (A better)) (p=1.30458e-10)
+(N
+  (N what)
+  (V (V are) (A (A (A the) (V candle)) (V (A s) (V on))))) (p=3.54005e-18)
+(N
+  (N (V (V is) (A that)) (N what))
+  (A (A you) (V (V (A 're) (V pretend)) (A ing)))) (p=1.31408e-21)
+(N (N who) (V (V are) (A you))) (p=4.13047e-09)
+(N (N (N that) (V one)) (V is)) (p=1.25319e-09)
+(N
+  (N sarah)
+  (A (A (A (A how) (V was)) (V father)) (V (A 's) (V day)))) (p=1.0647e-23)
+; PARSE_ERROR: all your clothes are down the beach
+(N (N (N (N is) (A n't)) (A that)) (A pretty)) (p=1.52933e-13)
+(N (N is) (A (A that) (V funny))) (p=8.75046e-11)
+(N
+  (V
+    (V is)
+    (A
+      (A
+        (A (A that) (V for))
+        (V (A (A your) (V other)) (V dance)))
+      (V dance)))
+  (N recital)) (p=1.43754e-31)
+(N
+  (N that)
+  (A
+    (A 's)
+    (V
+      (V
+        (V (A what) (V (A (A that) (V is)) (V is)))
+        (A n't))
+      (A it)))) (p=8.27128e-23)
+(N (N is) (V good)) (p=1.70735e-07)
+(N
+  (N well)
+  (A
+    (A (A six) (V week))
+    (V
+      (A (A s) (V (A will) (V be)))
+      (V (A up) (V saturday))))) (p=1.08151e-31)
+(N (N are) (A (A n't) (V (A you) (V (A my) (V friend))))) (p=6.03617e-17)
+(N (V be) (N (V clip) (N clop))) (p=2.70611e-17)
+(N (N alright) (V (V then) (A (A he) (V (V is) (A n't))))) (p=2.23847e-17)
+(N
+  (N it)
+  (A (A (A 's) (V yummy)) (V (V (V is) (A n't)) (A it)))) (p=2.73364e-19)
+(N
+  (N yours)
+  (V
+    (V is)
+    (A (A (A (A the) (V same)) (V same)) (V thing)))) (p=1.09368e-23)
+(N
+  (N what)
+  (V
+    (V kind)
+    (A
+      (A (A (A of) (V thing)) (V was))
+      (V (A that) (V (A to) (V say)))))) (p=9.45458e-26)
+(N (N is) (A (A that) (V (A the) (V tree)))) (p=6.15901e-13)
+(N
+  (N (N (N david) (V is)) (V at))
+  (V (V emerson) (A today))) (p=2.63636e-22)
+(N
+  (N is)
+  (A
+    (A (A there) (V (A more) (V piece)))
+    (V (A s) (V (A of) (V dirt))))) (p=1.8375e-25)
+(N (N are) (A (A you) (V sleepy))) (p=3.96465e-11)
+(N
+  (N that)
+  (A
+    (A 's)
+    (V
+      (V
+        (A (A a) (V tape))
+        (V
+          (A recorder)
+          (V (A up) (V (A there) (V (V is) (A n't))))))
+      (A it)))) (p=2.11754e-32)
+(N (N are) (A (A n't) (V (A they) (V nice)))) (p=5.7347e-14)
+(N
+  (N oh)
+  (A
+    (A (A my) (V is))
+    (V (V (A (A it) (V dark)) (V in)) (A here)))) (p=1.22951e-23)
+(N (N (N whose) (V cup)) (V (V is) (A that))) (p=6.23144e-15)
+(N (N is) (A (A that) (V (A a) (V swing)))) (p=1.13394e-13)
+(N
+  (N (V (V is) (A that)) (N what))
+  (A (A (A you) (V want)) (V (A to) (V do)))) (p=5.10272e-20)
+(N
+  (N where)
+  (A
+    (A 's)
+    (V
+      (V
+        (A (A (A the) (V other)) (V dolly))
+        (V (A (A that) (V was)) (V in)))
+      (A here)))) (p=1.52838e-28)
+(N
+  (N (V were) (N there))
+  (V (V bird) (A (A (A s) (V on)) (V (A the) (V beach))))) (p=5.27834e-24)
+(N (V (A her) (V name)) (N (N is) (A raggedy))) (p=8.04898e-18)
+(N
+  (N but)
+  (A
+    (A
+      (A (A (A this) (V one)) (V is))
+      (V (A two) (V piece)))
+    (V (A s) (V (A of) (V bread))))) (p=9.517e-32)
+(N
+  (N it)
+  (A
+    (A 's)
+    (V
+      (V
+        (V (A (A (A just) (V pretend)) (V food)) (V is))
+        (A n't))
+      (A it)))) (p=1.42382e-26)
+(N (N who) (V (V is) (A he))) (p=7.48163e-10)
+(N (N it) (V (V was) (A (A a) (V vl)))) (p=4.75393e-15)
+(N (N those) (V (V shell) (A (A s) (V are)))) (p=3.0194e-15)
+(N
+  (N oh)
+  (A
+    (A (A (A (A that) (V car)) (V is)) (V make))
+    (V
+      (V
+        (V (A (A ing) (V (A a) (V noise))) (V is))
+        (A n't))
+      (A it)))) (p=8.39507e-34)
+(N
+  (N parent)
+  (A
+    (A (A (A 's) (V sister)) (V is))
+    (V (A eleven) (V (A and) (V (A they) (V play)))))) (p=5.99132e-31)
+(N (N are) (A (A you) (V (A his) (V doctor)))) (p=2.05391e-14)
+(N
+  (N is)
+  (A
+    (A (A that) (V (A (A a) (V rabbit)) (V with)))
+    (V
+      (V
+        (A a)
+        (V (A big) (V (A (A long) (V nose)) (V like))))
+      (A that)))) (p=4.99575e-37)
+(N (N what) (V is)) (p=6.6765e-06)
+(N (N was) (A (A it) (V fun))) (p=3.21555e-12)
+(N
+  (N
+    (N
+      (V
+        (V but)
+        (A
+          (A (A the) (V name))
+          (V
+            (A of)
+            (V
+              (A it)
+              (V
+                (A (A the) (V name))
+                (V (A of) (V (A it) (V is))))))))
+      (N yoohoo))
+    (V little))
+  (V rabbit)) (p=2.25732e-45)
+(N (N a) (A (A big) (V hole))) (p=4.28787e-12)
+(N (N toy) (A (A (A s) (V take)) (V (A a) (V bath)))) (p=1.21466e-16)
+(N
+  (N just)
+  (A
+    (A (A a) (V little))
+    (V (V (A cream) (V not)) (A much)))) (p=5.102e-23)
+(N
+  (N why)
+  (V
+    (V do)
+    (A
+      (A n't)
+      (V
+        (A
+          (A
+            (A
+              (A (A (A you) (V sit)) (V on))
+              (V (A the) (V little)))
+            (V stool))
+          (V at))
+        (V (A the) (V take)))))) (p=3.92681e-38)
+(N (N there) (A (A 's) (V (A the) (V baby)))) (p=3.59987e-12)
+(N
+  (N
+    (V (V let) (A (A 's) (V (V call) (A him))))
+    (N clever))
+  (A (A the) (V clown))) (p=3.87975e-28)
+(N
+  (N that)
+  (A
+    (A
+      (A (A you) (V saw))
+      (V (A (A down) (V at)) (V (A the) (V square))))
+    (V saturday))) (p=3.4841e-29)
+(N (N what) (A (A 's) (V (A the) (V matter)))) (p=4.01434e-12)
+(N
+  (V
+    (A the)
+    (V
+      (V
+        (A (A (A the) (V baby)) (V ca))
+        (V (A n't) (V eat)))
+      (A that)))
+  (N ok)) (p=1.5232e-25)
+(N
+  (N yes)
+  (A
+    (A (A that) (V (A 's) (V not)))
+    (V (A the) (V (A big) (V stool))))) (p=1.04736e-23)
+(N
+  (N and)
+  (A
+    (A it)
+    (V
+      (A
+        (A
+          (A (A 's) (V go))
+          (V
+            (A (A ing) (V (A to) (V park)))
+            (V (A and) (V go))))
+        (V (A (A to) (V sleep)) (V for)))
+      (V (A the) (V night))))) (p=8.02081e-42)
+(N (N where) (V (V is) (A (A (A the) (V little)) (V man)))) (p=2.72471e-16)
+(N
+  (N this)
+  (V
+    (V is)
+    (A
+      (A a)
+      (V
+        (V
+          (A (A (A big) (V truck)) (V with))
+          (V (A two) (V piece)))
+        (A s))))) (p=5.88711e-31)
+(N (V (V (A that) (V 's)) (A a)) (N funnel)) (p=1.0563e-14)
+(N
+  (N it)
+  (V
+    (V look)
+    (A
+      (A (A (A s) (V like)) (V (A a) (V little)))
+      (V girl)))) (p=3.04473e-22)
+(N
+  (N yes)
+  (A
+    (A (A (A mommy) (V is)) (V empty))
+    (V (A ing) (V (A the) (V garbage))))) (p=4.0032e-26)
+(N (N (N here) (V look)) (V (V at) (A the))) (p=4.37933e-13)
+(N (N a) (V chair)) (p=3.37249e-08)
+(N
+  (N it)
+  (A
+    (A 's)
+    (V
+      (A a)
+      (V
+        (A it)
+        (V (A 's) (V (A (A more) (V like)) (V pig))))))) (p=1.50501e-25)
+(N (N one) (V (V for) (A (A the) (V dragon)))) (p=5.45931e-15)
+(N (N where) (V (V are) (A (A the) (V (V earring) (A s))))) (p=1.88521e-16)
+(N
+  (N
+    (V
+      (A
+        (A
+          (A
+            (A (A it) (V come))
+            (V (A (A s) (V out)) (V (A the) (V back))))
+          (V (A the) (V back)))
+        (V (A of) (V (A the) (V jet))))
+      (V (A s) (V right)))
+    (N where))
+  (A (A your) (V thumb))) (p=1.15854e-53)
+(N
+  (N i)
+  (V
+    (V do)
+    (A
+      (A (A n't) (V think))
+      (V
+        (V
+          (A (A it) (V blink))
+          (V
+            (A (A (A s) (V all)) (V (A the) (V time)))
+            (V does)))
+        (A it))))) (p=3.55959e-38)
+(N
+  (N this)
+  (V (V is) (A (A the) (V (V (A new) (V one)) (A honey))))) (p=1.95599e-21)
+(N (N a) (V bear)) (p=1.72665e-08)
+(N
+  (N go)
+  (A (A (A upstairs) (V in)) (V (A the) (V bedroom)))) (p=1.36715e-19)
+(N
+  (V
+    (A
+      (A (A you) (V want))
+      (V (A (A to) (V put)) (V (A the) (V mirror))))
+    (V on))
+  (N mommy)) (p=4.94027e-25)
+(N
+  (N want)
+  (A
+    (A ed)
+    (V
+      (A
+        (A (A (A to) (V see)) (V if))
+        (V (A we) (V (A could) (V hook))))
+      (V (A up) (V (A the) (V car)))))) (p=8.01525e-39)
+(N (V (V (A been) (V through)) (A the)) (N war)) (p=6.55556e-18)
+(N
+  (N that)
+  (A
+    (A (A 's) (V go))
+    (V
+      (A ing)
+      (V
+        (A (A (A to) (V be)) (V (A a) (V tall)))
+        (V (V boat) (A child)))))) (p=5.11926e-33)
+(N
+  (N did)
+  (A
+    (A (A you) (V help))
+    (V
+      (V (A (A mummy) (V with)) (V (A the) (V shoe)))
+      (A s)))) (p=5.96919e-27)
+(N
+  (N i)
+  (A
+    (A (A 've) (V (A never) (V seen)))
+    (V (A a) (V (A striped) (V watch))))) (p=4.03627e-30)
+(N
+  (N lydia)
+  (V
+    (V was)
+    (A
+      (A (A (A a) (V rich)) (V woman))
+      (V
+        (A (A who) (V love))
+        (V (A ed) (V (A the) (V lord))))))) (p=4.84654e-43)
+(N
+  (N did)
+  (A
+    (A (A (A you) (V hear)) (V (A the) (V train)))
+    (V whistle))) (p=3.84658e-22)
+(N
+  (N let)
+  (A
+    (A 's)
+    (V
+      (A (A who) (V are))
+      (V
+        (A (A you) (V put))
+        (V (A (A ing) (V in)) (V (A the) (V bed))))))) (p=4.93702e-30)
+(N
+  (N i)
+  (A
+    (A (A 'll) (V make))
+    (V
+      (A
+        (A (A (A (A it) (V go)) (V flipflop)) (V in))
+        (V (A a) (V little)))
+      (V while)))) (p=1.91926e-34)
+(N
+  (N what)
+  (V
+    (V animal)
+    (A
+      (A (A (A s) (V did)) (V (A (A you) (V see)) (V at)))
+      (V (A the) (V zoo))))) (p=8.09347e-28)
+(N
+  (N i)
+  (V
+    (V think)
+    (A
+      (A (A (A it) (V goes)) (V at))
+      (V (A the) (V bottom))))) (p=1.13373e-23)
+(N
+  (N (V (V do) (A (A you) (V know))) (N how))
+  (A
+    (A (A to) (V put))
+    (V
+      (V
+        (A (A the) (V knife))
+        (V
+          (A (A s) (V (A and) (V fork)))
+          (V
+            (A (A s) (V (A and) (V spoon)))
+            (V (A s) (V on)))))
+      (A the)))) (p=1.73837e-53)
+(N
+  (N uh)
+  (A
+    (A
+      (A can)
+      (V
+        (A (A you) (V show))
+        (V
+          (A me)
+          (V (A (A (A the) (V boy)) (V is)) (V not)))))
+    (V (V sit) (A ing)))) (p=1.76198e-36)
+(N
+  (N (V if) (N lala))
+  (V
+    (V does)
+    (A
+      (A (A n't) (V live))
+      (V
+        (A (A there) (V (A anymore) (V (A she) (V does))))
+        (V (A (A n't) (V need)) (V (A the) (V prediction))))))) (p=3.23295e-52)
+(N (N i) (V (V need) (A (A a) (V (A new) (V one))))) (p=2.81412e-17)
+(N
+  (N (V so) (N what))
+  (V
+    (V happen)
+    (A
+      (A ed)
+      (V
+        (A (A to) (V (A the) (V horse)))
+        (V (A and) (V (A the) (V feet))))))) (p=5.78648e-33)
+(N
+  (N why)
+  (V
+    (V do)
+    (A
+      (A
+        (A (A (A you) (V like)) (V all))
+        (V (A the) (V horse)))
+      (V (V (A s) (V (A to) (V lie))) (A down))))) (p=1.67151e-35)
+(N
+  (N yeah)
+  (A
+    (A (A you) (V spill))
+    (V
+      (V
+        (A (A (A ed) (V (A it) (V all))) (V over))
+        (V (A the) (V chair)))
+      (A too)))) (p=8.26268e-34)
+(N
+  (N i)
+  (V
+    (V do)
+    (A
+      (A
+        (A (A n't) (V know))
+        (V
+          (A it)
+          (V
+            (A 's)
+            (V
+              (A (A just) (V like))
+              (V (A (A the) (V brady)) (V bunch))))))
+      (V
+        (A (A (A (A they) (V come)) (V on)) (V back))
+        (V (A to) (V back)))))) (p=1.39286e-58)
+(N
+  (N oh)
+  (A
+    (A we)
+    (V
+      (A
+        (A (A 'll) (V pour))
+        (V (A the) (V (A cream) (V tea))))
+      (V (V in) (A here))))) (p=3.2845e-32)
+(N
+  (V
+    (A what)
+    (V (A 's) (V (A the) (V (V (V name) (A of)) (A the)))))
+  (N book)) (p=1.91818e-21)
+(N
+  (N it)
+  (A
+    (A (A 's) (V (A just) (V sort)))
+    (V (A of) (V (A (A (A a) (V day)) (V care)) (V place))))) (p=2.86984e-33)
+(N
+  (N (N (N oh) (V look)) (V at))
+  (V (V all) (A (A the) (V (V monkey) (A s))))) (p=8.70417e-23)
+(N
+  (N maybe)
+  (V (V on) (A (A (A the) (V kitchen)) (V floor)))) (p=2.79729e-18)
+(N
+  (N why)
+  (V
+    (V do)
+    (A
+      (A n't)
+      (V
+        (A (A you) (V put))
+        (V
+          (A (A that) (V on))
+          (V
+            (A (A (A the) (V on)) (V (A the) (V grass)))
+            (V ok))))))) (p=3.16236e-37)
+(N
+  (N you)
+  (A
+    (A (A 're) (V go))
+    (V
+      (A (A ing) (V (A (A to) (V sit)) (V on)))
+      (V (A the) (V couch))))) (p=3.72005e-27)
+(N (N that) (A (A 's) (V (A a) (V boy)))) (p=3.50819e-12)
+(N (N (N (N that) (A 's)) (A a)) (A suit)) (p=1.10918e-13)
+(N (A a) (N what)) (p=1.02997e-06)
+(N
+  (N can)
+  (A (A (A you) (V put)) (V (A (A the) (V sock)) (V on)))) (p=8.39025e-19)
+(N
+  (N she)
+  (A
+    (A (A 's) (V hold))
+    (V
+      (V
+        (A (A ing) (V (A a) (V balloon)))
+        (V (A (A and) (V (A a) (V basket))) (V with)))
+      (A what)))) (p=2.47221e-36)
+(N
+  (N let)
+  (A (A (A (A 's) (V go)) (V for)) (V (A a) (V walk)))) (p=4.52809e-19)
+(N
+  (N you)
+  (V
+    (V have)
+    (A
+      (A (A (A (A to) (V go)) (V from)) (V one))
+      (V (A to) (V (A the) (V other)))))) (p=3.26651e-27)
+(N
+  (N (V (V (A what) (V does)) (A the)) (N mouse))
+  (V (V want) (A (A to) (V see)))) (p=2.92035e-22)
+(N
+  (N the)
+  (V
+    (V
+      (V boy)
+      (A
+        (A (A (A s) (V are)) (V carry))
+        (V (A ing) (V stick))))
+    (A s))) (p=9.80306e-27)
+(N
+  (N and)
+  (V
+    (V after)
+    (A
+      (A
+        (A (A the) (V wake))
+        (V (A (A we) (V went)) (V over)))
+      (V (A to) (V (A the) (V prudential)))))) (p=5.07456e-37)
+(N (N oh) (A (A (A the) (N beater)) (V (A 's) (V hot)))) (p=1.2183e-20)
+(N (N that) (A (A 's) (V (A a) (V rubber)))) (p=1.80015e-13)
+(N
+  (N i)
+  (V
+    (V want)
+    (A
+      (A you)
+      (V
+        (A (A to) (V tell))
+        (V
+          (A (A (A me) (V about)) (V (A a) (V dream)))
+          (V (A you) (V have))))))) (p=1.12698e-34)
+(N
+  (N that)
+  (A
+    (A
+      (A 's)
+      (V
+        (A (A (A (A a) (V string)) (V from)) (V baby))
+        (V sarah)))
+    (V (A 's) (V blanket)))) (p=6.48627e-32)
+(N
+  (V
+    (V (V (V was) (A (A that) (V (A a) (V yes)))) (A or))
+    (A a))
+  (N no)) (p=8.80619e-24)
+(N (N (V read) (N the)) (V (V (V story) (A to)) (A me))) (p=8.61581e-19)
+(N (N it) (A (A 's) (V (A a) (V valentine)))) (p=1.7769e-13)
+(N
+  (N (N the) (V dragon))
+  (V
+    (V has)
+    (A
+      (A (A (A to) (V stay)) (V inside))
+      (V (A his) (V cage))))) (p=8.62099e-32)
+(N (N close) (A (A ing) (V (A the) (V door)))) (p=2.96913e-14)
+(N
+  (N now)
+  (A
+    (A
+      (A how)
+      (V
+        (A 's)
+        (V
+          (A (A (A the) (V car)) (V go))
+          (V (A ing) (V (A to) (V go))))))
+    (V by))) (p=1.9337e-31)
+(N (N all) (A (A done) (V (V (V with) (A the)) (A juice)))) (p=3.98575e-19)
+(N
+  (N now)
+  (A
+    (A (A who) (V did))
+    (V
+      (A (A (A you) (V put)) (V in))
+      (V (A the) (V house))))) (p=3.1021e-25)
+(N (N that) (A (A 's) (V (A a) (V kangaroo)))) (p=3.26587e-13)
+(N
+  (N (N i) (V was))
+  (V
+    (V sit)
+    (A (A (A ing) (V on)) (V (A (A the) (V bus)) (V then))))) (p=5.77386e-26)
+(N (N put) (A (A (A the) (V in)) (V (A his) (V house)))) (p=1.37055e-16)
+(N
+  (N did)
+  (A
+    (A (A (A you) (V play)) (V (A a) (V game)))
+    (V (V with) (A that)))) (p=3.4224e-22)
+(N
+  (N look)
+  (V (V at) (A (A the) (V (V (A big) (V log)) (A s))))) (p=1.53931e-21)
+(N
+  (N get)
+  (A
+    (A (A (A your) (V belly)) (V out))
+    (V (A of) (V (A the) (V way))))) (p=2.69235e-25)
+(N (N can) (A (A (A i) (V see)) (V (A the) (V duck)))) (p=1.60406e-16)
+(N (N and) (A (A (A a) (V bathroom)) (V kitchen))) (p=1.93905e-15)
+(N
+  (N did)
+  (A
+    (A
+      (A (A (A you) (V wear)) (V have))
+      (V (A a) (V life)))
+    (V jacket))) (p=3.68801e-26)
+(N (N he) (A (A (A 's) (V in)) (V (A the) (V fence)))) (p=3.35373e-16)
+(N
+  (N a)
+  (A (A (A (A new) (V bright)) (V shiny)) (V house))) (p=5.12468e-23)
+(N
+  (N well)
+  (A
+    (A we)
+    (V
+      (A
+        (A (A just) (V happen))
+        (V (A (A to) (V have)) (V (A some) (V in))))
+      (V (A the) (V refrigerator))))) (p=4.36445e-33)
+(N (V give) (N (N daddy) (A (A the) (V quarter)))) (p=1.29295e-15)
+(N
+  (N those)
+  (V
+    (V were)
+    (A
+      (A (A the) (V string))
+      (V
+        (A (A (A s) (V (A that) (V were))) (V hold))
+        (V
+          (A (A ing) (V (A the) (V animal)))
+          (V (A s) (V (A to) (V (A the) (V box))))))))) (p=2.64224e-47)
+(N
+  (N (V were) (N you))
+  (V (V (V (V change) (A ing)) (A the)) (A station))) (p=8.16531e-22)
+(N (N (A mister) (N gump)) (V (V (V has) (A a)) (A seven))) (p=7.9391e-25)
+(N
+  (N oh)
+  (V
+    (V look)
+    (A (A (A what) (V (A the) (V baby))) (V did)))) (p=8.72808e-19)
+(N
+  (N justin)
+  (A
+    (A (A (A 's) (V (A the) (V (A new) (V baby)))) (V in))
+    (V (A the) (V family)))) (p=9.53331e-29)
+(N (N where) (V (V was) (A (A the) (V bump)))) (p=4.59236e-14)
+(N
+  (N (V (V (V let) (A (A 's) (V set))) (A the)) (N table))
+  (V
+    (V in)
+    (A
+      (A (A the) (V kitchen))
+      (V (A you) (V (V want) (A to)))))) (p=2.23188e-35)
+(N
+  (N can)
+  (A
+    (A (A (A you) (V draw)) (V (A a) (V picture)))
+    (V (A of) (V (A a) (V sleepyheady))))) (p=6.87834e-31)
+(N
+  (N well)
+  (A
+    (A (A (A that) (V was)) (V (A a) (V mistake)))
+    (V
+      (A and)
+      (V (A (A i) (V ca)) (V (A n't) (V remember)))))) (p=2.2342e-34)
+(N
+  (N i)
+  (A (A (A 'm) (V make)) (V (A ing) (V (A a) (V snowman))))) (p=5.08101e-20)
+(N
+  (N well)
+  (A
+    (A (A i) (V told))
+    (V
+      (A
+        (A nathaniel)
+        (V
+          (A
+            (A
+              (A (A that) (V go))
+              (V
+                (A
+                  (A (A ing) (V out))
+                  (V
+                    (A (A (A to) (V barbecue)) (V save))
+                    (V
+                      (A
+                        (A s)
+                        (V
+                          (A more)
+                          (V (A of) (V (A a) (V symbolic)))))
+                      (V cash))))
+                (V than)))
+            (V after))
+          (V
+            (A (A (A it) (V was)) (V start))
+            (V (A ed) (V barbecue)))))
+      (V (A ing) (V season))))) (p=1.48255e-101)
+(N
+  (N do)
+  (A
+    (A
+      (A (A you) (V want))
+      (V (A (A to) (V help)) (V (A me) (V put))))
+    (V
+      (V
+        (A (A (A the) (V stuff)) (V away))
+        (V (A that) (V 's)))
+      (A mine)))) (p=3.14879e-43)
+(N
+  (N i)
+  (V
+    (V did)
+    (A
+      (A a)
+      (V
+        (V
+          (A (A i) (V eat))
+          (V
+            (A the)
+            (V
+              (A (A i) (V eat))
+              (V
+                (A the)
+                (V
+                  (A (A i) (V eat))
+                  (V (A that) (V right)))))))
+        (A here))))) (p=6.40235e-41)
+(N (N there) (V (V goes) (A (A the) (V dirt)))) (p=2.90572e-15)
+(N
+  (N he)
+  (A
+    (A (A 's) (V got))
+    (V
+      (V
+        (V
+          (V (A (A to) (V be)) (V (V bounce) (A ing)))
+          (A to))
+        (A the))
+      (A music)))) (p=9.88397e-33)
+(N (N what) (A (A 's) (V (A the) (V name)))) (p=1.33416e-11)
+(N
+  (N the)
+  (A
+    (A white)
+    (V
+      (A those)
+      (V
+        (A (A two) (V smell))
+        (V (A ed) (V (A the) (V best))))))) (p=3.50581e-31)
+(N (N oh) (A (A what) (V (A 's) (V (A the) (V matter))))) (p=1.25424e-15)
+(N
+  (N do)
+  (A (A (A you) (V like)) (V (A him) (V (A a) (V lot))))) (p=2.87401e-19)
+(N
+  (N (V (V show) (A (A the) (V doggy))) (N what))
+  (V
+    (V santa)
+    (A (A claus) (V (V (V brought) (A to)) (A you))))) (p=4.84056e-33)
+(N (N okay) (A (A it) (V (A 's) (V (A a) (V lady))))) (p=2.86503e-16)
+(N
+  (N now)
+  (V
+    (V let)
+    (A
+      (A (A (A 's) (V put)) (V (A a) (V hunk)))
+      (V
+        (A of)
+        (V
+          (A
+            (A (A (A this) (V in)) (V (A and) (V see)))
+            (V (A what) (V happen)))
+          (V (A s) (V alright))))))) (p=6.04339e-52)
+(N
+  (N i)
+  (V
+    (V had)
+    (A
+      (A (A a) (V tape))
+      (V
+        (V
+          (A (A recorder) (V once))
+          (V
+            (A (A (A that) (V uh)) (V start))
+            (V (A ed) (V (A (A to) (V sizzle)) (V when)))))
+        (A i))))) (p=2.50084e-54)
+(N
+  (N you)
+  (V
+    (V clean)
+    (A
+      (A ed)
+      (V (A up) (V (A the) (V (A whole) (V cupboard))))))) (p=2.12952e-26)
+(N
+  (N that)
+  (A
+    (A 's)
+    (V
+      (A (A (A my) (V fault)) (V because))
+      (V
+        (A
+          (A (A i) (V use))
+          (V
+            (A ed)
+            (V (A (A to) (V love)) (V (A it) (V all)))))
+        (V (A the) (V time)))))) (p=2.47289e-48)
+(N (N and) (A (A what) (V (V happen) (A ed)))) (p=9.09427e-14)
+(N
+  (N (V (V (V (A she) (V use)) (A ed)) (A to)) (N babysit))
+  (V (V for) (A you))) (p=1.97891e-26)
+(N
+  (N (N we) (V were))
+  (V
+    (V do)
+    (A
+      (A (A (A ing) (V (A a) (V train))) (V track))
+      (V
+        (A (A and) (V then))
+        (V (V (A you) (V stop)) (A ed)))))) (p=7.58192e-41)
+(N
+  (N and)
+  (V
+    (V then)
+    (A
+      (A (A i) (V use))
+      (V
+        (A
+          (A ed)
+          (V
+            (A (A to) (V have))
+            (V (A (A elka) (V come)) (V over))))
+        (V
+          (A (A here) (V (A and) (V do)))
+          (V (A it) (V (V with) (A me)))))))) (p=9.48731e-57)
+(N
+  (N you)
+  (A
+    (A
+      (A must)
+      (V (A (A of) (V keel)) (V (A ed) (V right))))
+    (V over))) (p=2.28819e-28)
+(N (N what) (V (V happen) (A ed))) (p=5.46115e-10)
+(N (N there) (A (A i) (V (V (V fix) (A ed)) (A it)))) (p=8.99988e-17)
+(N
+  (N you)
+  (V
+    (V spill)
+    (A
+      (A ed)
+      (V
+        (A (A two) (V knife))
+        (V (A (A s) (V out)) (V (A the) (V box))))))) (p=7.37694e-32)
+(N
+  (N (N the) (V indians))
+  (V (V (V (V tie) (A ed)) (A him)) (A up))) (p=1.11819e-24)
+(N (V (V (V (V play) (A ed)) (A and)) (A and)) (N shica)) (p=3.55365e-21)
+(N
+  (V (V pick) (A (A the) (V one)))
+  (N
+    (N you)
+    (V
+      (V
+        (V drop)
+        (A (A (A ed) (V on)) (V (A the) (V floor))))
+      (A up)))) (p=5.70589e-34)
+(N (N you) (V (V (V (V pick) (A ed)) (A him)) (A up))) (p=1.38186e-17)
+(N
+  (N are)
+  (A (A (A (A they) (V all)) (V name)) (V (A ed) (V joe)))) (p=5.80124e-23)
+(N
+  (N i)
+  (V
+    (V did)
+    (A
+      (A (A n't) (V know))
+      (V
+        (V
+          (A
+            (A (A that) (V (A your) (V refrigerator)))
+            (V door))
+          (V open))
+        (A ed))))) (p=3.33069e-34)
+(N
+  (N oh)
+  (V
+    (V did)
+    (A
+      (A (A you) (V use))
+      (V (A ed) (V (A (A to) (V have)) (V one)))))) (p=1.09205e-24)
+(N
+  (N but)
+  (A
+    (A (A i) (V thought))
+    (V
+      (A (A you) (V said))
+      (V
+        (A (A he) (V want))
+        (V (A ed) (V (A a) (V (A band) (V aid)))))))) (p=3.17802e-39)
+(N
+  (N they)
+  (A
+    (A (A 're) (V go))
+    (V
+      (A (A ing) (V (A (A to) (V get)) (V rain)))
+      (V (A ed) (V again))))) (p=2.61197e-29)
+(N
+  (N
+    (V
+      (A (A (A you) (V do)) (V (A n't) (V want)))
+      (V (V (A to) (V tell)) (A me)))
+    (N what))
+  (V
+    (V happen)
+    (A
+      (A ed)
+      (V
+        (A (A that) (V day))
+        (V
+          (A (A we) (V went))
+          (V (A (A to) (V (A the) (V brockton))) (V fair))))))) (p=7.34357e-61)
+(N
+  (N in)
+  (V
+    (V time)
+    (A
+      (A (A (A (A the) (V earth)) (V was)) (V fill))
+      (V
+        (A (A (A (A ed) (V with)) (V people)) (V once))
+        (V again))))) (p=7.48068e-45)
+(N (N i) (V (V draw) (A ed))) (p=9.74764e-11)
+(N (N she) (V (V scream) (A ed))) (p=2.48243e-12)
+(N
+  (N these)
+  (V
+    (V use)
+    (A
+      (A ed)
+      (V
+        (A (A to) (V be))
+        (V
+          (A (A betta) (V (A 's) (V slipper)))
+          (V (A s) (V (A i) (V think)))))))) (p=1.38099e-39)
+(N
+  (N you)
+  (V
+    (V talk)
+    (A
+      (A ed)
+      (V
+        (A to)
+        (V (A (A her) (V on)) (V (A the) (V telephone))))))) (p=1.77977e-25)
+(N
+  (N you)
+  (V
+    (V park)
+    (A (A ed) (V (A (A it) (V in)) (V (A the) (V garage)))))) (p=2.16536e-23)
+(N
+  (N i)
+  (V
+    (V follow)
+    (A (A ed) (V (A it) (V (A to) (V (A the) (V hole))))))) (p=2.03353e-23)
+(N
+  (N what)
+  (V
+    (V (V happen) (A (A ed) (V (A to) (V danny))))
+    (A thomas))) (p=7.07236e-23)
+(N
+  (N whoa)
+  (A (A (A ouchie) (V ah)) (V (V (A you) (V bump)) (A ed)))) (p=4.17048e-28)
+(N (N we) (V (V skip) (A (A ed) (V (A a) (V page))))) (p=9.13172e-20)
+(N
+  (N but)
+  (V
+    (V tell)
+    (A
+      (A (A gloria) (V (A what) (V happen)))
+      (V (A ed) (V (A to) (V (A your) (V head))))))) (p=1.00094e-32)
+(N (N i) (V (V look) (A ed))) (p=8.80608e-10)
+(N
+  (N she)
+  (A
+    (A (A just) (V want))
+    (V
+      (A (A ed) (V (A (A to) (V know)) (V if)))
+      (V (V (A you) (V were)) (A here))))) (p=2.80783e-32)
+(N
+  (N he)
+  (A
+    (A 's)
+    (V
+      (A (A probably) (V touch))
+      (V (V (V (A ed) (V all)) (A of)) (A them))))) (p=1.61993e-28)
+(N (N i) (V (V (V (V ask) (A ed)) (A you)) (A first))) (p=2.88192e-17)
+(N
+  (N oh)
+  (A
+    (A (A you) (V want))
+    (V (A (A it) (V turn)) (V (A ed) (V on))))) (p=2.16193e-21)
+(N (N i) (V (V (V (V count) (A ed)) (A to)) (A ten))) (p=1.35756e-18)
+(N (N what) (A (A 's) (V (V rip) (A ed)))) (p=8.81898e-14)
+(N
+  (N i)
+  (V
+    (V
+      (V do)
+      (A
+        (A (A n't) (V know))
+        (V
+          (V
+            (A (A what) (V happen))
+            (V
+              (A ed)
+              (V (A to) (V (A your) (V vegetable)))))
+          (A s))))
+    (A honey))) (p=2.53869e-39)
+(N
+  (N no)
+  (A (A i) (V (V (V (V drop) (A ed)) (A the)) (A butter)))) (p=1.80944e-21)
+(N
+  (N what)
+  (V
+    (V happen)
+    (A
+      (A (A ed) (V at))
+      (V (A (A the) (V puppet)) (V show))))) (p=2.36471e-24)
+(N (N yes) (A (A and) (V (V (A what) (V happen)) (A ed)))) (p=2.77738e-17)
+(N
+  (N she)
+  (A
+    (A (A (A can) (V be)) (V pick))
+    (V (A ed) (V (A up) (V anywhere))))) (p=9.43176e-27)
+(N
+  (N what)
+  (V
+    (V happen)
+    (A (A ed) (V (A to) (V (A the) (V (A poor) (V duck))))))) (p=1.30875e-23)
+(N (N papa) (V (V (V (V save) (A ed)) (A you)) (A supper))) (p=1.23857e-20)
+(N
+  (N oh)
+  (A
+    (A (A (A the) (V tiger)) (V jump))
+    (V (V (A ed) (V at)) (A me)))) (p=1.97753e-24)
+(N
+  (V
+    (V
+      (A
+        (A (A this) (V is))
+        (V (A the) (V (A first) (V time))))
+      (V (A he) (V (A 's) (V (V try) (A ed)))))
+    (A this))
+  (N naming)) (p=2.77655e-40)
+(N (N what) (V (V happen) (A ed))) (p=5.46115e-10)
+(N
+  (N he)
+  (A
+    (A (A just) (V knock))
+    (V (A ed) (V (A down) (V (A a) (V tree)))))) (p=2.81302e-25)
+(N
+  (V
+    (V
+      (A (A last) (V time))
+      (V (A you) (V (V (V play) (A ed)) (A me))))
+    (A the))
+  (N chipmunk)) (p=9.67297e-31)
+(N
+  (N she)
+  (A
+    (A color)
+    (V (A ed) (V (A (A it) (V all)) (V summer))))) (p=4.84887e-22)
+(N
+  (N you)
+  (V
+    (V touch)
+    (A (A ed) (V (A (A my) (V little)) (V baby))))) (p=3.04475e-21)
+(N
+  (N i)
+  (V
+    (V think)
+    (A
+      (A it)
+      (V
+        (A 's)
+        (V
+          (A (A just) (V skin))
+          (V (A ed) (V (A a) (V little)))))))) (p=9.28711e-30)
+(N
+  (N that)
+  (A
+    (A (A 's) (V right))
+    (V (A (A i) (V tie)) (V (A ed) (V (A a) (V ribbon)))))) (p=1.12492e-27)
+(N
+  (N a)
+  (V
+    (V
+      (V
+        (V piece)
+        (A (A (A of) (V paper)) (V (V attach) (A ed))))
+      (A to))
+    (A it))) (p=4.69288e-29)
+(N
+  (N just)
+  (V
+    (V want)
+    (A
+      (A (A (A ed) (V attention)) (V by))
+      (V (V mom) (A huh))))) (p=1.94299e-29)
+(N
+  (N oh)
+  (A (A you) (V (V (V (V knock) (A ed)) (A it)) (A down)))) (p=9.7102e-20)
+(N (N you) (V (V step) (A (A ed) (V (V on) (A it))))) (p=2.55936e-16)
+(N
+  (N uhoh)
+  (A
+    (A what)
+    (V
+      (V (V (V (V happen) (A ed)) (A to)) (A poor))
+      (A snoopy)))) (p=2.26682e-27)
+(N (N oh) (A (A she) (V (V (V like) (A ed)) (A you)))) (p=2.72618e-15)
+(N
+  (N where)
+  (V
+    (V does)
+    (A
+      (A (A she) (V need))
+      (V (A (A to) (V be)) (V (V wash) (A ed)))))) (p=1.37205e-27)
+(N
+  (N oh)
+  (A
+    (A (A you) (V spray))
+    (V
+      (A (A ed) (V on))
+      (V (A mommy) (V (A and) (V babar)))))) (p=5.62438e-30)
+(N
+  (N what)
+  (V
+    (V are)
+    (A (A (A the) (V other)) (V (V (A s) (V name)) (A ed))))) (p=2.48494e-21)
+(N (N uhoh) (A (A you) (V (V (V drop) (A ed)) (A it)))) (p=1.23671e-17)
+(N (N you) (V (V dust) (A ed))) (p=3.6154e-12)
+(N
+  (N no)
+  (A
+    (A (A that) (V (A (A 's) (V all)) (V consider)))
+    (V (A ed) (V food)))) (p=3.52846e-28)
+(N (N what) (A (A else) (V (V happen) (A ed)))) (p=8.99505e-14)
+(N (N knock) (A (A ed) (V (A it) (V over)))) (p=2.27915e-15)
+(N
+  (V
+    (A that)
+    (V
+      (V (A (A just) (V taste)) (V (A ed) (V kind)))
+      (A of)))
+  (N weird)) (p=5.67824e-28)
+(N
+  (N chi)
+  (V
+    (V ask)
+    (A
+      (A (A ed) (V if))
+      (V
+        (V
+          (A
+            (A (A the) (V ice))
+            (V (A (A cream) (V truck)) (V come)))
+          (V
+            (A (A s) (V round))
+            (V (A can) (V (A (A you) (V get)) (V ice)))))
+        (A cream))))) (p=8.77025e-61)
+(N
+  (N what)
+  (V (V happen) (A (A ed) (V (V over) (A there))))) (p=6.3421e-17)
+(N (N it) (V (V smell) (A (A (A ed) (V so)) (V nice)))) (p=4.04141e-19)
+(N
+  (N what)
+  (V
+    (V happen)
+    (A
+      (A ed)
+      (V
+        (A to)
+        (V
+          (A (A the) (V name))
+          (V (V (V (A s) (V on)) (A the)) (A football))))))) (p=1.58923e-31)
+(N
+  (N elmer)
+  (A
+    (A (A fudd) (V use))
+    (V
+      (A ed)
+      (V
+        (A
+          (A (A to) (V teach))
+          (V (A (A me) (V (A the) (V alphabet))) (V in)))
+        (V (A (A his) (V spare)) (V time)))))) (p=5.49249e-57)
+(N
+  (A owie)
+  (N (N you) (V (V (V bump) (A ed)) (A yourself)))) (p=9.2217e-23)
+(N
+  (V
+    (V miss)
+    (A (A (A rand) (V use)) (V (A ed) (V (A to) (V make)))))
+  (N it)) (p=6.08609e-29)
+(N
+  (V
+    (A (A i) (V use))
+    (V
+      (A (A ed) (V (A (A to) (V have)) (V (A to) (V say))))
+      (V
+        (V
+          (A (A that) (V when))
+          (V (A (A i) (V was)) (V at)))
+        (A the))))
+  (N table)) (p=3.87525e-44)
+(N
+  (N what)
+  (V
+    (V did)
+    (A
+      (A (A it) (V do))
+      (V
+        (V (A (A joseph) (V when)) (V (A you) (V push)))
+        (A ed))))) (p=4.72044e-29)
+(N
+  (V (V (A a) (V (V lot) (A of))) (A the))
+  (N
+    (N book)
+    (A
+      (A s)
+      (V
+        (A
+          (A that)
+          (V
+            (A (A (A i) (V look)) (V (A ed) (V at)))
+            (V are)))
+        (V (A (A n't) (V so)) (V clear)))))) (p=6.35981e-49)
+(N (N i) (V (V (V drop) (A ed)) (A it))) (p=1.32183e-13)
+(N
+  (N what)
+  (A
+    (A (A what) (V happen))
+    (V (A (A ed) (V with)) (V (A the) (V plane))))) (p=1.59074e-23)
+(N
+  (N i)
+  (V
+    (V (V sew) (A (A ed) (V (A your) (V (V pant) (A s)))))
+    (A up))) (p=3.60727e-25)
+(N
+  (N oops)
+  (A
+    (A that)
+    (V
+      (V
+        (A
+          (A
+            (A (A 's) (V happen))
+            (V (A (A ed) (V before)) (V do)))
+          (V (A n't) (V worry)))
+        (V about))
+      (A it)))) (p=2.85057e-40)
+(N
+  (N he)
+  (V
+    (V chop)
+    (A
+      (A ed)
+      (V
+        (A (A (A it) (V into)) (V piece))
+        (V (A s) (V (A that) (V (A 's) (V right)))))))) (p=2.51048e-34)
+(N
+  (N i)
+  (V
+    (V bump)
+    (A (A (A ed) (V into)) (V (A the) (V board))))) (p=8.543e-23)
+(N (V (A you) (V (V play) (A ed))) (N daddy)) (p=6.06389e-13)
+(N
+  (N he)
+  (V (V look) (A (A (A ed) (V in)) (V (A the) (V ear))))) (p=1.53062e-19)
+(N
+  (N we)
+  (V
+    (V skip)
+    (A
+      (A
+        (A (A ed) (V (A a) (V ring)))
+        (V
+          (A though)
+          (V
+            (A child)
+            (V (A (A this) (V is)) (V (A the) (V page))))))
+      (V (A we) (V (A 're) (V on)))))) (p=2.7054e-50)
+(N (N open) (A (A ed) (V (A the) (V card)))) (p=3.47073e-15)
+(N
+  (V
+    (A (A (A mickey) (V lean)) (V (A ed) (V against)))
+    (V
+      (A
+        (A (A (A the) (V door)) (V (A to) (V keep)))
+        (V (A them) (V out)))
+      (V but)))
+  (N (N they) (A kept))) (p=5.63775e-53)
+(N
+  (N oh)
+  (A
+    (A
+      (A (A (A you) (V put)) (V slipper))
+      (V (A (A s) (V on)) (V (A and) (V pretend))))
+    (V (A (A ed) (V (A you) (V were))) (V (A a) (V man))))) (p=6.73914e-42)
+(N
+  (N
+    (V
+      (V do)
+      (A
+        (A
+          (A (A i) (V need))
+          (V (A (A to) (V ask)) (V miss)))
+        (V teacher)))
+    (N what))
+  (V (V happen) (A (A ed) (V (A to) (V (A your) (V bib)))))) (p=1.96538e-46)
+(N
+  (V (A that) (V (A 's) (V (A the) (V same))))
+  (N
+    (N book)
+    (A
+      (A (A we) (V look))
+      (V (A (A ed) (V at)) (V (A last) (V time)))))) (p=3.67522e-37)
+(N (N you) (A (A just) (V (V (V pass) (A ed)) (A them)))) (p=6.15654e-19)
+(N
+  (N and)
+  (V
+    (V jump)
+    (A
+      (A
+        (A (A ed) (V (A and) (V jump)))
+        (V (A ed) (V (A and) (V out))))
+      (V came)))) (p=1.87126e-32)
+(N
+  (N and)
+  (A
+    (A (A we) (V dance))
+    (V (A (A ed) (V on)) (V (A the) (V beach))))) (p=1.41976e-23)
+(N
+  (N she)
+  (V
+    (V want)
+    (A
+      (A (A ed) (V one))
+      (V (A of) (V (A (A those) (V one)) (V day)))))) (p=1.20743e-27)
+(N (N you) (V (V kick) (A (A ed) (V (A a) (V ball))))) (p=8.22745e-18)
+(N
+  (N but)
+  (A
+    (A (A he) (V wonder))
+    (V
+      (A (A (A ed) (V if)) (V (A you) (V if)))
+      (V
+        (A (A (A you) (V read)) (V (A a) (V bedtime)))
+        (V story))))) (p=1.36061e-43)
+(N (N pop) (A (A ed) (V (V right) (A up)))) (p=7.71312e-17)
+(N
+  (N you)
+  (A
+    (A color)
+    (V (A (A ed) (V on)) (V (A your) (V picture))))) (p=6.9698e-20)
+(N
+  (N oh)
+  (V (V (V now) (A (A you) (V (V drop) (A ed)))) (A it))) (p=1.14147e-19)
+(N
+  (N who)
+  (V
+    (V pull)
+    (A
+      (A (A (A ed) (V out)) (V all))
+      (V (V (A these) (V thing)) (A s))))) (p=4.37829e-28)
+(N
+  (N
+    (V
+      (V
+        (A (A the) (V penguin))
+        (V
+          (A (A s) (V hop))
+          (V (A ed) (V (A up) (V (A the) (V stair))))))
+      (A s))
+    (N and))
+  (V
+    (V then)
+    (A
+      (A (A they) (V jump))
+      (V (V (A ed) (V into)) (A the))))) (p=3.39761e-56)
+(N
+  (N i)
+  (V (V want) (A (A ed) (V (V (A to) (V take)) (A them))))) (p=4.61344e-19)
+(N
+  (N (V (A (A and) (V right)) (V back)) (N where))
+  (A (A you) (V (V start) (A ed)))) (p=1.24497e-24)
+(N
+  (V
+    (V one)
+    (A
+      (A (A cadet) (V die))
+      (V (A (A ed) (V from)) (V heat))))
+  (N exhaustion)) (p=4.76318e-39)
+(N
+  (V
+    (A (A (A the) (V doggie)) (V like))
+    (V (A s) (V (A (A to) (V stay)) (V in))))
+  (N there)) (p=4.14133e-26)
+(N
+  (N i)
+  (V
+    (V ca)
+    (A
+      (A (A n't) (V see))
+      (V (V (A what) (V (A it) (V say))) (A s))))) (p=1.15482e-24)
+(N
+  (N child)
+  (V
+    (V like)
+    (A (A s) (V (V (A (A her) (V bubble)) (V bath)) (A s))))) (p=6.997e-26)
+(N (N it) (V (V look) (A s))) (p=2.33763e-09)
+(N
+  (N betta)
+  (V
+    (V live)
+    (A
+      (A (A s) (V in))
+      (V
+        (V (A (A (A the) (V same)) (V town)) (V with))
+        (A nonna))))) (p=6.32068e-36)
+(N (N who) (V (V say) (A (A s) (V (A oink) (V oink))))) (p=1.71132e-21)
+(N
+  (V
+    (V taste)
+    (A
+      (A s)
+      (V (A (A kinda) (V funny)) (V (V does) (A n't)))))
+  (N it)) (p=2.42795e-27)
+(N
+  (N it)
+  (V
+    (V make)
+    (A
+      (A
+        (A
+          (A s)
+          (V
+            (A (A (A (A me) (V so)) (V sad)) (V when))
+            (V
+              (A (A (A you) (V do)) (V (A n't) (V want)))
+              (V (A to) (V do)))))
+        (V thing))
+      (V (V (A s) (V like)) (A that))))) (p=7.91963e-53)
+(N
+  (N everybody)
+  (V
+    (V want)
+    (A
+      (A s)
+      (V
+        (V (V (V (A to) (V talk)) (A to)) (A you))
+        (A everybody))))) (p=3.98859e-27)
+(N (N that) (V (V hurt) (A s))) (p=4.64326e-10)
+(N (N now) (A (A it) (V (V stay) (A s)))) (p=1.79508e-13)
+(N
+  (N that)
+  (V
+    (V make)
+    (A (A (A s) (V sarah)) (V (V happy) (A too))))) (p=3.34904e-22)
+(N (N (N which) (V one)) (V (V (V come) (A s)) (A next))) (p=1.58274e-18)
+(N
+  (N
+    (V (V (A and) (V (V (A she) (V see)) (A s))) (A their))
+    (N tent))
+  (A s)) (p=3.29827e-25)
+(N (V (V (A that) (V spell)) (A s)) (N how)) (p=8.87099e-15)
+(N
+  (N well)
+  (A
+    (A (A (A what) (V if)) (V (A blue) (V come)))
+    (V (A s) (V out)))) (p=1.55815e-24)
+(N (N it) (V (V make) (A (A s) (V (A you) (V cold))))) (p=4.97073e-16)
+(N
+  (V
+    (A (A the) (V part))
+    (V
+      (V
+        (V (A (A that) (V come)) (V (A s) (V out)))
+        (A of))
+      (A the)))
+  (N blower)) (p=1.05369e-31)
+(N
+  (N that)
+  (V (V make) (A (A (A s) (V (A me) (V so))) (V mad)))) (p=3.1215e-21)
+(N (V (V (A it) (V spell)) (A s)) (N wollensak)) (p=2.53001e-17)
+(N
+  (N you)
+  (V
+    (V know)
+    (A
+      (A (A the) (V one))
+      (V (A s) (V (V (A she) (V know)) (A s)))))) (p=2.29937e-23)
+(N
+  (N it)
+  (V
+    (V feel)
+    (A
+      (A (A s) (V kind))
+      (V
+        (V (A (A of) (V feel)) (V (A s) (V funny)))
+        (A too))))) (p=4.91663e-32)
+(N
+  (N do)
+  (A (A (A you) (V think)) (V (V (A it) (V work)) (A s)))) (p=1.36172e-18)
+(N (V because) (N (N mommy) (V (V say) (A (A s) (V so))))) (p=5.17049e-18)
+(N (N he) (V (V want) (A (A s) (V (A a) (V bottle))))) (p=2.68326e-16)
+(N (N he) (V (V cry) (A s))) (p=2.02452e-10)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V play))
+    (V
+      (A (A ing) (V with))
+      (V
+        (A (A my) (V tape))
+        (V
+          (V
+            (A (A recorder) (V (A (A to) (V see)) (V if)))
+            (V (A it) (V work)))
+          (A s)))))) (p=2.15026e-46)
+(N
+  (V (V (V (V seem) (A s)) (A to)) (A me))
+  (N
+    (N that)
+    (A
+      (A (A (A (A those) (V were)) (V twenty)) (V nine))
+      (V
+        (V (A (A or) (V thirty)) (V (A two) (V dollar)))
+        (A s))))) (p=1.20037e-54)
+(N
+  (N it)
+  (V
+    (V cost)
+    (A
+      (A (A s) (V (A too) (V (A much) (V money))))
+      (V (A (A to) (V buy)) (V (A another) (V one)))))) (p=1.15766e-38)
+(N
+  (N recorder)
+  (V (V want) (A (A (A s) (V glass)) (V (A s) (V on))))) (p=3.47291e-22)
+(N (N fall) (A (A s) (V off))) (p=1.70235e-12)
+(N
+  (N i)
+  (V
+    (V
+      (V want)
+      (A
+        (A a)
+        (V
+          (A job)
+          (V
+            (A (A that) (V (A 's) (V interesting)))
+            (V
+              (V
+                (A (A to) (V do))
+                (V
+                  (A and)
+                  (V
+                    (A (A that) (V pay))
+                    (V
+                      (A (A s) (V (A me) (V as)))
+                      (V
+                        (A
+                          (A (A much) (V as))
+                          (V (A i) (V make)))
+                        (V now))))))
+              (A or))))))
+    (A more))) (p=1.60238e-76)
+(N
+  (N (N this) (V sometimes))
+  (V (V make) (A (A s) (V (A you) (V cry))))) (p=6.71051e-22)
+(N
+  (N morgie)
+  (V (V eat) (A (A s) (V (A (A a) (V bunch)) (V time))))) (p=8.89614e-23)
+(N
+  (N now)
+  (A (A (A she) (V bring)) (V (A s) (V (A it) (V over))))) (p=2.7289e-20)
+(N
+  (N she)
+  (A
+    (A (A 's) (V wear))
+    (V
+      (A (A (A ing) (V (A a) (V hat))) (V while))
+      (V (V (A she) (V swim)) (A s))))) (p=7.41694e-34)
+(N
+  (N oh)
+  (A
+    (A (A i) (V do))
+    (V
+      (V
+        (V
+          (A (A n't) (V think))
+          (V (V (A (A the) (V doll)) (V want)) (A s)))
+        (A any))
+      (A more)))) (p=7.50883e-35)
+(N
+  (N (V see) (N how))
+  (A
+    (A (A it) (V compare))
+    (V
+      (V
+        (A s)
+        (V (A to) (V (A your) (V (A brown) (V shoe)))))
+      (A s)))) (p=8.562e-36)
+(N
+  (N no)
+  (A
+    (A (A (A this) (V make)) (V (A s) (V (A it) (V feel))))
+    (V cool))) (p=8.95844e-25)
+(N
+  (N she)
+  (V (V (V (V (V want) (A s)) (A the)) (A porkchop)) (A s))) (p=1.39376e-20)
+(N
+  (N why)
+  (V
+    (V do)
+    (A
+      (A (A n't) (V (A you) (V tell)))
+      (V
+        (A investigator)
+        (V
+          (A (A (A (A what) (V bruce)) (V does)) (V when))
+          (V (V (A he) (V (V get) (A s))) (A the))))))) (p=1.87845e-47)
+(N
+  (N (N (N that) (V little)) (V smile))
+  (V
+    (V for)
+    (A
+      (A (A me) (V say))
+      (V
+        (A (A s) (V (A you) (V think)))
+        (V (A you) (V (A 're) (V funny))))))) (p=1.62042e-39)
+(N (N (N the) (V woman)) (V (V say) (A s))) (p=3.76099e-15)
+(N (N clap) (V (V hand) (A (A s) (V booboo)))) (p=2.56801e-17)
+(N
+  (N gail)
+  (V (V (V put) (A (A s) (V (A the) (V eye)))) (A s))) (p=3.77164e-20)
+(N
+  (V
+    (A (A i) (V think))
+    (V
+      (A (A this) (V need))
+      (V (A (A s) (V (A to) (V be))) (V one))))
+  (N higher)) (p=9.93653e-32)
+(N (N make) (A (A s) (V (A em) (V backwards)))) (p=3.62457e-17)
+(N
+  (N what)
+  (V
+    (V about)
+    (A
+      (A (A the) (V word))
+      (V
+        (V
+          (A (A that) (V rhyme))
+          (V (A (A s) (V with)) (V see)))
+        (A s))))) (p=2.59054e-33)
+(N
+  (N she)
+  (V
+    (V think)
+    (A
+      (A s)
+      (V
+        (V
+          (A you)
+          (V
+            (A (A 're) (V fight))
+            (V (A ing) (V (A the) (V lion)))))
+        (A s))))) (p=2.45092e-31)
+(N
+  (V
+    (V tickle)
+    (A (A (A s) (V look)) (V (V (A s) (V like)) (A an))))
+  (N orphan)) (p=3.82169e-27)
+(N
+  (N (N (N (N you) (V go)) (V when)) (V nana))
+  (V (V come) (A (A (A (A s) (V home)) (V from)) (V work)))) (p=1.30363e-32)
+(N
+  (N look)
+  (A (A (A (A s) (V like)) (V half)) (V (A a) (V circle)))) (p=1.18145e-21)
+(N
+  (N she)
+  (V
+    (V take)
+    (A
+      (A s)
+      (V
+        (A it)
+        (V (A (A every) (V place)) (V (A she) (V goes))))))) (p=3.65393e-29)
+(N (N fraser) (V (V come) (A (A s) (V (V on) (A monday))))) (p=1.13103e-19)
+(N
+  (N ma)
+  (A
+    (A (A chi) (V want))
+    (V (A (A s) (V (A the) (V paper))) (V towel)))) (p=2.20138e-27)
+(N (N (V (V take) (A s)) (N you)) (V (V swim) (A ing))) (p=9.64832e-17)
+(N
+  (V
+    (V
+      (V
+        (A
+          (A (A that) (V (A 's) (V not)))
+          (V (A where) (V one)))
+        (V hold))
+      (A s))
+    (A a))
+  (N dog)) (p=2.65374e-29)
+(N (V (V begin) (A (A s) (V with))) (N al)) (p=1.12579e-17)
+(N
+  (V
+    (A (A she) (V want))
+    (V (V (A s) (V (A to) (V read))) (A the)))
+  (N (N book) (A too))) (p=9.4025e-26)
+(N
+  (N he)
+  (V
+    (V look)
+    (A
+      (A
+        (A (A s) (V like))
+        (V
+          (A he)
+          (V
+            (A (A 's) (V go))
+            (V (A ing) (V (A (A to) (V eat)) (V look))))))
+      (V (A (A s) (V like)) (V coffee))))) (p=2.78316e-42)
+(N
+  (V
+    (V one)
+    (A
+      (V boy)
+      (A
+        (A who)
+        (V (V (V (V live) (A s)) (A down)) (A the)))))
+  (N lane)) (p=8.13572e-32)
+(N (N it) (V (V start) (A (A s) (V with)))) (p=1.39689e-13)
+(N
+  (N he)
+  (V
+    (V does)
+    (A
+      (A (A n't) (V like))
+      (V
+        (V (V (A to) (V (A or) (V (A he) (V like)))) (A s))
+        (A to))))) (p=1.37553e-30)
+(N
+  (N because)
+  (A
+    (A (A (A (A his) (V name)) (V is)) (V willy))
+    (V (V (A and) (V (A he) (V creep))) (A s)))) (p=2.85677e-36)
+(N
+  (N then)
+  (A
+    (A he)
+    (V
+      (V (V (V (V shake) (A s)) (A it)) (A some))
+      (A more)))) (p=2.98925e-25)
+(N
+  (V
+    (A (A he) (V know))
+    (V
+      (A s)
+      (V
+        (A his)
+        (V (A (A nursery) (V rhyme)) (V (A s) (V so))))))
+  (N well)) (p=1.87708e-34)
+(N
+  (N oh)
+  (A
+    (A (A it) (V sound))
+    (V
+      (A (A (A s) (V like)) (V (A a) (V baby)))
+      (V
+        (A (A 's) (V cry))
+        (V (A ing) (V (A next) (V door))))))) (p=1.04973e-39)
+(N
+  (N
+    (V
+      (V as)
+      (A
+        (A (A soon) (V as))
+        (V
+          (A (A eve) (V eat))
+          (V (A s) (V (A her) (V lunch))))))
+    (N and))
+  (V
+    (V as)
+    (A
+      (A (A soon) (V as))
+      (V
+        (A (A eve) (V eat))
+        (V (A s) (V (A her) (V lunch))))))) (p=2.09915e-66)
+(N
+  (N i)
+  (A
+    (A
+      (A (A (A (A 'll) (V be)) (V glad)) (V when))
+      (V summer))
+    (V (V come) (A s)))) (p=1.83049e-29)
+(N
+  (N he)
+  (V (V say) (A (A (A s) (V thank)) (V (A you) (V kay))))) (p=6.37163e-22)
+(N
+  (N who)
+  (A
+    (A (A else) (V give))
+    (V
+      (V
+        (A (A s) (V (A (A you) (V tea)) (V party)))
+        (V
+          (A (A s) (V at))
+          (V
+            (A eleven)
+            (V (A (A (A o) (V clock)) (V at)) (V night)))))
+      (A huh)))) (p=4.52997e-57)
+(N
+  (N it)
+  (V
+    (V (V look) (A (A s) (V (V so) (A cheerful))))
+    (A today))) (p=9.99963e-25)
+(N
+  (N nothing)
+  (V (V (V come) (A (A s) (V with))) (A anything))) (p=2.69558e-19)
+(N (N and) (A (A (A the) (V farmer)) (V (V say) (A s)))) (p=4.57371e-17)
+(N
+  (N what)
+  (V
+    (V happen)
+    (A
+      (A (A (A s) (V when)) (V (A it) (V drip)))
+      (V (A (A s) (V on)) (V (A your) (V hand)))))) (p=5.25724e-33)
+(N (N what) (V (V (V keep) (A (A s) (V happen))) (A ing))) (p=7.59048e-16)
+(N
+  (N oh)
+  (A
+    (A
+      (A the)
+      (V
+        (A stairway)
+        (V (A (A i) (V think)) (V (A he) (V know)))))
+    (V
+      (A (A s) (V not))
+      (V
+        (A
+          (A (A to) (V go))
+          (V (A down) (V (A the) (V stair))))
+        (V (A s) (V by)))))) (p=9.24936e-54)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V sure))
+    (V
+      (V
+        (A (A it) (V provide))
+        (V
+          (A (A s) (V hour))
+          (V
+            (A s)
+            (V
+              (V (A (A of) (V enjoyment)) (V for))
+              (A child)))))
+      (A too)))) (p=6.39682e-52)
+(N
+  (N mommy)
+  (V (V (V like) (A (A s) (V cheerios))) (A too))) (p=1.08757e-18)
+(N
+  (N i)
+  (V
+    (V guess)
+    (A
+      (A you)
+      (V
+        (A (A must) (V be))
+        (V
+          (A the)
+          (V
+            (A (A only) (V man))
+            (V
+              (A (A who) (V shave))
+              (V
+                (A (A (A s) (V with)) (V (A a) (V diaper)))
+                (V around))))))))) (p=6.35513e-54)
+(N (N smell) (A (A s) (V good))) (p=3.07106e-12)
+(N
+  (N so)
+  (A (A (A she) (V play)) (V (A s) (V (V with) (A them))))) (p=4.10097e-20)
+(N (V (V start) (A (A s) (V like))) (N that)) (p=4.1471e-14)
+(N
+  (N it)
+  (V
+    (V sound)
+    (A (A (A s) (V like)) (V (A the) (V ocean))))) (p=4.28261e-21)
+(N
+  (N hurry)
+  (A
+    (A
+      (A (A (A up) (V before)) (V (A the) (V tape)))
+      (V run))
+    (V (A s) (V out)))) (p=3.90748e-30)
+(N
+  (N
+    (V
+      (V (A no) (V (A (A i) (V do)) (V (A n't) (V think))))
+      (A the))
+    (N table))
+  (V (V (V come) (A s)) (A up))) (p=9.75961e-32)
+(N
+  (N it)
+  (V
+    (V
+      (V (V turn) (A (A (A s) (V around)) (V does)))
+      (A n't))
+    (A it))) (p=6.96792e-23)
+(N
+  (N that)
+  (A
+    (A 's)
+    (V (V (A what) (V (A stripey) (V like))) (A s)))) (p=3.34801e-22)
+(N (N it) (V (V spell) (A s))) (p=9.19089e-11)
+(N
+  (V (V (V (A (A the) (N cat)) (V chase)) (A s)) (A the))
+  (N dog)) (p=2.85437e-21)
+(N
+  (N and)
+  (A
+    (A (A (A the) (V trailer)) (V come))
+    (V (A s) (V off)))) (p=3.01642e-21)
+(N (V (V work) (A s)) (N up)) (p=1.63408e-12)
+(N
+  (N but)
+  (A
+    (A (A it) (V look))
+    (V
+      (V (A s) (V (A (A pretty) (V cute)) (V on)))
+      (A her)))) (p=8.55551e-28)
+(N
+  (V (V because) (A (A that) (V 's)))
+  (N
+    (N where)
+    (A (A (A it) (V taste)) (V (A s) (V (A the) (V best)))))) (p=2.90313e-30)
+(N
+  (N there)
+  (A
+    (A (A that) (V make))
+    (V
+      (V
+        (V
+          (A s)
+          (V (A a) (V (A (A big) (V zoo)) (V does))))
+        (A n't))
+      (A it)))) (p=1.15374e-31)
+(N
+  (N tweettweettweet)
+  (V (V say) (A (A s) (V (A the) (V birdie))))) (p=3.52367e-20)
+(N
+  (N
+    (V
+      (V hold)
+      (A
+        (A (A it) (V (A (A up) (V so)) (V adam)))
+        (V (A can) (V see))))
+    (N how))
+  (A (A it) (V (V look) (A s)))) (p=3.94556e-38)
+(N
+  (N does)
+  (A (A (A (A the) (V baba)) (V have)) (V (A a) (V name)))) (p=2.14458e-21)
+(N
+  (N it)
+  (V
+    (V does)
+    (A (A (A n't) (V have)) (V (V (A any) (V wing)) (A s))))) (p=3.57074e-24)
+(N
+  (N it)
+  (V
+    (V does)
+    (A
+      (A (A (A n't) (V come)) (V out))
+      (V (A that) (V way))))) (p=3.03136e-23)
+(N (N does) (A (A n't) (V say))) (p=1.02473e-10)
+(N
+  (N we)
+  (V
+    (V have)
+    (A
+      (A
+        (A (A to) (V be))
+        (V
+          (A careful)
+          (V
+            (A (A that) (V (A it) (V does)))
+            (V (A n't) (V fall)))))
+      (V apart)))) (p=3.34929e-38)
+(N
+  (N what)
+  (V (V does) (A (A (A it) (V have)) (V (V on) (A it))))) (p=1.59983e-17)
+(N
+  (N does)
+  (V
+    (V all)
+    (A
+      (A (A your) (V baby))
+      (V (A (A s) (V smoke)) (V (V pipe) (A s)))))) (p=4.71944e-29)
+(N (N mr) (A (A (A cromer) (V has)) (V (A a) (V pencil)))) (p=1.1977e-21)
+(N
+  (V
+    (V
+      (A (A (A a) (V play)) (V house))
+      (V
+        (A (A (A (A that) (V goes)) (V out)) (V in))
+        (V (A (A (A the) (V backyard)) (V right)) (V near))))
+    (A the))
+  (N swingset)) (p=2.43503e-48)
+(N
+  (N does)
+  (A
+    (A
+      (A (A (A that) (V look)) (V like))
+      (V (A the) (V lion)))
+    (V now))) (p=5.37008e-24)
+(N
+  (N (N that) (V little))
+  (V (V man) (A (A (A goes) (V in)) (V (A the) (V car))))) (p=4.66225e-24)
+(N
+  (N does)
+  (A (A (A (A the) (V doggy)) (V have)) (V (A a) (V tail)))) (p=4.06737e-21)
+(N
+  (N (V (V (A where) (V does)) (A the)) (N mouse))
+  (V (V want) (A (A to) (V go)))) (p=1.59084e-22)
+(N
+  (N (N it) (V has))
+  (V
+    (V lot)
+    (A
+      (A (A s) (V (A and) (V lot)))
+      (V (A s) (V (A of) (V (V picture) (A s))))))) (p=2.4253e-32)
+(N (N someone) (V (V has) (A (A a) (V cough)))) (p=2.24429e-17)
+(N
+  (N (N (V does) (N mommy)) (V wear))
+  (V
+    (V barrette)
+    (A (A (A s) (V in)) (V (A her) (V hair))))) (p=5.10613e-30)
+(N
+  (N what)
+  (A (A (A (A else) (V does)) (V (A a) (V lion))) (V need))) (p=4.23349e-21)
+(N (N what) (V (V does) (A (A it) (V do)))) (p=9.1513e-12)
+(N (N he) (A (A (A goes) (V in)) (V (A the) (V box)))) (p=6.28201e-17)
+(N
+  (N does)
+  (A
+    (A (A it) (V fasten))
+    (V (A to) (V (A this) (V window))))) (p=6.37786e-23)
+(N (N he) (V (V (V does) (A n't)) (A what))) (p=4.01265e-13)
+(N
+  (N does)
+  (A
+    (A n't)
+    (V
+      (A (A (A that) (V make)) (V (A a) (V funny)))
+      (V bubble)))) (p=5.65624e-25)
+(N
+  (N does)
+  (A
+    (A (A that) (V make))
+    (V (V (A you) (V feel)) (A better)))) (p=2.19286e-21)
+; PARSE_ERROR: she does so much better in jeans than anything else
+(N
+  (N where)
+  (V
+    (V do)
+    (A
+      (A (A (A you) (V go)) (V when))
+      (V (A (A mommy) (V goes)) (V (A to) (V work)))))) (p=1.32505e-29)
+(N
+  (N what)
+  (V (V (V (V has) (A (A to) (V happen))) (A to)) (A them))) (p=5.67421e-19)
+(N
+  (V (V does) (A (A (A she) (V look)) (V like)))
+  (N suzanne)) (p=5.48927e-21)
+(N
+  (N does)
+  (A
+    (A
+      (A (A (A it) (V hurt)) (V when))
+      (V (A (A (A the) (V soap)) (V goes)) (V in)))
+    (V (V (A her) (V eye)) (A s)))) (p=7.25527e-39)
+(N
+  (N he)
+  (V
+    (V look)
+    (A (A (A s) (V scary)) (V (V (V does) (A n't)) (A he))))) (p=1.69105e-24)
+(N (N (V does) (N what)) (V hurt)) (p=1.45276e-11)
+(N
+  (N it)
+  (A
+    (A
+      (A
+        (A (A (A it) (V does)) (V look))
+        (V (A a) (V lot)))
+      (V like))
+    (V (A a) (V tomato)))) (p=3.905e-30)
+(N (N up) (V goes)) (p=2.47642e-09)
+(N (N watch) (A (A here) (V (A she) (V goes)))) (p=5.51411e-16)
+(N (N lala) (V does)) (p=3.54606e-10)
+(N (N what) (V (V does) (A (A she) (V need)))) (p=9.85993e-14)
+(N
+  (N does)
+  (A (A (A (A that) (V go)) (V with)) (V (A the) (V cow)))) (p=1.27656e-19)
+(N (N she) (V has)) (p=1.36054e-07)
+(N
+  (N (N it) (V has))
+  (V (V (V bump) (A (A s) (V (V in) (A it)))) (A too))) (p=1.7806e-23)
+(N
+  (N fraser)
+  (V
+    (V does)
+    (A
+      (A (A n't) (V want))
+      (V
+        (V
+          (A
+            (A (A to) (V hear))
+            (V
+              (A it)
+              (V (A (A i) (V do)) (V (A n't) (V want)))))
+          (V (A to) (V hear)))
+        (A it))))) (p=3.14965e-45)
+(N
+  (N what)
+  (V
+    (V does)
+    (A
+      (A (A (A she) (V have)) (V on))
+      (V (A her) (V hair))))) (p=5.63643e-23)
+(N
+  (N i)
+  (V
+    (V thought)
+    (A
+      (A
+        (A (A it) (V was))
+        (V
+          (A (A (A just) (V (A a) (V little))) (V piece))
+          (V (A of) (V (A a) (V (A a) (V (A a) (V stub)))))))
+      (V
+        (V
+          (A (A that) (V came))
+          (V
+            (A up)
+            (V
+              (A
+                (A (A (A and) (V goes)) (V through))
+                (V (A the) (V hole)))
+              (V (A and) (V (V stay) (A ed))))))
+        (A there))))) (p=4.6491e-86)
+(N
+  (N well)
+  (A
+    (A (A he) (V like))
+    (V
+      (A
+        (A s)
+        (V
+          (A (A it) (V but))
+          (V (A (A he) (V does)) (V (A n't) (V know)))))
+      (V
+        (A how)
+        (V (A (A to) (V handle)) (V (A it) (V carefully))))))) (p=2.28357e-51)
+(N
+  (N when)
+  (V
+    (V does)
+    (A (A (A (A her) (V school)) (V get)) (V out)))) (p=3.95119e-22)
+(N (N yes) (A (A he) (V does))) (p=1.00593e-10)
+(N (N (V after) (N sarah)) (V (V has) (A (A a) (V turn)))) (p=5.14325e-20)
+(N (N who) (V (V has) (A (A a) (V (A blue) (V truck))))) (p=1.17506e-18)
+(N
+  (V
+    (V (A here) (V (V (V (A he) (V has)) (A a)) (A big)))
+    (A white))
+  (N mustache)) (p=7.88286e-28)
+(N
+  (N why)
+  (V
+    (V does)
+    (A (A (A (A the) (V house)) (V have)) (V hair)))) (p=1.61425e-20)
+(N (V (V has) (A to)) (N (N stay) (V inside))) (p=5.29627e-17)
+(N (N i) (V (V do) (A (A n't) (V (A she) (V does))))) (p=1.88834e-15)
+(N
+  (V
+    (V
+      (A (A (A that) (V kitty)) (V does))
+      (V (A n't) (V like)))
+    (A that))
+  (N toy)) (p=3.30897e-23)
+(N
+  (N does)
+  (A (A (A that) (V look)) (V (V like) (A grammy)))) (p=3.19145e-19)
+(N (N does) (A (A he) (V bite))) (p=7.78597e-12)
+(N
+  (N that)
+  (V
+    (V mean)
+    (A
+      (A
+        (A (A s) (V (A kent) (V has)))
+        (V (A (A to) (V go)) (V back)))
+      (V (A a) (V one))))) (p=4.50548e-33)
+(N (N what) (V (V does) (A (A he) (V have)))) (p=1.2811e-12)
+(N
+  (N what)
+  (V
+    (V is)
+    (A
+      (A (A that) (V (A what) (V does)))
+      (V (A (A that) (V look)) (V like))))) (p=2.27241e-24)
+(N
+  (N (V (A (A to) (V make)) (V sure)) (N no))
+  (V (V one) (A (A goes) (V (V (V out) (A too)) (A far))))) (p=8.87923e-35)
+(N (N how) (V (V does) (A (A this) (V go)))) (p=2.67724e-13)
+(N (N when) (A (A (A fraser) (V goes)) (V away))) (p=8.89739e-18)
+(N
+  (N so)
+  (A
+    (A (A she) (V does))
+    (V (A (A n't) (V have)) (V school)))) (p=5.02104e-21)
+(N (N no) (A (A (A what) (V does)) (V (A that) (V mean)))) (p=4.40139e-17)
+(N
+  (N does)
+  (A
+    (A (A child) (V light))
+    (V (V (A the) (V match)) (A s)))) (p=6.6358e-23)
+(N
+  (N what)
+  (A
+    (A (A color) (V eye))
+    (V (A (A s) (V does)) (V (A he) (V have))))) (p=4.88457e-23)
+(N
+  (N
+    (V
+      (V if)
+      (A
+        (A (A you) (V keep))
+        (V
+          (A (A every) (V thing))
+          (V (A that) (V (A she) (V has))))))
+    (N what))
+  (V (V would) (A (A (A she) (V have)) (V for)))) (p=1.00799e-45)
+(N
+  (N just)
+  (V
+    (V
+      (V
+        (V does)
+        (A
+          (A (A n't) (V have))
+          (V
+            (V
+              (A (A the) (V wall))
+              (V
+                (V
+                  (A (A s) (V divide))
+                  (V (A ing) (V (A the) (V room))))
+                (A s)))
+            (A up))))
+      (A any))
+    (A more))) (p=3.3007e-52)
+(N
+  (N does)
+  (A
+    (A
+      (A n't)
+      (V (A (A (A he) (V make)) (V food)) (V for)))
+    (V (A you) (V (A to) (V eat))))) (p=4.31309e-29)
+(N (N yes) (A (A it) (V does))) (p=3.11042e-10)
+(N (N she) (V (V does) (A (A n't) (V care)))) (p=5.70445e-15)
+(N (N does) (A (A (A n't) (V fit)) (V (V does) (A it)))) (p=1.07804e-17)
+(N (V (A that) (V 's)) (N (N where) (A (A it) (V goes)))) (p=1.49854e-16)
+(N
+  (N because)
+  (A
+    (A i)
+    (V
+      (V
+        (A 'm)
+        (V
+          (A (A pretty) (V sure))
+          (V
+            (V
+              (V (V (A it) (V (A it) (V does))) (A much))
+              (A much))
+            (A better))))
+      (A job)))) (p=2.20722e-45)
+(N
+  (N
+    (V
+      (A (A he) (V has))
+      (V
+        (A (A (A this) (V obsession)) (V lately))
+        (V with)))
+    (N dog))
+  (V food)) (p=6.92377e-35)
+(N (N who) (V (V has) (A it))) (p=3.62163e-10)
+(N
+  (N we)
+  (V
+    (V say)
+    (A
+      (A that)
+      (V
+        (A to)
+        (V
+          (A
+            (A (A her) (V so))
+            (V
+              (A much)
+              (V (A (A she) (V has)) (V (A to) (V say)))))
+          (V (A it) (V back))))))) (p=1.82962e-43)
+(N
+  (N my)
+  (V
+    (V goodness)
+    (A
+      (A (A he) (V has))
+      (V
+        (V
+          (V
+            (A
+              (A
+                (A (A a) (V lot))
+                (V (A of) (V (A band) (V aids))))
+              (V on))
+            (V does))
+          (A n't))
+        (A he))))) (p=3.96956e-48)
+(N
+  (N where)
+  (A
+    (A 's)
+    (V
+      (V
+        (A (A your) (V (A she) (V does)))
+        (V (A (A n't) (V have)) (V curl)))
+      (A s)))) (p=6.63155e-29)
+(N
+  (N he)
+  (V
+    (V
+      (V has)
+      (A
+        (A (A big) (V hand))
+        (V (V (A s) (V does)) (A n't))))
+    (A he))) (p=1.30532e-26)
+(N (N it) (V does)) (p=5.1367e-07)
+(N
+  (N well)
+  (A
+    (A (A (A it) (V does)) (V (A n't) (V seem)))
+    (V (A (A to) (V have)) (V (A a) (V top))))) (p=1.10986e-29)
+(N (N what) (V (V does) (A (A (A it) (V taste)) (V like)))) (p=8.08016e-17)
+(N
+  (N because)
+  (A
+    (A (A somebody) (V has))
+    (V (A to) (V (V drive) (A it))))) (p=1.89737e-22)
+(N (N he) (V does)) (p=3.23699e-07)
+(N
+  (N and)
+  (A
+    (A (A what) (V does))
+    (V
+      (V
+        (A (A (A he) (V have)) (V on))
+        (V
+          (A (A (A his) (V nose)) (V (A and) (V on)))
+          (V (A his) (V eye))))
+      (A s)))) (p=9.81048e-43)
+(N
+  (N what)
+  (V
+    (V kind)
+    (A
+      (A (A of) (V (A (A a) (V nose)) (V does)))
+      (V (A (A that) (V bunny)) (V have))))) (p=4.99846e-30)
+(N (N does) (A he)) (p=1.39575e-07)
+(N
+  (N well)
+  (A
+    (A (A joseph) (V does))
+    (V
+      (V
+        (A (A n't) (V have))
+        (V
+          (A
+            (A grippie)
+            (V (A (A s) (V on)) (V (A these) (V right))))
+          (V because)))
+      (A he)))) (p=1.17437e-43)
+(N
+  (N does)
+  (A
+    (A (A (A it) (V hurt)) (V when))
+    (V (A you) (V cough)))) (p=1.67986e-22)
+(N
+  (N kent)
+  (A
+    (A (A (A and) (V sarah)) (V does))
+    (V
+      (A n't)
+      (V (A (A that) (V sound)) (V (A the) (V same)))))) (p=1.89159e-33)
+(N (N where) (V (V does) (A (A that) (V go)))) (p=1.80095e-12)
+(N
+  (N does)
+  (A
+    (A (A that) (V make))
+    (V (V (A big) (V (A red) (V spot))) (A s)))) (p=4.56858e-26)
+(N
+  (N does)
+  (A
+    (A (A she) (V need))
+    (V (V (A (A a) (V hug)) (V from)) (A me)))) (p=4.92747e-26)
+(N
+  (N i)
+  (V
+    (V think)
+    (A
+      (A (A (A that) (V goes)) (V on))
+      (V (V (A the) (V bottom)) (A honey))))) (p=1.0933e-27)
+(N
+  (N yeah)
+  (A
+    (A (A (A it) (V look)) (V (A (A s) (V like)) (V hair)))
+    (V (V (V does) (A n't)) (A it)))) (p=3.0795e-28)
+(N
+  (N he)
+  (A
+    (A (A 's) (V so))
+    (V
+      (A tiny)
+      (V
+        (A (A that) (V (A he) (V does)))
+        (V
+          (A (A n't) (V (A really) (V know)))
+          (V
+            (A that)
+            (V
+              (A it)
+              (V
+                (A (A (A 's) (V not)) (V nice))
+                (V (A to) (V knock)))))))))) (p=1.25974e-56)
+(N
+  (N (N (N where) (V does)) (V one))
+  (V (V keep) (A (A the) (V (V apple) (A juice))))) (p=3.83268e-26)
+(N
+  (N but)
+  (A
+    (A (A (A this) (V dollie)) (V sound))
+    (V
+      (V
+        (A (A s) (V as))
+        (V (A though) (V (A it) (V has))))
+      (A indigestion)))) (p=1.56069e-41)
+(N (N what) (V (V does) (A (A she) (V do)))) (p=1.84243e-12)
+(N (N uhoh) (A (A (A there) (V goes)) (V (A the) (V jar)))) (p=4.70407e-20)
+(N
+  (N so)
+  (A
+    (A
+      (A (A (A he) (V has)) (V (A a) (V problem)))
+      (V right))
+    (V now))) (p=9.18161e-26)
+(N
+  (N oh)
+  (A
+    (A (A it) (V look))
+    (V
+      (A (A s) (V like))
+      (V
+        (V
+          (A (A (A (A the) (V sun)) (V is)) (V go))
+          (V
+            (A ing)
+            (V (A (A (A to) (V be)) (V right)) (V on))))
+        (A your))))) (p=8.22806e-45)
+(N
+  (N wubby)
+  (A (A (A what) (V are)) (V (V (A we) (V eat)) (A ing)))) (p=1.49024e-22)
+(N
+  (N what)
+  (V
+    (V are)
+    (A
+      (A (A you) (V go))
+      (V (V (A ing) (V (A (A to) (V do)) (V with))) (A it))))) (p=2.72619e-24)
+(N (N where) (V (V are) (A (A you) (V (V go) (A ing))))) (p=6.90077e-14)
+(N
+  (N what)
+  (V (V (V is) (A (A (A the) (V monkey)) (V do))) (A ing))) (p=2.11101e-17)
+(N (N what) (V (V is) (A (A he) (V (V do) (A ing))))) (p=5.13126e-14)
+(N
+  (N where)
+  (V
+    (V are)
+    (A
+      (A (A you) (V go))
+      (V
+        (A ing)
+        (V (A (A to) (V take)) (V (A the) (V train))))))) (p=3.43057e-26)
+(N
+  (N and)
+  (A
+    (A what)
+    (V
+      (V
+        (A (A else) (V are))
+        (V
+          (A (A you) (V go))
+          (V (A ing) (V (A to) (V give)))))
+      (A me)))) (p=2.70974e-30)
+(N
+  (N what)
+  (V
+    (V are)
+    (A
+      (A (A you) (V do))
+      (V (A (A ing) (V with)) (V (A that) (V paper)))))) (p=2.10385e-23)
+(N
+  (N where)
+  (V
+    (V is)
+    (A
+      (A (A he) (V get))
+      (V (A ing) (V (A the) (V peanut)))))) (p=3.4078e-22)
+(N (N what) (V (V are) (A (A they) (V (V do) (A ing))))) (p=2.54106e-14)
+(N (N what) (V (V are) (A (A you) (V (V do) (A ing))))) (p=2.83287e-13)
+(N
+  (N i)
+  (V
+    (V thought)
+    (A
+      (A (A (A you) (V were)) (V watch))
+      (V
+        (V
+          (A
+            (A
+              (A ing)
+              (V (A (A too) (V but)) (V (A you) (V were))))
+            (V play))
+          (V (A ing) (V in)))
+        (A the))))) (p=1.33519e-43)
+(N
+  (N all)
+  (A
+    (A you)
+    (V
+      (A (A 're) (V do))
+      (V (V (A (A ing) (V is)) (V fool)) (A ing))))) (p=2.71402e-25)
+(N
+  (N hey)
+  (A (A (A what) (V are)) (V (V (A you) (V do)) (A ing)))) (p=5.23304e-18)
+(N
+  (N oh)
+  (A (A (A you) (V are)) (V (A n't) (V (V try) (A ing))))) (p=1.41326e-17)
+(N (N what) (V (V is) (A (A she) (V (V cut) (A ing))))) (p=8.46919e-16)
+(N
+  (N all)
+  (A
+    (A (A the) (V bell))
+    (V (V (A (A s) (V are)) (V ring)) (A ing)))) (p=5.20124e-24)
+(N
+  (N would)
+  (A
+    (A (A you) (V are))
+    (V
+      (A (A you) (V paint))
+      (V (A ing) (V (V over) (A there)))))) (p=4.53878e-26)
+(N
+  (N are)
+  (A
+    (A (A you) (V go))
+    (V (A ing) (V (A (A to) (V put)) (V (A it) (V on)))))) (p=3.20175e-22)
+(N
+  (N yep)
+  (A
+    (A you)
+    (V
+      (V
+        (A
+          (A (A 're) (V go))
+          (V
+            (A (A ing) (V (A to) (V be)))
+            (V
+              (A four)
+              (V (A and) (V (A (A sis) (V is)) (V go))))))
+        (V (A ing) (V (A to) (V be))))
+      (A five)))) (p=6.70573e-53)
+(N
+  (N and)
+  (A
+    (A (A where) (V are))
+    (V (A (A we) (V go)) (V (A ing) (V (A to) (V go)))))) (p=9.17437e-24)
+(N
+  (N what)
+  (V
+    (V are)
+    (A
+      (A (A you) (V go))
+      (V (A (A ing) (V (A to) (V do))) (V now))))) (p=5.29226e-22)
+(N
+  (N are)
+  (A
+    (A
+      (A (A they) (V cook))
+      (V (A (A ing) (V (A their) (V food))) (V on)))
+    (V (A a) (V stove)))) (p=1.07434e-32)
+(N
+  (N what)
+  (V (V are) (A (A (A you) (V do)) (V (A ing) (V silly))))) (p=8.46428e-18)
+(N
+  (N what)
+  (V
+    (V are)
+    (A (A (A you) (V go)) (V (A ing) (V (A to) (V build)))))) (p=4.48332e-20)
+(N
+  (N oh)
+  (A
+    (A
+      (A there)
+      (V (A (A 's) (V (A the) (V bird))) (V again)))
+    (V (V (A (A he) (V was)) (V hide)) (A ing)))) (p=4.56661e-33)
+(N
+  (N what)
+  (A
+    (A (A else) (V are))
+    (V (A (A you) (V go)) (V (A ing) (V (A to) (V bring)))))) (p=1.3928e-23)
+(N (N you) (V (V were) (A (A just) (V (V joke) (A ing))))) (p=3.93363e-18)
+(N
+  (N is)
+  (A
+    (A she)
+    (V
+      (A (A still) (V miss))
+      (V (A ing) (V (A a) (V shoe)))))) (p=1.31727e-24)
+(N
+  (N are)
+  (A
+    (A
+      (A (A you) (V go))
+      (V
+        (A ing)
+        (V
+          (A (A to) (V warm))
+          (V
+            (A up)
+            (V
+              (A (A the) (V pea))
+              (V
+                (A (A s) (V so))
+                (V (A they) (V (A 're) (V not)))))))))
+    (V cold))) (p=2.47061e-49)
+(N
+  (N now)
+  (A
+    (A (A (A where) (V are)) (V (A you) (V go)))
+    (V
+      (A ing)
+      (V (A (A to) (V put)) (V (A that) (V truck)))))) (p=1.04962e-30)
+(N
+  (N (V (A will) (V (V (A you) (V tell)) (A me))) (N what))
+  (A
+    (A you)
+    (V
+      (A 've)
+      (V
+        (A (A been) (V do))
+        (V (A ing) (V (A this) (V morning))))))) (p=3.85537e-40)
+(N
+  (N (N (N this) (V duck)) (V is))
+  (V (V stand) (A (A (A ing) (V on)) (V (A a) (V stone))))) (p=1.3295e-28)
+(N
+  (N
+    (V
+      (V (A (A (A the) (V sun)) (V is)) (V (V go) (A ing)))
+      (A to))
+    (N come))
+  (A up)) (p=7.53591e-26)
+(N (N (N daddy) (V is)) (V (V get) (A (A ing) (V dinner)))) (p=6.52367e-17)
+(N (N what) (V (V (V am) (A (A i) (V do))) (A ing))) (p=2.25819e-15)
+(N (N what) (V (V is) (A (A he) (V (V do) (A ing))))) (p=5.13126e-14)
+(N
+  (N (V is) (N daddy))
+  (V (V (V (V talk) (A ing)) (A to)) (A you))) (p=2.15845e-18)
+(N
+  (N what)
+  (V (V are) (A (A (A you) (V put)) (V (A ing) (V away))))) (p=5.7033e-18)
+(N
+  (N (N you) (V are))
+  (V
+    (V get)
+    (A
+      (A
+        (A (A ing) (V so))
+        (V (A (A big) (V baby)) (V girl)))
+      (V (V (A you) (V know)) (A that))))) (p=1.21741e-34)
+(N
+  (N are)
+  (A (A (A you) (V go)) (V (A ing) (V (A to) (V say))))) (p=3.17353e-17)
+(N (N (N (N where) (V is)) (V henry)) (V (V go) (A ing))) (p=2.05416e-16)
+(N
+  (N no)
+  (A
+    (A (A i) (V told))
+    (V
+      (A you)
+      (V (A (A i) (V was)) (V (V (A n't) (V go)) (A ing)))))) (p=2.11865e-27)
+(N (N what) (V (V (V are) (A (A you) (V say))) (A ing))) (p=4.02503e-14)
+(N
+  (N are)
+  (A (A (A you) (V crack)) (V (A ing) (V (A the) (V nut))))) (p=6.98784e-21)
+(N
+  (N (N you) (V were))
+  (V
+    (V talk)
+    (A (A ing) (V (V (V about) (A that)) (A yesterday))))) (p=1.22484e-23)
+(N
+  (N (N which) (V one))
+  (V (V are) (A (A (A you) (V look)) (V (A ing) (V for))))) (p=2.51118e-22)
+(N
+  (N why)
+  (V
+    (V are)
+    (A
+      (A (A you) (V feel))
+      (V (A (A ing) (V on)) (V (A my) (V leg)))))) (p=9.51327e-27)
+(N
+  (N what)
+  (V (V (V are) (A (A you) (V (V do) (A ing)))) (A child))) (p=1.18022e-17)
+(N
+  (N what)
+  (V
+    (V are)
+    (A
+      (A
+        (A (A you) (V do))
+        (V
+          (A (A ing) (V wear))
+          (V
+            (A (A (A ing) (V pajamas)) (V in))
+            (V (A the) (V middle)))))
+      (V (A of) (V (A the) (V day)))))) (p=2.17489e-45)
+(N
+  (N what)
+  (V
+    (V are)
+    (A
+      (A (A you) (V mix))
+      (V (A (A ing) (V in)) (V (A the) (V pot)))))) (p=2.36174e-25)
+(N
+  (N you)
+  (A
+    (A (A been) (V say))
+    (V
+      (V (A ing) (V (A (A that) (V all)) (V day)))
+      (A long)))) (p=1.07424e-27)
+(N (N what) (V (V is) (A (A he) (V (V do) (A ing))))) (p=5.13126e-14)
+(N
+  (N why)
+  (V
+    (V are)
+    (A (A (A they) (V go)) (V (A ing) (V (A to) (V bite)))))) (p=3.39757e-22)
+(N
+  (N what)
+  (V (V are) (A (A you) (V (V (V do) (A ing)) (A eve))))) (p=1.30922e-17)
+(N
+  (N now)
+  (A
+    (A (A what) (V are))
+    (V (A (A you) (V gon)) (V (A na) (V do))))) (p=4.15136e-23)
+(N
+  (N are)
+  (A
+    (A (A you) (V put))
+    (V (A ing) (V (A up) (V (A the) (V fence)))))) (p=2.08506e-22)
+(N
+  (N what)
+  (V
+    (V are)
+    (A
+      (A (A you) (V go))
+      (V
+        (A (A ing) (V (A (A to) (V put)) (V on)))
+        (V (A my) (V lap)))))) (p=7.29341e-30)
+(N
+  (N now)
+  (A
+    (A (A who) (V are))
+    (V (A (A you) (V put)) (V (A ing) (V on))))) (p=1.3403e-21)
+(N
+  (N are)
+  (A
+    (A (A they) (V go))
+    (V
+      (A (A ing) (V (A (A to) (V go)) (V for)))
+      (V (A a) (V ride))))) (p=3.43619e-27)
+(N
+  (N ok)
+  (V
+    (V
+      (V are)
+      (A
+        (A (A you) (V go))
+        (V
+          (V
+            (A (A ing) (V (A to) (V carry)))
+            (V (A this) (V present)))
+          (A to))))
+    (A ari))) (p=7.79987e-37)
+(N
+  (N is)
+  (A
+    (A (A he) (V bite))
+    (V (A ing) (V (A my) (V bathrobe))))) (p=4.18185e-23)
+(N
+  (N yes)
+  (A
+    (A (A (A you) (V were)) (V ruin))
+    (V (A ing) (V (A the) (V rug))))) (p=4.04054e-25)
+(N
+  (N (N (N oh) (V is)) (V becca))
+  (V
+    (V go)
+    (A
+      (A (A ing) (V (A (A to) (V play)) (V ball)))
+      (V (V with) (A nina))))) (p=1.67485e-33)
+(N
+  (N what)
+  (V
+    (V are)
+    (A (A (A you) (V go)) (V (A ing) (V (A to) (V do)))))) (p=2.2306e-18)
+(N
+  (N what)
+  (V
+    (V was)
+    (A
+      (A (A he) (V do))
+      (V (A (A ing) (V on)) (V (A the) (V floor)))))) (p=1.44772e-23)
+(N
+  (N and)
+  (A (A (A what) (V are)) (V (V (A they) (V do)) (A ing)))) (p=4.46729e-18)
+(N (N what) (V (V are) (A (A you) (V (V cry) (A ing))))) (p=7.24171e-15)
+; PARSE_ERROR: supposed to be go ing forward
+(N (N are) (A (A you) (V (V write) (A ing)))) (p=6.90032e-13)
+(N
+  (N but)
+  (A (A (A what) (V were)) (V (V (A you) (V do)) (A ing)))) (p=1.91329e-18)
+(N
+  (N yeah)
+  (V
+    (V but)
+    (A
+      (A (A (A you) (V were)) (V drip))
+      (V (A (A (A ing) (V all)) (V over)) (V sweetie))))) (p=1.17529e-33)
+(N
+  (V (A (A (A the) (V bug)) (V is)) (V (V eat) (A ing)))
+  (N it)) (p=2.1888e-19)
+(N (N (N i) (V was)) (V (V play) (A ing))) (p=3.281e-12)
+(N
+  (N what)
+  (V
+    (V were)
+    (A (A (A they) (V play)) (V (A ing) (V with))))) (p=1.0141e-18)
+(N
+  (N are)
+  (A (A (A you) (V push)) (V (A ing) (V (A a) (V button))))) (p=8.77004e-20)
+(N
+  (N i)
+  (V
+    (V
+      (V knew)
+      (A
+        (A (A (A you) (V was)) (V gon))
+        (V (A na) (V explore))))
+    (A that))) (p=2.00357e-30)
+(N
+  (N are)
+  (A
+    (A (A you) (V go))
+    (V (A ing) (V (A (A to) (V go)) (V (A next) (V fall)))))) (p=5.86064e-25)
+(N
+  (N what)
+  (V
+    (V are)
+    (A (A (A they) (V go)) (V (A ing) (V (A to) (V do)))))) (p=2.00083e-19)
+(N
+  (V (V (V are) (A (A you) (V (V read) (A ing)))) (A a))
+  (N book)) (p=1.72197e-18)
+(N (N what) (V (V are) (A (A you) (V (V make) (A ing))))) (p=3.96832e-14)
+(N
+  (N (N i) (V was))
+  (V
+    (V look)
+    (A (A ing) (V (V (V for) (A that)) (A yesterday))))) (p=1.08083e-22)
+(N
+  (N (N i) (V was))
+  (V
+    (V (V (V (V think) (A ing)) (A that)) (A you))
+    (A might))) (p=7.22372e-22)
+(N
+  (N what)
+  (V (V are) (A (A you) (V (V (V do) (A ing)) (A nina))))) (p=2.62901e-17)
+(N
+  (N what)
+  (V
+    (V are)
+    (A (A you) (V (V (V (V say) (A ing)) (A to)) (A me))))) (p=6.8405e-20)
+(N (N yeah) (A (A (A you) (V were)) (V (V swear) (A ing)))) (p=1.08647e-19)
+(N
+  (N what)
+  (V (V are) (A (A (A you) (V look)) (V (A ing) (V for))))) (p=3.21788e-17)
+(N
+  (N (N you) (V were))
+  (V
+    (V
+      (V have)
+      (A (A (A ing) (V so)) (V (A much) (V fun))))
+    (A huh))) (p=8.53316e-29)
+(N
+  (N i)
+  (V
+    (V know)
+    (A
+      (A (A (A you) (V were)) (V tell))
+      (V
+        (A ing)
+        (V
+          (V
+            (A fraser)
+            (V
+              (A
+                (A
+                  (A (A (A that) (V but)) (V mom))
+                  (V was))
+                (V gone))
+              (V (A i) (V did))))
+          (A n't)))))) (p=1.18543e-50)
+(N
+  (N are)
+  (A
+    (A (A we) (V read))
+    (V
+      (A (A (A ing) (V about)) (V terry))
+      (V (A the) (V taxi))))) (p=3.75619e-31)
+(N
+  (N are)
+  (A
+    (A (A you) (V go))
+    (V
+      (V
+        (V (A (A ing) (V (A to) (V play))) (V with))
+        (A him))
+      (A too)))) (p=1.89305e-27)
+(N (N are) (A (A (A you) (V go)) (V (A ing) (V back)))) (p=3.7666e-15)
+(N
+  (N oh)
+  (A
+    (A (A (A (A nina) (V throw)) (V is)) (V throw))
+    (V
+      (V
+        (V (A ing) (V (A (A the) (V ball)) (V is)))
+        (A n't))
+      (A she)))) (p=2.66069e-36)
+(N
+  (N okay)
+  (A
+    (A (A (A joseph) (V is)) (V come))
+    (V
+      (V
+        (V (A ing) (V (A (A to) (V say)) (V goodnight)))
+        (A to))
+      (A thomas)))) (p=6.34364e-37)
+(N
+  (N i)
+  (V
+    (V thought)
+    (A
+      (A (A (A you) (V were)) (V go))
+      (V
+        (V
+          (A ing)
+          (V
+            (A (A to) (V show))
+            (V (A investigator) (V (A your) (V radio)))))
+        (A child))))) (p=7.42482e-42)
+(N (V am) (N (N i) (V (V draw) (A ing)))) (p=3.2861e-15)
+(N (N (N you) (V were)) (V (V (V scare) (A ing)) (A me))) (p=1.82774e-17)
+(N
+  (V
+    (V are)
+    (A
+      (A (A you) (V go))
+      (V
+        (A ing)
+        (V
+          (A
+            (A (A to) (V chase))
+            (V (A the) (V (A (A big) (N dog)) (V with))))
+          (V (A the) (V little))))))
+  (N dog)) (p=7.74064e-42)
+(N (N (N (N your) (V nose)) (V is)) (V (V run) (A ing))) (p=1.95839e-18)
+(N (N that) (A (A 's) (V (A a) (V (A pretty) (V heart))))) (p=5.54534e-18)
+(N
+  (N
+    (V
+      (V
+        (A
+          (A there)
+          (V (A (A 's) (V (A a) (V cookie))) (V on)))
+        (V
+          (A (A (A the) (N table)) (V in))
+          (V (A (A the) (V room)) (V on))))
+      (A the))
+    (N table))
+  (V (V with) (A the))) (p=9.88703e-47)
+(N
+  (N but)
+  (A
+    (A that)
+    (V (A 's) (V (A the) (V (A living) (V room)))))) (p=2.89351e-21)
+(N (N because) (A (A they) (V (A 're) (V wood)))) (p=1.7075e-15)
+(N (N oh) (A (A what) (V (V 's) (A that)))) (p=7.38344e-12)
+(N (N he) (A (A (A (A 's) (V out)) (V with)) (V tramp))) (p=9.18716e-19)
+(N (N yes) (A (A it) (V (V 's) (A courtney)))) (p=2.32998e-14)
+(N
+  (N no)
+  (A (A that) (V (A (A 's) (V (A the) (V wrong))) (V way)))) (p=1.41034e-19)
+(N
+  (N but)
+  (A
+    (A (A he) (V (A 's) (V (A a) (V lot))))
+    (V (A (A bigger) (V than)) (V (A this) (V boy))))) (p=1.33086e-32)
+(N (N (N who) (A 's)) (A there)) (p=1.07518e-09)
+(N
+  (N it)
+  (A (A (A (A 's) (V hard)) (V but)) (V (A you) (V try)))) (p=2.90233e-20)
+(N
+  (N that)
+  (A
+    (A (A 's) (V (A a) (V bird)))
+    (V (A and) (V (A a) (V tree))))) (p=3.27713e-22)
+(N (N (N what) (A 's)) (A that)) (p=2.46011e-08)
+(N (N where) (A (A 's) (V (A the) (V motor)))) (p=7.72181e-14)
+(N
+  (N
+    (V (V (A that) (V (A 's) (V not))) (A an))
+    (N accordion))
+  (V
+    (V but)
+    (A
+      (A (A (A (A it) (V does)) (V sound)) (V like))
+      (V one)))) (p=2.08121e-41)
+(N (N (N who) (A 's)) (A that)) (p=3.57969e-09)
+(N
+  (N and)
+  (A
+    (A what)
+    (V
+      (A 's)
+      (V (A (A (A up) (V in)) (V (A the) (V sky))) (V now))))) (p=3.46169e-26)
+(N
+  (N that)
+  (A
+    (A 's)
+    (V
+      (V
+        (A
+          (A probably)
+          (V (A (A the) (V messiest)) (V meal)))
+        (V (A we) (V (A 've) (V (A done) (V so)))))
+      (A far)))) (p=7.48625e-46)
+(N
+  (N (V (A you) (V (A 're) (V not))) (N daddy))
+  (A (A 's) (V girl))) (p=1.13256e-19)
+(N (N (N what) (A 's)) (A this)) (p=9.98514e-09)
+(N
+  (N and)
+  (A (A it) (V (A (A 's) (V in)) (V (A the) (V front))))) (p=2.89003e-18)
+(N
+  (N because)
+  (A (A i) (V (A 'm) (V (A a) (V (A big) (V girl)))))) (p=9.77906e-21)
+(N
+  (V
+    (A it)
+    (V
+      (A (A (A 's) (V terrible)) (V (A to) (V get)))
+      (V clean)))
+  (N ohohohoho)) (p=2.45152e-29)
+(N (N that) (A (A 's) (V (A a) (V lamb)))) (p=2.16723e-13)
+(N (N it) (A (A 's) (V (V right) (A there)))) (p=6.8075e-13)
+(N
+  (N well)
+  (A (A that) (V (A 's) (V (A dirty) (V sweetie))))) (p=1.27852e-18)
+(N (N (N that) (A 's)) (A enough)) (p=2.13813e-10)
+(N (N what) (A (A 's) (V (A this) (V one)))) (p=5.20119e-12)
+(N
+  (V (V yup) (A (A it) (V (V (A 's) (V on)) (A the))))
+  (N table)) (p=1.19397e-20)
+(N (N that) (A 's)) (p=5.56943e-06)
+(N (N that) (A (A (A 's) (V (A a) (V clock))) (V tim))) (p=1.23227e-18)
+(N
+  (N yeah)
+  (A
+    (A what)
+    (V
+      (A (A (A 's) (V with)) (V (A the) (V leg)))
+      (V (A (A up) (V in)) (V (A the) (V air)))))) (p=1.87149e-32)
+(N (N that) (A (A 's) (V (V (A a) (V baby)) (A fox)))) (p=3.03233e-17)
+(N
+  (N that)
+  (A
+    (A
+      (A (A 's) (V one))
+      (V (A of) (V (A (A her) (V favorite)) (V thing))))
+    (V (V (A (A s) (V is)) (V (A her) (V dinosaur))) (A s)))) (p=6.6739e-40)
+(N (N that) (A (A 's) (V (A a) (V girl)))) (p=2.99214e-12)
+(N (N that) (A (A 's) (V (A another) (V monkey)))) (p=2.71435e-14)
+(N (V (V (A what) (V 's)) (A the)) (N deal)) (p=3.81018e-15)
+(N
+  (N oh)
+  (A (A you) (V (A 're) (V (A a) (V (A big) (V girl)))))) (p=1.112e-18)
+(N (N who) (A (A 's) (V (A my) (V wife)))) (p=1.43049e-15)
+(N
+  (N well)
+  (A
+    (A i)
+    (V
+      (A (A 'm) (V (A fraser) (V as)))
+      (V
+        (A well)
+        (V (A and) (V (A i) (V (A 'm) (V colin)))))))) (p=6.79496e-39)
+(N
+  (N well)
+  (A (A i) (V (V (V (A 'm) (V aware)) (A of)) (A that)))) (p=1.94633e-24)
+(N
+  (V (V (V (A no) (V (A that) (V 's))) (A what)) (A a))
+  (N (N dog) (V (V say) (A s)))) (p=3.47051e-25)
+(N (N you) (A (A 're) (V (V so) (A big)))) (p=1.24126e-13)
+(N
+  (N that)
+  (A
+    (A (A (A (A 's) (V over)) (V at)) (V (A her) (V nana)))
+    (V 's))) (p=1.0464e-23)
+(N (V (A you) (V (A 're) (V all))) (N twisted)) (p=5.36564e-17)
+(N (N (N that) (A 's)) (A better)) (p=4.62658e-10)
+(N (N that) (A (A 's) (V (A an) (V elephant)))) (p=3.27145e-14)
+(N (N what) (A (A 's) (V fun))) (p=3.29979e-10)
+(N (N oh) (A (A it) (V (V (A 's) (V right)) (A here)))) (p=1.66602e-15)
+(N
+  (N oh)
+  (A
+    (A (A (A here) (V (A 's) (V (A a) (V hard)))) (V one))
+    (N dog))) (p=3.19666e-24)
+(N (N it) (A (A 's) (V (A to) (V draw)))) (p=6.45443e-13)
+(N (N yes) (A (A that) (V (A 's) (V meat)))) (p=2.28751e-14)
+(N (N who) (A (A (A 's) (V on)) (V (A your) (V shirt)))) (p=1.22999e-16)
+(N
+  (N that)
+  (A (A (A (A 's) (V corn)) (V on)) (V (A the) (V cob)))) (p=6.51461e-21)
+(N (N where) (A (A 's) (V (A the) (V elephant)))) (p=9.9144e-13)
+(N
+  (N who)
+  (A
+    (A 's)
+    (V (A (A that) (V in)) (V (A the) (V picture))))) (p=5.57622e-18)
+(N (N what) (A (A 's) (V (A my) (V name)))) (p=6.5465e-13)
+(N
+  (N it)
+  (A
+    (A 's)
+    (V
+      (V (V (A (A something) (V like)) (V niglet)) (A or))
+      (A something)))) (p=1.78223e-29)
+(N
+  (N what)
+  (A (A 's) (V (A (A that) (V scary)) (V thing)))) (p=1.32713e-17)
+(N (N (N what) (A 's)) (A this)) (p=9.98514e-09)
+(N (N that) (A (A 's) (V (A a) (V (A black) (V penguin))))) (p=3.77152e-18)
+(N
+  (N there)
+  (A (A 's) (V (A more) (V (A butter) (V uhhuh))))) (p=1.8086e-20)
+(N (N what) (A (A 's) (V (A the) (V matter)))) (p=4.01434e-12)
+(N (N that) (A (A 's) (V (A (A a) (V little)) (V one)))) (p=3.28841e-15)
+(N
+  (N (V (A you) (V can)) (N oh))
+  (A
+    (A (A (A it) (V (A 's) (V on))) (V top))
+    (V (A it) (V (A 's) (V (A too) (V (A high) (V up))))))) (p=6.10708e-40)
+(N (N where) (A (A 's) (V (A your) (V (V shoe) (A paul))))) (p=1.22865e-17)
+(N (N they) (A (A (A 're) (V so)) (V cold))) (p=4.31656e-15)
+(N (N (N what) (A 's)) (A this)) (p=9.98514e-09)
+(N (N that) (A (A 's) (V (A (A a) (V funny)) (V noise)))) (p=3.20239e-17)
+(N
+  (N oh)
+  (A
+    (A (A that) (V (A 's) (V nice)))
+    (V
+      (V
+        (A (A i) (V (A 'm) (V glad)))
+        (V (A we) (V (A 're) (V friend))))
+      (A s)))) (p=6.59074e-37)
+(N (N okay) (A (A that) (V (A 's) (V fine)))) (p=1.15337e-14)
+(N (N where) (A (A 's) (V (A the) (V ladybug)))) (p=5.84612e-14)
+(N (N that) (A (A 's) (V (A (A a) (V yogi)) (V bear)))) (p=7.83002e-19)
+(N
+  (N ok)
+  (A
+    (A here)
+    (V (A 's) (V (A some) (V (V apple) (A juice)))))) (p=5.30966e-23)
+(N (N (N who) (A 's)) (A that)) (p=3.57969e-09)
+(N
+  (N (V (V in) (A (A this) (V picture))) (N they))
+  (A
+    (A 're)
+    (V
+      (V (A really) (V (A (A the) (V same)) (V size)))
+      (A too)))) (p=2.39459e-37)
+(N
+  (N no)
+  (A
+    (A it)
+    (V
+      (A (A 's) (V not))
+      (V (A (A up) (V in)) (V (A the) (V air)))))) (p=1.89868e-25)
+(N (N oh) (A (A it) (V (A 's) (V (A next) (V weekend))))) (p=5.78868e-18)
+(N
+  (N (N (N (N there) (A 's)) (A the)) (A woodchuck))
+  (A there)) (p=1.61179e-19)
+(N (N no) (A (A that) (V (A 's) (V (A a) (V peach))))) (p=9.79995e-17)
+(N (N here) (A (A 's) (V (A a) (V bunch)))) (p=3.54115e-14)
+(N (N and) (A (A what) (V (A 's) (V (A this) (V part))))) (p=9.00593e-17)
+(N
+  (N it)
+  (A (A 's) (V (V (V (A a) (V pink)) (A and)) (A blue)))) (p=2.96242e-21)
+(N (N um) (A (A it) (V (A 's) (V (V delicious) (A nina))))) (p=1.45166e-19)
+(N (N she) (A (A 's) (V (A real) (V (A dirty) (V now))))) (p=2.67859e-19)
+(N (N where) (A (A 's) (V (A your) (V coat)))) (p=5.8777e-14)
+(N
+  (N where)
+  (A (A 's) (V (A nina) (V (A 's) (V elephant))))) (p=4.59663e-17)
+(N (N it) (A (A 's) (V on))) (p=6.82018e-09)
+(N
+  (N that)
+  (A (A (A 's) (V (A a) (V lucky))) (V accident))) (p=4.45587e-19)
+(N
+  (N oh)
+  (A
+    (A here)
+    (V
+      (V
+        (V
+          (A (A (A 's) (V (A the) (V wagon))) (V with))
+          (V all))
+        (A (A the) (N toy)))
+      (A s)))) (p=9.72255e-33)
+(N (N (N who) (A 's)) (A up)) (p=5.42493e-10)
+(N (N (N that) (A 's)) (A different)) (p=1.55726e-10)
+(N (N it) (A (A (A 's) (V okay)) (V (A this) (V time)))) (p=4.07901e-17)
+(N
+  (N where)
+  (A (A 's) (V (A (A the) (V other)) (V wheel)))) (p=7.22402e-17)
+(N (N oh) (A (A that) (V (A 's) (V right)))) (p=3.14876e-12)
+(N (N it) (A (A (A 's) (V all)) (V wet))) (p=1.5575e-14)
+(N
+  (N where)
+  (A
+    (A 's)
+    (V (A (A that) (V (A white) (V little))) (V bird)))) (p=3.61559e-21)
+(N (N (N what) (A 's)) (A that)) (p=2.46011e-08)
+(N (N and) (A (A it) (V 's))) (p=6.43636e-09)
+(N (V (V (A it) (V (A 's) (V not))) (A too)) (N slippery)) (p=5.29029e-20)
+(N (N where) (A (A 's) (V (A the) (V pig)))) (p=3.8519e-13)
+(N
+  (N what)
+  (A
+    (A 's)
+    (V
+      (V (V (A (A this) (V world)) (V come)) (A ing))
+      (A to)))) (p=4.05417e-22)
+(N
+  (V
+    (V so)
+    (A
+      (A
+        (A what)
+        (V
+          (A 's)
+          (V
+            (A
+              (A the)
+              (V
+                (A (A first) (V thing))
+                (V
+                  (A you)
+                  (V
+                    (A (A 're) (V go))
+                    (V (A ing) (V (A to) (V do)))))))
+            (V when))))
+      (V
+        (A (A you) (V get))
+        (V (A up) (V (A to) (V hermit))))))
+  (N island)) (p=6.92642e-64)
+(N (N she) (A (A 's) (V (V write) (A ing)))) (p=4.0907e-13)
+(N
+  (N he)
+  (A
+    (A (A 's) (V go))
+    (V
+      (A ing)
+      (V
+        (A (A to) (V send))
+        (V (A the) (V (V (V letter) (A to)) (A someone))))))) (p=7.67154e-33)
+(N
+  (N you)
+  (A
+    (A (A 're) (V gon))
+    (V (A (A na) (V close)) (V (A the) (V door))))) (p=8.05921e-25)
+(N (N you) (A (A 're) (V (V bounce) (A ing)))) (p=1.22721e-13)
+(N
+  (N that)
+  (A
+    (A (A 's) (V go))
+    (V (A ing) (V (A (A to) (V ruin)) (V (A the) (V rug)))))) (p=3.51359e-26)
+(N
+  (N they)
+  (A
+    (A (A 're) (V go))
+    (V (A (A ing) (V (A to) (V build))) (V (A a) (V nest))))) (p=1.98755e-26)
+(N
+  (N who)
+  (A (A (A 's) (V hold)) (V (A ing) (V (A the) (V baby))))) (p=1.6705e-18)
+(N
+  (N oh)
+  (A
+    (A she)
+    (V
+      (A (A 's) (V clap))
+      (V
+        (V
+          (A (A ing) (V (A her) (V hand)))
+          (V (A s) (V (A what) (V (A 's) (V wrong)))))
+        (A here))))) (p=9.43575e-40)
+(N
+  (N you)
+  (A
+    (A (A 're) (V push))
+    (V (V (A ing) (V (A the) (V button))) (A s)))) (p=7.54718e-22)
+(N
+  (N i)
+  (A (A (A 'm) (V start)) (V (A (A ing) (V now)) (V so)))) (p=1.0078e-20)
+(N (N they) (A (A 're) (V (V eat) (A ing)))) (p=1.70274e-12)
+(N
+  (N you)
+  (A
+    (A (A 're) (V go))
+    (V (A (A ing) (V (A to) (V make))) (V (A a) (V knife))))) (p=1.29878e-24)
+(N
+  (N it)
+  (A
+    (A (A 's) (V go))
+    (V (A (A ing) (V (A to) (V be))) (V nice)))) (p=7.35341e-21)
+(N (N where) (A (A 're) (V (V (A you) (V go)) (A ing)))) (p=5.75607e-14)
+(N
+  (N no)
+  (A
+    (A (A we) (V (A (A 're) (V not)) (V go)))
+    (V
+      (A (A ing) (V (A (A to) (V write)) (V on)))
+      (V (A the) (V couch))))) (p=7.52285e-35)
+(N
+  (N he)
+  (A
+    (A (A 's) (V slide))
+    (V
+      (A
+        (A ing)
+        (V
+          (A down)
+          (V
+            (A (A the) (V banister))
+            (V
+              (A (A she) (V did))
+              (V (A that) (V (A the) (V other)))))))
+      (V day)))) (p=7.03775e-45)
+(N
+  (V
+    (A and)
+    (V
+      (A
+        (A they)
+        (V (A (A 're) (V walk)) (V (A ing) (V all))))
+      (V around)))
+  (N paris)) (p=2.3711e-32)
+(N
+  (V
+    (A (A i) (V do))
+    (V
+      (V
+        (A (A n't) (V think))
+        (V
+          (A we)
+          (V
+            (A (A 're) (V go))
+            (V (A ing) (V (A to) (V open))))))
+      (A the)))
+  (N briefcase)) (p=2.11155e-38)
+(N
+  (V know)
+  (N
+    (N where)
+    (A
+      (A you)
+      (V
+        (A (A 're) (V go))
+        (V (A ing) (V (A this) (V week))))))) (p=1.90102e-25)
+(N
+  (N i)
+  (A
+    (A (A (A 'm) (V not)) (V gon))
+    (V
+      (A (A na) (V play))
+      (V
+        (V
+          (A (A (A this) (V game)) (V until))
+          (V (A you) (V fall)))
+        (A asleep))))) (p=7.16225e-45)
+(N
+  (N shall)
+  (A
+    (A (A we) (V pretend))
+    (V
+      (A that)
+      (V
+        (A we)
+        (V
+          (A (A 're) (V go))
+          (V
+            (A ing)
+            (V
+              (A to)
+              (V (A spencer) (V (A 's) (V birthday)))))))))) (p=3.38758e-40)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V go))
+    (V
+      (A
+        (A
+          (A ing)
+          (V (A (A to) (V put)) (V (A the) (V cereal))))
+        (V over))
+      (V (A here) (V ok))))) (p=5.1181e-36)
+(N
+  (N oh)
+  (A (A she) (V (A (A 's) (V learn)) (V (A ing) (V fast))))) (p=4.35335e-21)
+(N
+  (N oh)
+  (A
+    (A you)
+    (V
+      (A (A 're) (V go))
+      (V
+        (A ing)
+        (V
+          (A (A to) (V put))
+          (V (A (A another) (V one)) (V in))))))) (p=2.14467e-29)
+(N
+  (N what)
+  (V
+    (V do)
+    (A
+      (A (A you) (V think))
+      (V (V (A he) (V (A 's) (V do))) (A ing))))) (p=5.94985e-22)
+(N
+  (N it)
+  (A
+    (A (A 's) (V rain))
+    (V (V (A ing) (V (A it) (V (A 's) (V rain)))) (A ing)))) (p=6.31628e-25)
+(N
+  (N it)
+  (A
+    (A
+      (A (A 's) (V do))
+      (V
+        (A (A ing) (V fine))
+        (V (A you) (V (A just) (V let)))))
+    (V (A it) (V record)))) (p=4.58083e-33)
+(N
+  (N we)
+  (A
+    (A (A (A 're) (V all)) (V get))
+    (V
+      (A (A ing) (V ice))
+      (V
+        (A cream)
+        (V (A and) (V (A you) (V (A 're) (V not)))))))) (p=3.03541e-37)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V go))
+    (V
+      (A ing)
+      (V (V (A to) (V (V (V show) (A it)) (A to))) (A her))))) (p=1.01757e-26)
+(N
+  (N and)
+  (A
+    (A what)
+    (V
+      (A 's)
+      (V
+        (A (A she) (V feed))
+        (V (A ing) (V (A the) (V baby))))))) (p=4.38284e-25)
+(N
+  (V
+    (A he)
+    (V
+      (A (A 's) (V go))
+      (V
+        (A ing)
+        (V (A (A to) (V have)) (V (A some) (V food))))))
+  (N umyumyumyumyum)) (p=1.2091e-32)
+(N
+  (N we)
+  (A
+    (A (A 're) (V go))
+    (V
+      (A (A ing) (V (A to) (V make)))
+      (V (A (A (A chinese) (V food)) (V for)) (V dinner))))) (p=8.5653e-36)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V go))
+    (V
+      (V
+        (A ing)
+        (V
+          (A (A (A to) (V go)) (V in))
+          (V (A the) (V basement))))
+      (A eve)))) (p=2.26701e-31)
+(N
+  (N what)
+  (A
+    (A 're)
+    (V (A (A ya) (V do)) (V (A ing) (V (A that) (V for)))))) (p=8.79282e-21)
+(N
+  (N that)
+  (A
+    (A 's)
+    (V
+      (V
+        (A (A the) (V girl))
+        (V (A she) (V (A 's) (V dance))))
+      (A ing)))) (p=1.10111e-24)
+(N
+  (N we)
+  (A
+    (A (A 're) (V go))
+    (V
+      (A (A ing) (V (A to) (V have)))
+      (V
+        (A (A to) (V put))
+        (V
+          (A (A some) (V decoration))
+          (V (V (A s) (V on)) (A it))))))) (p=8.39276e-40)
+(N
+  (V
+    (V (A (A he) (V (A 's) (V sit))) (V (A ing) (V on)))
+    (A the))
+  (N (N rocking) (V horse))) (p=9.22919e-30)
+(N
+  (N oh)
+  (A (A they) (V (A (A 're) (V go)) (V (A ing) (V in))))) (p=1.72139e-17)
+(N
+  (N it)
+  (A
+    (A (A 's) (V get))
+    (V
+      (A
+        (A ing)
+        (V (A (A (A to) (V be)) (V bedtime)) (V for)))
+      (V dolly)))) (p=1.56103e-30)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V go))
+    (V
+      (A
+        (A ing)
+        (V (A (A to) (V send)) (V (A it) (V back))))
+      (V again)))) (p=8.81531e-30)
+(N
+  (V (V (A they) (V (A (A 're) (V not)) (V feel))) (A ing))
+  (N well)) (p=2.20051e-21)
+(N
+  (N you)
+  (A
+    (A (A 're) (V go))
+    (V
+      (A ing)
+      (V (A (A (A to) (V make)) (V bunny)) (V dance))))) (p=8.801e-26)
+(N
+  (N oh)
+  (A
+    (A you)
+    (V
+      (V (A 're) (V (V (V pull) (A ing)) (A her)))
+      (A down)))) (p=1.67278e-22)
+(N
+  (N (V (A huh) (V say)) (N i))
+  (A
+    (A (A 'm) (V keep))
+    (V
+      (A (A ing) (V (A up) (V with)))
+      (V (A you) (V woman))))) (p=7.63183e-36)
+(N
+  (N they)
+  (A
+    (A (A 're) (V use))
+    (V
+      (V
+        (V (A (A ing) (V shovel)) (V (A s) (V are)))
+        (A n't))
+      (A they)))) (p=7.05923e-30)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V gon))
+    (V
+      (V (A (A na) (V have)) (V (A to) (V tickle)))
+      (A you)))) (p=3.70331e-27)
+(N
+  (N (V (V do) (A (A you) (V know))) (N what))
+  (A (A he) (V (V (A 's) (V (V feed) (A ing))) (A him)))) (p=4.83695e-28)
+(N
+  (N what)
+  (A
+    (A (A 're) (V (A ya) (V go)))
+    (V (A ing) (V (A to) (V do))))) (p=5.58217e-20)
+(N
+  (N what)
+  (A (A 's) (V (V (A (A the) (V man)) (V do)) (A ing)))) (p=6.26645e-17)
+(N
+  (N now)
+  (A
+    (A (A i) (V (A (A 'm) (V gon)) (V (A na) (V make))))
+    (V (A a) (V (A big) (V mush))))) (p=2.92108e-34)
+(N
+  (N what)
+  (A (A 're) (V (A (A you) (V put)) (V (A ing) (V in))))) (p=1.64967e-16)
+(N
+  (N you)
+  (V
+    (V got)
+    (A
+      (A (A to) (V let))
+      (V
+        (A
+          (A
+            (A (A (A her) (V fall)) (V into))
+            (V (A a) (V (A deep) (V sleep))))
+          (V (A (A and) (V then)) (V lay)))
+        (V
+          (A her)
+          (V
+            (A down)
+            (V
+              (A besides)
+              (V
+                (A she)
+                (V
+                  (A
+                    (A 's)
+                    (V
+                      (A (A still) (V drink))
+                      (V (A (A ing) (V from)) (V time))))
+                  (V (A to) (V time))))))))))) (p=6.42413e-90)
+(N
+  (N well)
+  (A
+    (A (A ya) (V know))
+    (V (A we) (V (V (A 're) (V go)) (A ing))))) (p=3.42247e-22)
+(N (N she) (A (A (A 's) (V not)) (V (V sleep) (A ing)))) (p=1.30398e-15)
+(N
+  (N you)
+  (A
+    (A (A 're) (V get))
+    (V
+      (V (A (A ing) (V (A very) (V good))) (V at))
+      (A that)))) (p=1.84293e-25)
+(N
+  (A dillon)
+  (N
+    (N i)
+    (A
+      (A 'm)
+      (V
+        (A (A just) (V try))
+        (V
+          (A
+            (A
+              (A ing)
+              (V (A (A to) (V get)) (V (A it) (V ready))))
+            (V for))
+          (V (A you) (V baby))))))) (p=1.86139e-44)
+(N
+  (N they)
+  (A (A (A 're) (V dig)) (V (A ing) (V (A a) (V hole))))) (p=2.37963e-21)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V (A just) (V take)))
+    (V (A ing) (V (A (A the) (V paper)) (V off))))) (p=2.78366e-26)
+(N
+  (N (V (V is) (A that)) (N what))
+  (A (A you) (V (V (A 're) (V do)) (A ing)))) (p=9.86761e-20)
+(N
+  (N he)
+  (A
+    (A (A 's) (V play))
+    (V (A (A ing) (V with)) (V tramp)))) (p=9.5276e-21)
+(N
+  (N who)
+  (A
+    (A (A 's) (V go))
+    (V
+      (A ing)
+      (V
+        (A (A (A to) (V go)) (V inside))
+        (V (A the) (V fence)))))) (p=5.26418e-28)
+(N
+  (N yeah)
+  (A
+    (A he)
+    (V
+      (A (A 's) (V miss))
+      (V (A ing) (V (A his) (V head)))))) (p=8.19518e-24)
+(N
+  (N what)
+  (A
+    (A 're)
+    (V
+      (A (A you) (V go))
+      (V
+        (A (A ing) (V (A (A to) (V do)) (V with)))
+        (V (A the) (V (V crayon) (A s))))))) (p=5.74697e-31)
+(N
+  (N i)
+  (V
+    (V know)
+    (A
+      (A who)
+      (V
+        (A you)
+        (V
+          (A (A 're) (V look))
+          (V (A ing) (V (V for) (A me)))))))) (p=4.1767e-28)
+(N
+  (N what)
+  (A
+    (A 's)
+    (V
+      (A (A it) (V go))
+      (V
+        (A ing)
+        (V
+          (A (A to) (V do))
+          (V (A to) (V (A your) (V face)))))))) (p=6.05935e-28)
+(N
+  (N what)
+  (A
+    (A (A 's) (V go))
+    (V (V (A (A ing) (V on)) (V with)) (A you)))) (p=5.73426e-19)
+(N
+  (N and)
+  (V
+    (V then)
+    (A
+      (A you)
+      (V
+        (A (A 're) (V go))
+        (V
+          (A (A ing) (V (A to) (V bring)))
+          (V
+            (A a)
+            (V
+              (A (A christmas) (V present))
+              (V (A to) (V remy))))))))) (p=1.3288e-44)
+(N
+  (V
+    (A they)
+    (V (V (A (A 're) (V come)) (V (A ing) (V in))) (A a)))
+  (N fortnight)) (p=1.66217e-24)
+(N
+  (N (V (V say) (A s)) (N i))
+  (A (A 'm) (V (V hide) (A ing)))) (p=2.0909e-20)
+(N
+  (N and)
+  (A
+    (A he)
+    (V (A (A 's) (V feed)) (V (A ing) (V himself))))) (p=4.46815e-21)
+(N
+  (N no)
+  (A (A he) (V (A (A 's) (V not)) (V (V sleep) (A ing))))) (p=1.61738e-18)
+(N
+  (N what)
+  (A
+    (A 's)
+    (V
+      (V (V (A (A the) (V baby)) (V hold)) (A ing))
+      (A here)))) (p=4.64836e-21)
+(N
+  (N you)
+  (A (A 're) (V (V (V (V talk) (A ing)) (A to)) (A leila)))) (p=2.71489e-20)
+(N
+  (N well)
+  (A
+    (A she)
+    (V
+      (A (A 's) (V wear))
+      (V
+        (A (A ing) (V (A them) (V so)))
+        (V (A she) (V (A can) (V (V see) (A better)))))))) (p=2.24529e-37)
+(N (N it) (A (A (A 's) (V not)) (V (V rain) (A ing)))) (p=1.79011e-16)
+(N (N you) (A (A (A 're) (V get)) (V (A ing) (V sick)))) (p=1.64929e-16)
+(N
+  (N she)
+  (V
+    (V love)
+    (A
+      (A s)
+      (V
+        (V
+          (A (A me) (V when))
+          (V (A i) (V (A 'm) (V sleep))))
+        (A ing))))) (p=1.8412e-29)
+(N
+  (N you)
+  (A
+    (A
+      (A (A 're) (V go))
+      (V
+        (A (A ing) (V (A to) (V let)))
+        (V (A me) (V take))))
+    (V (A it) (V out)))) (p=2.41205e-30)
+(N
+  (N and)
+  (A
+    (A
+      (A (A what) (V (A 's) (V (A the) (V doctor))))
+      (V go))
+    (V (A ing) (V (A to) (V do))))) (p=2.6235e-26)
+(N
+  (N (N (N this) (V one)) (V is))
+  (V
+    (V for)
+    (A
+      (A (A christmas) (V so))
+      (V
+        (A we)
+        (V
+          (A (A 're) (V gon))
+          (V
+            (A (A na) (V put))
+            (V (A (A that) (V one)) (V away)))))))) (p=2.66527e-49)
+(N
+  (N you)
+  (A
+    (A (A 're) (V go))
+    (V (V (A ing) (V (A to) (V eat))) (A him)))) (p=2.48918e-20)
+(N
+  (N uhuh)
+  (V
+    (V (V uhuh) (A (A i) (V (A 'm) (V (V watch) (A ing)))))
+    (A you))) (p=5.04069e-27)
+(N
+  (N and)
+  (A
+    (A what)
+    (V
+      (V
+        (A (A (A 's) (V (A the) (V little))) (V boy))
+        (V do))
+      (A ing)))) (p=7.81953e-24)
+(N
+  (N you)
+  (A
+    (A (A 're) (V do))
+    (V (A ing) (V (A (A pretty) (V good)) (V at))))) (p=2.10153e-22)
+(N
+  (N
+    (V
+      (A you)
+      (V (A (A can) (V have)) (V (A it) (V inside))))
+    (N yeah))
+  (A
+    (A (A i) (V (A 'm) (V go)))
+    (V
+      (A ing)
+      (V
+        (A (A (A to) (V sit)) (V with))
+        (V (A joseph) (V for)))))) (p=7.31692e-49)
+(N
+  (N and)
+  (V
+    (V now)
+    (A
+      (A what)
+      (V
+        (V
+          (A
+            (A 're)
+            (V
+              (A
+                (A (A you) (V go))
+                (V (A ing) (V (A (A to) (V do)) (V with))))
+              (V all)))
+          (V (A those) (V piece)))
+        (A s))))) (p=6.50432e-43)
+(N (N you) (A (A (A 're) (V tip)) (V (A ing) (V over)))) (p=1.62631e-17)
+(N
+  (N but)
+  (A
+    (A (A (A (A you) (V know)) (V while)) (V andrew))
+    (V
+      (A (A 's) (V gone))
+      (V
+        (A
+          (A we)
+          (V
+            (A (A (A can) (V play)) (V with))
+            (V (A his) (V memory))))
+        (V game))))) (p=9.1031e-54)
+(N
+  (N why)
+  (V
+    (V do)
+    (A
+      (A (A you) (V think))
+      (V (V (A he) (V (A 's) (V cry))) (A ing))))) (p=1.07602e-24)
+(N
+  (N now)
+  (A
+    (A i)
+    (V
+      (A (A 'm) (V gon))
+      (V (A (A (A na) (V put)) (V (A the) (V boy))) (V on))))) (p=2.45261e-30)
+(N
+  (N well)
+  (A
+    (A (A you) (V (A (A 're) (V not)) (V go)))
+    (V
+      (A (A ing) (V (A (A to) (V play)) (V with)))
+      (V (A it) (V now))))) (p=7.27857e-33)
+(N
+  (N i)
+  (A
+    (A (A 'm) (V get))
+    (V (V (A a) (V little)) (A better)))) (p=7.96467e-20)
+(N
+  (N no)
+  (A
+    (A you)
+    (V
+      (A (A (A 're) (V not)) (V make))
+      (V (A ing) (V (A a) (V dinosaur)))))) (p=1.09391e-25)
+(N
+  (N we)
+  (A
+    (A (A (A 're) (V not)) (V go))
+    (V
+      (A ing)
+      (V
+        (A (A (A to) (V get)) (V near))
+        (V (A observer) (V (A the) (V shark))))))) (p=2.36906e-38)
+(N
+  (V (V do) (A (A you) (V know)))
+  (N (N what) (A (A they) (V (V (A 're) (V do)) (A ing))))) (p=1.86491e-23)
+(N
+  (N you)
+  (A
+    (A (A 're) (V go))
+    (V
+      (A ing)
+      (V (A (A to) (V save)) (V (A this) (V one)))))) (p=5.16406e-25)
+(N
+  (N now)
+  (A
+    (A (A she) (V think))
+    (V
+      (A
+        (A s)
+        (V
+          (A she)
+          (V
+            (A (A 's) (V move))
+            (V (A ing) (V (A up) (V (A to) (V timothy)))))))
+      (V 's)))) (p=3.54903e-40)
+(N
+  (N that)
+  (A
+    (A 's)
+    (V
+      (A what)
+      (V
+        (A (A i) (V (A 'm) (V use)))
+        (V (A (A ing) (V (A to) (V knit))) (V with)))))) (p=1.3563e-33)
+(N
+  (N connect)
+  (A
+    (A this)
+    (V
+      (A to)
+      (V
+        (A (A this) (V dot))
+        (V
+          (A and)
+          (V
+            (A this)
+            (V
+              (V
+                (A
+                  (A to)
+                  (V
+                    (A (A this) (V dot))
+                    (V (A and) (V then))))
+                (V
+                  (A connect)
+                  (V (A the) (V (A two) (V dot)))))
+              (A s)))))))) (p=5.62308e-65)
+(N
+  (N and)
+  (A
+    (A i)
+    (V
+      (A (A (A 'm) (V go)) (V (A ing) (V (A to) (V do))))
+      (V
+        (A (A your) (V snap))
+        (V
+          (A
+            (A s)
+            (V
+              (A and)
+              (V (A (A we) (V (A 'll) (V be))) (V all))))
+          (V set)))))) (p=1.61422e-51)
+(N (N on) (A (A my) (V (V fingernail) (A s)))) (p=1.03119e-15)
+(N
+  (N (A may) (N i))
+  (V (V (V pull) (A (A your) (V string))) (A s))) (p=2.151e-23)
+(N
+  (N why)
+  (V
+    (V does)
+    (A
+      (A (A she) (V need))
+      (V (V (A two) (V (V wash) (A cloth))) (A s))))) (p=7.91536e-31)
+(N (N how) (V (V (V about) (A (A the) (V arm))) (A s))) (p=8.82585e-17)
+(N
+  (N and)
+  (A
+    (A (A the) (V grape))
+    (V (V (A (A s) (V purple)) (V grape)) (A s)))) (p=2.35193e-25)
+(N (N ok) (V (V make) (A (A the) (V (V other) (A s))))) (p=1.74085e-16)
+(N (N oh) (A (A how) (V (V (A many) (V jump)) (A s)))) (p=1.88816e-18)
+(N (N (N (N dl) (V is)) (V for)) (V (V doll) (A s))) (p=4.82746e-19)
+(N (N your) (V (V hand) (A s))) (p=7.42442e-11)
+(N
+  (N but)
+  (A
+    (A really)
+    (V
+      (V
+        (A it)
+        (V
+          (V
+            (A
+              (A
+                (A (A 's) (V chicken))
+                (V (A and) (V rice)))
+              (V (A and) (V carrot)))
+            (V (A s) (V (A and) (V (A there) (V are)))))
+          (A n't)))
+      (A any)))) (p=2.53438e-52)
+(N
+  (N uh)
+  (A
+    (A (A i) (V need))
+    (V
+      (A (A to) (V wash))
+      (V
+        (A
+          (A (A my) (V hand))
+          (V (A (A s) (V be)) (V right)))
+        (V back))))) (p=3.2236e-39)
+(N
+  (N (N ya) (V want))
+  (V
+    (V santa)
+    (A
+      (A claus)
+      (V
+        (A (A to) (V bring))
+        (V (V (A (A ya) (V toe)) (V shoe)) (A s)))))) (p=1.26112e-38)
+(N (N her) (V (V boot) (A s))) (p=9.34222e-13)
+(N (N well) (A (A (A you) (V have)) (N (N toy) (A s)))) (p=1.53465e-16)
+(N
+  (N (N (N they) (V were)) (V funny))
+  (V
+    (V (V animal) (A (A s) (V (V were) (A n't))))
+    (A they))) (p=5.9416e-28)
+(N (N and) (A (A (A a) (V dozen)) (V (V egg) (A s)))) (p=1.01676e-18)
+(N
+  (N where)
+  (A
+    (A can)
+    (V
+      (V
+        (A (A i) (V get))
+        (V (A some) (V (A more) (V coupon))))
+      (A s)))) (p=2.99374e-29)
+(N
+  (N and)
+  (A
+    (A (A (A they) (V have)) (V duck))
+    (V
+      (A s)
+      (V
+        (A and)
+        (V (V (A (A they) (V have)) (V chicken)) (A s)))))) (p=9.95944e-33)
+(N
+  (N what)
+  (A
+    (A (A color) (V are))
+    (V (V (A mommy) (V (A 's) (V eye))) (A s)))) (p=6.29072e-23)
+(N (N want) (A (A (A to) (V play)) (V (V piggy) (A s)))) (p=1.55727e-17)
+(N
+  (N they)
+  (A
+    (A 're)
+    (V
+      (V
+        (V
+          (A (A (A awfully) (V cute)) (V animal))
+          (V (A s) (V are)))
+        (A n't))
+      (A they)))) (p=3.59864e-32)
+(N
+  (N oh)
+  (A
+    (A (A you) (V have))
+    (V
+      (A a)
+      (V
+        (A (A special) (V place))
+        (V (V (A (A to) (V put)) (V block)) (A s)))))) (p=1.39348e-32)
+(N
+  (N let)
+  (A
+    (A (A 's) (V find))
+    (V
+      (A some)
+      (V
+        (A (A new) (V shoe))
+        (V (V (A s) (V for)) (A you)))))) (p=3.36771e-30)
+(N (N whose) (V (V shoe) (A (A s) (V (V are) (A those))))) (p=2.88179e-18)
+; PARSE_ERROR: ah see it 's got shining tag s
+(N
+  (N did)
+  (A (A (A (A you) (V go)) (V in)) (V (V wood) (A s)))) (p=1.38514e-18)
+(N
+  (N what)
+  (V
+    (V
+      (V would)
+      (A
+        (A (A (A i) (V do)) (V with))
+        (V (A six) (V chicken))))
+    (A s))) (p=8.44001e-28)
+(N
+  (N let)
+  (A
+    (A (A (A (A 's) (V not)) (V mix)) (V (A up) (V all)))
+    (V
+      (A (A your) (V car))
+      (V
+        (A (A s) (V (A and) (V truck)))
+        (V (A (A s) (V with)) (V (A investigator) (V 's))))))) (p=3.41877e-51)
+(N
+  (N there)
+  (A
+    (A (A 's) (V (A a) (V ladder)))
+    (V
+      (A and)
+      (V
+        (V
+          (V (A there) (V (V (A 's) (V pillow)) (A s)))
+          (A up))
+        (A there))))) (p=3.08787e-37)
+(N
+  (N because)
+  (V
+    (V people)
+    (A (A (A always) (V need)) (V (V refrigerator) (A s))))) (p=1.37207e-24)
+(N
+  (N you)
+  (A
+    (A (A 're) (V go))
+    (V
+      (A
+        (A ing)
+        (V
+          (A (A to) (V go))
+          (V (A to) (V (A the) (V horsie)))))
+      (V
+        (A (A s) (V (A (A tomorrow) (V with)) (V uncle)))
+        (V (A georgie) (V (A and) (V sheryl))))))) (p=1.9853e-54)
+(N
+  (V
+    (V
+      (V
+        (A (A could) (V (A you) (V get)))
+        (V
+          (A (A your) (V shoe))
+          (V (A s) (V (A and) (V give)))))
+      (A them))
+    (A to))
+  (N mommy)) (p=3.37831e-36)
+(N
+  (N these)
+  (V
+    (V are)
+    (A
+      (A (A the) (V one))
+      (V (A s) (V (A to) (V (A this) (V one))))))) (p=1.19641e-24)
+(N
+  (N where)
+  (A
+    (A should)
+    (V (V (A (A i) (V put)) (V (A the) (V chair))) (A s)))) (p=1.07296e-22)
+(N
+  (N and)
+  (A
+    (A (A i) (V paid))
+    (V
+      (A
+        (A (A seven) (V dollar))
+        (V (A (A s) (V for)) (V (A this) (V foolish))))
+      (V thing)))) (p=4.11746e-41)
+(N
+  (N maybe)
+  (A
+    (A the)
+    (V
+      (V
+        (A
+          (A (A (A deer) (V would)) (V like))
+          (V (A (A to) (V meet)) (V (A your) (V other))))
+        (V animal))
+      (A s)))) (p=2.07953e-40)
+(N
+  (N (N i) (V guess))
+  (V
+    (V not)
+    (A
+      (A too)
+      (V
+        (A
+          (A (A (A many) (V little)) (V girl))
+          (V (A (A s) (V (A your) (V age))) (V know)))
+        (V (A what) (V (A that) (V is))))))) (p=5.47188e-49)
+(N
+  (N it)
+  (A
+    (A (A (A (A must) (V seem)) (V funny)) (V when))
+    (V
+      (V
+        (A
+          (A (A (A you) (V look)) (V read))
+          (V (A the) (V other)))
+        (V tape))
+      (A s)))) (p=4.6125e-43)
+(N
+  (N so)
+  (A
+    (A (A (A you) (V want)) (V (A to) (V open)))
+    (V (V (A the) (V curtain)) (A s)))) (p=1.07675e-26)
+(N
+  (N you)
+  (A
+    (A (A 're) (V go))
+    (V
+      (V
+        (V (A ing) (V (A to) (V (V feed) (A the))))
+        (A pigeon))
+      (A s)))) (p=2.05959e-28)
+(N
+  (N especially)
+  (V
+    (V airplane)
+    (A
+      (A (A s) (V because))
+      (V
+        (A (A (A they) (V do)) (V (A n't) (V have)))
+        (V
+          (A (A any) (V road))
+          (V (A s) (V (A (A to) (V go)) (V on)))))))) (p=6.41291e-48)
+(N
+  (N he)
+  (V
+    (V know)
+    (A
+      (A s)
+      (V
+        (A
+          (A you)
+          (V (A (A 're) (V such)) (V (A a) (V nice))))
+        (V
+          (A
+            (A (A big) (V boy))
+            (V (A who) (V (A (A can) (V do)) (V so))))
+          (V
+            (V (A (A many) (V thing)) (V (A s) (V so)))
+            (A much))))))) (p=5.01756e-65)
+(N
+  (N the)
+  (V
+    (V snowman)
+    (A (A (A 's) (V wear)) (V (A ing) (V (V glass) (A s)))))) (p=7.82282e-25)
+(N
+  (N because)
+  (A
+    (A (A i) (V want))
+    (V
+      (A (A your) (V doll))
+      (V
+        (A
+          (A s)
+          (V
+            (A (A to) (V go))
+            (V (A and) (V (A they) (V ca)))))
+        (V (A n't) (V go)))))) (p=1.10298e-40)
+(N
+  (N how)
+  (V
+    (V do)
+    (A
+      (A (A (A you) (V know)) (V (A how) (V cow)))
+      (V (A s) (V eat))))) (p=3.27206e-26)
+(N
+  (N (V find) (N the))
+  (A (A christmas) (V (V thing) (A s)))) (p=3.22257e-19)
+(N (N excuse) (A (A me) (V (V guy) (A s)))) (p=1.62909e-15)
+(N (N those) (V (V (V are) (A (A my) (V cracker))) (A s))) (p=2.32413e-18)
+(N (N it) (A (A 's) (V (V (V leg) (A s)) (A first)))) (p=3.80183e-17)
+(N
+  (N maybe)
+  (A
+    (A (A the) (V tree))
+    (V
+      (A
+        (A s)
+        (V
+          (A will)
+          (V (A (A n't) (V fall)) (V (A down) (V so)))))
+      (V easily)))) (p=9.49718e-38)
+(N
+  (N let)
+  (A
+    (A (A (A (A 's) (V go)) (V look)) (V at))
+    (V (V (A the) (V raindrop)) (A s)))) (p=1.80967e-27)
+(N
+  (N why)
+  (V
+    (V do)
+    (A
+      (A n't)
+      (V
+        (A
+          (A (A (A (A you) (V hold)) (V off)) (V on))
+          (V (A the) (V cookie)))
+        (V
+          (A (A s) (V for))
+          (V (A a) (V (V while) (A huh)))))))) (p=2.44518e-45)
+(N
+  (N
+    (V
+      (V
+        (A (A (A what) (V do)) (V (A we) (V do)))
+        (V with))
+      (A those))
+    (N toy))
+  (A s)) (p=2.27637e-25)
+(N
+  (N here)
+  (A
+    (A (A 's) (V (A a) (V pile)))
+    (V (A of) (V (V (V peg) (A s)) (A too))))) (p=1.045e-28)
+(N
+  (N very)
+  (A (A (A dirty) (V face)) (V (V (A and) (V hand)) (A s)))) (p=3.6157e-23)
+(N
+  (N
+    (V
+      (A (A which) (V is))
+      (V
+        (A (A why) (V (A you) (V want)))
+        (V (A ed) (V hot))))
+    (N dog))
+  (A s)) (p=1.76943e-31)
+(N (N crouton) (A s)) (p=5.60366e-10)
+(N
+  (N you)
+  (A
+    (A (A (A just) (V punch)) (V (A two) (V hole)))
+    (V (A (A s) (V on)) (V (V (A the) (V side)) (A s))))) (p=5.6317e-34)
+(N (N they) (A (A 're) (V (V kitten) (A s)))) (p=1.23563e-14)
+(N
+  (N i)
+  (V
+    (V see)
+    (A
+      (A (A some) (V cup))
+      (V (A s) (V (V over) (A there)))))) (p=2.02346e-23)
+(N (N look) (V (V at) (A (A those) (V (V fishie) (A s))))) (p=1.37831e-18)
+(N
+  (N we)
+  (A
+    (A (A 're) (V go))
+    (V
+      (A (A ing) (V (A (A to) (V put)) (V all)))
+      (V
+        (A
+          (A (A these) (V picture))
+          (V
+            (A (A s) (V (A up) (V on)))
+            (V (A the) (V wall))))
+        (V (V (V are) (A n't)) (A we)))))) (p=3.51144e-53)
+(N
+  (N you)
+  (V
+    (V
+      (V had)
+      (A
+        (A (A red) (V one))
+        (V
+          (A (A s) (V (A and) (V (A you) (V had))))
+          (V (A blue) (V one)))))
+    (A s))) (p=3.68813e-36)
+(N
+  (N how)
+  (A
+    (A (A many) (V cookie))
+    (V
+      (A (A s) (V do))
+      (V
+        (A (A you) (V think))
+        (V (A you) (V (A 'll) (V need))))))) (p=1.12536e-32)
+(N (N shoe) (A s)) (p=2.05369e-08)
+(N
+  (N show)
+  (A
+    (A (A me) (V (A the) (V animal)))
+    (V (A (A s) (V on)) (V (A your) (V pajama))))) (p=3.75965e-27)
+(N (N what) (A (A 're) (V (V dream) (A s)))) (p=1.63482e-13)
+(N
+  (N
+    (V
+      (V
+        (V shall)
+        (A (A we) (V (V (V give) (A some)) (A of))))
+      (A your))
+    (N toy))
+  (A
+    (A s)
+    (V (A to) (V (A (A another) (V little)) (V girl))))) (p=1.77906e-41)
+(N
+  (N (N (N those) (V are)) (V little))
+  (V (V (V wash) (A cloth)) (A s))) (p=3.27109e-23)
+(N
+  (N i)
+  (V
+    (V have)
+    (A
+      (A (A n't) (V work))
+      (V
+        (A ed)
+        (V
+          (A there)
+          (V
+            (A very)
+            (V
+              (A (A long) (V (A and) (V so)))
+              (V
+                (A
+                  (A my)
+                  (V
+                    (A (A job) (V (A might) (V be)))
+                    (V one)))
+                (V
+                  (A (A of) (V (A the) (V one)))
+                  (V
+                    (A s)
+                    (V (A (A that) (V taken)) (V away)))))))))))) (p=3.90827e-77)
+(N
+  (N (N (N does) (V maggie)) (V make))
+  (V (V cookie) (A (A s) (V (V for) (A nina))))) (p=7.56015e-27)
+(N (N (N from) (V other)) (V (V store) (A s))) (p=2.48897e-16)
+(N
+  (N oh)
+  (A
+    (A and)
+    (V
+      (V
+        (V (A how) (V (V (A many) (V quart)) (A s)))
+        (A of))
+      (A butter)))) (p=1.02273e-30)
+(N (N (N (N but) (V not)) (V boy)) (V (V baby) (A s))) (p=9.18341e-18)
+(N
+  (N why)
+  (V (V are) (A (A (A they) (V good)) (V (V fire) (A s))))) (p=3.82005e-21)
+(N
+  (N (V have) (N you))
+  (V
+    (V seen)
+    (A
+      (A (A christmas) (V tree))
+      (V (V (A s) (V lit)) (A up))))) (p=3.63844e-32)
+(N
+  (V (A (A (A the) (V wonderful)) (V thing)) (V about))
+  (N (N tigger) (A s))) (p=2.63941e-24)
+(N (N and) (A (A your) (V (V (V sock) (A s)) (A please)))) (p=1.159e-17)
+(N
+  (V (A everything) (V (V is) (A her)))
+  (N (N shoulder) (A s))) (p=5.31726e-20)
+(N
+  (N what)
+  (V
+    (V were)
+    (A (A (A the) (V monkey)) (V (V (A s) (V do)) (A ing))))) (p=1.597e-20)
+(N (V guy) (N s)) (p=7.44462e-10)
+(N
+  (N nina)
+  (V
+    (V when)
+    (A
+      (A
+        (A (A you) (V went))
+        (V (A (A to) (V (A the) (V zoo))) (V did)))
+      (V
+        (V (A (A you) (V feed)) (V (A the) (V animal)))
+        (A s))))) (p=2.74993e-42)
+(N
+  (N say)
+  (V
+    (V kiss)
+    (A (A (A s) (V kiss)) (V (V (A s) (V kiss)) (A s))))) (p=3.59651e-25)
+(N
+  (N now)
+  (A
+    (A (A can) (V (A (A you) (V balance)) (V on)))
+    (V (V (A your) (V knee)) (A s)))) (p=2.1857e-28)
+(N
+  (V
+    (V
+      (V
+        (V (A (A (A we) (V went)) (V over)) (V mountain))
+        (A s))
+      (A and))
+    (A a))
+  (N desert)) (p=1.68459e-31)
+(N
+  (N (N those) (V hot))
+  (V
+    (V day)
+    (A
+      (A s)
+      (V
+        (V
+          (A she)
+          (V
+            (A
+              (A (A (A (A 'll) (V come)) (V out)) (V with))
+              (V all))
+            (V
+              (A (A the) (V blanket))
+              (V (A s) (V (A and) (V throw))))))
+        (A them))))) (p=7.66366e-56)
+(N (N flower) (A s)) (p=2.31785e-08)
+(N (N you) (A (A (A 'll) (V hide)) (V (V thing) (A s)))) (p=3.13802e-17)
+; PARSE_ERROR: would you like to go go around all day s with no clothes on
+(N
+  (N why)
+  (V
+    (V do)
+    (A
+      (A
+        (A
+          (A n't)
+          (V
+            (A (A you) (V tell))
+            (V
+              (A
+                (A this)
+                (V
+                  (A investigator)
+                  (V
+                    (A and)
+                    (V
+                      (A
+                        (A
+                          (A that)
+                          (V (A investigator) (V about)))
+                        (V (A our) (V trip)))
+                      (V (A that) (V (A we) (V went)))))))
+              (V on))))
+        (V
+          (A
+            (A (A (A (A the) (V other)) (V day)) (V when))
+            (V (A we) (V went)))
+          (V on)))
+      (V (A the) (V (V ride) (A s)))))) (p=4.59464e-91)
+(N (N yes) (A (A some) (V (V nail) (A s)))) (p=3.58034e-15)
+(N
+  (N we)
+  (A
+    (A
+      (A
+        (A (A (A (A 'll) (V be)) (V ready)) (V in))
+        (V (A a) (V few)))
+      (V minute))
+    (V
+      (A s)
+      (V (A will) (V (A n't) (V (A we) (V (V guy) (A s)))))))) (p=6.36043e-48)
+(N
+  (N
+    (V (V andreas) (A (V (V wear) (A s)) (A white)))
+    (N one))
+  (A s)) (p=3.09202e-25)
+(N
+  (N and)
+  (A
+    (A (A it) (V show))
+    (V (V (A s) (V (A the) (V direction))) (A s)))) (p=8.44913e-23)
+(N
+  (N see)
+  (A
+    (A (A it) (V has))
+    (V
+      (V
+        (A very)
+        (V
+          (A
+            (A (A sharp) (V edge))
+            (V
+              (A
+                (A
+                  (A s)
+                  (V
+                    (A and)
+                    (V (A (A that) (V would)) (V hurt))))
+                (V if))
+              (V (A you) (V fall))))
+          (V on)))
+      (A it)))) (p=3.43442e-57)
+(N (N the) (V (V (V door) (A s)) (A huh))) (p=1.84051e-14)

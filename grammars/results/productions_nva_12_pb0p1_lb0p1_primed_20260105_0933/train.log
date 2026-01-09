@@ -1,0 +1,6 @@
+[prod_bias=0.1 lex_bias=0.1] -> /Users/milamarcheva/Desktop/inside-outside/milas_grammars/results/productions_nva_12_pb0p1_lb0p1_primed_20260105_0933/results.txt
+# rule_bias_default (-a) = 0, stoptol (-s) = 1e-07, minruleprob (-p) = 1e-20, maxlen (-l) = 0, minits (-m) = 10, maxits = (-n) = 50, annealstart (-b) = 1, annealstop (-B) = 1, nanneal (-N) = 0, jitter0 (-j) = 0, jitter (-J) = 0, VariationalBayes (-V) = 1, wordscale (-W) = 10, randseed (-S) = 97, debuglevel (-d) = 1000, nruns (-R) = 1
+# Run 0
+# Iteration	temperature	nrules	-logP	bits/token
+0	1	99753 2539 sentences failed to parse	3.69102e+08	34.5546
+Assertion failed: (g->nrules > 0), function binarize_grammar, file grammar.c, line 378.

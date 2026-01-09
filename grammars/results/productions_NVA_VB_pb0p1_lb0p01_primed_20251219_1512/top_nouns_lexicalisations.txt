@@ -1,0 +1,66 @@
+0.00135135	N --> book #primed
+0.00124199	N --> dog #primed
+0.00119898	N --> toy #primed
+0.00119383	N --> daddy #primed
+0.00116644	N --> water #primed
+0.00115086	N --> mommy #primed
+0.00110634	N --> table #primed
+0.00103759	N --> milk #primed
+0.00102068	N --> cat #primed
+0.000534051	N --> one
+0.000307579	N --> house
+0.000245074	N --> baby
+0.000197532	N --> boy
+0.000169693	N --> name
+0.000167898	N --> girl
+0.000159163	N --> back
+0.000146291	N --> today
+0.000139782	N --> head
+0.000132845	N --> car
+0.000126752	N --> mouth
+0.000125724	N --> time
+0.000124995	N --> floor
+0.000124879	N --> hair
+0.000119596	N --> bed
+0.00011535	N --> way
+0.000110798	N --> hand
+0.00010992	N --> school
+0.000109145	N --> box
+0.000108675	N --> chair
+0.000101826	N --> ball
+9.79776e-05	N --> door
+8.99867e-05	N --> nose
+8.82362e-05	N --> train
+8.40427e-05	N --> bag
+8.08619e-05	N --> minute
+7.65355e-05	N --> home
+7.47263e-05	N --> morning
+7.12034e-05	N --> face
+7.10546e-05	N --> picture
+7.09829e-05	N --> day
+5.9941e-05	N --> man
+5.91493e-05	N --> story
+5.65032e-05	N --> cup
+5.36954e-05	N --> juice
+5.22537e-05	N --> foot
+5.19045e-05	N --> thing
+5.1653e-05	N --> bear
+4.92182e-05	N --> bird
+4.71653e-05	N --> food
+4.36956e-05	N --> top
+3.93316e-05	N --> job
+3.77191e-05	N --> tea
+3.28551e-05	N --> noise
+3.23234e-05	N --> birthday
+2.90074e-05	N --> stuff
+2.85034e-05	N --> mama
+2.80632e-05	N --> eye
+2.77968e-05	N --> color
+2.75583e-05	N --> shoe
+2.32697e-05	N --> cookie
+1.60672e-05	N --> piece
+9.26019e-06	N --> person
+9.2148e-06	N --> mummy
+5.00889e-06	N --> darling
+4.50529e-06	N --> number
+1.56089e-10	N --> shop

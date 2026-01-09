@@ -1,0 +1,10 @@
+ASP
+AUX
+C
+DET
+DIV
+N
+P
+T
+V
+X
