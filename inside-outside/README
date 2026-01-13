@@ -32,6 +32,7 @@ be anything that scanf might confuse with a number (i.e., scanf
 attempts to read two numbers from the start of each line).
 
 
+
 -------------------------------------------------------------------
 
 This is an implementation of the inside-outside algorithm for
@@ -123,4 +124,3 @@ Rules with probability less than 10^-7 are silently ignored.
 You can see that the algorithm has identified the phrase structure
 rules for English syntax, and has also correctly identified the
 parts of speech for the words.
-
