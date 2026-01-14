@@ -2,7 +2,12 @@
 Testing maturational hypotheses of syntactic acquisition via grammar induction
 
 ## running inside outside
-./inside-outside/io -V -n100 -g ../morphemic_tokenisation/data/filtered_ctb/filtered_ctb_grammar_min2_lexiconCHILDES_TB.lt ../morphemic_tokenisation/data/filtered_ctb/filtered_ctb_yields.txt > ../morphemic_tokenisation/data/filtered_ctb/results_min2.lt 
+./inside-outside/io -V -n 100 -d 1000 -g ../morphemic_tokenisation/data/filtered_ctb/filtered_ctb_grammar_min2_lexiconCHILDES_TB.lt ../morphemic_tokenisation/data/filtered_ctb/filtered_ctb_yields.txt > ../morphemic_tokenisation/data/filtered_ctb/results_min2.lt 
+
+./inside-outside/io -V -n 100 -d 1000 -g ../morphemic_tokenisation/data/filtered_ctb/filtered_ctb_grammar_withUnary_min3.lt  ../morphemic_tokenisation/data/filtered_ctb/filtered_ctb_yields.txt > ../morphemic_tokenisation/data/filtered_ctb/results_withUnary_min3.lt
+
+## running create_grammar
+
 
 ## inside_outside
 
@@ -26,6 +31,7 @@ According to the original distribution website:
 This software is redistributed here in accordance with that request.
 All credit for the original implementation belongs to Mark Johnson.
 
+Change to the code: I have added a timing functionality in expected-counts.c, which prints an extra column in the debugging output: the time (in minutes) that each iteration takes is printed under "iter_min". 
 -------------------------------------------------------------------
 
 Extracting grammars and yields

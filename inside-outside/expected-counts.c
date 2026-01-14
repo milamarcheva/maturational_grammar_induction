@@ -15,6 +15,7 @@
 #include <math.h>
 #include <assert.h>
 #include <stdlib.h>
+#include <time.h>
 
 /* EPSILON max allowable relative error in preterm outside prob
  *  An error is thrown if inside*outside is greater than this for
@@ -639,6 +640,8 @@ inside_outside(grammar g, const si_t si, FILE *yieldfp,
   FLOAT *rule_counts = CALLOC(g->nrules, sizeof(FLOAT));
   FLOAT sum_neglog_prob0;
   FLOAT sum_neglog_prob;
+  double iter_start;
+  double iter_minutes;
   int   iteration = 0;
   size_t nrules, nrules0;
   FLOAT sum_yieldweights;
@@ -647,20 +650,22 @@ inside_outside(grammar g, const si_t si, FILE *yieldfp,
   nrules = g->nrules;
 
   if (summaryfp && debuglevel >= 1000) {
-    fprintf(summaryfp, "# Iteration\ttemperature\tnrules\t-logP\tbits/token\n%d\t%g\t%d", 
+    fprintf(summaryfp, "# Iteration\ttemperature\tnrules\t-logP\tbits/token\titer_min\n%d\t%g\t%d", 
 	    iteration, temperature, (int) nrules);
     fflush(summaryfp);
   }
 
+  iter_start = (double) clock() / CLOCKS_PER_SEC;
   sum_neglog_prob0 = expected_rule_counts(g, si, yieldfp, tracefp, 
 					  summaryfp, debuglevel,
 					  maxsentlen, minruleprob, wordscale,
 					  rule_counts, &sum_yieldweights,
 					  weighted_yields_flag);
+  iter_minutes = ((double) clock() / CLOCKS_PER_SEC - iter_start) / 60.0;
 
   if (summaryfp && debuglevel >= 1000) {
-    fprintf(summaryfp, "\t%g\t%g\n", sum_neglog_prob0,
-	    sum_neglog_prob0/(log(2)*(sum_yieldweights)));
+    fprintf(summaryfp, "\t%g\t%g\t%g\n", sum_neglog_prob0,
+	    sum_neglog_prob0/(log(2)*(sum_yieldweights)), iter_minutes);
     fflush(summaryfp);
   }
 
@@ -690,13 +695,15 @@ inside_outside(grammar g, const si_t si, FILE *yieldfp,
       fflush(summaryfp);
     }
 
+    iter_start = (double) clock() / CLOCKS_PER_SEC;
     sum_neglog_prob = expected_rule_counts(g, si, yieldfp, tracefp, summaryfp, debuglevel,
 					   maxsentlen, minruleprob, wordscale,
 					   rule_counts, &sum_yieldweights, weighted_yields_flag);
+    iter_minutes = ((double) clock() / CLOCKS_PER_SEC - iter_start) / 60.0;
 
     if (summaryfp && debuglevel >= 1000) {
-      fprintf(summaryfp, "\t%g\t%g\n", sum_neglog_prob,
-	      sum_neglog_prob/(log(2)*(sum_yieldweights)));
+      fprintf(summaryfp, "\t%g\t%g\t%g\n", sum_neglog_prob,
+	      sum_neglog_prob/(log(2)*(sum_yieldweights)), iter_minutes);
       fflush(summaryfp);
     }
 
