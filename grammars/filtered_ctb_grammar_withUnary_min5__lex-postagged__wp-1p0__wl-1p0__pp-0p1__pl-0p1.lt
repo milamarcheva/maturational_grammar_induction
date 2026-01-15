@@ -1690,7 +1690,6 @@
 1.0 0.1  WHNP --> WRB JJ PP
 1.0 0.1  WHPP --> IN WHNP
 1.0 0.1  WHPP --> IN WHADVP
-
 1.0 0.1  ASP --> ing
 1.0 0.1  AUX --> do
 1.0 0.1  AUX --> did
