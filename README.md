@@ -8,6 +8,14 @@ Testing maturational hypotheses of syntactic acquisition via grammar induction
 
 ## running create_grammar
 
+milamarcheva@Milas-MacBook-Air-3 maturational_grammar_induction % python3 scripts/create_grammar.py --grammar ../morphemic_tokenisation/data/filtered_ctb/filtered_ctb_grammar_withUnary_min5.lt --s
+entences ../morphemic_tokenisation/data/brown_sents.txt --lexicalisation postagged
+Wrote grammar to ../morphemic_tokenisation/data/filtered_ctb/filtered_ctb_grammar_withUnary_min5__lex-postagged__wp-1p0__wl-1p0__pp-0p1__pl-0p1.lt
+- Productions: 1692
+- Preterminals: 41
+- Vocab size: 4602
+- Lexical rules: 25152
+
 
 ## inside_outside
 
