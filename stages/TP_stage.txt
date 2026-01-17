@@ -1,0 +1,236 @@
+1.0 0.1 ROOT --> S
+1.0 0.1  S --> NP VP
+1.0 0.1  S --> VP
+1.0 0.1  S --> INTJ NP VP
+1.0 0.1  S --> ADVP NP VP
+1.0 0.1  S --> S CC S
+1.0 0.1  S --> NP ADVP VP
+1.0 0.1  S --> INTJ VP
+1.0 0.1  S --> ADVP VP
+1.0 0.1  S --> NP VP INTJ
+1.0 0.1  S --> NP NP VP
+1.0 0.1  S --> SBAR NP VP
+1.0 0.1  S --> CC NP VP
+1.0 0.1  S --> NP VP SQ
+1.0 0.1  S --> NP VP NP
+1.0 0.1  S --> NP
+1.0 0.1  S --> PP NP VP
+1.0 0.1  S --> S S
+1.0 0.1  S --> NP VP ADVP
+1.0 0.1  S --> NP ADJP
+1.0 0.1  S --> INTJ NP VP INTJ
+1.0 0.1  S --> VP INTJ
+1.0 0.1  S --> INTJ ADVP NP VP
+1.0 0.1  S --> VP NP
+1.0 0.1  S --> NP VP ADJP
+1.0 0.1  S --> NP VP SBAR
+1.0 0.1  S --> INTJ CC S
+1.0 0.1  S --> INTJ NP VP SQ
+1.0 0.1  S --> CC ADVP NP VP
+1.0 0.1  S --> INTJ NP ADVP VP
+1.0 0.1  S --> NP VP FRAG
+1.0 0.1  S --> INTJ ADVP VP
+1.0 0.1  S --> INTJ NP NP VP
+1.0 0.1  S --> S NP VP
+1.0 0.1  S --> NP VP S
+1.0 0.1  S --> ADVP ADVP NP VP
+1.0 0.1  S --> ADVP SBAR NP VP
+1.0 0.1  S --> NP NP
+1.0 0.1  S --> SBAR VP
+1.0 0.1  S --> INTJ
+1.0 0.1  S --> NOT VP
+1.0 0.1  S --> CC VP
+1.0 0.1  S --> SBAR ADVP NP VP
+1.0 0.1  S --> VP ADVP
+1.0 0.1  S --> VP VP
+1.0 0.1  S --> NP VP VP
+1.0 0.1  S --> INTJ INTJ NP VP
+1.0 0.1  S --> NP ADVP VP INTJ
+1.0 0.1  S --> NP NOT VP
+1.0 0.1  S --> RB NP VP
+1.0 0.1  S --> INTJ INTJ VP
+1.0 0.1  S --> INTJ NP
+1.0 0.1  S --> NP ADVP NOT VP
+1.0 0.1  S --> NP S
+1.0 0.1  S --> TO VP
+1.0 0.1  S --> INTJ SBAR NP VP
+1.0 0.1  S --> NP PP
+1.0 0.1  S --> ADVP NP VP INTJ
+1.0 0.1  S --> ADVP PP NP VP
+1.0 0.1  S --> INTJ VP INTJ
+1.0 0.1  S --> S CC S CC S
+1.0 0.1  S --> S VP
+1.0 0.1  S --> ADJP
+1.0 0.1  S --> ADVP NP ADVP VP
+1.0 0.1  S --> INTJ INTJ
+1.0 0.1  S --> NP ADVP
+1.0 0.1  S --> S CC S INTJ
+1.0 0.1  S --> ADVP NP VP NP
+1.0 0.1  S --> ADVP VP NP
+1.0 0.1  S --> INTJ NP VP NP
+1.0 0.1  S --> INTJ S
+1.0 0.1  S --> NP ADVP ADVP VP
+1.0 0.1  S --> NP VP PP
+1.0 0.1  S --> PP VP
+1.0 0.1  S --> WHNP VP
+1.0 0.1  S --> NP PRT
+1.0 0.1  S --> ADVP S CC S
+1.0 0.1  S --> INTJ VP NP
+1.0 0.1  S --> NP VP CC S
+1.0 0.1  S --> NP VP CC VP
+1.0 0.1  S --> S SQ
+1.0 0.1  S --> S VP NP
+1.0 0.1  S --> SBARQ CC S
+1.0 0.1  S --> VP CC VP
+1.0 0.1  S --> VP FRAG
+1.0 0.1  S --> ADJP VP
+1.0 0.1  S --> ADVP NP NP VP
+1.0 0.1  S --> CC ADVP VP
+1.0 0.1  S --> NP ADVP VP SQ
+1.0 0.1  S --> NP PP VP
+1.0 0.1  S --> S CC FRAG
+1.0 0.1  S --> S CC SBARQ
+1.0 0.1  S --> S NP CC S
+1.0 0.1  S --> VP S
+1.0 0.1  S --> VP SQ
+1.0 0.1  S --> ADVP
+1.0 0.1  S --> ADVP S
+1.0 0.1  S --> FRAG CC S
+1.0 0.1  S --> INTJ NP VP SBAR
+1.0 0.1  S --> NP NP VP INTJ
+1.0 0.1  S --> NP VP SQ INTJ
+1.0 0.1  S --> SBAR
+1.0 0.1  S --> SBAR NP ADVP VP
+1.0 0.1  S --> VP SBAR
+1.0 0.1  ADJP --> JJ
+1.0 0.1  ADJP --> RB JJ
+1.0 0.1  ADJP --> JJ PP
+1.0 0.1  ADJP --> JJR
+1.0 0.1  ADJP --> JJ S
+1.0 0.1  ADJP --> JJ SBAR
+1.0 0.1  ADJP --> WRB JJ
+1.0 0.1  ADJP --> ADJP PP
+1.0 0.1  ADJP --> JJ CC JJ
+1.0 0.1  ADJP --> JJ JJ
+1.0 0.1  ADJP --> RB JJ PP
+1.0 0.1  ADJP --> RB RB JJ
+1.0 0.1  ADJP --> ADVP JJ
+1.0 0.1  ADJP --> RB JJR
+1.0 0.1  ADJP --> ADJP CC ADJP
+1.0 0.1  ADJP --> ADJP SBAR
+1.0 0.1  ADJP --> RB
+1.0 0.1  ADJP --> ADJP S
+1.0 0.1  ADJP --> NP JJ
+1.0 0.1  ADJP --> JJ RB
+1.0 0.1  ADJP --> JJR PP
+1.0 0.1  ADJP --> NP JJR
+1.0 0.1  ADJP --> DT JJ
+1.0 0.1  ADJP --> RB JJ S
+1.0 0.1  ADJP --> JJ VBG
+1.0 0.1  ADJP --> RBR JJ
+1.0 0.1  ADJP --> NOT JJ
+1.0 0.1  ADJP --> VBN
+1.0 0.1  ADJP --> JJ NP
+1.0 0.1  ADJP --> DT JJ JJR
+1.0 0.1  ADJP --> JJ ADVP
+1.0 0.1  ADJP --> JJ JJ JJ
+1.0 0.1  ADJP --> JJ NN
+1.0 0.1  ADJP --> NOT RB JJ
+1.0 0.1  ADJP --> NP RB JJ
+1.0 0.1  ADJP --> RB JJ SBAR
+1.0 0.1  ADJP --> RB RB
+1.0 0.1  ADJP --> JJS
+1.0 0.1  ADJP --> ADJP JJ
+1.0 0.1  ADJP --> NN IN
+1.0 0.1  ADJP --> RBR
+1.0 0.1  ADJP --> ADVP JJR
+1.0 0.1  ADJP --> ADVP RB JJ
+1.0 0.1  ADJP --> JJ CC JJ CC JJ
+1.0 0.1  ADJP --> RB JJ RB
+1.0 0.1  ADJP --> CD NN
+1.0 0.1  ADJP --> DT JJ JJ
+1.0 0.1  ADJP --> JJR CC JJR
+1.0 0.1  ADJP --> NN JJ
+1.0 0.1  ADJP --> NP ADJP
+1.0 0.1  ADJP --> RB DT JJ
+1.0 0.1  ADJP --> RB NP JJ
+1.0 0.1  ADJP --> VB NN
+1.0 0.1  ADVP --> RB
+1.0 0.1  ADVP --> RB RB
+1.0 0.1  ADVP --> NN
+1.0 0.1  ADVP --> RBR
+1.0 0.1  ADVP --> RB PP
+1.0 0.1  ADVP --> DT NN
+1.0 0.1  ADVP --> RB CC RB
+1.0 0.1  ADVP --> NN IN
+1.0 0.1  ADVP --> RB RB RB
+1.0 0.1  ADVP --> RB RBR
+1.0 0.1  ADVP --> NP RB
+1.0 0.1  ADVP --> JJ NN
+1.0 0.1  ADVP --> NOT RB
+1.0 0.1  ADVP --> ADVP SBAR
+1.0 0.1  ADVP --> RP
+1.0 0.1  ADVP --> DT JJ
+1.0 0.1  ADVP --> DT JJ NN
+1.0 0.1  ADVP --> RB JJ
+1.0 0.1  ADVP --> IN RB
+1.0 0.1  ADVP --> PDT DT NN
+1.0 0.1  ADVP --> JJ
+1.0 0.1  ADVP --> PRP
+1.0 0.1  ADVP --> RB NP
+1.0 0.1  ADVP --> RBS
+1.0 0.1  ADVP --> NNP
+1.0 0.1  ADVP --> ADVP CC ADVP
+1.0 0.1  ADVP --> NOT RB RB
+1.0 0.1  ADVP --> ADVP PP
+1.0 0.1  ADVP --> DT RBR
+1.0 0.1  ADVP --> DT RB
+1.0 0.1  ADVP --> IN JJS
+1.0 0.1  ADVP --> NP RBR
+1.0 0.1  ADVP --> DT JJ RBR
+1.0 0.1  ADVP --> RP RB
+1.0 0.1  ADVP --> EX
+1.0 0.1  ADVP --> NN PP
+1.0 0.1  ADVP --> RB NN
+1.0 0.1  ADVP --> RB RB PP
+1.0 0.1  ADVP --> IN
+1.0 0.1  ADVP --> NP ADVP
+1.0 0.1  ADVP --> NP SBAR
+1.0 0.1  ADVP --> RB RB SBAR
+1.0 0.1  ADVP --> RB SBAR
+1.0 0.1  ADVP --> IN CC IN
+1.0 0.1  ADVP --> IN NP
+1.0 0.1  ADVP --> RB IN
+1.0 0.1  ADVP --> RBR RB
+1.0 0.1  ADVP --> CD NN
+1.0 0.1  ADVP --> RB ADJP
+1.0 0.1  ADVP --> RBR PP
+1.0 0.1  ADVP --> DT
+1.0 0.1  ADVP --> DT JJR
+1.0 0.1  ADVP --> IN DT
+1.0 0.1  ADVP --> NN NN
+1.0 0.1  ADVP --> RB IN NP
+1.0 0.1  ADVP --> RB RB CC RB
+1.0 0.1  ADVP --> RB RBS
+1.0 0.1  ADVP --> UH
+1.0 0.1  AUX --> VB ASP
+1.0 0.1  COP --> VB ASP
+1.0 0.1  VB --> VB ASP
+1.0 0.1  VB --> VB T
+1.0 0.1  VBD --> VB T
+1.0 0.1  VBG --> VB ASP
+1.0 0.1  VBN --> VB T
+1.0 0.1  VBZ --> VB PRS
+1.0 0.1  JJ --> VB T
+1.0 0.1  JJ --> VB ASP
+1.0 0.1  NN --> VB ASP
+1.0 0.1  NN --> VB T
+1.0 0.1  NNP --> VB ASP
+1.0 0.1  PRT --> RP
+1.0 0.1  PRT --> RB RP
+1.0 0.1  PRT --> RB
+1.0 0.1  PRT --> ADVP RP
+1.0 0.1  PRT --> RP NP
+1.0 0.1  PRT --> RP RP
+1.0 0.1  PRT --> RP PP
+1.0 0.1  PRT --> IN
