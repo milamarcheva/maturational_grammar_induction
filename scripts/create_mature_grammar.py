@@ -165,105 +165,143 @@ def main() -> None:
     )
     ap.add_argument(
         "--grammar",
+        nargs="+",
         required=True,
-        help="Input grammar with productions and lexicalisations.",
+        help="Input grammar(s) with productions and lexicalisations.",
     )
     ap.add_argument(
         "--sentences",
         required=True,
-        help="Sentence file (one sentence per line) to build vocab.",
+        help="Sentence file (one sentence per line) to build vocab. Default: /Users/milamarcheva/Desktop/maturational_grammar_induction/yields/filtered_ctb_yields.txt",
+        default = "/Users/milamarcheva/Desktop/maturational_grammar_induction/yields/filtered_ctb_yields.txt"
     )
     ap.add_argument(
         "--output",
-        help="Output directory (default: maturational_grammar_induction/grammars).",
+        help="Output directory (default: maturational_grammar_induction/grammars/mature).",
     )
     ap.add_argument(
         "--lexicalisation",
-        default="uniform",
+        default=argparse.SUPPRESS,
         choices=["uniform", "postagged", "primed_by_freq"],
         help="Lexicalisation scheme to use (default: uniform).",
     )
     ap.add_argument(
         "--weight-prod",
         type=float,
-        default=1.0,
+        default=argparse.SUPPRESS,
         help="Weight for production rules (default: 1.0).",
     )
     ap.add_argument(
         "--weight-lex",
         type=float,
-        default=1.0,
+        default=argparse.SUPPRESS,
         help="Weight for lexical rules (default: 1.0).",
     )
     ap.add_argument(
         "--pseudocount-prod",
+        nargs="+",
         type=float,
-        default=0.1,
-        help="Pseudocount for production rules (default: 0.1).",
+        default=argparse.SUPPRESS,
+        help="Pseudocount(s) for production rules (default: 0.1).",
     )
     ap.add_argument(
         "--pseudocount-lex",
+        nargs="+",
         type=float,
-        default=0.1,
-        help="Pseudocount for lexical rules (default: 0.1).",
+        default=argparse.SUPPRESS,
+        help="Pseudocount(s) for lexical rules (default: 0.1).",
     )
 
     args = ap.parse_args()
 
-    grammar_path = Path(args.grammar)
-    sentences_path = Path(args.sentences)
-    out_dir = Path(args.output) if args.output else Path(
-        "/Users/milamarcheva/Desktop/maturational_grammar_induction/grammars"
+    default_out_dir = Path(
+        "/Users/milamarcheva/Desktop/maturational_grammar_induction/grammars/mature"
     )
+    default_lexicalisation = "uniform"
+    default_weight_prod = 1.0
+    default_weight_lex = 1.0
+    default_pseudocount_prod = 0.1
+    default_pseudocount_lex = 0.1
+
+    grammar_paths = [Path(path) for path in args.grammar]
+    sentences_path = Path(args.sentences)
+    out_dir = Path(args.output) if args.output else default_out_dir
+    lexicalisation = getattr(args, "lexicalisation", default_lexicalisation)
+    weight_prod = getattr(args, "weight_prod", default_weight_prod)
+    weight_lex = getattr(args, "weight_lex", default_weight_lex)
+    pseudocount_prod_values = getattr(args, "pseudocount_prod", None)
+    pseudocount_lex_values = getattr(args, "pseudocount_lex", None)
+    include_lex = hasattr(args, "lexicalisation")
+    include_wp = hasattr(args, "weight_prod")
+    include_wl = hasattr(args, "weight_lex")
+    include_pp = hasattr(args, "pseudocount_prod")
+    include_pl = hasattr(args, "pseudocount_lex")
+    if pseudocount_prod_values is None and pseudocount_lex_values is None:
+        pseudocount_values = [default_pseudocount_prod]
+    elif pseudocount_prod_values is not None and pseudocount_lex_values is not None:
+        if list(pseudocount_prod_values) != list(pseudocount_lex_values):
+            raise SystemExit(
+                "--pseudocount-prod and --pseudocount-lex must be identical when both are set."
+            )
+        pseudocount_values = list(pseudocount_prod_values)
+    elif pseudocount_prod_values is not None:
+        pseudocount_values = list(pseudocount_prod_values)
+    else:
+        pseudocount_values = list(pseudocount_lex_values)
     def safe(value: object) -> str:
         return str(value).replace(" ", "").replace("/", "_").replace(".", "p")
-    output_name = (
-        f"{grammar_path.stem}"
-        f"__lex-{safe(args.lexicalisation)}"
-        f"__wp-{safe(args.weight_prod)}"
-        f"__wl-{safe(args.weight_lex)}"
-        f"__pp-{safe(args.pseudocount_prod)}"
-        f"__pl-{safe(args.pseudocount_lex)}"
-        f"{grammar_path.suffix}"
-    )
-    output_path = out_dir / output_name
-
-    with grammar_path.open(encoding="utf-8") as f:
-        rules = iter_rules(f)
-    if not rules:
-        raise SystemExit(f"No rules found in input grammar: {grammar_path}")
-
-    productions, lex_rules, preterminals, lex_counts = split_rules(rules)
-    if not preterminals:
-        raise SystemExit("No preterminals found in input grammar.")
-
     vocab = read_vocab(sentences_path)
     if not vocab:
         raise SystemExit(f"No tokens found in sentence file: {sentences_path}")
 
-    if args.lexicalisation == "uniform":
-        lexical_rules = build_uniform_lexicon(preterminals, vocab)
-    elif args.lexicalisation == "postagged":
-        lexical_rules = build_postagged_lexicon(lex_rules, preterminals, vocab)
-    elif args.lexicalisation == "primed_by_freq":
-        lexical_rules = build_primed_by_freq_lexicon(lex_counts, preterminals, vocab)
-    else:
-        raise SystemExit(f"Unsupported lexicalisation: {args.lexicalisation}")
+    for grammar_path in grammar_paths:
+        with grammar_path.open(encoding="utf-8") as f:
+            rules = iter_rules(f)
+        if not rules:
+            raise SystemExit(f"No rules found in input grammar: {grammar_path}")
 
-    write_grammar(
-        output_path,
-        productions,
-        lexical_rules,
-        args.weight_prod,
-        args.pseudocount_prod,
-        args.weight_lex,
-        args.pseudocount_lex,
-    )
-    print(f"Wrote grammar to {output_path}")
-    print(f"- Productions: {len(productions)}")
-    print(f"- Preterminals: {len(preterminals)}")
-    print(f"- Vocab size: {len(vocab)}")
-    print(f"- Lexical rules: {len(lexical_rules)}")
+        productions, lex_rules, preterminals, lex_counts = split_rules(rules)
+        if not preterminals:
+            raise SystemExit(f"No preterminals found in input grammar: {grammar_path}")
+
+        if lexicalisation == "uniform":
+            lexical_rules = build_uniform_lexicon(preterminals, vocab)
+        elif lexicalisation == "postagged":
+            lexical_rules = build_postagged_lexicon(lex_rules, preterminals, vocab)
+        elif lexicalisation == "primed_by_freq":
+            lexical_rules = build_primed_by_freq_lexicon(lex_counts, preterminals, vocab)
+        else:
+            raise SystemExit(f"Unsupported lexicalisation: {lexicalisation}")
+
+        for pseudocount in pseudocount_values:
+            name_parts = [grammar_path.stem]
+            if include_lex:
+                name_parts.append(f"lex-{safe(lexicalisation)}")
+            if include_wp:
+                name_parts.append(f"wp-{safe(weight_prod)}")
+            if include_wl:
+                name_parts.append(f"wl-{safe(weight_lex)}")
+            if include_pp:
+                name_parts.append(f"pp-{safe(pseudocount)}")
+            if include_pl:
+                name_parts.append(f"pl-{safe(pseudocount)}")
+            output_name = "__".join(name_parts) + grammar_path.suffix
+            output_path = out_dir / output_name
+
+            write_grammar(
+                output_path,
+                productions,
+                lexical_rules,
+                weight_prod,
+                pseudocount,
+                weight_lex,
+                pseudocount,
+            )
+            print(f"Wrote grammar to {output_path}")
+            print(f"- Productions: {len(productions)}")
+            print(f"- Preterminals: {len(preterminals)}")
+            print(f"- Vocab size: {len(vocab)}")
+            print(f"- Lexical rules: {len(lexical_rules)}")
 
 
 if __name__ == "__main__":

@@ -590,7 +590,6 @@ prune_grammar(const grammar g, const si_t si, FLOAT minruleprob)
   vindex  *rules = MALLOC(nrulesmax*sizeof(vindex));
   FLOAT   *weights = MALLOC(nrulesmax*sizeof(FLOAT));
   FLOAT   *bias = MALLOC(nrulesmax*sizeof(FLOAT));
-
   for (oldi=0; oldi<g->nrules; oldi++)
     if (g->weights[oldi] >= minruleprob) {
       size_t i = nrules++;

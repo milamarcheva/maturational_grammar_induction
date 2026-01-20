@@ -55,7 +55,7 @@ def main() -> None:
         "--min-freqs",
         nargs="+",
         type=int,
-        default=[1, 2, 3, 4, 5, 10],
+        default=[6,7,8,9],
         help="Minimum frequency values to use.",
     )
     ap.add_argument(

@@ -1,0 +1,9950 @@
+43498  ROOT --> S
+24284  ROOT --> FRAG
+20097  ROOT --> SBARQ
+16870  ROOT --> SQ
+5421  ROOT --> INTJ S
+1741  ROOT --> INTJ
+1312  ROOT --> INTJ FRAG
+1004  ROOT --> S SQ
+925  ROOT --> SINV
+825  ROOT --> S NP
+820  ROOT --> INTJ SBARQ
+808  ROOT --> S S
+666  ROOT --> NP S
+608  ROOT --> INTJ SQ
+533  ROOT --> SBARQ NP
+487  ROOT --> INTJ NP
+403  ROOT --> FRAG S
+345  ROOT --> S INTJ
+339  ROOT --> FRAG NP
+325  ROOT --> S FRAG
+265  ROOT --> SQ NP
+236  ROOT --> NP SBARQ
+233  ROOT --> NP SQ
+231  ROOT --> INTJ S SQ
+225  ROOT --> FRAG FRAG
+204  ROOT --> S CC S
+187  ROOT --> FRAG INTJ
+171  ROOT --> FRAG SQ
+161  ROOT --> NP
+156  ROOT --> INTJ INTJ
+155  ROOT --> FRAG SBARQ
+134  ROOT --> INTJ NP S
+114  ROOT --> INTJ S S
+105  ROOT --> NP FRAG
+101  ROOT --> INTJ S NP
+83  ROOT --> SBAR S
+78  ROOT --> S SBARQ
+62  ROOT --> INTJ S FRAG
+57  ROOT --> INTJ S INTJ
+56  ROOT --> INTJ FRAG S
+54  ROOT --> SBARQ FRAG
+50  ROOT --> S NP S
+49  ROOT --> SQ INTJ
+47  ROOT --> INTJ INTJ S
+46  ROOT --> SBARQ SQ
+42  ROOT --> S S S
+41  ROOT --> INTJ SINV
+40  ROOT --> S CC SBARQ
+37  ROOT --> SQ FRAG
+32  ROOT --> INTJ NP SBARQ
+29  ROOT --> SQ CC SQ
+28  ROOT --> INTJ NP FRAG
+27  ROOT --> NP S INTJ
+23  ROOT --> FRAG INTJ S
+22  ROOT --> INTJ CC SBARQ
+22  ROOT --> INTJ NP SQ
+22  ROOT --> S CC FRAG
+21  ROOT --> NP INTJ
+19  ROOT --> INTJ S CC S
+19  ROOT --> SBAR
+18  ROOT --> FRAG CC S
+18  ROOT --> FRAG FRAG FRAG
+18  ROOT --> INTJ FRAG FRAG
+18  ROOT --> NP S S
+18  ROOT --> S NP FRAG
+18  ROOT --> SINV NP
+17  ROOT --> INTJ INTJ FRAG
+17  ROOT --> INTJ S SBARQ
+17  ROOT --> SBARQ S
+17  ROOT --> SQ SQ
+16  ROOT --> FRAG NP S
+16  ROOT --> INTJ FRAG INTJ
+16  ROOT --> S CC SQ
+15  ROOT --> INTJ FRAG SQ
+14  ROOT --> INTJ CC S
+14  ROOT --> S SQ NP
+14  ROOT --> SBAR FRAG
+13  ROOT --> FRAG S S
+13  ROOT --> INTJ FRAG NP
+13  ROOT --> S INTJ NP
+13  ROOT --> S S NP
+12  ROOT --> INTJ INTJ INTJ
+12  ROOT --> INTJ S S S
+12  ROOT --> S S SQ
+11  ROOT --> FRAG FRAG S
+11  ROOT --> INTJ FRAG SBARQ
+11  ROOT --> INTJ INTJ NP
+11  ROOT --> NP INTJ S
+10  ROOT --> FRAG INTJ FRAG
+10  ROOT --> NP S NP
+10  ROOT --> SBARQ SBARQ
+9  ROOT --> FRAG INTJ NP
+9  ROOT --> FRAG S FRAG
+9  ROOT --> INTJ CC FRAG
+9  ROOT --> NP NP
+9  ROOT --> SINV FRAG
+9  ROOT --> SQ CC FRAG
+8  ROOT --> FRAG CC SBARQ
+8  ROOT --> FRAG FRAG SBARQ
+8  ROOT --> FRAG S NP
+8  ROOT --> INTJ SBARQ NP
+8  ROOT --> NP S FRAG
+8  ROOT --> S FRAG S
+8  ROOT --> S INTJ S
+8  ROOT --> S S INTJ
+8  ROOT --> SBARQ INTJ
+8  ROOT --> SQ S
+7  ROOT --> FRAG CC FRAG
+7  ROOT --> INTJ S NP S
+7  ROOT --> NP NP S
+7  ROOT --> S S S S
+7  ROOT --> S VP
+7  ROOT --> VP
+7891  ADJP --> JJ
+2549  ADJP --> RB JJ
+492  ADJP --> JJ PP
+302  ADJP --> JJR
+231  ADJP --> JJ S
+191  ADJP --> JJ SBAR
+173  ADJP --> WRB JJ
+104  ADJP --> ADJP PP
+102  ADJP --> JJ CC JJ
+98  ADJP --> JJ JJ
+84  ADJP --> RB JJ PP
+59  ADJP --> RB RB JJ
+55  ADJP --> ADVP JJ
+52  ADJP --> RB JJR
+50  ADJP --> ADJP CC ADJP
+50  ADJP --> ADJP SBAR
+48  ADJP --> RB
+44  ADJP --> ADJP S
+43  ADJP --> NP JJ
+41  ADJP --> JJ RB
+40  ADJP --> JJR PP
+38  ADJP --> NP JJR
+37  ADJP --> DT JJ
+36  ADJP --> RB JJ S
+23  ADJP --> JJ VBG
+18  ADJP --> RBR JJ
+13  ADJP --> NOT JJ
+13  ADJP --> VBN
+12  ADJP --> JJ NP
+11  ADJP --> DT JJ JJR
+11  ADJP --> JJ ADVP
+10  ADJP --> JJ JJ JJ
+10  ADJP --> JJ NN
+10  ADJP --> NOT RB JJ
+9  ADJP --> NP RB JJ
+9  ADJP --> RB JJ SBAR
+9  ADJP --> RB RB
+8  ADJP --> JJS
+7  ADJP --> ADJP JJ
+7  ADJP --> NN IN
+7  ADJP --> RBR
+20116  ADVP --> RB
+2728  ADVP --> RB RB
+209  ADVP --> NN
+173  ADVP --> RBR
+134  ADVP --> RB PP
+106  ADVP --> DT NN
+104  ADVP --> RB CC RB
+102  ADVP --> NN IN
+82  ADVP --> RB RB RB
+79  ADVP --> RB RBR
+71  ADVP --> NP RB
+70  ADVP --> JJ NN
+67  ADVP --> NOT RB
+36  ADVP --> ADVP SBAR
+30  ADVP --> RP
+29  ADVP --> DT JJ
+29  ADVP --> DT JJ NN
+29  ADVP --> RB JJ
+28  ADVP --> IN RB
+22  ADVP --> PDT DT NN
+21  ADVP --> JJ
+21  ADVP --> PRP
+21  ADVP --> RB NP
+19  ADVP --> RBS
+18  ADVP --> NNP
+17  ADVP --> ADVP CC ADVP
+15  ADVP --> NOT RB RB
+13  ADVP --> ADVP PP
+13  ADVP --> DT RBR
+12  ADVP --> DT RB
+11  ADVP --> IN JJS
+11  ADVP --> NP RBR
+10  ADVP --> DT JJ RBR
+10  ADVP --> RP RB
+9  ADVP --> EX
+9  ADVP --> NN PP
+9  ADVP --> RB NN
+9  ADVP --> RB RB PP
+8  ADVP --> IN
+8  ADVP --> NP ADVP
+8  ADVP --> NP SBAR
+8  ADVP --> RB RB SBAR
+8  ADVP --> RB SBAR
+7  ADVP --> IN CC IN
+7  ADVP --> IN NP
+7  ADVP --> RB IN
+7  ADVP --> RBR RB
+26  AUX --> VB ASP
+70  COP --> VB ASP
+6148  FRAG --> NP
+3517  FRAG --> VP
+3482  FRAG --> NP VP
+2141  FRAG --> PP
+1262  FRAG --> WHNP
+1109  FRAG --> SBAR
+1097  FRAG --> CC S
+941  FRAG --> ADJP
+602  FRAG --> ADVP
+598  FRAG --> CC SBARQ
+506  FRAG --> INTJ NP
+400  FRAG --> CC NP
+332  FRAG --> NP PP
+264  FRAG --> NP NP
+239  FRAG --> NP ADVP
+227  FRAG --> ADVP NP
+225  FRAG --> CC NP VP
+223  FRAG --> WHADVP
+213  FRAG --> NP INTJ
+193  FRAG --> NP ADJP
+171  FRAG --> INTJ
+164  FRAG --> NP WHNP
+162  FRAG --> WHNP NP
+146  FRAG --> CC WHNP
+146  FRAG --> INTJ INTJ
+144  FRAG --> WHPP
+143  FRAG --> CC SQ
+108  FRAG --> WHADVP NP
+104  FRAG --> NOT NP
+101  FRAG --> WHNP VP
+100  FRAG --> CC VP
+99  FRAG --> WHADVP SQ
+98  FRAG --> ADVP PP
+97  FRAG --> ADVP VP
+95  FRAG --> WHNP SQ
+94  FRAG --> WHADVP NOT
+90  FRAG --> INTJ NP VP
+89  FRAG --> INTJ ADVP
+78  FRAG --> WHADVP VP
+73  FRAG --> S
+71  FRAG --> INTJ ADJP
+71  FRAG --> INTJ PP
+69  FRAG --> NOT PP
+68  FRAG --> INTJ VP
+58  FRAG --> ADVP NP VP
+56  FRAG --> NP NP NP
+56  FRAG --> PP PP
+54  FRAG --> NOT ADVP
+52  FRAG --> S CC FRAG
+52  FRAG --> WHNP PP
+51  FRAG --> NN
+49  FRAG --> ADVP ADVP
+49  FRAG --> FRAG CC S
+49  FRAG --> WHNP ADVP
+47  FRAG --> WHADVP NP VP
+45  FRAG --> ADVP SBAR
+45  FRAG --> PP INTJ
+44  FRAG --> CC FRAG
+43  FRAG --> INTJ SBAR
+42  FRAG --> NP ADVP VP
+42  FRAG --> S CC
+39  FRAG --> ADVP WHNP
+36  FRAG --> VP INTJ
+35  FRAG --> CC ADVP
+34  FRAG --> NP CC NP
+31  FRAG --> CC PP
+31  FRAG --> CC SINV
+30  FRAG --> WHADVP PP
+28  FRAG --> CC ADVP NP VP
+27  FRAG --> ADJP NP
+27  FRAG --> NP NP VP
+26  FRAG --> NOT ADJP
+26  FRAG --> VP NP
+25  FRAG --> INTJ WHNP
+24  FRAG --> PP ADVP
+23  FRAG --> ADJP ADJP
+23  FRAG --> ADJP INTJ
+23  FRAG --> CC SBAR
+23  FRAG --> NP SBAR
+22  FRAG --> CC S INTJ
+22  FRAG --> SBAR NP VP
+21  FRAG --> ADJP ADVP
+20  FRAG --> ADJP PP
+20  FRAG --> ADVP ADJP
+20  FRAG --> WHADVP S
+19  FRAG --> CC NP ADVP
+19  FRAG --> NP NP NP NP
+19  FRAG --> WHNP NP VP
+18  FRAG --> DT NN
+18  FRAG --> VP VP
+17  FRAG --> ADVP INTJ
+17  FRAG --> INTJ WHADVP
+17  FRAG --> WHADJP
+17  FRAG --> WHNP S
+16  FRAG --> CC
+16  FRAG --> CC S CC S
+16  FRAG --> INTJ NP INTJ
+16  FRAG --> NNP
+16  FRAG --> PP NP VP
+15  FRAG --> CC WHNP ADVP
+14  FRAG --> CC ADJP
+14  FRAG --> INTJ CC SBARQ
+14  FRAG --> SBAR INTJ
+13  FRAG --> INTJ CC S
+13  FRAG --> INTJ NP NP
+13  FRAG --> WHNP SBAR
+12  FRAG --> CC ADVP WHNP
+12  FRAG --> CC WHADVP
+12  FRAG --> INTJ CC NP
+12  FRAG --> NP S
+11  FRAG --> CC ADVP VP
+11  FRAG --> NNS
+11  FRAG --> NP CC
+11  FRAG --> NP CC WHNP
+11  FRAG --> WHNP FRAG
+10  FRAG --> INTJ ADVP NP
+10  FRAG --> INTJ NP ADVP
+10  FRAG --> PP NP
+9  FRAG --> ADVP S
+9  FRAG --> CC NP INTJ
+9  FRAG --> CC NP NP
+9  FRAG --> FRAG CC FRAG
+9  FRAG --> INTJ INTJ INTJ
+9  FRAG --> NOT SBAR
+9  FRAG --> NP VP ADVP
+9  FRAG --> NP VP INTJ
+9  FRAG --> RB PP
+9  FRAG --> WHADVP FRAG
+8  FRAG --> INTJ PP PP
+8  FRAG --> INTJ SBARQ
+8  FRAG --> JJ
+8  FRAG --> NP ADJP ADVP
+8  FRAG --> NP ADVP PP
+8  FRAG --> NP VP NP
+8  FRAG --> SBAR VP
+8  FRAG --> UH
+8  FRAG --> VB
+7  FRAG --> ADJP S
+7  FRAG --> ADJP SBAR
+7  FRAG --> ADVP NP PP
+7  FRAG --> ADVP PP PP
+7  FRAG --> ADVP VP NP
+7  FRAG --> CC NP PP
+7  FRAG --> INTJ FRAG
+7  FRAG --> NP CC S
+7  FRAG --> NP NP NP NP NP
+7  FRAG --> NP NP PP
+7  FRAG --> NP PP INTJ
+7  FRAG --> S CC S
+7  FRAG --> SBARQ
+7  FRAG --> SQ CC FRAG
+7  FRAG --> VP SQ
+7  FRAG --> WHADVP ADVP
+16747  INTJ --> UH
+1184  INTJ --> UH UH
+685  INTJ --> RB
+517  INTJ --> VP
+446  INTJ --> JJ
+256  INTJ --> UH NP
+183  INTJ --> UH UH UH
+166  INTJ --> NP
+131  INTJ --> JJ NN
+82  INTJ --> UH VP
+74  INTJ --> ADJP
+58  INTJ --> ADVP
+55  INTJ --> UH ADJP
+43  INTJ --> UH UH UH UH
+39  INTJ --> UH NN
+36  INTJ --> UH JJ
+33  INTJ --> VB
+27  INTJ --> UH RB
+23  INTJ --> NP VP
+22  INTJ --> UH UH UH UH UH
+17  INTJ --> UH PRP$ NN
+16  INTJ --> UH INTJ
+13  INTJ --> UH NNP
+11  INTJ --> NP PP
+10  INTJ --> PP
+10  INTJ --> UH ADVP
+9  INTJ --> VP NP
+8  INTJ --> ADJP ADJP
+8  INTJ --> UH NNS
+8  INTJ --> UH PRP$
+7  INTJ --> NN
+7  INTJ --> NP NP
+7  INTJ --> UH JJ NN
+7  INTJ --> UH UH UH UH UH UH
+674  JJ --> VB T
+135  JJ --> VB ASP
+592  NN --> VB ASP
+9  NN --> VB T
+27  NNP --> VB ASP
+73  NNPS --> NNP DIV
+11554  NNS --> NN DIV
+99537  NP --> PRP
+29305  NP --> DT NN
+27484  NP --> NN
+12958  NP --> NNP
+7425  NP --> PRP$ NN
+5645  NP --> DT JJ NN
+4647  NP --> NNS
+3260  NP --> DT NNS
+2241  NP --> NP PP
+1899  NP --> EX
+1734  NP --> DT NN NN
+1668  NP --> NP SBAR
+1633  NP --> PRP$ NNS
+1457  NP --> NP NN
+1308  NP --> NNP POS
+1295  NP --> JJ NN
+1281  NP --> DT
+1183  NP --> CD
+931  NP --> NP CC NP
+813  NP --> NNP NNP
+797  NP --> JJ NNS
+714  NP --> DT NN PP
+699  NP --> NN NN
+610  NP --> CD NNS
+565  NP --> PRP$ JJ NN
+489  NP --> DT JJ NNS
+451  NP --> NN PP
+405  NP --> DT NNP
+352  NP --> PRP$
+333  NP --> PRP$ NN NN
+330  NP --> DT JJ JJ NN
+330  NP --> DT NN POS
+301  NP --> CD NN
+245  NP --> DT JJR
+236  NP --> NN NNS
+206  NP --> PDT DT NNS
+203  NP --> FRAG
+191  NP --> PRP DT
+179  NP --> JJ NNP
+177  NP --> DT NNP NN
+171  NP --> NNP CC NNP
+167  NP --> DT JJ
+159  NP --> PDT DT NN
+155  NP --> NP NNS
+151  NP --> DT ADJP NN
+137  NP --> DT NN NNS
+135  NP --> DT DT NNS
+135  NP --> DT JJ NN NN
+135  NP --> DT JJ NN PP
+134  NP --> NNS PP
+129  NP --> NP NP
+124  NP --> INTJ
+121  NP --> DT JJR NN
+120  NP --> NNP NN
+120  NP --> PRP$ JJ NNS
+115  NP --> NN POS
+115  NP --> NN RB
+112  NP --> DT CD
+105  NP --> NP ADVP
+105  NP --> PRP$ NN POS
+103  NP --> RB
+102  NP --> PRP$ NNP
+99  NP --> CD CD
+98  NP --> DT DT NN
+98  NP --> DT JJR NNS
+97  NP --> NP S
+96  NP --> DT VBG NN
+88  NP --> JJR NN
+82  NP --> DT PP
+82  NP --> JJR
+79  NP --> ADJP NN
+79  NP --> NNP NNP POS
+76  NP --> ADJP NNS
+75  NP --> S
+72  NP --> DT NNS PP
+70  NP --> JJ JJ NNS
+69  NP --> NN JJ
+67  NP --> CD PP
+63  NP --> NN ADVP
+61  NP --> NP ADJP
+59  NP --> JJ JJ NN
+57  NP --> CD JJR
+51  NP --> RB DT NN
+50  NP --> DT JJ NNP
+48  NP --> NN CC NN
+47  NP --> JJR NNS
+47  NP --> NNP NNS
+45  NP --> DT NNP NNP
+45  NP --> PDT DT JJ NN
+44  NP --> PRP NNS
+43  NP --> DT CD NNS
+43  NP --> JJ
+43  NP --> JJ DT NN
+42  NP --> NP VP
+41  NP --> DT NN NN NN
+41  NP --> PDT PRP$ NNS
+41  NP --> RB JJ
+40  NP --> DT JJS
+40  NP --> DT JJS NN
+40  NP --> NP CC NP CC NP
+40  NP --> NP JJ NN
+40  NP --> PRP$ NNP NN
+40  NP --> SBAR
+39  NP --> DT PRP$ NNS
+39  NP --> NP NN NN
+39  NP --> PRP$ NN NNS
+38  NP --> DT NN CC NN
+37  NP --> CD JJR NN
+37  NP --> JJ DT JJ NN
+35  NP --> CD JJ NNS
+34  NP --> DT JJ CD
+34  NP --> NNP NNP NNP
+33  NP --> NNPS
+32  NP --> DT DT JJ NN
+32  NP --> DT JJ NN POS
+32  NP --> NN NNP
+31  NP --> NN S
+31  NP --> NNS CC NNS
+30  NP --> WP
+29  NP --> ADJP
+29  NP --> JJ NN NN
+29  NP --> PRP CC NNP
+28  NP --> DT JJ JJR
+28  NP --> PRP$ JJ
+27  NP --> PRP$ JJ NN NN
+26  NP --> NNP NP
+25  NP --> DT NNP POS
+25  NP --> NN NN NN
+24  NP --> PRP NP
+24  NP --> PRP VP
+24  NP --> PRP$ JJ JJ NN
+24  NP --> RB NN
+23  NP --> CD CC CD
+23  NP --> CD CD NNS
+23  NP --> DT PRP$ NN
+23  NP --> NNP CC NNP POS
+23  NP --> NP NNP
+22  NP --> CD JJ NN
+22  NP --> DT JJ JJ NNS
+22  NP --> DT VB
+22  NP --> NP PP PP
+22  NP --> PDT DT JJ NNS
+21  NP --> CD NNS PP
+21  NP --> NN CD
+21  NP --> RB DT JJ NN
+20  NP --> CD CD CD
+20  NP --> DT NNP NNS
+20  NP --> DT RB JJ NN
+20  NP --> NN ADJP
+20  NP --> NOT DT NN
+20  NP --> NP ADVP SBAR
+20  NP --> PRP NN
+20  NP --> PRP PRP
+19  NP --> DT NNPS
+19  NP --> NN JJ NN
+19  NP --> PRP$ NN PP
+18  NP --> DT DT JJ NNS
+18  NP --> VBG
+16  NP --> CD JJR NNS
+16  NP --> CD NN NNS
+16  NP --> CD NN PP
+16  NP --> DT NP NN
+16  NP --> NNP PP
+15  NP --> DT JJ JJ JJ NN
+15  NP --> NP CC WHNP
+15  NP --> UH
+14  NP --> DT NP
+14  NP --> DT NP CC NP
+14  NP --> JJ CD
+14  NP --> NP NN POS
+14  NP --> PRP$ NP
+14  NP --> PRP$ NP CC NP
+13  NP --> DT CD NN
+13  NP --> DT JJR PP
+13  NP --> DT NN ADVP
+13  NP --> DT NNS NN
+13  NP --> DT WP
+13  NP --> JJR PP
+13  NP --> VBG NNS
+12  NP --> DT RB
+12  NP --> JJ NN NNS
+12  NP --> NNP CC NNP CC NNP
+12  NP --> NNS CC NN
+12  NP --> NP NP CC NP
+12  NP --> PRP$ VBG NN
+12  NP --> RB JJ NN
+11  NP --> DT NN S
+11  NP --> JJ JJ JJ NNS
+11  NP --> NOT NN
+11  NP --> NOT NNP
+11  NP --> NP INTJ
+11  NP --> PDT DT NNS PP
+11  NP --> PDT PRP$ NN
+11  NP --> PRP JJ NN
+11  NP --> PRP$ JJS NN
+11  NP --> PRP$ NN NN NN
+10  NP --> DT JJ NN NNS
+10  NP --> DT JJ VBG NN
+10  NP --> JJ NN PP
+10  NP --> JJ PP
+10  NP --> NNP DT NN
+10  NP --> RB JJ NNS
+10  NP --> SBARQ
+10  NP --> VB
+10  NP --> VBG NN
+9  NP --> DT JJR NN NN
+9  NP --> DT NN DT NN
+9  NP --> JJ CD NN
+9  NP --> NN VP
+9  NP --> NP NNP POS
+9  NP --> NP NP NP
+9  NP --> PRP$ VB
+8  NP --> ADVP DT NN
+8  NP --> CD CD NN
+8  NP --> DT JJ JJ
+8  NP --> DT JJ NN JJR
+8  NP --> DT NN NN PP
+8  NP --> DT NN SBAR
+8  NP --> DT NNP NN NN
+8  NP --> DT NNS CC NNS
+8  NP --> DT PRP
+8  NP --> JJR NN NN
+8  NP --> NN DT
+8  NP --> NN NP
+8  NP --> NNP CD
+8  NP --> NNP VP
+8  NP --> NOT PRP
+8  NP --> PRP$ NN NNP
+7  NP --> CD NN NN
+7  NP --> DT ADJP
+7  NP --> DT JJ NNP NN
+7  NP --> DT JJ NNS PP
+7  NP --> DT NN NNP
+7  NP --> DT NNP PP
+7  NP --> DT RB NN
+7  NP --> DT VBG
+7  NP --> DT VBN NN
+7  NP --> JJ JJ NNP
+7  NP --> JJ NP
+7  NP --> NN DT NN
+7  NP --> NNP NN NN
+7  NP --> NNP S
+7  NP --> NP PP SBAR
+7  NP --> PRP$ CD NNS
+7  NP --> PRP$ JJ NNP
+7  NP --> PRP$ NN CC NN
+7  NP --> RB CD
+7  NP --> RB CD NNS
+7  NP --> S NP
+30650  PP --> IN NP
+3055  PP --> IN
+535  PP --> ADVP IN NP
+383  PP --> DT NN
+283  PP --> IN PP
+235  PP --> IN S
+233  PP --> IN WHNP
+218  PP --> NP
+175  PP --> RB IN NP
+151  PP --> JJ NN
+103  PP --> IN SBAR
+90  PP --> IN ADVP
+90  PP --> IN NP PP
+90  PP --> PP CC PP
+78  PP --> IN NP ADVP
+70  PP --> DT JJ NN
+61  PP --> IN VP
+43  PP --> NNP
+43  PP --> NOT IN NP
+41  PP --> IN ADJP
+40  PP --> NN
+34  PP --> NP SBAR
+30  PP --> ADVP IN
+29  PP --> IN WHADVP
+26  PP --> NOT NP
+21  PP --> IN NP ADJP
+21  PP --> IN RB
+20  PP --> PDT DT NN
+20  PP --> RB IN
+19  PP --> IN IN NP
+17  PP --> IN NP NP
+17  PP --> IN NP VP
+15  PP --> ADVP TO NP
+15  PP --> PRP
+14  PP --> CD NN
+14  PP --> NP IN NP
+12  PP --> NP PP
+10  PP --> ADVP IN PP
+9  PP --> IN NP SBAR
+9  PP --> PP PP
+9  PP --> RBR IN NP
+8  PP --> IN CC IN NP
+8  PP --> RB TO NP
+7  PP --> IN CC IN
+7  PP --> IN NN
+7  PP --> JJ NNP
+7  PP --> PP SBAR
+7  PP --> RB IN VP
+7  PP --> RB NP
+6012  PRT --> RP
+28  PRT --> RB RP
+23  PRT --> RB
+14  PRT --> ADVP RP
+7  PRT --> RP NP
+7  PRT --> RP RP
+54952  S --> NP VP
+24789  S --> VP
+2493  S --> INTJ NP VP
+1902  S --> ADVP NP VP
+931  S --> S CC S
+832  S --> NP ADVP VP
+662  S --> INTJ VP
+578  S --> ADVP VP
+466  S --> NP VP INTJ
+403  S --> NP NP VP
+326  S --> SBAR NP VP
+220  S --> CC NP VP
+193  S --> NP VP SQ
+152  S --> NP VP NP
+141  S --> NP
+139  S --> PP NP VP
+131  S --> S S
+109  S --> NP VP ADVP
+94  S --> NP ADJP
+82  S --> INTJ NP VP INTJ
+79  S --> VP INTJ
+78  S --> INTJ ADVP NP VP
+71  S --> VP NP
+51  S --> NP VP ADJP
+48  S --> NP VP SBAR
+47  S --> INTJ CC S
+43  S --> INTJ NP VP SQ
+39  S --> CC ADVP NP VP
+36  S --> INTJ NP ADVP VP
+35  S --> NP VP FRAG
+31  S --> INTJ ADVP VP
+29  S --> INTJ NP NP VP
+29  S --> S NP VP
+27  S --> NP VP S
+26  S --> ADVP ADVP NP VP
+26  S --> ADVP SBAR NP VP
+26  S --> NP NP
+26  S --> SBAR VP
+25  S --> INTJ
+24  S --> NOT VP
+21  S --> CC VP
+20  S --> SBAR ADVP NP VP
+19  S --> VP ADVP
+19  S --> VP VP
+18  S --> NP VP VP
+17  S --> INTJ INTJ NP VP
+16  S --> NP ADVP VP INTJ
+16  S --> NP NOT VP
+16  S --> RB NP VP
+15  S --> INTJ INTJ VP
+15  S --> INTJ NP
+14  S --> NP ADVP NOT VP
+14  S --> NP S
+14  S --> TO VP
+13  S --> INTJ SBAR NP VP
+13  S --> NP PP
+11  S --> ADVP NP VP INTJ
+11  S --> ADVP PP NP VP
+11  S --> INTJ VP INTJ
+11  S --> S CC S CC S
+11  S --> S VP
+10  S --> ADJP
+10  S --> ADVP NP ADVP VP
+10  S --> INTJ INTJ
+10  S --> NP ADVP
+10  S --> S CC S INTJ
+9  S --> ADVP NP VP NP
+9  S --> ADVP VP NP
+9  S --> INTJ NP VP NP
+9  S --> INTJ S
+9  S --> NP ADVP ADVP VP
+9  S --> NP VP PP
+9  S --> PP VP
+9  S --> WHNP VP
+8  S --> NP PRT
+7  S --> ADVP S CC S
+7  S --> INTJ VP NP
+7  S --> NP VP CC S
+7  S --> NP VP CC VP
+7  S --> S SQ
+7  S --> S VP NP
+7  S --> SBARQ CC S
+7  S --> VP CC VP
+7  S --> VP FRAG
+5499  SBAR --> S
+2995  SBAR --> WHNP S
+2669  SBAR --> COMP S
+2091  SBAR --> WHADVP S
+701  SBAR --> IN S
+38  SBAR --> WHADJP S
+35  SBAR --> ADVP COMP S
+30  SBAR --> NP VP
+22  SBAR --> COMP COMP S
+21  SBAR --> RB COMP S
+19  SBAR --> COMP
+18  SBAR --> WHNP
+17  SBAR --> NP S
+15  SBAR --> COMP FRAG
+15  SBAR --> WHNP FRAG
+11  SBAR --> SBAR CC SBAR
+10  SBAR --> SINV
+9  SBAR --> FRAG
+7  SBAR --> COMP NP
+7  SBAR --> COMP NP VP
+7  SBAR --> NP
+7  SBAR --> RB S
+7  SBAR --> WHNP VP
+15692  SBARQ --> WHNP SQ
+5328  SBARQ --> WHADVP SQ
+353  SBARQ --> CC WHNP SQ
+252  SBARQ --> ADVP WHNP SQ
+229  SBARQ --> NP VP
+188  SBARQ --> INTJ WHNP SQ
+153  SBARQ --> WHNP SQ NP
+76  SBARQ --> INTJ WHADVP SQ
+66  SBARQ --> ADVP WHADVP SQ
+64  SBARQ --> WHNP ADVP SQ
+62  SBARQ --> CC WHADVP SQ
+58  SBARQ --> VP
+41  SBARQ --> WHADVP SQ NP
+40  SBARQ --> S CC SBARQ
+32  SBARQ --> SBAR WHNP SQ
+27  SBARQ --> WHNP S
+26  SBARQ --> CC ADVP WHNP SQ
+26  SBARQ --> RB WHNP SQ
+26  SBARQ --> WHADJP SQ
+23  SBARQ --> WHNP SQ FRAG
+20  SBARQ --> WHNP VP
+19  SBARQ --> NP WHNP
+16  SBARQ --> WHNP WHNP SQ
+14  SBARQ --> SBAR WHADVP SQ
+14  SBARQ --> WHNP SQ SBAR
+14  SBARQ --> WHPP SQ
+13  SBARQ --> INTJ CC SBARQ
+12  SBARQ --> WHADVP S
+12  SBARQ --> WHNP SQ INTJ
+10  SBARQ --> WHADVP WHADVP SQ
+9  SBARQ --> WHNP
+8  SBARQ --> NP WHNP SQ
+8  SBARQ --> WHADVP VP
+7  SBARQ --> PP WHNP SQ
+585  SINV --> ADVP VP
+261  SINV --> NP VP
+51  SINV --> ADVP VP NP
+36  SINV --> INTJ NP VP
+29  SINV --> ADVP NP VP
+27  SINV --> NP VP NP
+23  SINV --> NP NP VP
+9  SINV --> CC ADVP VP
+37500  SQ --> VP
+3846  SQ --> NP VP
+460  SQ --> AUX NP VP
+249  SQ --> MD NP VP
+131  SQ --> VP NP
+104  SQ --> INTJ VP
+76  SQ --> ADVP VP
+72  SQ --> ADVP NP VP
+65  SQ --> INTJ NP VP
+64  SQ --> COP NP
+55  SQ --> VP INTJ
+46  SQ --> SQ CC SQ
+44  SQ --> CC VP
+40  SQ --> CC NP VP
+37  SQ --> VP NP NP
+36  SQ --> NOT NP VP
+34  SQ --> COP NP ADJP
+26  SQ --> COP NP NP
+22  SQ --> NP ADVP VP
+21  SQ --> VP ADVP
+16  SQ --> SBAR VP
+14  SQ --> S CC SQ
+14  SQ --> VP NP VP
+12  SQ --> PP NP VP
+11  SQ --> AUX NP
+10  SQ --> AUX NOT NP VP
+10  SQ --> COP NP SBAR
+10  SQ --> VP SBAR
+10  SQ --> VP VP
+9  SQ --> NP
+9  SQ --> NP VP INTJ
+9  SQ --> S SQ
+8  SQ --> PP VP
+8  SQ --> SBAR NP VP
+7  SQ --> AUX NOT NP
+7  SQ --> AUX NP ADVP VP
+7  SQ --> NP NP VP
+7  SQ --> VB NP VP
+18  VB --> VB ASP
+2408  VBD --> VB T
+14945  VBG --> VB ASP
+1273  VBN --> VB T
+3364  VBZ --> VB PRS
+16870  VP --> AUX NP VP
+16112  VP --> COP NP
+15977  VP --> VB NP
+12353  VP --> TO VP
+9856  VP --> VB
+7943  VP --> AUX VP
+6811  VP --> VB S
+6621  VP --> VB PP
+6461  VP --> MD VP
+6260  VP --> AUX NOT VP
+6041  VP --> COP ADJP
+4494  VP --> VB SBAR
+4357  VP --> VB NP PP
+4316  VP --> VBG S
+3992  VP --> MD NP VP
+3798  VP --> VBG
+2805  VP --> VB ADVP
+2326  VP --> VBD NP
+2304  VP --> COP
+2006  VP --> VBP NP
+1957  VP --> VB NP PRT
+1901  VP --> VB NP ADVP
+1882  VP --> COP PP
+1821  VP --> VBG PP
+1776  VP --> VBG NP
+1693  VP --> VBP
+1530  VP --> VBP SBAR
+1375  VP --> VB NP NP
+1302  VP --> VBD
+1281  VP --> COP NP NP
+1174  VP --> AUX S
+1162  VP --> VBD PP
+1133  VP --> VBZ NP
+1060  VP --> COP NOT NP
+1035  VP --> VP CC VP
+902  VP --> VBN
+891  VP --> AUX NOT NP VP
+860  VP --> COP NP ADJP
+856  VP --> VB NP SBAR
+844  VP --> VBP S
+833  VP --> COP NP PP
+825  VP --> VBZ
+816  VP --> VB VP
+781  VP --> VBZ PP
+764  VP --> AUX
+760  VP --> COP ADVP
+759  VP --> AUX NOT NP
+741  VP --> VB PRT
+704  VP --> VBG ADVP
+689  VP --> VBD NP PP
+681  VP --> AUX NP
+590  VP --> COP NP ADVP
+566  VP --> VBN NP
+481  VP --> VBD SBAR
+444  VP --> VB PP PP
+443  VP --> VB ADJP
+436  VP --> COP SBAR
+423  VP --> VBD S
+408  VP --> COP NOT ADJP
+407  VP --> VBP PP
+398  VP --> VB PP ADVP
+385  VP --> VBG NP PP
+382  VP --> MD NOT VP
+368  VP --> VB WHNP
+340  VP --> MD
+340  VP --> VB NP PRT PP
+332  VP --> VBZ S
+316  VP --> VB PRT NP
+314  VP --> AUX ADVP VP
+303  VP --> VBP NP PP
+295  VP --> VBD NP ADVP
+286  VP --> VBN PP
+285  VP --> VBP ADVP
+275  VP --> VBD ADVP
+272  VP --> AUX NOT
+268  VP --> VBN S
+268  VP --> VBZ ADVP
+263  VP --> VBD NP NP
+253  VP --> VBZ SBAR
+245  VP --> VB ADVP PP
+245  VP --> VB NP ADJP
+242  VP --> TO
+241  VP --> VBD NP PRT
+236  VP --> COP NP SBAR
+231  VP --> COP ADJP ADVP
+211  VP --> COP WHNP
+211  VP --> VB IN
+209  VP --> COP ADVP NP
+209  VP --> MD ADVP VP
+200  VP --> VBP NP ADVP
+196  VP --> VB NP PRT ADVP
+192  VP --> VB NP S
+191  VP --> VB NP PP ADVP
+189  VP --> VBD PRT
+186  VP --> VBG PRT
+184  VP --> COP NOT
+179  VP --> VBZ ADJP
+178  VP --> VB NP PP PP
+177  VP --> VBG ADJP
+174  VP --> VBZ NP PP
+162  VP --> AUX NP ADVP VP
+158  VP --> COP ADJP PP
+157  VP --> COP NOT NP ADJP
+154  VP --> VB NP VP
+152  VP --> VB PRT PP
+142  VP --> VBG NP PRT
+141  VP --> COP ADVP PP
+139  VP --> COP ADVP ADJP
+131  VP --> VBN ADVP
+127  VP --> VB PRT ADVP
+126  VP --> VBP NP PRT
+125  VP --> VBN NP PP
+119  VP --> MD NP
+119  VP --> VB PP SBAR
+119  VP --> VBG NP ADVP
+115  VP --> VBD NP SBAR
+112  VP --> VB INTJ
+110  VP --> VB FRAG
+106  VP --> COP VP
+106  VP --> VB ADVP ADVP
+106  VP --> VBD PP PP
+106  VP --> VBG PP PP
+105  VP --> VBP ADJP
+104  VP --> VBG PP ADVP
+100  VP --> VB NP ADVP PP
+98  VP --> VBD VP
+96  VP --> AUX NOT ADVP VP
+96  VP --> COP NP NP PP
+91  VP --> VBN NP ADVP
+89  VP --> VBG SBAR
+88  VP --> COP PP ADVP
+88  VP --> COP PP PP
+88  VP --> VBG NP NP
+86  VP --> COP NOT PP
+83  VP --> COP ADJP SBAR
+81  VP --> VBN PRT
+78  VP --> COP NP VP
+77  VP --> VBD ADJP
+76  VP --> VBG ADVP PP
+76  VP --> VBZ NP ADVP
+75  VP --> VB NP PP SBAR
+75  VP --> VBD WHNP
+73  VP --> COP NOT ADVP
+71  VP --> COP ADVP ADVP
+71  VP --> VBP NP NP
+70  VP --> COP S
+69  VP --> VB NP PRT SBAR
+67  VP --> ADVP VB NP
+65  VP --> VB WHADVP
+65  VP --> VBZ PRT
+64  VP --> VB NP NP PP
+63  VP --> VB NP ADVP SBAR
+63  VP --> VB PP NP
+62  VP --> VB NP NP ADVP
+62  VP --> VBP NP SBAR
+61  VP --> VBG VP
+60  VP --> AUX ADJP
+56  VP --> COP ADJP S
+56  VP --> VBG WHNP
+55  VP --> COP NOT NP NP
+54  VP --> VBD PP ADVP
+54  VP --> VBG PRT NP
+54  VP --> VBP VP
+52  VP --> VB NOT
+51  VP --> COP NP NP ADVP
+51  VP --> VBN FRAG
+50  VP --> ADVP VBD NP
+50  VP --> COP NOT NP ADVP
+49  VP --> COP NP PP ADVP
+49  VP --> VBD ADVP PP
+49  VP --> VBD PRT NP
+48  VP --> VBZ NP PRT
+47  VP --> COP NOT ADJP ADVP
+47  VP --> VB ADVP SBAR
+46  VP --> VB ADJP PP
+46  VP --> VBD NP PP PP
+46  VP --> VBN PRT PP
+45  VP --> VBZ PP PP
+44  VP --> VBG ADVP ADVP
+44  VP --> VBP PRT
+44  VP --> VBP WHNP
+43  VP --> AUX RB VP
+43  VP --> VB PRT SBAR
+43  VP --> VBD NP S
+42  VP --> VBP NOT
+41  VP --> VBG PRT ADVP
+40  VP --> VB NP ADVP ADVP
+40  VP --> VBD PRT PP
+40  VP --> VBG PRT PP
+40  VP --> VBP NP VP
+39  VP --> AUX PP
+36  VP --> MD NOT
+35  VP --> ADVP VB
+35  VP --> AUX ADVP
+35  VP --> VBD NP PRT PP
+35  VP --> VBZ NP NP
+34  VP --> RB VBN
+34  VP --> VBP NP ADJP
+33  VP --> VBZ ADVP PP
+32  VP --> AUX NP NP
+32  VP --> VBZ VP
+31  VP --> ADVP VBN
+31  VP --> COP NP ADJP ADVP
+31  VP --> VBD NOT
+31  VP --> VBG NP SBAR
+31  VP --> VBP ADVP PP
+31  VP --> VBP PP PP
+31  VP --> VBZ WHNP
+30  VP --> MD S
+30  VP --> VB CC VB
+30  VP --> VBP NP S
+29  VP --> VB PP S
+29  VP --> VBD NP PP ADVP
+28  VP --> VB ADVP NP
+27  VP --> AUX NP PP
+27  VP --> MD NOT NP
+27  VP --> VB NP NP SBAR
+26  VP --> AUX NP ADVP
+26  VP --> COP NP ADVP PP
+25  VP --> ADVP VBP NP
+25  VP --> VB INTJ PP
+25  VP --> VBZ FRAG
+25  VP --> VBZ NP SBAR
+24  VP --> VB ADVP S
+24  VP --> VB NP WHADVP
+23  VP --> AUX SBAR
+23  VP --> COP NP S
+23  VP --> VB NOT VP
+23  VP --> VBD NP VP
+23  VP --> VBG NP PRT PP
+22  VP --> COP NOT NP PP
+22  VP --> MD NP INTJ VP
+22  VP --> VB ADJP ADVP
+22  VP --> VBG FRAG
+21  VP --> COP NOT SBAR
+21  VP --> VB PRT NP ADVP
+21  VP --> VBG CC VBG
+21  VP --> VBN SBAR
+21  VP --> VBP PRT NP
+21  VP --> VBZ NP ADJP
+21  VP --> VBZ PP ADVP
+20  VP --> AUX NP ADJP
+20  VP --> RB VBD
+20  VP --> VB ADJP SBAR
+20  VP --> VBD NP ADVP PP
+19  VP --> COP ADJP NP
+19  VP --> COP NP PP PP
+19  VP --> RB VBD NP
+19  VP --> TO WHNP
+19  VP --> VB PRT NP PP
+19  VP --> VBD NP ADJP
+19  VP --> VBD NP NP PP
+19  VP --> VBP NP PP PP
+19  VP --> VBZ PRT NP
+18  VP --> ADVP VBZ NP
+18  VP --> MD NOT NP VP
+18  VP --> VBD NP PRT ADVP
+18  VP --> VBZ ADJP PP
+17  VP --> ADVP VB PP
+17  VP --> COP NOT S
+17  VP --> COP WHADVP
+17  VP --> VB NP PRT NP
+17  VP --> VB WHNP PP
+17  VP --> VBD PP NP
+17  VP --> VBN NP SBAR
+17  VP --> VBP PP ADVP
+17  VP --> VBZ INTJ
+17  VP --> VBZ PRT PP
+16  VP --> ADVP VBG
+16  VP --> VB VB VB
+16  VP --> VBG ADJP ADVP
+16  VP --> VBN ADJP
+16  VP --> VBN PP PP
+15  VP --> ADVP VB NP PP
+15  VP --> ADVP VBD
+15  VP --> AUX DT VP
+15  VP --> COP ADVP SBAR
+15  VP --> COP NOT ADVP ADVP
+15  VP --> COP NP ADJP PP
+15  VP --> IN S
+15  VP --> VB NP WHNP
+15  VP --> VB PP PP ADVP
+15  VP --> VB SBARQ
+15  VP --> VB VB
+15  VP --> VB WHNP PRT
+15  VP --> VBG NP ADJP
+15  VP --> VBG NP S
+15  VP --> VBN NP PRT
+15  VP --> VP VP
+14  VP --> ADVP VB NP PRT
+14  VP --> ADVP VBN NP
+14  VP --> AUX NOT S
+14  VP --> COP NP ADVP SBAR
+14  VP --> MD WHNP
+14  VP --> VB ADVP PP PP
+14  VP --> VB ADVP PP SBAR
+14  VP --> VB IN ADVP
+14  VP --> VB NP NP S
+14  VP --> VB PP PP PP
+14  VP --> VBG PP S
+14  VP --> VBZ NOT
+14  VP --> VP CC ADVP VP
+13  VP --> ADVP AUX NOT VP
+13  VP --> ADVP VB S
+13  VP --> ADVP VBG S
+13  VP --> COP NP ADVP ADJP
+13  VP --> NN
+13  VP --> RB VB
+13  VP --> TO ADVP VP
+13  VP --> VB NP PRT S
+13  VP --> VB PP ADVP PP
+13  VP --> VBD ADVP ADVP
+13  VP --> VBG NP PP PP
+13  VP --> VBN PP ADVP
+13  VP --> VBP NP PRT PP
+13  VP --> VBP WHADVP
+13  VP --> VBZ NP S
+13  VP --> VBZ NP VP
+12  VP --> ADVP VB ADVP
+12  VP --> COP NOT ADVP NP
+12  VP --> COP NP ADVP ADVP
+12  VP --> VB NP ADVP PRT
+12  VP --> VB NP PRT PP ADVP
+12  VP --> VB PP VP
+12  VP --> VBD INTJ
+12  VP --> VBD NP NP ADVP
+12  VP --> VBD PP S
+12  VP --> VBG NP PP ADVP
+12  VP --> VBG NP PRT ADVP
+12  VP --> VBZ PP SBAR
+11  VP --> COP NOT PP ADVP
+11  VP --> MD SBAR
+11  VP --> VB NP ADJP PP
+11  VP --> VB NP PP NP
+11  VP --> VB PP ADJP
+11  VP --> VBD FRAG
+11  VP --> VBD NP ADVP SBAR
+11  VP --> VBD PRT ADVP
+11  VP --> VBG ADJP PP
+11  VP --> VBG ADVP S
+11  VP --> VBN NP NP
+11  VP --> VBN VP
+11  VP --> VBP NP PP SBAR
+11  VP --> VP CC VP ADVP
+10  VP --> ADVP AUX VP
+10  VP --> ADVP VB SBAR
+10  VP --> ADVP VP CC VP
+10  VP --> AUX NOT NP ADVP VP
+10  VP --> COP ADVP ADJP PP
+10  VP --> COP NOT VP
+10  VP --> COP NP ADJP S
+10  VP --> COP PP SBAR
+10  VP --> MD ADVP
+10  VP --> MD NOT ADVP VP
+10  VP --> MD NP ADVP VP
+10  VP --> NP VBD
+10  VP --> VB NP PRT PRT
+10  VP --> VB S ADVP
+10  VP --> VB WHNP NP VP
+10  VP --> VBD ADVP SBAR
+10  VP --> VBD PP PP PP
+10  VP --> VBP ADVP ADVP
+10  VP --> VBP INTJ
+10  VP --> VBZ ADJP ADVP
+9  VP --> ADVP VBD PP
+9  VP --> ADVP VBN PRT
+9  VP --> AUX NOT WHNP
+9  VP --> AUX NP S
+9  VP --> AUX PP VP
+9  VP --> COP ADJP ADVP ADVP
+9  VP --> COP ADVP NP ADVP
+9  VP --> COP NP PP SBAR
+9  VP --> RB VB NP
+9  VP --> VB IN PP
+9  VP --> VB INTJ NP
+9  VP --> VB NP ADVP S
+9  VP --> VB PP PP SBAR
+9  VP --> VBD NP PP SBAR
+9  VP --> VBG PP SBAR
+9  VP --> VBN PRT ADVP
+9  VP --> VBP NP PP ADVP
+9  VP --> VBZ ADVP ADVP
+9  VP --> VBZ NP PP ADVP
+9  VP --> VP CC VP CC VP
+8  VP --> ADVP VB NP ADVP
+8  VP --> ADVP VBD NP NP
+8  VP --> ADVP VBN ADVP
+8  VP --> ADVP VBN PP
+8  VP --> ADVP VBP NP PP
+8  VP --> AUX NOT VP ADVP
+8  VP --> COP ADVP S
+8  VP --> COP PP NP
+8  VP --> COP RB ADJP
+8  VP --> PRP VP
+8  VP --> TO NP
+8  VP --> VB NP ADJP ADVP
+8  VP --> VB NP ADVP NP
+8  VP --> VB NP NP PRT
+8  VP --> VB NP PRT ADJP
+8  VP --> VB NP PRT ADVP SBAR
+8  VP --> VB NP PRT PP PP
+8  VP --> VB PRT NP SBAR
+8  VP --> VB SBAR SBAR
+8  VP --> VB WHNP ADVP
+8  VP --> VBD ADVP S
+8  VP --> VBD NP PRT SBAR
+8  VP --> VBG INTJ
+8  VP --> VBP PRT ADVP
+8  VP --> VBP PRT PP
+7  VP --> ADVP VBG NP
+7  VP --> ADVP VBN NP ADVP
+7  VP --> AUX NP SBAR
+7  VP --> AUX NP WHNP
+7  VP --> COP ADJP PP ADVP
+7  VP --> COP ADVP VP
+7  VP --> COP NOT ADJP PP
+7  VP --> COP NOT NP SBAR
+7  VP --> RB VB PP
+7  VP --> RB VBN PRT
+7  VP --> RB VBP NP
+7  VP --> VB ADVP PP ADVP
+7  VP --> VB NOT NP
+7  VP --> VB NP NP NP
+7  VP --> VB NP PRT PP SBAR
+7  VP --> VB PP ADVP ADVP
+7  VP --> VB PRT S
+7  VP --> VB S SBAR
+7  VP --> VB VP ADVP
+7  VP --> VBD NP ADVP ADVP
+7  VP --> VBG WHADVP
+7  VP --> VBN ADVP PP
+7  VP --> VBN NP PP ADVP
+7  VP --> VBN WHNP
+7  VP --> VBP ADJP PP
+7  VP --> VBP ADVP SBAR
+7  VP --> VBP NP ADVP PP
+7  VP --> VP NP
+159  WHADJP --> WRB JJ
+8  WHADJP --> WP JJ
+8316  WHADVP --> WRB
+121  WHADVP --> WRB IN
+106  WHADVP --> WRB VB
+103  WHADVP --> WRB PP
+88  WHADVP --> WRB RB
+83  WHADVP --> WRB JJ
+14  WHADVP --> WRB NOT
+9  WHADVP --> RB WRB
+19710  WHNP --> WP
+841  WHNP --> WDT NN
+543  WHNP --> WP RB
+489  WHNP --> WP NN
+328  WHNP --> DT WP
+210  WHNP --> WDT
+205  WHNP --> WDT NN PP
+198  WHNP --> WHNP PP
+169  WHNP --> WP PP
+147  WHNP --> WP$ NN
+144  WHNP --> WP ADVP
+93  WHNP --> WDT NNS
+81  WHNP --> ADJP NNS
+77  WHNP --> WRB JJ
+72  WHNP --> ADJP
+67  WHNP --> WP IN
+58  WHNP --> WHADJP NNS
+41  WHNP --> PRP$ WP
+38  WHNP --> WDT NP
+36  WHNP --> WP NN NN
+35  WHNP --> WP NN PP
+33  WHNP --> WDT JJ NN
+31  WHNP --> WP JJ NNS
+30  WHNP --> WP NNS
+29  WHNP --> CD WP
+28  WHNP --> WRB JJ NNS
+21  WHNP --> DT JJ WP
+19  WHNP --> WP NN NNS
+17  WHNP --> WDT JJ NNS
+17  WHNP --> WP NP
+14  WHNP --> JJ WP
+13  WHNP --> WP$ NNS
+12  WHNP --> ADJP NN
+11  WHNP --> NNP WP
+11  WHNP --> WP DT JJ NN
+11  WHNP --> WP JJ NN
+10  WHNP --> JJR WP
+10  WHNP --> WDT NN NN
+10  WHNP --> WRB
+9  WHNP --> DT JJR WP
+8  WHNP --> NP WP
+8  WHNP --> WHNP NP
+7  WHNP --> WP WP
+7  WHNP --> WP$
+7  WHNP --> WRB PP
+154  WHPP --> IN WHNP
+34  WHPP --> IN WHADVP
+15818  ASP --> ing
+10999  AUX --> do
+6473  AUX --> did
+3974  AUX --> 's
+3219  AUX --> are
+2908  AUX --> 're
+2565  AUX --> does
+1920  AUX --> is
+1492  AUX --> have
+800  AUX --> 'm
+609  AUX --> was
+538  AUX --> were
+490  AUX --> 've
+411  AUX --> 'd
+238  AUX --> has
+232  AUX --> be
+145  AUX --> am
+115  AUX --> been
+104  AUX --> had
+57  AUX --> need
+29  AUX --> get
+13  AUX --> got
+10  AUX --> ai
+9  AUX --> done
+5  AUX --> of
+4  AUX --> 'll
+4  AUX --> a
+3  AUX --> d'
+1  AUX --> not
+1  AUX --> to
+7641  CC --> and
+1104  CC --> but
+1080  CC --> or
+247  CC --> so
+7  CC --> either
+6  CC --> plus
+3  CC --> an
+3  CC --> though
+2  CC --> although
+2  CC --> cause
+2  CC --> except
+2  CC --> then
+1  CC --> a
+1  CC --> for
+1  CC --> neither
+1  CC --> nor
+1  CC --> otherwise
+1  CC --> unless
+1  CC --> yet
+1085  CD --> one
+967  CD --> two
+347  CD --> three
+197  CD --> four
+169  CD --> five
+95  CD --> six
+80  CD --> ten
+70  CD --> seven
+64  CD --> eight
+60  CD --> thirty
+59  CD --> nine
+55  CD --> twenty
+23  CD --> eleven
+21  CD --> twelve
+14  CD --> hundred
+13  CD --> half
+12  CD --> eighty
+12  CD --> fifteen
+12  CD --> forty
+12  CD --> nineteen
+11  CD --> fifty
+10  CD --> seventy
+10  CD --> thousand
+8  CD --> ninety
+8  CD --> sixty
+7  CD --> dozen
+7  CD --> fourteen
+7  CD --> thirteen
+6  CD --> fourth
+5  CD --> zero
+4  CD --> seventeen
+3  CD --> eighteen
+3  CD --> fifth
+3  CD --> million
+2  CD --> fifteenth
+2  CD --> tenth
+1  CD --> eighteenth
+1  CD --> nineteenth
+1  CD --> ninety-seven
+1  CD --> ninth
+1  CD --> oh
+1  CD --> second
+1  CD --> seventh
+1  CD --> sixteen
+1  CD --> third
+1  CD --> triple
+949  COMP --> if
+718  COMP --> because
+302  COMP --> that
+194  COMP --> so
+123  COMP --> like
+89  COMP --> before
+89  COMP --> while
+73  COMP --> after
+65  COMP --> for
+57  COMP --> until
+47  COMP --> as
+44  COMP --> cause
+32  COMP --> than
+27  COMP --> whether
+23  COMP --> since
+15  COMP --> untill
+12  COMP --> unless
+11  COMP --> 'll
+11  COMP --> till
+8  COMP --> except
+6  COMP --> once
+5  COMP --> though
+4  COMP --> long
+3  COMP --> instead
+3  COMP --> with
+2  COMP --> but
+2  COMP --> til
+1  COMP --> about
+1  COMP --> although
+1  COMP --> besides
+1  COMP --> from
+1  COMP --> just
+1  COMP --> of
+1  COMP --> other
+1  COMP --> then
+1  COMP --> well
+1  COMP --> without
+17562  COP --> 's
+8656  COP --> is
+3139  COP --> are
+2006  COP --> was
+1946  COP --> 're
+1607  COP --> be
+609  COP --> were
+569  COP --> 'm
+98  COP --> been
+83  COP --> am
+31  COP --> have
+7  COP --> has
+6  COP --> had
+4  COP --> ai
+3  COP --> 've
+2  COP --> need
+2  COP --> s
+1  COP --> this
+11627  DIV --> s
+22375  DT --> the
+15804  DT --> a
+2647  DT --> that
+2329  DT --> this
+1654  DT --> some
+1048  DT --> all
+698  DT --> an
+672  DT --> another
+577  DT --> any
+470  DT --> those
+425  DT --> no
+420  DT --> these
+94  DT --> every
+81  DT --> both
+63  DT --> each
+60  DT --> there
+34  DT --> such
+17  DT --> here
+14  DT --> either
+4  DT --> neither
+4  DT --> one
+3  DT --> none
+3  DT --> other
+2  DT --> and
+2  DT --> good
+2  DT --> which
+1  DT --> 'll
+1  DT --> ail
+1  DT --> anymore
+1  DT --> few
+1  DT --> four
+1  DT --> her
+1  DT --> them
+1555  EX --> there
+257  EX --> here
+102  EX --> it
+1  EX --> this
+1  EX --> well
+1  FW --> grandma
+1  FW --> me
+6855  IN --> in
+5422  IN --> on
+4180  IN --> of
+3514  IN --> to
+3407  IN --> with
+3269  IN --> for
+2659  IN --> at
+1637  IN --> like
+1239  IN --> about
+682  IN --> from
+588  IN --> out
+406  IN --> over
+374  IN --> up
+347  IN --> by
+265  IN --> if
+248  IN --> off
+229  IN --> down
+225  IN --> under
+192  IN --> because
+173  IN --> after
+172  IN --> inside
+172  IN --> into
+154  IN --> through
+152  IN --> than
+149  IN --> around
+131  IN --> as
+113  IN --> behind
+88  IN --> so
+78  IN --> before
+61  IN --> near
+48  IN --> until
+46  IN --> without
+44  IN --> a
+33  IN --> underneath
+29  IN --> across
+28  IN --> beside
+27  IN --> next
+25  IN --> while
+24  IN --> besides
+22  IN --> except
+20  IN --> between
+20  IN --> outside
+16  IN --> along
+15  IN --> against
+14  IN --> onto
+14  IN --> past
+13  IN --> since
+12  IN --> cause
+12  IN --> toward
+10  IN --> untill
+9  IN --> back
+9  IN --> till
+7  IN --> above
+7  IN --> away
+7  IN --> during
+7  IN --> towards
+4  IN --> instead
+3  IN --> it
+3  IN --> though
+3  IN --> til
+3  IN --> unless
+2  IN --> but
+2  IN --> once
+2  IN --> per
+2  IN --> round
+2  IN --> then
+2  IN --> top
+2  IN --> upon
+1  IN --> 'll
+1  IN --> ago
+1  IN --> although
+1  IN --> aroun
+1  IN --> beyond
+1  IN --> minus
+1  IN --> o
+1  IN --> o'
+1  IN --> order
+1  IN --> that
+1  IN --> too
+1  IN --> upstairs
+1  IN --> when
+1  IN --> which
+1  IN --> within
+2283  JJ --> little
+1803  JJ --> good
+1564  JJ --> big
+1450  JJ --> right
+920  JJ --> nice
+916  JJ --> other
+483  JJ --> many
+466  JJ --> funny
+454  JJ --> alright
+449  JJ --> new
+414  JJ --> okay
+381  JJ --> red
+377  JJ --> last
+375  JJ --> pretty
+297  JJ --> hard
+286  JJ --> long
+276  JJ --> careful
+272  JJ --> hot
+259  JJ --> blue
+246  JJ --> old
+238  JJ --> sure
+230  JJ --> poor
+225  JJ --> cold
+216  JJ --> silly
+195  JJ --> green
+186  JJ --> cute
+186  JJ --> ready
+182  JJ --> much
+180  JJ --> next
+178  JJ --> dirty
+178  JJ --> same
+177  JJ --> yellow
+172  JJ --> bad
+171  JJ --> different
+166  JJ --> done
+157  JJ --> happy
+156  JJ --> black
+140  JJ --> enough
+140  JJ --> great
+140  JJ --> whole
+139  JJ --> hungry
+139  JJ --> sorry
+139  JJ --> wrong
+136  JJ --> white
+132  JJ --> just
+128  JJ --> beautiful
+120  JJ --> wet
+114  JJ --> real
+105  JJ --> favorite
+103  JJ --> small
+100  JJ --> fun
+97  JJ --> soft
+93  JJ --> yummy
+92  JJ --> clean
+92  JJ --> sad
+92  JJ --> sick
+90  JJ --> brown
+90  JJ --> gone
+90  JJ --> pink
+87  JJ --> first
+86  JJ --> awful
+85  JJ --> easy
+85  JJ --> own
+83  JJ --> baby
+83  JJ --> full
+82  JJ --> on
+81  JJ --> fine
+79  JJ --> few
+78  JJ --> orange
+77  JJ --> open
+77  JJ --> tiny
+76  JJ --> special
+73  JJ --> quiet
+72  JJ --> busy
+72  JJ --> heavy
+70  JJ --> crazy
+70  JJ --> purple
+69  JJ --> afraid
+66  JJ --> sleepy
+62  JJ --> high
+61  JJ --> strong
+61  JJ --> tall
+60  JJ --> warm
+59  JJ --> all
+55  JJ --> back
+54  JJ --> mad
+54  JJ --> only
+47  JJ --> welcome
+46  JJ --> fat
+46  JJ --> stuck
+45  JJ --> dark
+45  JJ --> sweet
+43  JJ --> sticky
+41  JJ --> asleep
+40  JJ --> delicious
+40  JJ --> sharp
+39  JJ --> broken
+39  JJ --> straight
+38  JJ --> dry
+37  JJ --> fresh
+37  JJ --> naughty
+37  JJ --> smart
+36  JJ --> round
+36  JJ --> short
+35  JJ --> angry
+35  JJ --> fast
+35  JJ --> glad
+35  JJ --> left
+34  JJ --> able
+34  JJ --> noisy
+34  JJ --> out
+33  JJ --> gentle
+33  JJ --> squeaky
+32  JJ --> thirsty
+31  JJ --> tricky
+29  JJ --> close
+29  JJ --> loud
+27  JJ --> cool
+27  JJ --> late
+27  JJ --> true
+26  JJ --> flat
+26  JJ --> second
+25  JJ --> alone
+25  JJ --> some
+24  JJ --> light
+24  JJ --> lucky
+24  JJ --> pretend
+24  JJ --> terrible
+23  JJ --> empty
+23  JJ --> such
+23  JJ --> tight
+23  JJ --> up
+23  JJ --> yucky
+21  JJ --> hurt
+21  JJ --> neat
+20  JJ --> magic
+20  JJ --> rubber
+20  JJ --> wonderful
+19  JJ --> bright
+19  JJ --> off
+19  JJ --> tough
+17  JJ --> chinese
+17  JJ --> dangerous
+17  JJ --> early
+17  JJ --> excellent
+17  JJ --> mean
+17  JJ --> stupid
+17  JJ --> ticklish
+16  JJ --> cranky
+16  JJ --> grape
+16  JJ --> runny
+15  JJ --> bottom
+15  JJ --> clever
+15  JJ --> grey
+15  JJ --> rough
+15  JJ --> scary
+15  JJ --> top
+15  JJ --> ugly
+15  JJ --> unhappy
+14  JJ --> cuddly
+14  JJ --> front
+14  JJ --> skinny
+14  JJ --> sore
+14  JJ --> through
+13  JJ --> extra
+13  JJ --> lost
+13  JJ --> low
+13  JJ --> quick
+13  JJ --> sunny
+13  JJ --> third
+13  JJ --> wooden
+12  JJ --> awake
+12  JJ --> color
+12  JJ --> comfortable
+12  JJ --> curious
+12  JJ --> dead
+12  JJ --> half
+12  JJ --> huge
+12  JJ --> important
+12  JJ --> made
+12  JJ --> messy
+12  JJ --> middle
+12  JJ --> plenty
+12  JJ --> slow
+12  JJ --> wild
+11  JJ --> clear
+11  JJ --> curly
+11  JJ --> deep
+11  JJ --> fancy
+11  JJ --> friendly
+11  JJ --> fuzzy
+11  JJ --> handsome
+11  JJ --> over
+11  JJ --> regular
+10  JJ --> another
+10  JJ --> broke
+10  JJ --> lovely
+10  JJ --> nervous
+10  JJ --> rid
+10  JJ --> teeny
+10  JJ --> thin
+10  JJ --> young
+9  JJ --> alive
+9  JJ --> couple
+9  JJ --> giant
+9  JJ --> greek
+9  JJ --> italian
+9  JJ --> loose
+9  JJ --> mine
+9  JJ --> plastic
+9  JJ --> safe
+9  JJ --> stiff
+9  JJ --> terrific
+9  JJ --> wide
+8  JJ --> bedtime
+8  JJ --> dizzy
+8  JJ --> french
+8  JJ --> greasy
+8  JJ --> muddy
+8  JJ --> nasty
+8  JJ --> plain
+8  JJ --> rainy
+8  JJ --> rotten
+8  JJ --> serious
+8  JJ --> shiny
+8  JJ --> stubborn
+8  JJ --> windy
+7  JJ --> alike
+7  JJ --> chocolate
+7  JJ --> filthy
+7  JJ --> free
+7  JJ --> gooey
+7  JJ --> grumpy
+7  JJ --> horrible
+7  JJ --> lazy
+7  JJ --> marvelous
+7  JJ --> particular
+7  JJ --> polar
+7  JJ --> slippery
+7  JJ --> sour
+7  JJ --> squishy
+7  JJ --> strange
+7  JJ --> swell
+7  JJ --> tasty
+7  JJ --> upset
+7  JJ --> well
+6  JJ --> backwards
+6  JJ --> chewy
+6  JJ --> double
+6  JJ --> far
+6  JJ --> fifth
+6  JJ --> fussy
+6  JJ --> gorgeous
+6  JJ --> gross
+6  JJ --> grouchy
+6  JJ --> homely
+6  JJ --> itchy
+6  JJ --> kind
+6  JJ --> medium
+6  JJ --> mommy
+6  JJ --> my
+6  JJ --> outside
+6  JJ --> set
+6  JJ --> single
+6  JJ --> spicy
+6  JJ --> stinky
+6  JJ --> super
+6  JJ --> very
+6  JJ --> wise
+6  JJ --> yum
+5  JJ --> barefoot
+5  JJ --> blind
+5  JJ --> both
+5  JJ --> certain
+5  JJ --> cuckoo
+5  JJ --> difficult
+5  JJ --> down
+5  JJ --> dumb
+5  JJ --> expensive
+5  JJ --> foolish
+5  JJ --> handy
+5  JJ --> indian
+5  JJ --> lemon
+5  JJ --> merry
+5  JJ --> mobile
+5  JJ --> nursery
+5  JJ --> perfect
+5  JJ --> rosy
+5  JJ --> shallow
+5  JJ --> shut
+5  JJ --> shy
+5  JJ --> smooth
+5  JJ --> toy
+5  JJ --> unusual
+5  JJ --> weak
+5  JJ --> weird
+5  JJ --> your
+5  JJ --> yours
+4  JJ --> bent
+4  JJ --> daddy
+4  JJ --> darn
+4  JJ --> drunk
+4  JJ --> electric
+4  JJ --> else
+4  JJ --> entire
+4  JJ --> fair
+4  JJ --> fantastic
+4  JJ --> farm
+4  JJ --> finger
+4  JJ --> fluffy
+4  JJ --> frozen
+4  JJ --> furry
+4  JJ --> gingerbread
+4  JJ --> goofy
+4  JJ --> hi
+4  JJ --> holy
+4  JJ --> honest
+4  JJ --> icky
+4  JJ --> invisible
+4  JJ --> jingle
+4  JJ --> large
+4  JJ --> lonely
+4  JJ --> mother
+4  JJ --> mushy
+4  JJ --> noodle
+4  JJ --> proud
+4  JJ --> remote
+4  JJ --> rich
+4  JJ --> salty
+4  JJ --> separate
+4  JJ --> snap
+4  JJ --> square
+4  JJ --> swiss
+4  JJ --> thick
+4  JJ --> worth
+3  JJ --> american
+3  JJ --> any
+3  JJ --> apple
+3  JJ --> automatic
+3  JJ --> awesome
+3  JJ --> bald
+3  JJ --> better
+3  JJ --> blonde
+3  JJ --> bloody
+3  JJ --> brave
+3  JJ --> brother
+3  JJ --> bumpy
+3  JJ --> burnt
+3  JJ --> cheap
+3  JJ --> church
+3  JJ --> circus
+3  JJ --> collie
+3  JJ --> complete
+3  JJ --> crumbly
+3  JJ --> crummy
+3  JJ --> deaf
+3  JJ --> delicate
+3  JJ --> electrical
+3  JJ --> electronic
+3  JJ --> fake
+3  JJ --> familiar
+3  JJ --> flipflop
+3  JJ --> ginger
+3  JJ --> golden
+3  JJ --> grabby
+3  JJ --> gracious
+3  JJ --> gray
+3  JJ --> hers
+3  JJ --> home
+3  JJ --> huh
+3  JJ --> in
+3  JJ --> intelligent
+3  JJ --> jealous
+3  JJ --> jelly
+3  JJ --> jolly
+3  JJ --> juicy
+3  JJ --> live
+3  JJ --> normal
+3  JJ --> one
+3  JJ --> patient
+3  JJ --> peculiar
+3  JJ --> playful
+3  JJ --> pointy
+3  JJ --> popsicle
+3  JJ --> possible
+3  JJ --> quite
+3  JJ --> sandy
+3  JJ --> scratchy
+3  JJ --> similar
+3  JJ --> still
+3  JJ --> sweetie
+3  JJ --> tidy
+3  JJ --> tow
+3  JJ --> translucent
+3  JJ --> vanilla
+3  JJ --> wiggly
+3  JJ --> yucka
+2  JJ --> abnormal
+2  JJ --> adorable
+2  JJ --> animal
+2  JJ --> anxious
+2  JJ --> ball
+2  JJ --> bashful
+2  JJ --> bathtime
+2  JJ --> boy
+2  JJ --> brilliant
+2  JJ --> brittle
+2  JJ --> bullet
+2  JJ --> byebye
+2  JJ --> clown
+2  JJ --> company
+2  JJ --> consistent
+2  JJ --> cooperative
+2  JJ --> crinkly
+2  JJ --> cutie
+2  JJ --> dear
+2  JJ --> definite
+2  JJ --> dickory
+2  JJ --> dingdong
+2  JJ --> dolly
+2  JJ --> drippy
+2  JJ --> drooly
+2  JJ --> elegant
+2  JJ --> exact
+2  JJ --> false
+2  JJ --> fellow
+2  JJ --> fish
+2  JJ --> flower
+2  JJ --> fourth
+2  JJ --> fruit
+2  JJ --> garlic
+2  JJ --> gold
+2  JJ --> grand
+2  JJ --> healthy
+2  JJ --> helpful
+2  JJ --> hickory
+2  JJ --> hidden
+2  JJ --> humid
+2  JJ --> hysterical
+2  JJ --> ice
+2  JJ --> impatient
+2  JJ --> impossible
+2  JJ --> incredible
+2  JJ --> itsy
+2  JJ --> lady
+2  JJ --> logical
+2  JJ --> lousy
+2  JJ --> main
+2  JJ --> mexican
+2  JJ --> minute
+2  JJ --> moist
+2  JJ --> more
+2  JJ --> mutual
+2  JJ --> natural
+2  JJ --> near
+2  JJ --> necessary
+2  JJ --> ninetieth
+2  JJ --> ninth
+2  JJ --> obedient
+2  JJ --> overhead
+2  JJ --> owie
+2  JJ --> paper
+2  JJ --> part
+2  JJ --> pathetic
+2  JJ --> pet
+2  JJ --> phony
+2  JJ --> piggy
+2  JJ --> police
+2  JJ --> polite
+2  JJ --> preppy
+2  JJ --> pure
+2  JJ --> pussy
+2  JJ --> rambunctious
+2  JJ --> raw
+2  JJ --> rickety
+2  JJ --> roast
+2  JJ --> roundabout
+2  JJ --> russian
+2  JJ --> rusty
+2  JJ --> santa_claus
+2  JJ --> secret
+2  JJ --> seventh
+2  JJ --> several
+2  JJ --> silver
+2  JJ --> simple
+2  JJ --> sled
+2  JJ --> slimy
+2  JJ --> snowy
+2  JJ --> so
+2  JJ --> social
+2  JJ --> soggy
+2  JJ --> specific
+2  JJ --> sporty
+2  JJ --> station
+2  JJ --> studious
+2  JJ --> talkative
+2  JJ --> the
+2  JJ --> too
+2  JJ --> tremendous
+2  JJ --> tropical
+2  JJ --> twinkle
+2  JJ --> typical
+2  JJ --> uncomfortable
+2  JJ --> uneven
+2  JJ --> usual
+2  JJ --> washable
+2  JJ --> wavy
+2  JJ --> wobbly
+2  JJ --> worn
+2  JJ --> written
+2  JJ --> yay
+1  JJ --> aberrant
+1  JJ --> active
+1  JJ --> addictive
+1  JJ --> aggressive
+1  JJ --> agreeable
+1  JJ --> airplane
+1  JJ --> alphabet
+1  JJ --> antique
+1  JJ --> appropriate
+1  JJ --> apt
+1  JJ --> aqua
+1  JJ --> art
+1  JJ --> artistic
+1  JJ --> astronaut
+1  JJ --> attractive
+1  JJ --> au_gratinfra
+1  JJ --> aware
+1  JJ --> away
+1  JJ --> backward
+1  JJ --> baggy
+1  JJ --> baldie
+1  JJ --> band
+1  JJ --> bare
+1  JJ --> basic
+1  JJ --> beige
+1  JJ --> believe
+1  JJ --> bendable
+1  JJ --> bitsy
+1  JJ --> bitsy_bitsy
+1  JJ --> bitter
+1  JJ --> bitty
+1  JJ --> born
+1  JJ --> botanical
+1  JJ --> bouncy
+1  JJ --> brab
+1  JJ --> brand
+1  JJ --> breakfast
+1  JJ --> brighter
+1  JJ --> brownish
+1  JJ --> built
+1  JJ --> bunk
+1  JJ --> bunny
+1  JJ --> bushy
+1  JJ --> buttery
+1  JJ --> buy
+1  JJ --> canadian
+1  JJ --> car
+1  JJ --> careless
+1  JJ --> carriage
+1  JJ --> center
+1  JJ --> chatty
+1  JJ --> cherry
+1  JJ --> chilly
+1  JJ --> colonial
+1  JJ --> comforble
+1  JJ --> comfy
+1  JJ --> constant
+1  JJ --> content
+1  JJ --> convenient
+1  JJ --> correct
+1  JJ --> cotton
+1  JJ --> courage
+1  JJ --> cousin
+1  JJ --> cow
+1  JJ --> cozy
+1  JJ --> creamy
+1  JJ --> creative
+1  JJ --> crib
+1  JJ --> cross
+1  JJ --> cut
+1  JJ --> cutest
+1  JJ --> daily
+1  JJ --> damn
+1  JJ --> daytime
+1  JJ --> definitive
+1  JJ --> delectable
+1  JJ --> delightful
+1  JJ --> dense
+1  JJ --> desperate
+1  JJ --> devilish
+1  JJ --> devious
+1  JJ --> diesel
+1  JJ --> diet
+1  JJ --> dim
+1  JJ --> dingy
+1  JJ --> doggy
+1  JJ --> doll
+1  JJ --> drowsy
+1  JJ --> drunken
+1  JJ --> due
+1  JJ --> dusty
+1  JJ --> dutch
+1  JJ --> eaten
+1  JJ --> edible
+1  JJ --> eighth
+1  JJ --> elbow
+1  JJ --> english
+1  JJ --> envious
+1  JJ --> epileptic
+1  JJ --> ermine
+1  JJ --> even
+1  JJ --> expressive
+1  JJ --> extension
+1  JJ --> facial
+1  JJ --> fanatic
+1  JJ --> federal
+1  JJ --> felt
+1  JJ --> female
+1  JJ --> fictional
+1  JJ --> fidgety
+1  JJ --> fierce
+1  JJ --> fire
+1  JJ --> firm
+1  JJ --> flaky
+1  JJ --> flashy
+1  JJ --> floppy
+1  JJ --> foggy
+1  JJ --> forceful
+1  JJ --> fresher
+1  JJ --> frisky
+1  JJ --> froggie
+1  JJ --> funky
+1  JJ --> fuss
+1  JJ --> gap
+1  JJ --> gay
+1  JJ --> general
+1  JJ --> generous
+1  JJ --> girl
+1  JJ --> goat
+1  JJ --> graceful
+1  JJ --> grayish
+1  JJ --> greedy
+1  JJ --> gritty
+1  JJ --> grown
+1  JJ --> guitar
+1  JJ --> gushy
+1  JJ --> hairy
+1  JJ --> halfway
+1  JJ --> helpless
+1  JJ --> hippopotamus
+1  JJ --> hoarse
+1  JJ --> homemade
+1  JJ --> hototototototot
+1  JJ --> human
+1  JJ --> ideal
+1  JJ --> idiotic
+1  JJ --> ill
+1  JJ --> impressive
+1  JJ --> incomplete
+1  JJ --> inconsistent
+1  JJ --> indirect
+1  JJ --> inky
+1  JJ --> innocent
+1  JJ --> inside
+1  JJ --> insubstantial
+1  JJ --> irish
+1  JJ --> irony
+1  JJ --> jammie
+1  JJ --> junky
+1  JJ --> key
+1  JJ --> kiddie
+1  JJ --> lean
+1  JJ --> legendary
+1  JJ --> less
+1  JJ --> lethal
+1  JJ --> lifeguard
+1  JJ --> liquid
+1  JJ --> lit
+1  JJ --> literal
+1  JJ --> longer
+1  JJ --> loopy
+1  JJ --> lumber
+1  JJ --> lunch
+1  JJ --> make
+1  JJ --> make-believe
+1  JJ --> mama
+1  JJ --> mechanical
+1  JJ --> messiest
+1  JJ --> mighty
+1  JJ --> miniature
+1  JJ --> miserable
+1  JJ --> misshapen
+1  JJ --> missy
+1  JJ --> modern
+1  JJ --> mooshy
+1  JJ --> morbid
+1  JJ --> morning
+1  JJ --> motor
+1  JJ --> mucky
+1  JJ --> name
+1  JJ --> naptime
+1  JJ --> nineteen
+1  JJ --> nongrammatical
+1  JJ --> nonsense
+1  JJ --> north
+1  JJ --> nuts
+1  JJ --> objectionable
+1  JJ --> odd
+1  JJ --> official
+1  JJ --> oop
+1  JJ --> opposite
+1  JJ --> ornery
+1  JJ --> outdoor
+1  JJ --> ow
+1  JJ --> painful
+1  JJ --> pantomime
+1  JJ --> papa
+1  JJ --> parallel
+1  JJ --> past
+1  JJ --> patchwork
+1  JJ --> peaceful
+1  JJ --> peanut
+1  JJ --> permanent
+1  JJ --> persistent
+1  JJ --> pineapple
+1  JJ --> plaid
+1  JJ --> play
+1  JJ --> playpen
+1  JJ --> poison
+1  JJ --> pokey
+1  JJ --> polka
+1  JJ --> pony
+1  JJ --> positive
+1  JJ --> possessive
+1  JJ --> powerful
+1  JJ --> prehistoric
+1  JJ --> preschool
+1  JJ --> previous
+1  JJ --> priceless
+1  JJ --> prickly
+1  JJ --> private
+1  JJ --> probable
+1  JJ --> proper
+1  JJ --> puppy
+1  JJ --> pushy
+1  JJ --> quacky
+1  JJ --> rapid
+1  JJ --> realistic
+1  JJ --> really
+1  JJ --> receptive
+1  JJ --> recognizable
+1  JJ --> responsible
+1  JJ --> restless
+1  JJ --> reverse
+1  JJ --> ridiculous
+1  JJ --> ripe
+1  JJ --> rock_a_bye
+1  JJ --> rollercoaster
+1  JJ --> roman
+1  JJ --> rose
+1  JJ --> rowdy
+1  JJ --> rude
+1  JJ --> runaway
+1  JJ --> saggy
+1  JJ --> school
+1  JJ --> scrawny
+1  JJ --> scrumptious
+1  JJ --> sea
+1  JJ --> seedless
+1  JJ --> selfish
+1  JJ --> senior
+1  JJ --> sensible
+1  JJ --> sensitive
+1  JJ --> septic
+1  JJ --> shnuggle
+1  JJ --> siamese
+1  JJ --> side
+1  JJ --> silky
+1  JJ --> sister
+1  JJ --> skee
+1  JJ --> slim
+1  JJ --> slobbery
+1  JJ --> slobby
+1  JJ --> sloppy
+1  JJ --> smelly
+1  JJ --> smoky
+1  JJ --> snappy
+1  JJ --> sneezy
+1  JJ --> snow
+1  JJ --> soap
+1  JJ --> solid
+1  JJ --> soluble
+1  JJ --> sound
+1  JJ --> soupy
+1  JJ --> southern
+1  JJ --> spare
+1  JJ --> spotty
+1  JJ --> spring
+1  JJ --> squeak
+1  JJ --> squeezy
+1  JJ --> stable
+1  JJ --> standard
+1  JJ --> steady
+1  JJ --> steep
+1  JJ --> stone
+1  JJ --> stop
+1  JJ --> strawberry
+1  JJ --> street
+1  JJ --> sturdy
+1  JJ --> successful
+1  JJ --> sudden
+1  JJ --> summer
+1  JJ --> supercalifragilisticexpialidocious
+1  JJ --> surprise
+1  JJ --> swedish
+1  JJ --> sweety
+1  JJ --> symbolic
+1  JJ --> tagalong
+1  JJ --> tail
+1  JJ --> taller
+1  JJ --> tame
+1  JJ --> tan
+1  JJ --> tempermental
+1  JJ --> tender
+1  JJ --> tenth
+1  JJ --> thankful
+1  JJ --> theo
+1  JJ --> tickle
+1  JJ --> tinker
+1  JJ --> tippie
+1  JJ --> together
+1  JJ --> tomato
+1  JJ --> total
+1  JJ --> tralala
+1  JJ --> tribal
+1  JJ --> tricycle
+1  JJ --> tummy
+1  JJ --> tuna
+1  JJ --> two
+1  JJ --> unhealthy
+1  JJ --> untrue
+1  JJ --> uppity
+1  JJ --> upright
+1  JJ --> useful
+1  JJ --> vegetable
+1  JJ --> vicious
+1  JJ --> wax
+1  JJ --> wheelbarrow
+1  JJ --> wilda
+1  JJ --> winter
+1  JJ --> woolly
+1  JJ --> wound
+1  JJ --> wrangler
+1  JJ --> wriggly
+1  JJ --> wrinkly
+1  JJ --> yesh
+1  JJ --> yicky
+1  JJ --> yogurt
+1020  JJR --> more
+181  JJR --> better
+117  JJR --> bigger
+31  JJR --> easier
+23  JJR --> older
+19  JJR --> smaller
+14  JJR --> taller
+13  JJR --> worse
+12  JJR --> longer
+11  JJR --> littler
+9  JJR --> higher
+8  JJR --> lower
+7  JJR --> louder
+6  JJR --> closer
+6  JJR --> happier
+5  JJR --> nicer
+5  JJR --> shorter
+5  JJR --> younger
+4  JJR --> wider
+3  JJR --> darker
+3  JJR --> less
+3  JJR --> prettier
+2  JJR --> cheaper
+2  JJR --> cooler
+2  JJR --> faster
+2  JJR --> harder
+2  JJR --> newer
+2  JJR --> quieter
+1  JJR --> crazier
+1  JJR --> dirtier
+1  JJR --> friendlier
+1  JJR --> fuller
+1  JJR --> funniest
+1  JJR --> gentler
+1  JJR --> heavier
+1  JJR --> hotter
+1  JJR --> larger
+1  JJR --> slower
+1  JJR --> smarter
+1  JJR --> softer
+1  JJR --> stronger
+1  JJR --> tastier
+1  JJR --> tighter
+1  JJR --> warmer
+40  JJS --> best
+31  JJS --> biggest
+21  JJS --> most
+13  JJS --> least
+4  JJS --> easiest
+4  JJS --> newest
+3  JJS --> cutest
+3  JJS --> funniest
+3  JJS --> lowest
+3  JJS --> prettiest
+3  JJS --> smallest
+3  JJS --> worst
+2  JJS --> cleanest
+2  JJS --> dirtiest
+2  JJS --> lightest
+2  JJS --> littlest
+2  JJS --> saddest
+2  JJS --> stubbornest
+2  JJS --> tiniest
+1  JJS --> brightest
+1  JJS --> closest
+1  JJS --> earliest
+1  JJS --> fastest
+1  JJS --> freshest
+1  JJS --> hardest
+1  JJS --> highest
+1  JJS --> longest
+1  JJS --> neatest
+1  JJS --> nerdiest
+1  JJS --> nicest
+1  JJS --> noisiest
+1  JJS --> sleepiest
+1  JJS --> strangest
+1  JJS --> ugliest
+1  JJS --> vaguest
+1  JJS --> waist
+1  JJS --> youngest
+1  JJS --> yummiest
+4219  MD --> can
+2561  MD --> 'll
+1314  MD --> would
+742  MD --> shall
+717  MD --> will
+605  MD --> could
+588  MD --> should
+425  MD --> 'd
+293  MD --> must
+231  MD --> might
+227  MD --> may
+88  MD --> ca
+34  MD --> wo
+16  MD --> ought
+2  MD --> need
+13422  NN --> that
+3223  NN --> this
+2832  NN --> one
+1170  NN --> baby
+998  NN --> house
+908  NN --> thing
+850  NN --> book
+850  NN --> there
+843  NN --> something
+835  NN --> time
+789  NN --> name
+772  NN --> boy
+755  NN --> kind
+735  NN --> girl
+726  NN --> color
+673  NN --> dog
+646  NN --> car
+640  NN --> hand
+597  NN --> way
+587  NN --> school
+557  NN --> toy
+544  NN --> picture
+531  NN --> animal
+518  NN --> head
+489  NN --> water
+482  NN --> hair
+451  NN --> bed
+443  NN --> here
+441  NN --> lot
+409  NN --> mouth
+408  NN --> box
+407  NN --> day
+403  NN --> minute
+403  NN --> piece
+402  NN --> eye
+388  NN --> dolly
+387  NN --> milk
+387  NN --> table
+386  NN --> cup
+381  NN --> finger
+376  NN --> doll
+371  NN --> truck
+366  NN --> birthday
+362  NN --> horse
+357  NN --> paper
+349  NN --> man
+345  NN --> chair
+344  NN --> train
+340  NN --> bird
+335  NN --> kitty
+331  NN --> ball
+328  NN --> top
+327  NN --> story
+320  NN --> shoe
+317  NN --> nose
+314  NN --> duck
+314  NN --> hat
+309  NN --> mommy
+308  NN --> floor
+301  NN --> door
+300  NN --> fish
+300  NN --> lunch
+300  NN --> some
+298  NN --> lady
+296  NN --> night
+288  NN --> anything
+288  NN --> bag
+288  NN --> part
+286  NN --> food
+282  NN --> beach
+267  NN --> room
+263  NN --> bear
+263  NN --> home
+261  NN --> elephant
+260  NN --> morning
+259  NN --> tree
+256  NN --> monkey
+247  NN --> dress
+241  NN --> tea
+237  NN --> boat
+237  NN --> week
+232  NN --> guy
+231  NN --> face
+231  NN --> letter
+226  NN --> bit
+226  NN --> rabbit
+221  NN --> juice
+221  NN --> zoo
+218  NN --> mother
+217  NN --> matter
+217  NN --> supper
+216  NN --> leg
+214  NN --> cow
+213  NN --> coffee
+210  NN --> cat
+210  NN --> light
+208  NN --> bunny
+207  NN --> everything
+207  NN --> party
+205  NN --> egg
+204  NN --> cake
+199  NN --> friend
+196  NN --> hole
+196  NN --> today
+195  NN --> spoon
+193  NN --> pencil
+193  NN --> present
+192  NN --> block
+192  NN --> store
+190  NN --> arm
+190  NN --> job
+189  NN --> side
+188  NN --> song
+187  NN --> horsie
+187  NN --> place
+183  NN --> tail
+182  NN --> lion
+182  NN --> year
+181  NN --> chicken
+179  NN --> mouse
+176  NN --> cheese
+176  NN --> ear
+171  NN --> daddy
+171  NN --> foot
+170  NN --> tape
+167  NN --> bottle
+166  NN --> honey
+164  NN --> kid
+163  NN --> bus
+161  NN --> window
+160  NN --> stuff
+159  NN --> somebody
+158  NN --> flower
+154  NN --> airplane
+154  NN --> doggy
+151  NN --> goodness
+150  NN --> puzzle
+147  NN --> blanket
+146  NN --> nap
+144  NN --> button
+144  NN --> game
+144  NN --> money
+143  NN --> ride
+143  NN --> sock
+141  NN --> idea
+139  NN --> fun
+138  NN --> plate
+136  NN --> kitchen
+136  NN --> park
+135  NN --> butter
+133  NN --> card
+132  NN --> sandwich
+131  NN --> shirt
+130  NN --> back
+129  NN --> child
+129  NN --> everybody
+129  NN --> front
+128  NN --> diaper
+127  NN --> cream
+125  NN --> page
+125  NN --> toe
+125  NN --> word
+123  NN --> end
+120  NN --> noise
+120  NN --> nothing
+119  NN --> apple
+119  NN --> bug
+118  NN --> bread
+118  NN --> crayon
+117  NN --> doggie
+113  NN --> doctor
+112  NN --> telephone
+111  NN --> brother
+110  NN --> soup
+108  NN --> rest
+108  NN --> tiger
+107  NN --> balloon
+107  NN --> basket
+107  NN --> bath
+107  NN --> dear
+107  NN --> fire
+105  NN --> breakfast
+104  NN --> tomorrow
+103  NN --> while
+102  NN --> wheel
+101  NN --> cookie
+101  NN --> mirror
+101  NN --> number
+99  NN --> corn
+98  NN --> barn
+98  NN --> cereal
+98  NN --> ice
+98  NN --> work
+97  NN --> porcupine
+97  NN --> sugar
+96  NN --> road
+95  NN --> seat
+95  NN --> street
+94  NN --> turn
+92  NN --> line
+91  NN --> circus
+91  NN --> orange
+90  NN --> teacher
+90  NN --> turtle
+88  NN --> roof
+88  NN --> stove
+86  NN --> drink
+86  NN --> hug
+85  NN --> bowl
+84  NN --> puppet
+83  NN --> air
+83  NN --> bottom
+82  NN --> dish
+81  NN --> cracker
+81  NN --> dinner
+81  NN --> pajama
+81  NN --> pot
+81  NN --> sand
+80  NN --> crib
+80  NN --> other
+80  NN --> refrigerator
+80  NN --> snake
+79  NN --> farm
+79  NN --> lap
+78  NN --> carriage
+78  NN --> potato
+78  NN --> stool
+77  NN --> bite
+77  NN --> mess
+77  NN --> napkin
+77  NN --> pipe
+76  NN --> circle
+76  NN --> stick
+76  NN --> tv
+75  NN --> neck
+73  NN --> penny
+73  NN --> phone
+73  NN --> summer
+73  NN --> sweetie
+72  NN --> candy
+72  NN --> hour
+72  NN --> kangaroo
+71  NN --> bathroom
+71  NN --> bike
+71  NN --> clown
+71  NN --> glass
+71  NN --> tummy
+70  NN --> candle
+70  NN --> wagon
+69  NN --> banana
+69  NN --> bathtub
+69  NN --> grass
+69  NN --> someone
+68  NN --> coat
+68  NN --> fishie
+68  NN --> fork
+68  NN --> knee
+68  NN --> sister
+67  NN --> anybody
+67  NN --> bubble
+67  NN --> couch
+67  NN --> grape
+67  NN --> movie
+66  NN --> dinosaur
+66  NN --> mama
+66  NN --> wall
+65  NN --> cousin
+65  NN --> meat
+65  NN --> pumpkin
+65  NN --> ribbon
+65  NN --> snow
+64  NN --> carrot
+64  NN --> clay
+64  NN --> pillow
+64  NN --> problem
+64  NN --> witch
+63  NN --> dollie
+63  NN --> half
+63  NN --> peanut
+63  NN --> yesterday
+62  NN --> any
+62  NN --> salad
+62  NN --> valentine
+62  NN --> yard
+62  NN --> zebra
+61  NN --> dessert
+61  NN --> father
+61  NN --> jacket
+61  NN --> slide
+61  NN --> those
+61  NN --> trouble
+60  NN --> all
+60  NN --> couple
+60  NN --> middle
+59  NN --> bean
+59  NN --> bicycle
+59  NN --> cold
+59  NN --> dance
+59  NN --> goat
+59  NN --> monster
+59  NN --> rice
+59  NN --> splinter
+59  NN --> swing
+59  NN --> tapioca
+58  NN --> battery
+58  NN --> shape
+58  NN --> umbrella
+57  NN --> engine
+57  NN --> key
+57  NN --> kiss
+57  NN --> pen
+57  NN --> pin
+56  NN --> birdie
+56  NN --> boot
+56  NN --> dollar
+56  NN --> frog
+56  NN --> sun
+55  NN --> alligator
+55  NN --> knife
+55  NN --> sky
+55  NN --> walk
+54  NN --> can
+54  NN --> care
+54  NN --> fence
+54  NN --> giraffe
+54  NN --> machine
+54  NN --> pea
+54  NN --> towel
+54  NN --> weekend
+53  NN --> medicine
+53  NN --> slipper
+53  NN --> whale
+52  NN --> cement
+52  NN --> tongue
+51  NN --> bang
+51  NN --> help
+51  NN --> mister
+51  NN --> nut
+51  NN --> pie
+51  NN --> village
+50  NN --> bone
+50  NN --> dirt
+50  NN --> lamb
+50  NN --> little
+50  NN --> pool
+50  NN --> sink
+50  NN --> space
+50  NN --> watch
+49  NN --> music
+49  NN --> plane
+49  NN --> snowman
+49  NN --> sweater
+49  NN --> wood
+48  NN --> belly
+48  NN --> chimney
+48  NN --> month
+48  NN --> nurse
+48  NN --> square
+47  NN --> family
+47  NN --> microphone
+47  NN --> soap
+46  NN --> ground
+46  NN --> star
+46  NN --> station
+46  NN --> television
+46  NN --> tomato
+46  NN --> vegetable
+45  NN --> bell
+45  NN --> fruit
+45  NN --> highchair
+45  NN --> pocket
+45  NN --> recorder
+45  NN --> shelf
+45  NN --> steak
+45  NN --> tonight
+45  NN --> trunk
+45  NN --> wing
+44  NN --> hamburger
+44  NN --> king
+44  NN --> paint
+44  NN --> seal
+43  NN --> afternoon
+43  NN --> clock
+43  NN --> nobody
+43  NN --> popsicle
+43  NN --> salt
+43  NN --> second
+42  NN --> board
+42  NN --> corner
+42  NN --> picnic
+42  NN --> puppy
+41  NN --> church
+41  NN --> curl
+41  NN --> mixer
+41  NN --> piano
+41  NN --> sort
+41  NN --> tractor
+40  NN --> butterfly
+40  NN --> fly
+40  NN --> rug
+40  NN --> squirrel
+40  NN --> teddy
+40  NN --> trick
+39  NN --> enough
+39  NN --> garage
+39  NN --> gum
+39  NN --> quarter
+39  NN --> queen
+39  NN --> record
+39  NN --> ring
+39  NN --> spot
+39  NN --> track
+38  NN --> brush
+38  NN --> lobster
+38  NN --> owl
+38  NN --> these
+38  NN --> vacation
+37  NN --> accident
+37  NN --> barrel
+37  NN --> cent
+37  NN --> comb
+37  NN --> moon
+37  NN --> nail
+37  NN --> noodle
+37  NN --> pad
+37  NN --> person
+36  NN --> drawer
+36  NN --> horn
+35  NN --> cage
+35  NN --> cover
+35  NN --> guitar
+35  NN --> lettuce
+35  NN --> rain
+35  NN --> red
+35  NN --> sheep
+35  NN --> show
+35  NN --> skirt
+35  NN --> tire
+34  NN --> band
+34  NN --> bib
+34  NN --> blue
+34  NN --> chocolate
+34  NN --> ketchup
+34  NN --> oven
+34  NN --> thumb
+33  NN --> chin
+33  NN --> city
+33  NN --> fingernail
+33  NN --> pancake
+33  NN --> penguin
+33  NN --> sleep
+33  NN --> wolf
+32  NN --> broom
+32  NN --> bump
+32  NN --> garden
+32  NN --> papa
+32  NN --> secret
+32  NN --> set
+31  NN --> bedroom
+31  NN --> closet
+31  NN --> costume
+31  NN --> daughter
+31  NN --> favorite
+31  NN --> play
+31  NN --> rock
+31  NN --> shovel
+31  NN --> sneaker
+31  NN --> tower
+30  NN --> aquarium
+30  NN --> building
+30  NN --> celery
+30  NN --> cheek
+30  NN --> cowboy
+30  NN --> hedgehog
+30  NN --> mom
+30  NN --> nursery
+30  NN --> reindeer
+30  NN --> rooster
+30  NN --> rope
+30  NN --> same
+30  NN --> screw
+30  NN --> sound
+30  NN --> step
+30  NN --> trip
+29  NN --> bridge
+29  NN --> cord
+29  NN --> cube
+29  NN --> fellow
+29  NN --> fox
+29  NN --> hammer
+29  NN --> hurt
+29  NN --> magnet
+29  NN --> pair
+29  NN --> shark
+29  NN --> size
+29  NN --> snack
+29  NN --> tent
+29  NN --> tray
+28  NN --> bead
+28  NN --> buddy
+28  NN --> case
+28  NN --> drum
+28  NN --> gun
+28  NN --> radio
+28  NN --> rubber
+27  NN --> cob
+27  NN --> donkey
+27  NN --> dream
+27  NN --> driver
+27  NN --> furniture
+27  NN --> gas
+27  NN --> lollipop
+27  NN --> macaroni
+27  NN --> mail
+27  NN --> mistake
+27  NN --> nest
+27  NN --> package
+27  NN --> question
+27  NN --> restaurant
+27  NN --> spider
+27  NN --> strawberry
+27  NN --> suit
+27  NN --> teapot
+26  NN --> bandaid
+26  NN --> gorilla
+26  NN --> helicopter
+26  NN --> hook
+26  NN --> ocean
+26  NN --> plastic
+26  NN --> stripe
+26  NN --> worm
+25  NN --> beard
+25  NN --> country
+25  NN --> difference
+25  NN --> everyone
+25  NN --> garbage
+25  NN --> handle
+25  NN --> hay
+25  NN --> much
+25  NN --> ponytail
+25  NN --> poodle
+25  NN --> vitamin
+25  NN --> winter
+24  NN --> bank
+24  NN --> bunch
+24  NN --> cotton
+24  NN --> dolphin
+24  NN --> dump
+24  NN --> forest
+24  NN --> green
+24  NN --> ladybug
+24  NN --> mud
+24  NN --> powder
+24  NN --> row
+24  NN --> shell
+24  NN --> wrist
+23  NN --> bee
+23  NN --> blouse
+23  NN --> cricket
+23  NN --> eyebrow
+23  NN --> farmer
+23  NN --> investigator
+23  NN --> knot
+23  NN --> mailman
+23  NN --> necklace
+23  NN --> pail
+23  NN --> pan
+23  NN --> pepper
+23  NN --> pigtail
+23  NN --> pill
+23  NN --> pony
+23  NN --> saucer
+23  NN --> shot
+23  NN --> tinkertoy
+23  NN --> triangle
+23  NN --> whistle
+23  NN --> yellow
+22  NN --> castle
+22  NN --> chalk
+22  NN --> course
+22  NN --> eggnog
+22  NN --> germ
+22  NN --> heart
+22  NN --> mask
+22  NN --> mind
+22  NN --> needle
+22  NN --> pocketbook
+22  NN --> quart
+22  NN --> sign
+22  NN --> soldier
+22  NN --> suitcase
+22  NN --> town
+22  NN --> trash
+22  NN --> woman
+22  NN --> world
+21  NN --> bookcase
+21  NN --> bow
+21  NN --> change
+21  NN --> counter
+21  NN --> dragon
+21  NN --> earring
+21  NN --> hospital
+21  NN --> jello
+21  NN --> jump
+21  NN --> kitten
+21  NN --> lid
+21  NN --> motor
+21  NN --> mountain
+21  NN --> princess
+21  NN --> sidewalk
+21  NN --> soda
+21  NN --> syrup
+20  NN --> belt
+20  NN --> blood
+20  NN --> chest
+20  NN --> class
+20  NN --> deer
+20  NN --> fan
+20  NN --> ginger
+20  NN --> glove
+20  NN --> lemon
+20  NN --> llama
+20  NN --> look
+20  NN --> marble
+20  NN --> motorcycle
+20  NN --> muscle
+20  NN --> panda
+20  NN --> parade
+20  NN --> pig
+20  NN --> pineapple
+20  NN --> policeman
+20  NN --> seesaw
+20  NN --> shop
+20  NN --> smoke
+20  NN --> sticker
+20  NN --> study
+20  NN --> tub
+20  NN --> wire
+19  NN --> airport
+19  NN --> alphabet
+19  NN --> banjo
+19  NN --> cigarette
+19  NN --> cloth
+19  NN --> collie
+19  NN --> exercise
+19  NN --> heaven
+19  NN --> kindergarten
+19  NN --> mustache
+19  NN --> peekaboo
+19  NN --> pile
+19  NN --> player
+19  NN --> pole
+19  NN --> porch
+19  NN --> river
+19  NN --> roller
+19  NN --> shampoo
+19  NN --> skin
+19  NN --> tooth
+18  NN --> beer
+18  NN --> both
+18  NN --> cleaner
+18  NN --> company
+18  NN --> curtain
+18  NN --> fair
+18  NN --> goose
+18  NN --> grandma
+18  NN --> grandmother
+18  NN --> haircut
+18  NN --> hill
+18  NN --> icecream
+18  NN --> jammie
+18  NN --> lake
+18  NN --> laundry
+18  NN --> match
+18  NN --> moment
+18  NN --> sailboat
+18  NN --> sleeve
+18  NN --> somersault
+18  NN --> wave
+18  NN --> wax
+17  NN --> ale
+17  NN --> basement
+17  NN --> bucket
+17  NN --> byebye
+17  NN --> cartoon
+17  NN --> cutie
+17  NN --> diet
+17  NN --> dime
+17  NN --> direction
+17  NN --> dot
+17  NN --> drop
+17  NN --> envelope
+17  NN --> five
+17  NN --> glue
+17  NN --> hose
+17  NN --> ink
+17  NN --> jeep
+17  NN --> kite
+17  NN --> ladder
+17  NN --> muffin
+17  NN --> onion
+17  NN --> peach
+17  NN --> pear
+17  NN --> pizza
+17  NN --> race
+17  NN --> roll
+17  NN --> sale
+17  NN --> surprise
+17  NN --> tag
+17  NN --> tissue
+17  NN --> toilet
+17  NN --> tunnel
+16  NN --> baseball
+16  NN --> bat
+16  NN --> briefcase
+16  NN --> cart
+16  NN --> chop
+16  NN --> crab
+16  NN --> cut
+16  NN --> dryer
+16  NN --> elbow
+16  NN --> gate
+16  NN --> giant
+16  NN --> hippopotamus
+16  NN --> jar
+16  NN --> nightgown
+16  NN --> nipple
+16  NN --> now
+16  NN --> propeller
+16  NN --> snail
+16  NN --> talk
+16  NN --> two
+16  NN --> wind
+15  NN --> anyone
+15  NN --> bacon
+15  NN --> call
+15  NN --> camel
+15  NN --> cane
+15  NN --> cloud
+15  NN --> cottage
+15  NN --> ducky
+15  NN --> ghost
+15  NN --> hamper
+15  NN --> headband
+15  NN --> heat
+15  NN --> hopperoo
+15  NN --> jam
+15  NN --> kleenex
+15  NN --> knob
+15  NN --> lesson
+15  NN --> pilot
+15  NN --> point
+15  NN --> pound
+15  NN --> prize
+15  NN --> razor
+15  NN --> scotch
+15  NN --> scratch
+15  NN --> son
+15  NN --> spaghetti
+15  NN --> spinach
+15  NN --> stone
+15  NN --> stroller
+15  NN --> toast
+15  NN --> tonic
+15  NN --> weather
+15  NN --> zero
+14  NN --> body
+14  NN --> boo
+14  NN --> carpet
+14  NN --> clam
+14  NN --> crown
+14  NN --> desk
+14  NN --> fireman
+14  NN --> grade
+14  NN --> grownup
+14  NN --> helper
+14  NN --> iron
+14  NN --> library
+14  NN --> lipstick
+14  NN --> list
+14  NN --> log
+14  NN --> love
+14  NN --> mane
+14  NN --> metal
+14  NN --> pal
+14  NN --> piggy
+14  NN --> purse
+14  NN --> sea
+14  NN --> seed
+14  NN --> ship
+14  NN --> state
+14  NN --> stethoscope
+14  NN --> stomach
+14  NN --> trailer
+14  NN --> turkey
+13  NN --> answer
+13  NN --> barrette
+13  NN --> cherry
+13  NN --> chickie
+13  NN --> clip
+13  NN --> eraser
+13  NN --> fact
+13  NN --> freezer
+13  NN --> funnel
+13  NN --> girlfriend
+13  NN --> hall
+13  NN --> hen
+13  NN --> husband
+13  NN --> lamp
+13  NN --> mayonnaise
+13  NN --> mitten
+13  NN --> mosquito
+13  NN --> nickel
+13  NN --> office
+13  NN --> paw
+13  NN --> pickle
+13  NN --> plant
+13  NN --> punch
+13  NN --> radish
+13  NN --> rattle
+13  NN --> sake
+13  NN --> shadow
+13  NN --> shoulder
+13  NN --> smile
+13  NN --> snap
+13  NN --> spear
+13  NN --> squash
+13  NN --> taste
+13  NN --> tonsil
+13  NN --> vacuum
+13  NN --> whisker
+13  NN --> wife
+12  NN --> age
+12  NN --> ant
+12  NN --> apron
+12  NN --> backyard
+12  NN --> bulldozer
+12  NN --> bun
+12  NN --> business
+12  NN --> camera
+12  NN --> camp
+12  NN --> chowder
+12  NN --> edge
+12  NN --> elevator
+12  NN --> fireplace
+12  NN --> flag
+12  NN --> goodbye
+12  NN --> inside
+12  NN --> life
+12  NN --> mike
+12  NN --> outfit
+12  NN --> pants
+12  NN --> pet
+12  NN --> pop
+12  NN --> pork
+12  NN --> rhinoceros
+12  NN --> right
+12  NN --> sail
+12  NN --> sponge
+12  NN --> stall
+12  NN --> sweatshirt
+12  NN --> taperecorder
+12  NN --> test
+12  NN --> voice
+12  NN --> walrus
+12  NN --> washcloth
+12  NN --> winner
+12  NN --> zipper
+11  NN --> arrow
+11  NN --> bar
+11  NN --> beak
+11  NN --> branch
+11  NN --> broccoli
+11  NN --> cap
+11  NN --> ceiling
+11  NN --> cough
+11  NN --> crane
+11  NN --> crumb
+11  NN --> dad
+11  NN --> feather
+11  NN --> fishy
+11  NN --> ham
+11  NN --> jet
+11  NN --> lip
+11  NN --> locomotive
+11  NN --> mailbox
+11  NN --> meal
+11  NN --> mine
+11  NN --> momma
+11  NN --> none
+11  NN --> oil
+11  NN --> order
+11  NN --> paddle
+11  NN --> police
+11  NN --> polish
+11  NN --> raccoon
+11  NN --> rainbow
+11  NN --> recital
+11  NN --> sandbox
+11  NN --> scooter
+11  NN --> shrimp
+11  NN --> sword
+11  NN --> temperature
+11  NN --> treat
+11  NN --> wash
+10  NN --> a
+10  NN --> ashtray
+10  NN --> beef
+10  NN --> bibbie
+10  NN --> bush
+10  NN --> cabinet
+10  NN --> cantaloupe
+10  NN --> cellar
+10  NN --> chain
+10  NN --> decoration
+10  NN --> department
+10  NN --> duckie
+10  NN --> field
+10  NN --> firetruck
+10  NN --> football
+10  NN --> froggie
+10  NN --> gravy
+10  NN --> grocery
+10  NN --> heater
+10  NN --> hike
+10  NN --> joke
+10  NN --> jungle
+10  NN --> luck
+10  NN --> oyster
+10  NN --> playpen
+10  NN --> rocket
+10  NN --> screwdriver
+10  NN --> seven
+10  NN --> skunk
+10  NN --> slack
+10  NN --> someplace
+10  NN --> sport
+10  NN --> thunder
+10  NN --> tool
+10  NN --> toothie
+10  NN --> tunafish
+10  NN --> turtleneck
+10  NN --> uncle
+10  NN --> underpant
+10  NN --> waist
+9  NN --> attention
+9  NN --> aunt
+9  NN --> bathingsuit
+9  NN --> bouillon
+9  NN --> brownie
+9  NN --> bull
+9  NN --> calf
+9  NN --> carpenter
+9  NN --> catch
+9  NN --> check
+9  NN --> chick
+9  NN --> collar
+9  NN --> commercial
+9  NN --> conversation
+9  NN --> cook
+9  NN --> cross
+9  NN --> elastic
+9  NN --> film
+9  NN --> good
+9  NN --> grandfather
+9  NN --> heel
+9  NN --> holder
+9  NN --> jelly
+9  NN --> jersey
+9  NN --> junk
+9  NN --> leaf
+9  NN --> lock
+9  NN --> magic
+9  NN --> memory
+9  NN --> mummy
+9  NN --> nine
+9  NN --> octopus
+9  NN --> plenty
+9  NN --> pretzel
+9  NN --> program
+9  NN --> reason
+9  NN --> rod
+9  NN --> sauce
+9  NN --> saw
+9  NN --> seahorse
+9  NN --> sir
+9  NN --> sled
+9  NN --> split
+9  NN --> sprinkler
+9  NN --> stamp
+9  NN --> stitch
+9  NN --> stop
+9  NN --> subway
+9  NN --> swan
+9  NN --> tablet
+9  NN --> tank
+9  NN --> throat
+9  NN --> tie
+9  NN --> vanilla
+9  NN --> war
+8  NN --> army
+8  NN --> baloney
+8  NN --> bill
+8  NN --> blackboard
+8  NN --> blade
+8  NN --> bookshelf
+8  NN --> bracelet
+8  NN --> braid
+8  NN --> break
+8  NN --> brown
+8  NN --> bum
+8  NN --> bureau
+8  NN --> calendar
+8  NN --> carnival
+8  NN --> caterpillar
+8  NN --> chie
+8  NN --> cucumber
+8  NN --> cupboard
+8  NN --> design
+8  NN --> diamond
+8  NN --> dough
+8  NN --> dresser
+8  NN --> duckling
+8  NN --> dust
+8  NN --> eagle
+8  NN --> factory
+8  NN --> fever
+8  NN --> fizzie
+8  NN --> flavor
+8  NN --> fur
+8  NN --> god
+8  NN --> hiccup
+8  NN --> jail
+8  NN --> land
+8  NN --> language
+8  NN --> latch
+8  NN --> lizard
+8  NN --> magazine
+8  NN --> mood
+8  NN --> museum
+8  NN --> news
+8  NN --> newspaper
+8  NN --> notebook
+8  NN --> palace
+8  NN --> parent
+8  NN --> parrot
+8  NN --> pitcher
+8  NN --> plum
+8  NN --> poop
+8  NN --> popcorn
+8  NN --> purple
+8  NN --> railroad
+8  NN --> raisin
+8  NN --> rake
+8  NN --> root
+8  NN --> saddle
+8  NN --> season
+8  NN --> snarl
+8  NN --> start
+8  NN --> stem
+8  NN --> three
+8  NN --> tip
+8  NN --> tricycle
+8  NN --> tummyache
+8  NN --> upstairs
+8  NN --> violin
+8  NN --> visit
+8  NN --> visitor
+8  NN --> wake
+8  NN --> wastebasket
+8  NN --> watermelon
+7  NN --> abc
+7  NN --> ache
+7  NN --> address
+7  NN --> another
+7  NN --> bahbah
+7  NN --> ballerina
+7  NN --> bathrobe
+7  NN --> bristle
+7  NN --> bubblebath
+7  NN --> butt
+7  NN --> caboose
+7  NN --> chance
+7  NN --> chip
+7  NN --> cone
+7  NN --> cranberry
+7  NN --> crocodile
+7  NN --> cupcake
+7  NN --> curler
+7  NN --> cushion
+7  NN --> dancer
+7  NN --> devil
+7  NN --> drain
+7  NN --> fairy
+7  NN --> few
+7  NN --> firework
+7  NN --> gold
+7  NN --> goldfish
+7  NN --> gosh
+7  NN --> grain
+7  NN --> grill
+7  NN --> hamster
+7  NN --> hint
+7  NN --> imagination
+7  NN --> it
+7  NN --> lawnmower
+7  NN --> leather
+7  NN --> left
+7  NN --> license
+7  NN --> mat
+7  NN --> more
+7  NN --> orphan
+7  NN --> outside
+7  NN --> own
+7  NN --> pain
+7  NN --> parlor
+7  NN --> pasta
+7  NN --> peg
+7  NN --> peppermint
+7  NN --> pigeon
+7  NN --> pinwheel
+7  NN --> playground
+7  NN --> poem
+7  NN --> poker
+7  NN --> practice
+7  NN --> quill
+7  NN --> raincoat
+7  NN --> rash
+7  NN --> robe
+7  NN --> sausage
+7  NN --> shower
+7  NN --> sip
+7  NN --> sofa
+7  NN --> spray
+7  NN --> stage
+7  NN --> stand
+7  NN --> student
+7  NN --> tale
+7  NN --> toothpaste
+7  NN --> tumble
+7  NN --> white
+7  NN --> wonder
+7  NN --> wool
+7  NN --> wristwatch
+6  NN --> advertisement
+6  NN --> antenna
+6  NN --> art
+6  NN --> aspirin
+6  NN --> babye
+6  NN --> backpack
+6  NN --> baker
+6  NN --> barber
+6  NN --> bay
+6  NN --> beater
+6  NN --> bedtime
+6  NN --> black
+6  NN --> blueberry
+6  NN --> bond
+6  NN --> boss
+6  NN --> brook
+6  NN --> bulb
+6  NN --> cash
+6  NN --> click
+6  NN --> coal
+6  NN --> coin
+6  NN --> compass
+6  NN --> crash
+6  NN --> creature
+6  NN --> dairy
+6  NN --> deal
+6  NN --> dentist
+6  NN --> digger
+6  NN --> fall
+6  NN --> fame
+6  NN --> fat
+6  NN --> faucet
+6  NN --> fault
+6  NN --> fella
+6  NN --> fin
+6  NN --> flashlight
+6  NN --> foodie
+6  NN --> fortnight
+6  NN --> four
+6  NN --> freight
+6  NN --> gem
+6  NN --> grace
+6  NN --> grasshopper
+6  NN --> gypsy
+6  NN --> handkerchief
+6  NN --> headache
+6  NN --> heck
+6  NN --> lemonade
+6  NN --> lifeguard
+6  NN --> lily
+6  NN --> makeup
+6  NN --> mark
+6  NN --> marshmallow
+6  NN --> medium
+6  NN --> microscope
+6  NN --> miss
+6  NN --> motorboat
+6  NN --> nighttime
+6  NN --> oatmeal
+6  NN --> overall
+6  NN --> paste
+6  NN --> peace
+6  NN --> peel
+6  NN --> pink
+6  NN --> plan
+6  NN --> pond
+6  NN --> rhyme
+6  NN --> roast
+6  NN --> scallop
+6  NN --> sec
+6  NN --> self
+6  NN --> sense
+6  NN --> shade
+6  NN --> silo
+6  NN --> six
+6  NN --> skate
+6  NN --> squeak
+6  NN --> statue
+6  NN --> tablecloth
+6  NN --> target
+6  NN --> taxi
+6  NN --> thought
+6  NN --> toothbrush
+6  NN --> toybox
+6  NN --> undershirt
+6  NN --> wheat
+6  NN --> wheelbarrow
+6  NN --> yes
+6  NN --> yogurt
+5  NN --> adoption
+5  NN --> anyplace
+5  NN --> applesauce
+5  NN --> argument
+5  NN --> balance
+5  NN --> bandage
+5  NN --> basketball
+5  NN --> believe
+5  NN --> bellybutton
+5  NN --> booby
+5  NN --> brain
+5  NN --> brand
+5  NN --> breath
+5  NN --> buck
+5  NN --> bumble_bee
+5  NN --> bumper
+5  NN --> bx
+5  NN --> cavity
+5  NN --> channel
+5  NN --> cheerio
+5  NN --> choice
+5  NN --> claw
+5  NN --> cocoa
+5  NN --> college
+5  NN --> combination
+5  NN --> computer
+5  NN --> dozen
+5  NN --> escalator
+5  NN --> feeling
+5  NN --> fight
+5  NN --> flour
+5  NN --> fourth
+5  NN --> fry
+5  NN --> fudgesicle
+5  NN --> fuzz
+5  NN --> guess
+5  NN --> hammock
+5  NN --> helmet
+5  NN --> hi
+5  NN --> hippo
+5  NN --> hold
+5  NN --> hoop
+5  NN --> hot
+5  NN --> hotel
+5  NN --> information
+5  NN --> instrument
+5  NN --> island
+5  NN --> kettle
+5  NN --> kick
+5  NN --> leopard
+5  NN --> liver
+5  NN --> loader
+5  NN --> loop
+5  NN --> lord
+5  NN --> lotion
+5  NN --> many
+5  NN --> market
+5  NN --> merry_go_round
+5  NN --> milkman
+5  NN --> mobile
+5  NN --> mousie
+5  NN --> mouthful
+5  NN --> mug
+5  NN --> olive
+5  NN --> ostrich
+5  NN --> pat
+5  NN --> payday
+5  NN --> poopie
+5  NN --> racoon
+5  NN --> raft
+5  NN --> ravioli
+5  NN --> register
+5  NN --> robot
+5  NN --> rule
+5  NN --> sandal
+5  NN --> scarf
+5  NN --> service
+5  NN --> shaker
+5  NN --> shame
+5  NN --> she
+5  NN --> shoelace
+5  NN --> smell
+5  NN --> spaceship
+5  NN --> spring
+5  NN --> squeaker
+5  NN --> statement
+5  NN --> string
+5  NN --> suppertime
+5  NN --> suspender
+5  NN --> swordfish
+5  NN --> teaspoon
+5  NN --> third
+5  NN --> tickle
+5  NN --> tobacco
+5  NN --> tot
+5  NN --> tow
+5  NN --> traffic
+5  NN --> transmission
+5  NN --> trap
+5  NN --> treasure
+5  NN --> trumpet
+5  NN --> tube
+5  NN --> tulip
+5  NN --> tuner
+5  NN --> tusk
+5  NN --> unicorn
+5  NN --> walnut
+5  NN --> well
+5  NN --> wheeler
+5  NN --> wig
+5  NN --> wrench
+5  NN --> xylophone
+5  NN --> yarn
+4  NN --> accordion
+4  NN --> acrobat
+4  NN --> alarm
+4  NN --> amusement
+4  NN --> angel
+4  NN --> apricot
+4  NN --> ark
+4  NN --> ash
+4  NN --> ax
+4  NN --> babysitter
+4  NN --> barbecue
+4  NN --> barnyard
+4  NN --> beauty
+4  NN --> beehive
+4  NN --> bin
+4  NN --> blimp
+4  NN --> bomb
+4  NN --> bonnet
+4  NN --> boom
+4  NN --> bud
+4  NN --> cab
+4  NN --> cabbage
+4  NN --> canal
+4  NN --> cardinal
+4  NN --> cave
+4  NN --> chief
+4  NN --> clothesline
+4  NN --> clothespin
+4  NN --> collection
+4  NN --> container
+4  NN --> cookout
+4  NN --> cornbread
+4  NN --> coupon
+4  NN --> cry
+4  NN --> cylinder
+4  NN --> dart
+4  NN --> daytime
+4  NN --> desert
+4  NN --> dreamer
+4  NN --> dustpan
+4  NN --> emergency
+4  NN --> eve
+4  NN --> firehouse
+4  NN --> fit
+4  NN --> forehead
+4  NN --> goof
+4  NN --> gown
+4  NN --> gray
+4  NN --> grease
+4  NN --> grump
+4  NN --> haddock
+4  NN --> hairpin
+4  NN --> hoe
+4  NN --> hydrant
+4  NN --> jaw
+4  NN --> jug
+4  NN --> kit
+4  NN --> later
+4  NN --> lawn
+4  NN --> licorice
+4  NN --> lighthouse
+4  NN --> load
+4  NN --> machinery
+4  NN --> mall
+4  NN --> mammal
+4  NN --> marker
+4  NN --> mass
+4  NN --> master
+4  NN --> microbacteria
+4  NN --> neighborhood
+4  NN --> nerd
+4  NN --> net
+4  NN --> nibble
+4  NN --> nickname
+4  NN --> note
+4  NN --> noun
+4  NN --> opener
+4  NN --> operator
+4  NN --> oval
+4  NN --> pamper
+4  NN --> pasture
+4  NN --> perfume
+4  NN --> petticoat
+4  NN --> piggie
+4  NN --> playroom
+4  NN --> plumber
+4  NN --> post
+4  NN --> project
+4  NN --> promise
+4  NN --> push
+4  NN --> pushup
+4  NN --> rack
+4  NN --> rag
+4  NN --> reel
+4  NN --> rhino
+4  NN --> riot
+4  NN --> rollercoaster
+4  NN --> rosey
+4  NN --> scarecrow
+4  NN --> screen
+4  NN --> sharpener
+4  NN --> sheet
+4  NN --> sherbert
+4  NN --> shit
+4  NN --> silly
+4  NN --> site
+4  NN --> sixth
+4  NN --> skim
+4  NN --> slate
+4  NN --> sleigh
+4  NN --> slinky
+4  NN --> snowsuit
+4  NN --> sorcerer
+4  NN --> spigot
+4  NN --> steeple
+4  NN --> stew
+4  NN --> stewardess
+4  NN --> straw
+4  NN --> style
+4  NN --> submarine
+4  NN --> sunburn
+4  NN --> swim
+4  NN --> t_v
+4  NN --> tab
+4  NN --> team
+4  NN --> thermometer
+4  NN --> ticket
+4  NN --> tin
+4  NN --> toaster
+4  NN --> toesie
+4  NN --> try
+4  NN --> twenty
+4  NN --> underwear
+4  NN --> vane
+4  NN --> waffle
+4  NN --> waitress
+4  NN --> windshield
+4  NN --> yak
+4  NN --> yoyo
+3  NN --> accomplishment
+3  NN --> actress
+3  NN --> adenoid
+3  NN --> adventure
+3  NN --> apartment
+3  NN --> apeekaboo
+3  NN --> arabesque
+3  NN --> athlete
+3  NN --> bathtime
+3  NN --> berry
+3  NN --> big
+3  NN --> biscuit
+3  NN --> blankie
+3  NN --> blowout
+3  NN --> brace
+3  NN --> brick
+3  NN --> bruise
+3  NN --> buckle
+3  NN --> burp
+3  NN --> bushel
+3  NN --> buzz
+3  NN --> bye
+3  NN --> cape
+3  NN --> captain
+3  NN --> cardboard
+3  NN --> carrier
+3  NN --> carton
+3  NN --> cashew
+3  NN --> character
+3  NN --> chess
+3  NN --> chime
+3  NN --> chimpanzee
+3  NN --> clap
+3  NN --> club
+3  NN --> cocktail
+3  NN --> cologne
+3  NN --> concept
+3  NN --> conductor
+3  NN --> cook_out
+3  NN --> cookbook
+3  NN --> cooker
+3  NN --> cot
+3  NN --> cradle
+3  NN --> crank
+3  NN --> creation
+3  NN --> crouton
+3  NN --> crow
+3  NN --> cubby
+3  NN --> custom
+3  NN --> dark
+3  NN --> deck
+3  NN --> dial
+3  NN --> dimple
+3  NN --> disaster
+3  NN --> dishwasher
+3  NN --> doorknob
+3  NN --> doorway
+3  NN --> drill
+3  NN --> driveway
+3  NN --> dumbbell
+3  NN --> earache
+3  NN --> earth
+3  NN --> fashion
+3  NN --> fiddle
+3  NN --> fifth
+3  NN --> file
+3  NN --> first
+3  NN --> flatbed
+3  NN --> flu
+3  NN --> folk
+3  NN --> form
+3  NN --> fridge
+3  NN --> gazelle
+3  NN --> gift
+3  NN --> golf
+3  NN --> governor
+3  NN --> grapefruit
+3  NN --> grinder
+3  NN --> hanger
+3  NN --> hangnail
+3  NN --> harness
+3  NN --> hexagonal
+3  NN --> hive
+3  NN --> hop
+3  NN --> hopbang
+3  NN --> hopscotch
+3  NN --> hotdog
+3  NN --> humdinger
+3  NN --> hunter
+3  NN --> i
+3  NN --> indian
+3  NN --> insect
+3  NN --> instruction
+3  NN --> jack
+3  NN --> jewelry
+3  NN --> knucklehead
+3  NN --> lasagna
+3  NN --> laugh
+3  NN --> leotard
+3  NN --> level
+3  NN --> lighter
+3  NN --> limit
+3  NN --> lumber
+3  NN --> magician
+3  NN --> maple
+3  NN --> material
+3  NN --> math
+3  NN --> mattress
+3  NN --> meatball
+3  NN --> message
+3  NN --> mile
+3  NN --> mink
+3  NN --> mold
+3  NN --> mop
+3  NN --> moth
+3  NN --> movement
+3  NN --> mule
+3  NN --> mumma
+3  NN --> munchkin
+3  NN --> mushroom
+3  NN --> navy
+3  NN --> necktie
+3  NN --> nickle
+3  NN --> object
+3  NN --> pacifier
+3  NN --> peacock
+3  NN --> pebble
+3  NN --> permanent
+3  NN --> pest
+3  NN --> pick
+3  NN --> pine
+3  NN --> placemat
+3  NN --> plankton
+3  NN --> platform
+3  NN --> plug
+3  NN --> plural
+3  NN --> pooh
+3  NN --> porkchop
+3  NN --> pouch
+3  NN --> power
+3  NN --> pox
+3  NN --> pricker
+3  NN --> puff
+3  NN --> purpose
+3  NN --> racket
+3  NN --> radiator
+3  NN --> raindrop
+3  NN --> ramp
+3  NN --> raspberry
+3  NN --> rate
+3  NN --> rectangle
+3  NN --> relative
+3  NN --> rifle
+3  NN --> rinse
+3  NN --> riverboat
+3  NN --> robin
+3  NN --> rollerskate
+3  NN --> rose
+3  NN --> run
+3  NN --> scab
+3  NN --> schedule
+3  NN --> scream
+3  NN --> sentence
+3  NN --> share
+3  NN --> shuttle
+3  NN --> silverware
+3  NN --> sixteenth
+3  NN --> skidder
+3  NN --> slice
+3  NN --> slip
+3  NN --> sneeze
+3  NN --> soccer
+3  NN --> sockie
+3  NN --> somem
+3  NN --> soul
+3  NN --> spark
+3  NN --> speech
+3  NN --> splasher
+3  NN --> spoonful
+3  NN --> stack
+3  NN --> stair
+3  NN --> stalk
+3  NN --> stilt
+3  NN --> strap
+3  NN --> strength
+3  NN --> strip
+3  NN --> sunsuit
+3  NN --> tantrum
+3  NN --> tap
+3  NN --> teacup
+3  NN --> tear
+3  NN --> telescope
+3  NN --> ten
+3  NN --> thread
+3  NN --> tick
+3  NN --> toastie
+3  NN --> toenail
+3  NN --> ton
+3  NN --> trainer
+3  NN --> trapezoid
+3  NN --> tuba
+3  NN --> tweet
+3  NN --> twelfth
+3  NN --> twist
+3  NN --> ukelele
+3  NN --> undie
+3  NN --> unicycle
+3  NN --> use
+3  NN --> vaccination
+3  NN --> van
+3  NN --> vase
+3  NN --> vehicle
+3  NN --> video
+3  NN --> waste
+3  NN --> wiper
+3  NN --> wizard
+3  NN --> worth
+3  NN --> you
+2  NN --> ad
+2  NN --> adam
+2  NN --> aisle
+2  NN --> album
+2  NN --> allegiance
+2  NN --> almanac
+2  NN --> ambulance
+2  NN --> announcement
+2  NN --> antler
+2  NN --> anymore
+2  NN --> appointment
+2  NN --> appy
+2  NN --> arch
+2  NN --> area
+2  NN --> asparagus
+2  NN --> astronaut
+2  NN --> attack
+2  NN --> attic
+2  NN --> audience
+2  NN --> auntie
+2  NN --> badger
+2  NN --> ballet
+2  NN --> bandit
+2  NN --> barbell
+2  NN --> base
+2  NN --> bassinet
+2  NN --> batter
+2  NN --> beanstalk
+2  NN --> beast
+2  NN --> beaver
+2  NN --> bedspread
+2  NN --> beetle
+2  NN --> bellyache
+2  NN --> billy
+2  NN --> biochemistry
+2  NN --> birdfeeder
+2  NN --> blackbird
+2  NN --> bluejay
+2  NN --> bogeyman
+2  NN --> bookstore
+2  NN --> bowel
+2  NN --> boyfriend
+2  NN --> brake
+2  NN --> bran
+2  NN --> brat
+2  NN --> breast
+2  NN --> breather
+2  NN --> breeze
+2  NN --> buffalo
+2  NN --> bulkhead
+2  NN --> bullet
+2  NN --> bumble
+2  NN --> bunk
+2  NN --> burro
+2  NN --> cabin
+2  NN --> caboosey
+2  NN --> cafe
+2  NN --> calzone
+2  NN --> camper
+2  NN --> carol
+2  NN --> casserole
+2  NN --> catalog
+2  NN --> catalogue
+2  NN --> cause
+2  NN --> cha
+2  NN --> charge
+2  NN --> chariot
+2  NN --> checkbook
+2  NN --> cheesepop
+2  NN --> cinnamon
+2  NN --> coaster
+2  NN --> coke
+2  NN --> concert
+2  NN --> conclusion
+2  NN --> confusion
+2  NN --> consent
+2  NN --> copycat
+2  NN --> corkscrew
+2  NN --> crazy
+2  NN --> crispie
+2  NN --> crisscross
+2  NN --> croissant
+2  NN --> cuddler
+2  NN --> curve
+2  NN --> custard
+2  NN --> cutter
+2  NN --> cycle
+2  NN --> daisy
+2  NN --> damage
+2  NN --> danger
+2  NN --> date
+2  NN --> daylight
+2  NN --> death
+2  NN --> decision
+2  NN --> demonstration
+2  NN --> derrick
+2  NN --> dingdong
+2  NN --> dino
+2  NN --> diver
+2  NN --> dock
+2  NN --> dodge
+2  NN --> donut
+2  NN --> doorbell
+2  NN --> dope
+2  NN --> downtown
+2  NN --> dragonfly
+2  NN --> dropsy
+2  NN --> drumstick
+2  NN --> dummy
+2  NN --> dumper
+2  NN --> duty
+2  NN --> e
+2  NN --> eardrum
+2  NN --> earmuff
+2  NN --> eater
+2  NN --> effect
+2  NN --> eggplant
+2  NN --> eighty
+2  NN --> electricity
+2  NN --> eleventh
+2  NN --> encore
+2  NN --> energy
+2  NN --> errand
+2  NN --> espresso
+2  NN --> etcetera
+2  NN --> excuse
+2  NN --> expression
+2  NN --> extension
+2  NN --> fail
+2  NN --> felt
+2  NN --> ferris
+2  NN --> fighter
+2  NN --> fist
+2  NN --> flame
+2  NN --> flamingo
+2  NN --> flap
+2  NN --> flirt
+2  NN --> folder
+2  NN --> footie
+2  NN --> frame
+2  NN --> frank
+2  NN --> funeral
+2  NN --> fussy
+2  NN --> gauze
+2  NN --> genie
+2  NN --> goodie
+2  NN --> goody
+2  NN --> grandpa
+2  NN --> gravity
+2  NN --> grouch
+2  NN --> guarantee
+2  NN --> guard
+2  NN --> gull
+2  NN --> gumby
+2  NN --> gym
+2  NN --> habit
+2  NN --> hairdo
+2  NN --> handlebar
+2  NN --> happiness
+2  NN --> hard
+2  NN --> he
+2  NN --> headlight
+2  NN --> heirloom
+2  NN --> hello
+2  NN --> heron
+2  NN --> hip
+2  NN --> hit
+2  NN --> hitch
+2  NN --> hock
+2  NN --> hockey
+2  NN --> holiday
+2  NN --> hon
+2  NN --> honeycomb
+2  NN --> hopper
+2  NN --> horseshoe
+2  NN --> huh
+2  NN --> hunk
+2  NN --> hysteric
+2  NN --> iceberg
+2  NN --> iguana
+2  NN --> inch
+2  NN --> indigestion
+2  NN --> infection
+2  NN --> instigator
+2  NN --> inventory
+2  NN --> itch
+2  NN --> jack_in_the_box
+2  NN --> jay
+2  NN --> jigsaw
+2  NN --> joy
+2  NN --> keyhole
+2  NN --> kidney
+2  NN --> knuckle
+2  NN --> koala
+2  NN --> koolaid
+2  NN --> ladle
+2  NN --> lane
+2  NN --> layer
+2  NN --> leak
+2  NN --> leftover
+2  NN --> leggie
+2  NN --> legging
+2  NN --> lego
+2  NN --> lifepreserver
+2  NN --> lift
+2  NN --> lightbulb
+2  NN --> liquid
+2  NN --> loaf
+2  NN --> lottery
+2  NN --> lullabye
+2  NN --> lump
+2  NN --> maid
+2  NN --> manner
+2  NN --> mantle
+2  NN --> matron
+2  NN --> may
+2  NN --> meanchie
+2  NN --> men
+2  NN --> mercy
+2  NN --> mermaid
+2  NN --> microwave
+2  NN --> millet
+2  NN --> millionaire
+2  NN --> mincemeat
+2  NN --> missile
+2  NN --> mix
+2  NN --> model
+2  NN --> mole
+2  NN --> moose
+2  NN --> move
+2  NN --> mover
+2  NN --> muff
+2  NN --> mustard
+2  NN --> nana
+2  NN --> navigator
+2  NN --> nephew
+2  NN --> nerve
+2  NN --> no
+2  NN --> noisy
+2  NN --> nonsense
+2  NN --> north
+2  NN --> nun
+2  NN --> nursie
+2  NN --> oar
+2  NN --> oat
+2  NN --> obsession
+2  NN --> oclock
+2  NN --> odor
+2  NN --> omelette
+2  NN --> operation
+2  NN --> opinion
+2  NN --> opposite
+2  NN --> out
+2  NN --> pack
+2  NN --> painter
+2  NN --> palm
+2  NN --> parsley
+2  NN --> pastina
+2  NN --> patch
+2  NN --> patient
+2  NN --> pattycake
+2  NN --> pearl
+2  NN --> peck
+2  NN --> pee
+2  NN --> pelican
+2  NN --> permission
+2  NN --> phrase
+2  NN --> pilaf
+2  NN --> pleasure
+2  NN --> plier
+2  NN --> plunger
+2  NN --> pod
+2  NN --> pointer
+2  NN --> polka
+2  NN --> poo
+2  NN --> pooh^ball
+2  NN --> popper
+2  NN --> popple
+2  NN --> position
+2  NN --> postcard
+2  NN --> poster
+2  NN --> powerball
+2  NN --> president
+2  NN --> press
+2  NN --> pretend
+2  NN --> print
+2  NN --> process
+2  NN --> proof
+2  NN --> puddle
+2  NN --> pussy
+2  NN --> rambler
+2  NN --> rat
+2  NN --> repair
+2  NN --> request
+2  NN --> rewind
+2  NN --> rice_crispie
+2  NN --> riddle
+2  NN --> round
+2  NN --> ruff
+2  NN --> ruler
+2  NN --> rummage
+2  NN --> salami
+2  NN --> scale
+2  NN --> scissors
+2  NN --> scoop
+2  NN --> score
+2  NN --> scrap
+2  NN --> scraper
+2  NN --> seagull
+2  NN --> seashore
+2  NN --> seatbelt
+2  NN --> sergeant
+2  NN --> series
+2  NN --> session
+2  NN --> seventeen
+2  NN --> shaver
+2  NN --> shed
+2  NN --> shift
+2  NN --> short
+2  NN --> sight
+2  NN --> singer
+2  NN --> sitter
+2  NN --> ski
+2  NN --> slang
+2  NN --> sleepyhead
+2  NN --> slob
+2  NN --> smiler
+2  NN --> smokestack
+2  NN --> snort
+2  NN --> soakie
+2  NN --> somewhere
+2  NN --> souvenir
+2  NN --> span
+2  NN --> sparkler
+2  NN --> special
+2  NN --> spice
+2  NN --> spin
+2  NN --> splash
+2  NN --> starfish
+2  NN --> steam
+2  NN --> stock
+2  NN --> stocking
+2  NN --> storm
+2  NN --> streamer
+2  NN --> stub
+2  NN --> suck
+2  NN --> sudden
+2  NN --> sugarbabie
+2  NN --> sunshine
+2  NN --> suntan
+2  NN --> supply
+2  NN --> sweat
+2  NN --> sweeper
+2  NN --> sweet
+2  NN --> syllable
+2  NN --> t
+2  NN --> talent
+2  NN --> tease
+2  NN --> tennis
+2  NN --> teriyaki
+2  NN --> the
+2  NN --> throw
+2  NN --> tic_tac_toe
+2  NN --> ticktock
+2  NN --> tide
+2  NN --> tinker
+2  NN --> tock
+2  NN --> tortoise
+2  NN --> touch
+2  NN --> transportation
+2  NN --> trauma
+2  NN --> trench
+2  NN --> trombone
+2  NN --> troublemaker
+2  NN --> truth
+2  NN --> tuna
+2  NN --> twinkle
+2  NN --> type
+2  NN --> typewriter
+2  NN --> vanity
+2  NN --> velvet
+2  NN --> vine
+2  NN --> waterfall
+2  NN --> weathervane
+2  NN --> weight
+2  NN --> whatever
+2  NN --> wiener
+2  NN --> windmill
+2  NN --> wipe
+2  NN --> wish
+2  NN --> worker
+2  NN --> wrestler
+2  NN --> yawn
+2  NN --> zoom
+1  NN --> a_one
+1  NN --> ace
+1  NN --> acorn
+1  NN --> act
+1  NN --> action
+1  NN --> acupine
+1  NN --> addition
+1  NN --> admirer
+1  NN --> adventurer
+1  NN --> affection
+1  NN --> allomorph
+1  NN --> alright
+1  NN --> ankle
+1  NN --> anniversary
+1  NN --> anteater
+1  NN --> anytime
+1  NN --> anyway
+1  NN --> appendicitis
+1  NN --> appetite
+1  NN --> arc
+1  NN --> arcade
+1  NN --> armie
+1  NN --> armpit
+1  NN --> article
+1  NN --> aspect
+1  NN --> ass
+1  NN --> assistant
+1  NN --> atlas
+1  NN --> audio
+1  NN --> automobile
+1  NN --> axle
+1  NN --> ba
+1  NN --> baba
+1  NN --> babe
+1  NN --> baboon
+1  NN --> babyfood
+1  NN --> bachelor
+1  NN --> backbone
+1  NN --> background
+1  NN --> backspace
+1  NN --> badminton
+1  NN --> baggage
+1  NN --> baggy
+1  NN --> bakery
+1  NN --> balcony
+1  NN --> baldy
+1  NN --> ballgame
+1  NN --> ballie
+1  NN --> ballpark
+1  NN --> bamboo
+1  NN --> banister
+1  NN --> banter
+1  NN --> barbie
+1  NN --> barefoot
+1  NN --> barley
+1  NN --> barroom
+1  NN --> baster
+1  NN --> batch
+1  NN --> battle
+1  NN --> beanbag
+1  NN --> beet
+1  NN --> behavior
+1  NN --> being
+1  NN --> bench
+1  NN --> best
+1  NN --> between
+1  NN --> bible
+1  NN --> birdfeed
+1  NN --> birdhouse
+1  NN --> birdy
+1  NN --> birth
+1  NN --> bitch
+1  NN --> bitsy
+1  NN --> blackberry
+1  NN --> bleed
+1  NN --> blonde
+1  NN --> blow
+1  NN --> blower
+1  NN --> boar
+1  NN --> bobo
+1  NN --> boiler
+1  NN --> bologna
+1  NN --> bolt
+1  NN --> bonus
+1  NN --> booboo
+1  NN --> booklet
+1  NN --> booster
+1  NN --> bootie
+1  NN --> booze
+1  NN --> boxer
+1  NN --> boxful
+1  NN --> boyoy
+1  NN --> brandy
+1  NN --> bravo
+1  NN --> breakdown
+1  NN --> brew
+1  NN --> brontiasaurus
+1  NN --> bronze
+1  NN --> bubblegum
+1  NN --> budget
+1  NN --> bugger
+1  NN --> buggy
+1  NN --> bully
+1  NN --> bumblebee
+1  NN --> bunche
+1  NN --> bunkhouse
+1  NN --> buoy
+1  NN --> burger
+1  NN --> buster
+1  NN --> buttercup
+1  NN --> butterfinger
+1  NN --> butthead
+1  NN --> buy
+1  NN --> caca
+1  NN --> cactus
+1  NN --> cadet
+1  NN --> cafeteria
+1  NN --> callaloo
+1  NN --> camomille
+1  NN --> canoe
+1  NN --> carnation
+1  NN --> cartwheel
+1  NN --> cassette
+1  NN --> catastrophe
+1  NN --> category
+1  NN --> catnap
+1  NN --> catsup
+1  NN --> cellophane
+1  NN --> center
+1  NN --> centipede
+1  NN --> chacha
+1  NN --> chalkboard
+1  NN --> challenge
+1  NN --> champagne
+1  NN --> chaos
+1  NN --> chapstick
+1  NN --> charade
+1  NN --> charm
+1  NN --> chaser
+1  NN --> chatterbox
+1  NN --> chattertox
+1  NN --> checkup
+1  NN --> cheer
+1  NN --> chew
+1  NN --> chewer
+1  NN --> chicky
+1  NN --> chimp
+1  NN --> chipmunk
+1  NN --> chisel
+1  NN --> christmas_tree
+1  NN --> chubby
+1  NN --> chubbywub
+1  NN --> chute
+1  NN --> cider
+1  NN --> cigar
+1  NN --> circulation
+1  NN --> clarinet
+1  NN --> classroom
+1  NN --> climber
+1  NN --> clinic
+1  NN --> clipper
+1  NN --> clue
+1  NN --> code
+1  NN --> comedy
+1  NN --> comicstrip
+1  NN --> comma
+1  NN --> communication
+1  NN --> compact
+1  NN --> con
+1  NN --> concentration
+1  NN --> concrete
+1  NN --> condiment
+1  NN --> conditioner
+1  NN --> condolence
+1  NN --> confrontation
+1  NN --> connection
+1  NN --> constipation
+1  NN --> control
+1  NN --> conversationalist
+1  NN --> convertible
+1  NN --> cooler
+1  NN --> coop
+1  NN --> corduroy
+1  NN --> core
+1  NN --> cornflake
+1  NN --> cost
+1  NN --> count
+1  NN --> courage
+1  NN --> coyote
+1  NN --> crack
+1  NN --> cramp
+1  NN --> cranapple
+1  NN --> crate
+1  NN --> creamer
+1  NN --> creek
+1  NN --> crew
+1  NN --> crisis
+1  NN --> crook
+1  NN --> crossbone
+1  NN --> crust
+1  NN --> crybaby
+1  NN --> cuddle
+1  NN --> cuddly
+1  NN --> cutest
+1  NN --> cutiepatut
+1  NN --> cutting
+1  NN --> dab
+1  NN --> darkness
+1  NN --> darling
+1  NN --> dead
+1  NN --> decorator
+1  NN --> deduction
+1  NN --> dell
+1  NN --> demon
+1  NN --> description
+1  NN --> destruction
+1  NN --> detective
+1  NN --> detector
+1  NN --> diandra
+1  NN --> dice
+1  NN --> difficulty
+1  NN --> dinnertime
+1  NN --> dip
+1  NN --> dippy
+1  NN --> disappointment
+1  NN --> disarray
+1  NN --> disbelief
+1  NN --> discussion
+1  NN --> disguise
+1  NN --> dishpan
+1  NN --> disk
+1  NN --> disposal
+1  NN --> distance
+1  NN --> distinction
+1  NN --> dither
+1  NN --> doghouse
+1  NN --> doily
+1  NN --> dollhouse
+1  NN --> domino
+1  NN --> doorstep
+1  NN --> doubt
+1  NN --> doughnut
+1  NN --> downstairs
+1  NN --> draw
+1  NN --> drawing
+1  NN --> drip
+1  NN --> drive
+1  NN --> drool
+1  NN --> dry
+1  NN --> dumptruck
+1  NN --> dune
+1  NN --> dungaree
+1  NN --> dungeon
+1  NN --> dwarf
+1  NN --> each
+1  NN --> earphone
+1  NN --> earplug
+1  NN --> easel
+1  NN --> east
+1  NN --> economic
+1  NN --> editor
+1  NN --> eel
+1  NN --> effort
+1  NN --> eggshell
+1  NN --> eight
+1  NN --> eighth
+1  NN --> electrician
+1  NN --> eleven
+1  NN --> empty
+1  NN --> engineer
+1  NN --> enjoyment
+1  NN --> enthusiasm
+1  NN --> entrance
+1  NN --> ephalent
+1  NN --> equipment
+1  NN --> ermine
+1  NN --> event
+1  NN --> everyday
+1  NN --> evidence
+1  NN --> example
+1  NN --> excitement
+1  NN --> exclusiveness
+1  NN --> exclusivity
+1  NN --> exerciser
+1  NN --> exhaustion
+1  NN --> expert
+1  NN --> express
+1  NN --> eyeball
+1  NN --> eyeglass
+1  NN --> eyelash
+1  NN --> eyesight
+1  NN --> failure
+1  NN --> fake
+1  NN --> faker
+1  NN --> fakerface
+1  NN --> fanny
+1  NN --> farmhouse
+1  NN --> farmyard
+1  NN --> fart
+1  NN --> fast
+1  NN --> feast
+1  NN --> february
+1  NN --> feedback
+1  NN --> feeder
+1  NN --> feel
+1  NN --> festival
+1  NN --> filter
+1  NN --> filth
+1  NN --> filthy
+1  NN --> fingerpaint
+1  NN --> firefighter
+1  NN --> firewood
+1  NN --> fishbowl
+1  NN --> fisherman
+1  NN --> fishhead
+1  NN --> fix
+1  NN --> fizz
+1  NN --> flash
+1  NN --> flea
+1  NN --> flicker
+1  NN --> flight
+1  NN --> flipflop
+1  NN --> flipper
+1  NN --> flood
+1  NN --> floppy
+1  NN --> floret
+1  NN --> fluid
+1  NN --> flute
+1  NN --> flypaper
+1  NN --> flyswatter
+1  NN --> fool
+1  NN --> foothill
+1  NN --> footprint
+1  NN --> footstool
+1  NN --> footwear
+1  NN --> forklift
+1  NN --> fort
+1  NN --> fountain
+1  NN --> freeway
+1  NN --> freeze
+1  NN --> frigidaire
+1  NN --> frill
+1  NN --> fringe
+1  NN --> frisbee
+1  NN --> froggy
+1  NN --> fruit_loop
+1  NN --> fudgsicle
+1  NN --> fundy
+1  NN --> furnace
+1  NN --> fuss
+1  NN --> future
+1  NN --> fuzzie
+1  NN --> fuzzy
+1  NN --> gal
+1  NN --> gallery
+1  NN --> gallon
+1  NN --> gambler
+1  NN --> gap
+1  NN --> gazebo
+1  NN --> gear
+1  NN --> genius
+1  NN --> gentleman
+1  NN --> gentleness
+1  NN --> geranium
+1  NN --> gesture
+1  NN --> gigolo
+1  NN --> giver
+1  NN --> glamour
+1  NN --> glider
+1  NN --> go
+1  NN --> godmother
+1  NN --> gondola
+1  NN --> goner
+1  NN --> good_luck_governor
+1  NN --> goosey
+1  NN --> gopher
+1  NN --> graduate
+1  NN --> graham
+1  NN --> grampa
+1  NN --> grandparent
+1  NN --> granpa
+1  NN --> grasp
+1  NN --> grave
+1  NN --> greenery
+1  NN --> gremlin
+1  NN --> grenade
+1  NN --> grey
+1  NN --> griller
+1  NN --> grizzly
+1  NN --> group
+1  NN --> grumpy
+1  NN --> guest
+1  NN --> gumball
+1  NN --> gut
+1  NN --> gwass
+1  NN --> gymnast
+1  NN --> hairdresser
+1  NN --> halo
+1  NN --> hampster
+1  NN --> handball
+1  NN --> handsome
+1  NN --> handy
+1  NN --> happie
+1  NN --> happy
+1  NN --> hardware
+1  NN --> harvard_square
+1  NN --> hassock
+1  NN --> hayloft
+1  NN --> health
+1  NN --> heartbeat
+1  NN --> helium
+1  NN --> hell
+1  NN --> hellion
+1  NN --> hero
+1  NN --> highway
+1  NN --> hinge
+1  NN --> hobo
+1  NN --> hog
+1  NN --> honeybee
+1  NN --> honeybun
+1  NN --> honeydew
+1  NN --> honeymoon
+1  NN --> hood
+1  NN --> hoodsie
+1  NN --> housework
+1  NN --> hugger
+1  NN --> hugging
+1  NN --> hummburger
+1  NN --> humor
+1  NN --> humorus
+1  NN --> hump
+1  NN --> hunt
+1  NN --> hurdle
+1  NN --> ice-cream
+1  NN --> idiot
+1  NN --> ignition
+1  NN --> imp
+1  NN --> impression
+1  NN --> improvement
+1  NN --> impulse
+1  NN --> influence
+1  NN --> instance
+1  NN --> insurance
+1  NN --> intelligence
+1  NN --> intention
+1  NN --> interaction
+1  NN --> intermission
+1  NN --> invention
+1  NN --> is
+1  NN --> jaguar
+1  NN --> jaundice
+1  NN --> jazz
+1  NN --> jerk
+1  NN --> jest
+1  NN --> jewel
+1  NN --> joe
+1  NN --> joseph
+1  NN --> jowl
+1  NN --> juicy
+1  NN --> jumper
+1  NN --> justice
+1  NN --> keeper
+1  NN --> kerchief
+1  NN --> kicker
+1  NN --> kissing
+1  NN --> kissy
+1  NN --> knight
+1  NN --> knitting
+1  NN --> knowledge
+1  NN --> kook
+1  NN --> la
+1  NN --> label
+1  NN --> lad
+1  NN --> landscape
+1  NN --> landscaper
+1  NN --> lapel
+1  NN --> lasagne
+1  NN --> lash
+1  NN --> lasso
+1  NN --> late
+1  NN --> laughter
+1  NN --> law
+1  NN --> leader
+1  NN --> leash
+1  NN --> leave
+1  NN --> lens
+1  NN --> lick
+1  NN --> lifetime
+1  NN --> like
+1  NN --> likeness
+1  NN --> lilac
+1  NN --> lime
+1  NN --> limp
+1  NN --> linoleum
+1  NN --> littlest
+1  NN --> logic
+1  NN --> lolly
+1  NN --> looftyloo
+1  NN --> loom
+1  NN --> loop_loop
+1  NN --> loose
+1  NN --> loser
+1  NN --> lounge
+1  NN --> lulu
+1  NN --> lunchtime
+1  NN --> lung
+1  NN --> maam
+1  NN --> madness
+1  NN --> magnadoodle
+1  NN --> mailperson
+1  NN --> mailwoman
+1  NN --> major
+1  NN --> make
+1  NN --> maker
+1  NN --> mallard
+1  NN --> manager
+1  NN --> manger
+1  NN --> march
+1  NN --> marmar
+1  NN --> massage
+1  NN --> mast
+1  NN --> meadow
+1  NN --> meadowlark
+1  NN --> meatloaf
+1  NN --> member
+1  NN --> meringue
+1  NN --> merry
+1  NN --> mesh
+1  NN --> mic
+1  NN --> midnight
+1  NN --> mime
+1  NN --> miner
+1  NN --> mint
+1  NN --> misadventure
+1  NN --> mischief
+1  NN --> mm
+1  NN --> mob
+1  NN --> mode
+1  NN --> modesty
+1  NN --> molar
+1  NN --> momentum
+1  NN --> monitor
+1  NN --> moo
+1  NN --> morse
+1  NN --> motorscooter
+1  NN --> moustache
+1  NN --> mower
+1  NN --> muffler
+1  NN --> murder
+1  NN --> mushy
+1  NN --> mystery
+1  NN --> nakedness
+1  NN --> nanapkin
+1  NN --> nannie
+1  NN --> naptime
+1  NN --> nectar
+1  NN --> need
+1  NN --> negative
+1  NN --> neighbor
+1  NN --> newscast
+1  NN --> nightshirt
+1  NN --> nineteen
+1  NN --> nion
+1  NN --> nod
+1  NN --> noggin
+1  NN --> nookie
+1  NN --> noontime
+1  NN --> notice
+1  NN --> notion
+1  NN --> nourishment
+1  NN --> novel
+1  NN --> nowhere
+1  NN --> nudist
+1  NN --> nuisance
+1  NN --> nuttin
+1  NN --> o'clock
+1  NN --> oak
+1  NN --> oboe
+1  NN --> observer
+1  NN --> octagon
+1  NN --> offense
+1  NN --> once
+1  NN --> onesie
+1  NN --> oop
+1  NN --> opera
+1  NN --> opossum
+1  NN --> orchid
+1  NN --> organ
+1  NN --> ounce
+1  NN --> outline
+1  NN --> overalle
+1  NN --> owner
+1  NN --> paintbrush
+1  NN --> painting
+1  NN --> pajammie
+1  NN --> pale
+1  NN --> panic
+1  NN --> pant
+1  NN --> par
+1  NN --> parachute
+1  NN --> parer
+1  NN --> parka
+1  NN --> parmesan
+1  NN --> passive
+1  NN --> path
+1  NN --> patience
+1  NN --> patrol
+1  NN --> pattern
+1  NN --> peek
+1  NN --> penis
+1  NN --> pentagon
+1  NN --> pep
+1  NN --> perspective
+1  NN --> petal
+1  NN --> phd
+1  NN --> phony
+1  NN --> piccalilli
+1  NN --> picking
+1  NN --> pickup
+1  NN --> piggybank
+1  NN --> pigletta
+1  NN --> pimple
+1  NN --> pinafore
+1  NN --> pinata
+1  NN --> pinkie
+1  NN --> pinky^rose
+1  NN --> pirate
+1  NN --> pistol
+1  NN --> pit
+1  NN --> pitch
+1  NN --> plantation
+1  NN --> planter
+1  NN --> playday
+1  NN --> playdough
+1  NN --> plaything
+1  NN --> pledge
+1  NN --> plop
+1  NN --> plugger
+1  NN --> plunge
+1  NN --> pluralization
+1  NN --> plus
+1  NN --> pneumonia
+1  NN --> pogo
+1  NN --> poise
+1  NN --> poison
+1  NN --> poke
+1  NN --> polar
+1  NN --> politician
+1  NN --> poo_poo
+1  NN --> pookie
+1  NN --> pooty
+1  NN --> porcelain
+1  NN --> porridge
+1  NN --> portrait
+1  NN --> postman
+1  NN --> posy
+1  NN --> poultry
+1  NN --> pourer
+1  NN --> pout
+1  NN --> powderpuff
+1  NN --> prayer
+1  NN --> prediction
+1  NN --> preschooler
+1  NN --> price
+1  NN --> prickle
+1  NN --> pride
+1  NN --> prince
+1  NN --> principal
+1  NN --> principle
+1  NN --> prisoner
+1  NN --> product
+1  NN --> production
+1  NN --> psychology
+1  NN --> pterodactyl
+1  NN --> publication
+1  NN --> pull
+1  NN --> puncher
+1  NN --> punk
+1  NN --> pup
+1  NN --> pusher
+1  NN --> puss
+1  NN --> pyramid
+1  NN --> quail
+1  NN --> quiet
+1  NN --> quieter
+1  NN --> quilt
+1  NN --> quiz
+1  NN --> r
+1  NN --> racer
+1  NN --> rail
+1  NN --> railway
+1  NN --> raincloud
+1  NN --> rally
+1  NN --> ranch
+1  NN --> range
+1  NN --> rattlesnake
+1  NN --> raven
+1  NN --> reach
+1  NN --> reaction
+1  NN --> reception
+1  NN --> recharge
+1  NN --> recipe
+1  NN --> recognition
+1  NN --> rein
+1  NN --> release
+1  NN --> relish
+1  NN --> remover
+1  NN --> rendition
+1  NN --> repeat
+1  NN --> report
+1  NN --> respite
+1  NN --> responsibility
+1  NN --> result
+1  NN --> ridinghood
+1  NN --> ringmaster
+1  NN --> rip
+1  NN --> roam
+1  NN --> rock_a_bye
+1  NN --> rodeo
+1  NN --> rooftop
+1  NN --> rootbeer
+1  NN --> rosebud
+1  NN --> rouge
+1  NN --> rowboat
+1  NN --> rubbage
+1  NN --> rudder
+1  NN --> rush
+1  NN --> sack
+1  NN --> sacrament
+1  NN --> salesman
+1  NN --> salon
+1  NN --> sample
+1  NN --> sandpaper
+1  NN --> sandy
+1  NN --> satin
+1  NN --> saver
+1  NN --> scar
+1  NN --> schoolhouse
+1  NN --> schoolyard
+1  NN --> scoot
+1  NN --> scootie
+1  NN --> scorpion
+1  NN --> scotty
+1  NN --> scratcher
+1  NN --> seafood
+1  NN --> secretary
+1  NN --> security
+1  NN --> selection
+1  NN --> seventeenth
+1  NN --> seventh
+1  NN --> sewer
+1  NN --> shake
+1  NN --> shaving
+1  NN --> shear
+1  NN --> shepherd
+1  NN --> sherbet
+1  NN --> sheriff
+1  NN --> shine
+1  NN --> shiner
+1  NN --> shirtie
+1  NN --> shlubble
+1  NN --> shoey
+1  NN --> shore
+1  NN --> shortsleever
+1  NN --> shred
+1  NN --> shrub
+1  NN --> shutter
+1  NN --> sick
+1  NN --> sickness
+1  NN --> sifter
+1  NN --> sigh
+1  NN --> silk
+1  NN --> silver
+1  NN --> sis
+1  NN --> sissie
+1  NN --> situation
+1  NN --> sixpence
+1  NN --> skateboard
+1  NN --> skyline
+1  NN --> slant
+1  NN --> sleepyheady
+1  NN --> slick
+1  NN --> slit
+1  NN --> sliver
+1  NN --> slot
+1  NN --> slush
+1  NN --> smartie
+1  NN --> smoothie
+1  NN --> snapper
+1  NN --> sneak
+1  NN --> sneezie
+1  NN --> sniffle
+1  NN --> snooze
+1  NN --> snowball
+1  NN --> snowmen
+1  NN --> snuggle
+1  NN --> softball
+1  NN --> solo
+1  NN --> someday
+1  NN --> sophomore
+1  NN --> sore
+1  NN --> south
+1  NN --> spaniel
+1  NN --> spanking
+1  NN --> spare
+1  NN --> sparrow
+1  NN --> speaker
+1  NN --> spike
+1  NN --> spill
+1  NN --> spine
+1  NN --> spit
+1  NN --> spitter
+1  NN --> spoke
+1  NN --> spout
+1  NN --> spyglass
+1  NN --> squabble
+1  NN --> squeal
+1  NN --> squealer
+1  NN --> squeeze
+1  NN --> squeezer
+1  NN --> squirmer
+1  NN --> squirt
+1  NN --> stain
+1  NN --> stander
+1  NN --> stapler
+1  NN --> starter
+1  NN --> steamroller
+1  NN --> stereo
+1  NN --> sticky
+1  NN --> stile
+1  NN --> stole
+1  NN --> stomachache
+1  NN --> strand
+1  NN --> stranger
+1  NN --> stress
+1  NN --> strike
+1  NN --> striptease
+1  NN --> stubborn
+1  NN --> stump
+1  NN --> stylus
+1  NN --> subject
+1  NN --> substance
+1  NN --> sucker
+1  NN --> sud
+1  NN --> suicide
+1  NN --> summary
+1  NN --> summertime
+1  NN --> sunbath
+1  NN --> sundae
+1  NN --> sunflower
+1  NN --> sunroof
+1  NN --> sunset
+1  NN --> supermarket
+1  NN --> support
+1  NN --> surface
+1  NN --> survey
+1  NN --> swarm
+1  NN --> sweaty
+1  NN --> sweep
+1  NN --> sweetheart
+1  NN --> sweetness
+1  NN --> swig
+1  NN --> swimmer
+1  NN --> swingset
+1  NN --> switch
+1  NN --> symbol
+1  NN --> sympathy
+1  NN --> syndrome
+1  NN --> syringe
+1  NN --> tablespoon
+1  NN --> taffy
+1  NN --> talker
+1  NN --> tan
+1  NN --> tangerine
+1  NN --> taper
+1  NN --> tassel
+1  NN --> teakettle
+1  NN --> teaser
+1  NN --> teenager
+1  NN --> teepee
+1  NN --> telegraph
+1  NN --> telemarketer
+1  NN --> tender
+1  NN --> terrain
+1  NN --> terrible
+1  NN --> them
+1  NN --> then
+1  NN --> theo
+1  NN --> thermostat
+1  NN --> thorn
+1  NN --> thousand
+1  NN --> thrill
+1  NN --> thrower
+1  NN --> tippytoe
+1  NN --> toad
+1  NN --> toadstool
+1  NN --> toddler
+1  NN --> tomorow
+1  NN --> tone
+1  NN --> tonnie
+1  NN --> toothpick
+1  NN --> toughy
+1  NN --> tour
+1  NN --> tramp
+1  NN --> tranquilizer
+1  NN --> trapeze
+1  NN --> tread
+1  NN --> trial
+1  NN --> trim
+1  NN --> troll
+1  NN --> troop
+1  NN --> trooper
+1  NN --> trot
+1  NN --> tune
+1  NN --> turnover
+1  NN --> turntable
+1  NN --> turquoise
+1  NN --> tutu
+1  NN --> tuv
+1  NN --> twelve
+1  NN --> twin
+1  NN --> twine
+1  NN --> uhoh
+1  NN --> umyumyum
+1  NN --> underdog
+1  NN --> uniform
+1  NN --> union
+1  NN --> up
+1  NN --> ursula
+1  NN --> vaccine
+1  NN --> value
+1  NN --> veggie
+1  NN --> veil
+1  NN --> version
+1  NN --> vessel
+1  NN --> victory
+1  NN --> view
+1  NN --> viewer
+1  NN --> vision
+1  NN --> vulture
+1  NN --> walker
+1  NN --> wallpaper
+1  NN --> warning
+1  NN --> wastepaper
+1  NN --> weapon
+1  NN --> wear
+1  NN --> weasel
+1  NN --> web^page
+1  NN --> webpage
+1  NN --> wednesday
+1  NN --> weed
+1  NN --> west
+1  NN --> whatchu
+1  NN --> whip
+1  NN --> whiz
+1  NN --> whoa
+1  NN --> whole
+1  NN --> whoopsie
+1  NN --> whoosit
+1  NN --> wiggle
+1  NN --> windowsill
+1  NN --> wise
+1  NN --> woodchuck
+1  NN --> workbench
+1  NN --> would
+1  NN --> wreath
+1  NN --> wrecker
+1  NN --> writer
+1  NN --> writeup
+1  NN --> x_ray
+1  NN --> y
+1  NN --> yabba_dabba_doo
+1  NN --> yay
+1  NN --> yearbook
+1  NN --> yours
+1  NN --> yuck
+1  NN --> yuckie
+1  NN --> yum
+1  NN --> zookeeper
+1  NN --> zoomer
+1  NN --> zzz
+1126  NNP --> sarah
+762  NNP --> nina
+735  NNP --> mommy
+719  NNP --> adam
+540  NNP --> child
+531  NNP --> eve
+439  NNP --> daddy
+426  NNP --> joseph
+298  NNP --> chi
+283  NNP --> paul
+222  NNP --> fraser
+218  NNP --> christmas
+211  NNP --> catherine
+178  NNP --> thomas
+174  NNP --> investigator
+157  NNP --> santa_claus
+150  NNP --> nonna
+148  NNP --> nana
+142  NNP --> linda
+142  NNP --> mummy
+140  NNP --> honey
+133  NNP --> papa
+128  NNP --> robin
+123  NNP --> ursula
+115  NNP --> mr
+113  NNP --> theo
+105  NNP --> kent
+105  NNP --> mom
+102  NNP --> maggie
+91  NNP --> observer
+86  NNP --> ann_marie
+84  NNP --> donna
+82  NNP --> snoopy
+82  NNP --> spencer
+78  NNP --> chantilly
+77  NNP --> mama
+75  NNP --> becky
+74  NNP --> gail
+69  NNP --> mrs
+66  NNP --> uncle
+65  NNP --> courtney
+64  NNP --> cromer
+64  NNP --> rachel
+61  NNP --> becca
+60  NNP --> melissa
+60  NNP --> michael
+59  NNP --> sunday
+57  NNP --> band_aid
+57  NNP --> gloria
+56  NNP --> ari
+56  NNP --> miriam
+52  NNP --> auntie
+52  NNP --> halloween
+52  NNP --> millisandy
+51  NNP --> diandra
+50  NNP --> wood
+49  NNP --> justin
+47  NNP --> dolly
+47  NNP --> saturday
+47  NNP --> sweetie
+46  NNP --> david
+46  NNP --> sis
+45  NNP --> leila
+45  NNP --> mary
+45  NNP --> wednesday
+44  NNP --> easter
+44  NNP --> elizabeth
+43  NNP --> bozo
+43  NNP --> brian
+43  NNP --> grandma
+42  NNP --> charlie
+42  NNP --> nonno
+41  NNP --> pierre
+40  NNP --> george
+40  NNP --> marie
+40  NNP --> mike
+39  NNP --> baby
+39  NNP --> bro
+39  NNP --> god
+39  NNP --> momma
+39  NNP --> santa
+38  NNP --> parent
+37  NNP --> sara
+37  NNP --> tommy
+36  NNP --> boston
+36  NNP --> friday
+36  NNP --> peter
+36  NNP --> richard
+34  NNP --> colin
+32  NNP --> barnes
+32  NNP --> betty
+32  NNP --> karen
+31  NNP --> bobby
+31  NNP --> dear
+31  NNP --> grampy
+31  NNP --> joe
+31  NNP --> miss
+30  NNP --> big
+30  NNP --> chatty_baby
+30  NNP --> indian
+30  NNP --> mel
+30  NNP --> monday
+29  NNP --> arthur
+29  NNP --> bird
+29  NNP --> jim
+29  NNP --> nicholas
+29  NNP --> sister
+28  NNP --> aunt_dot
+28  NNP --> beth
+27  NNP --> bam_bam
+27  NNP --> lassie
+27  NNP --> maryse
+26  NNP --> anne
+26  NNP --> mister
+26  NNP --> teddy
+25  NNP --> bob
+25  NNP --> carol
+25  NNP --> tom
+24  NNP --> dad
+24  NNP --> danny
+24  NNP --> georgie
+24  NNP --> humm
+24  NNP --> italy
+24  NNP --> mariana
+24  NNP --> mickey
+24  NNP --> sandra
+23  NNP --> bud
+23  NNP --> california
+23  NNP --> mikey
+23  NNP --> park
+23  NNP --> sesame_street
+22  NNP --> dick
+22  NNP --> easter_bunny
+22  NNP --> erin
+22  NNP --> frank
+22  NNP --> jo_ann
+22  NNP --> mother
+22  NNP --> tuesday
+21  NNP --> barbara
+21  NNP --> ellie
+21  NNP --> flip
+21  NNP --> may
+21  NNP --> nicky
+21  NNP --> smith
+21  NNP --> wellfleet
+20  NNP --> betta
+20  NNP --> blanche
+20  NNP --> bobo
+20  NNP --> ernie
+20  NNP --> jack
+20  NNP --> judy
+20  NNP --> mumma
+20  NNP --> popeye
+20  NNP --> sandy
+19  NNP --> heather
+19  NNP --> tony
+18  NNP --> cambridge
+18  NNP --> francisco
+18  NNP --> fred
+18  NNP --> grammy
+18  NNP --> grandpa
+18  NNP --> jerry
+18  NNP --> july
+18  NNP --> kathy
+18  NNP --> nola
+18  NNP --> san
+17  NNP --> alligator
+17  NNP --> ann
+17  NNP --> bert
+17  NNP --> donny
+17  NNP --> giraffe
+17  NNP --> thursday
+16  NNP --> elaine
+16  NNP --> gilly
+16  NNP --> joey
+16  NNP --> melissi
+16  NNP --> new
+16  NNP --> noah
+16  NNP --> playdough
+16  NNP --> samantha
+16  NNP --> shannon
+16  NNP --> simon
+16  NNP --> tramp
+16  NNP --> wayland
+15  NNP --> amy
+15  NNP --> aunt
+15  NNP --> batman
+15  NNP --> blitzen
+15  NNP --> cathy
+15  NNP --> granny
+15  NNP --> harvard
+15  NNP --> lastname
+15  NNP --> laurie
+15  NNP --> peanut
+15  NNP --> poy
+15  NNP --> sir
+15  NNP --> uncle_tommy
+14  NNP --> arlo
+14  NNP --> cape
+14  NNP --> doctor
+14  NNP --> father
+14  NNP --> goldilocks
+14  NNP --> humpty_dumpty
+14  NNP --> john
+14  NNP --> kirsten
+14  NNP --> p
+14  NNP --> shadow_gay
+14  NNP --> sheryl
+14  NNP --> sweetheart
+14  NNP --> teppy
+13  NNP --> april
+13  NNP --> auntie_marilyn
+13  NNP --> donald
+13  NNP --> emerson
+13  NNP --> esther
+13  NNP --> gary
+13  NNP --> kleenex
+13  NNP --> ma
+13  NNP --> ohio
+13  NNP --> patty
+13  NNP --> rinny
+13  NNP --> scott
+13  NNP --> tarci
+13  NNP --> valentine
+12  NNP --> babar
+12  NNP --> baby_bright
+12  NNP --> bear
+12  NNP --> fizzie
+12  NNP --> gumby
+12  NNP --> hon
+12  NNP --> jill
+12  NNP --> kenny
+12  NNP --> kim
+12  NNP --> laura
+12  NNP --> mot
+12  NNP --> pat
+12  NNP --> scotch
+12  NNP --> street
+12  NNP --> uncle_buster
+11  NNP --> astra
+11  NNP --> babe
+11  NNP --> canada
+11  NNP --> chuck
+11  NNP --> cinderella
+11  NNP --> dr
+11  NNP --> emily
+11  NNP --> helper
+11  NNP --> jeff
+11  NNP --> matthew
+11  NNP --> mcdonald
+11  NNP --> oma
+11  NNP --> providence
+11  NNP --> rudolph
+11  NNP --> ryan
+11  NNP --> tanya
+11  NNP --> wolfie
+11  NNP --> york
+10  NNP --> a
+10  NNP --> biddy
+10  NNP --> billy
+10  NNP --> bunny
+10  NNP --> buster
+10  NNP --> donald_duck
+10  NNP --> dotty
+10  NNP --> eleanor
+10  NNP --> england
+10  NNP --> heidi
+10  NNP --> horsie
+10  NNP --> howard
+10  NNP --> howie
+10  NNP --> jamie
+10  NNP --> jesus
+10  NNP --> jo_anne
+10  NNP --> loop_loop
+10  NNP --> lou
+10  NNP --> mouse
+10  NNP --> popple
+10  NNP --> racketyboom
+10  NNP --> ss
+9  NNP --> alexandra
+9  NNP --> andrew
+9  NNP --> anthony
+9  NNP --> beaver
+9  NNP --> cami
+9  NNP --> chuck_e_cheese
+9  NNP --> cinda
+9  NNP --> cruz
+9  NNP --> debbie
+9  NNP --> dumbo
+9  NNP --> katie
+9  NNP --> kean
+9  NNP --> lisa
+9  NNP --> marion
+9  NNP --> moon
+9  NNP --> nathaniel
+9  NNP --> rangy
+9  NNP --> santa_barbara
+9  NNP --> september
+9  NNP --> seven_up
+9  NNP --> shalom
+9  NNP --> susan
+9  NNP --> tiger
+8  NNP --> baba
+8  NNP --> beatle
+8  NNP --> cheerio
+8  NNP --> craig
+8  NNP --> curious
+8  NNP --> dennis
+8  NNP --> diane
+8  NNP --> eric
+8  NNP --> eskimo
+8  NNP --> hartzell
+8  NNP --> jackie
+8  NNP --> jose
+8  NNP --> julie
+8  NNP --> karl
+8  NNP --> maam
+8  NNP --> madeline
+8  NNP --> minoru
+8  NNP --> new_brunswick
+8  NNP --> pepsi
+8  NNP --> place
+8  NNP --> rudolf
+8  NNP --> sabato
+8  NNP --> sean
+8  NNP --> timmy
+8  NNP --> washington
+8  NNP --> wollensak
+7  NNP --> aimee
+7  NNP --> andreas
+7  NNP --> auntie_gertie
+7  NNP --> bill
+7  NNP --> carmen
+7  NNP --> claus
+7  NNP --> coby
+7  NNP --> cod
+7  NNP --> colleen
+7  NNP --> conner
+7  NNP --> darlene
+7  NNP --> dennison
+7  NNP --> dorothy
+7  NNP --> edith
+7  NNP --> frosty
+7  NNP --> g
+7  NNP --> graham
+7  NNP --> grover
+7  NNP --> huh
+7  NNP --> jenny
+7  NNP --> jessie
+7  NNP --> king
+7  NNP --> lala
+7  NNP --> little
+7  NNP --> macdonald
+7  NNP --> margot
+7  NNP --> mark
+7  NNP --> massachusetts
+7  NNP --> mickey_mouse
+7  NNP --> nancy
+7  NNP --> nanny
+7  NNP --> nikki
+7  NNP --> oscar
+7  NNP --> pebbles
+7  NNP --> rocky
+7  NNP --> ronnie
+7  NNP --> salisbury
+7  NNP --> sesame
+7  NNP --> texas
+7  NNP --> timothy
+7  NNP --> tracy
+6  NNP --> alissa
+6  NNP --> brad
+6  NNP --> brockton
+6  NNP --> burke
+6  NNP --> captain
+6  NNP --> casey
+6  NNP --> celia
+6  NNP --> charles
+6  NNP --> cheryl
+6  NNP --> china
+6  NNP --> christopher
+6  NNP --> city
+6  NNP --> clip_clop
+6  NNP --> disney
+6  NNP --> don
+6  NNP --> duc
+6  NNP --> duchess
+6  NNP --> ears
+6  NNP --> ellen
+6  NNP --> france
+6  NNP --> franky
+6  NNP --> goofy
+6  NNP --> grace
+6  NNP --> guatemala
+6  NNP --> hedda
+6  NNP --> huckleberry
+6  NNP --> inky
+6  NNP --> investigator_one
+6  NNP --> jimmy
+6  NNP --> johnny
+6  NNP --> kit
+6  NNP --> koolade
+6  NNP --> lucky
+6  NNP --> marx
+6  NNP --> maya
+6  NNP --> milkman
+6  NNP --> mimi
+6  NNP --> name
+6  NNP --> nick
+6  NNP --> north
+6  NNP --> olympia
+6  NNP --> paulie
+6  NNP --> piper
+6  NNP --> professor_brown
+6  NNP --> raggedy_ann
+6  NNP --> rick
+6  NNP --> romper_room
+6  NNP --> ruth
+6  NNP --> sky_dart
+6  NNP --> williams
+5  NNP --> anna
+5  NNP --> annie
+5  NNP --> arizona
+5  NNP --> auburn
+5  NNP --> baby_first_step
+5  NNP --> bandaid
+5  NNP --> bell
+5  NNP --> bermuda
+5  NNP --> brother
+5  NNP --> cindy
+5  NNP --> colby
+5  NNP --> cummings
+5  NNP --> doc
+5  NNP --> dylan
+5  NNP --> eileen
+5  NNP --> genie
+5  NNP --> girl
+5  NNP --> gramma
+5  NNP --> gumpy
+5  NNP --> hey
+5  NNP --> homer
+5  NNP --> jason
+5  NNP --> jeep
+5  NNP --> jocko
+5  NNP --> joshua
+5  NNP --> kansas
+5  NNP --> ken
+5  NNP --> le
+5  NNP --> leo
+5  NNP --> lijah
+5  NNP --> lord
+5  NNP --> maine
+5  NNP --> mallein
+5  NNP --> maryanne
+5  NNP --> michele
+5  NNP --> michelle
+5  NNP --> missus
+5  NNP --> nellie
+5  NNP --> nik
+5  NNP --> noel
+5  NNP --> north_carolina
+5  NNP --> nut
+5  NNP --> panama
+5  NNP --> penny_bright
+5  NNP --> pia
+5  NNP --> pop
+5  NNP --> punch
+5  NNP --> ronny
+5  NNP --> san_francisco
+5  NNP --> scooter
+5  NNP --> skipper
+5  NNP --> superman
+5  NNP --> suzanne
+5  NNP --> u
+5  NNP --> white
+5  NNP --> wom
+5  NNP --> yogi_bear
+4  NNP --> aaron
+4  NNP --> abc
+4  NNP --> alexander
+4  NNP --> allen
+4  NNP --> allison
+4  NNP --> auntie_ellie
+4  NNP --> baby_boo
+4  NNP --> bim_bam
+4  NNP --> bingo
+4  NNP --> bonnie_bride
+4  NNP --> boogyman
+4  NNP --> boy
+4  NNP --> brook
+4  NNP --> bruce
+4  NNP --> buba
+4  NNP --> bubba
+4  NNP --> buddy
+4  NNP --> bugs
+4  NNP --> bx
+4  NNP --> captain_kangaroo
+4  NNP --> carney
+4  NNP --> cecelia
+4  NNP --> central
+4  NNP --> chatty
+4  NNP --> coke
+4  NNP --> college
+4  NNP --> crazy_foam
+4  NNP --> dada
+4  NNP --> daisy
+4  NNP --> daniel
+4  NNP --> datsun
+4  NNP --> day
+4  NNP --> debra
+4  NNP --> dot
+4  NNP --> dover
+4  NNP --> duck
+4  NNP --> eliza
+4  NNP --> emory
+4  NNP --> farm
+4  NNP --> february
+4  NNP --> filene
+4  NNP --> florence
+4  NNP --> florida
+4  NNP --> freddy
+4  NNP --> fuzzy_wuzzy
+4  NNP --> g_i_joe
+4  NNP --> germany
+4  NNP --> gigi
+4  NNP --> globe
+4  NNP --> golden_gate_park
+4  NNP --> goldrush
+4  NNP --> gracie
+4  NNP --> grandaddy
+4  NNP --> hall
+4  NNP --> hooper
+4  NNP --> hudson
+4  NNP --> island
+4  NNP --> jacob
+4  NNP --> jake
+4  NNP --> janet
+4  NNP --> janice
+4  NNP --> january
+4  NNP --> jello
+4  NNP --> jennifer
+4  NNP --> june
+4  NNP --> kay
+4  NNP --> kevin
+4  NNP --> kool_aid
+4  NNP --> lamb
+4  NNP --> larry
+4  NNP --> lawny
+4  NNP --> london
+4  NNP --> louise
+4  NNP --> marcia
+4  NNP --> margaret
+4  NNP --> marian
+4  NNP --> mary_poppins
+4  NNP --> mass
+4  NNP --> miss_echo
+4  NNP --> monkey
+4  NNP --> museum
+4  NNP --> pan
+4  NNP --> pembroke
+4  NNP --> piglet
+4  NNP --> pittsburg
+4  NNP --> plymouth
+4  NNP --> pokey
+4  NNP --> poodle
+4  NNP --> pooh
+4  NNP --> popples
+4  NNP --> prince
+4  NNP --> provincetown
+4  NNP --> putnam_avenue
+4  NNP --> quick
+4  NNP --> r
+4  NNP --> rambler
+4  NNP --> ringo
+4  NNP --> robinson
+4  NNP --> rogers
+4  NNP --> rose
+4  NNP --> rosie
+4  NNP --> safari
+4  NNP --> sam
+4  NNP --> santa_cruz
+4  NNP --> santie_claus
+4  NNP --> sheila
+4  NNP --> sing
+4  NNP --> spider
+4  NNP --> spot
+4  NNP --> square
+4  NNP --> sugar_pop
+4  NNP --> t
+4  NNP --> the
+4  NNP --> tickle_baby
+4  NNP --> truro
+4  NNP --> valerie
+4  NNP --> willy
+4  NNP --> wizard
+4  NNP --> yager
+4  NNP --> yaya
+4  NNP --> yogi
+4  NNP --> zayres
+3  NNP --> _island
+3  NNP --> a_and_p
+3  NNP --> abba
+3  NNP --> africa
+3  NNP --> anne_marie
+3  NNP --> auchela
+3  NNP --> august
+3  NNP --> auntie_shirley
+3  NNP --> b
+3  NNP --> ballerina
+3  NNP --> barney
+3  NNP --> beach
+3  NNP --> bible
+3  NNP --> big^bird
+3  NNP --> blue
+3  NNP --> boofoo
+3  NNP --> bugs_bunny
+3  NNP --> burger
+3  NNP --> carl
+3  NNP --> carlos
+3  NNP --> caterpillar
+3  NNP --> chantal
+3  NNP --> chicago
+3  NNP --> chip
+3  NNP --> chrissie
+3  NNP --> christie
+3  NNP --> colorado
+3  NNP --> cone
+3  NNP --> cookie
+3  NNP --> cory
+3  NNP --> cutie
+3  NNP --> dan
+3  NNP --> danielle
+3  NNP --> dave
+3  NNP --> dickie
+3  NNP --> do_you_know
+3  NNP --> dodie
+3  NNP --> dougy
+3  NNP --> dragon
+3  NNP --> ducky
+3  NNP --> dumpty
+3  NNP --> dutch
+3  NNP --> dwinette
+3  NNP --> edna
+3  NNP --> emma
+3  NNP --> english
+3  NNP --> ernest
+3  NNP --> exeter
+3  NNP --> eye
+3  NNP --> fair
+3  NNP --> fat
+3  NNP --> flintstone
+3  NNP --> framingham
+3  NNP --> gilligan
+3  NNP --> gram
+3  NNP --> grand
+3  NNP --> grandfather
+3  NNP --> grandmother
+3  NNP --> grant
+3  NNP --> greenwich
+3  NNP --> gwen
+3  NNP --> hampshire
+3  NNP --> hans
+3  NNP --> hawaii
+3  NNP --> head
+3  NNP --> hippity
+3  NNP --> hippity_hop
+3  NNP --> hound
+3  NNP --> house
+3  NNP --> i
+3  NNP --> inkie
+3  NNP --> israel
+3  NNP --> j
+3  NNP --> jan
+3  NNP --> jane
+3  NNP --> jeanne
+3  NNP --> jeannie
+3  NNP --> jess
+3  NNP --> jessica
+3  NNP --> jingle
+3  NNP --> joann
+3  NNP --> joanne
+3  NNP --> josh
+3  NNP --> julliet
+3  NNP --> karin
+3  NNP --> kathleen
+3  NNP --> kathryn
+3  NNP --> kiddo
+3  NNP --> kimberly
+3  NNP --> kirk
+3  NNP --> lady
+3  NNP --> leone
+3  NNP --> lion
+3  NNP --> lis
+3  NNP --> lovey
+3  NNP --> lucy
+3  NNP --> macaroni
+3  NNP --> madeleine
+3  NNP --> maisie
+3  NNP --> mamma
+3  NNP --> marco
+3  NNP --> marilee
+3  NNP --> mattress
+3  NNP --> melisandy
+3  NNP --> memorial
+3  NNP --> mercurochrome
+3  NNP --> mexican
+3  NNP --> midge
+3  NNP --> monster
+3  NNP --> morgan
+3  NNP --> munchkin
+3  NNP --> nanna
+3  NNP --> neil
+3  NNP --> nelson
+3  NNP --> nursie
+3  NNP --> october
+3  NNP --> old
+3  NNP --> old_lady
+3  NNP --> oldsmobile
+3  NNP --> opa
+3  NNP --> orphan_annie
+3  NNP --> oz
+3  NNP --> peppy
+3  NNP --> peters
+3  NNP --> petunia
+3  NNP --> phil
+3  NNP --> pickle
+3  NNP --> piggywinkle
+3  NNP --> pinnochio
+3  NNP --> playdoh
+3  NNP --> pole
+3  NNP --> polka
+3  NNP --> poppa
+3  NNP --> porgie
+3  NNP --> princess
+3  NNP --> prudential
+3  NNP --> rabbit
+3  NNP --> randolph
+3  NNP --> remy
+3  NNP --> revere
+3  NNP --> rhode
+3  NNP --> richie
+3  NNP --> ring_a_round_a_rosy
+3  NNP --> river
+3  NNP --> robbie
+3  NNP --> robert
+3  NNP --> roland
+3  NNP --> roo
+3  NNP --> saint
+3  NNP --> scituate
+3  NNP --> sears
+3  NNP --> sharon
+3  NNP --> sheba
+3  NNP --> sheeba
+3  NNP --> siamese
+3  NNP --> south
+3  NNP --> spam
+3  NNP --> star
+3  NNP --> steve
+3  NNP --> stooge
+3  NNP --> tallahassee
+3  NNP --> tarce
+3  NNP --> terry
+3  NNP --> time
+3  NNP --> tina
+3  NNP --> tippy
+3  NNP --> uncle_walter
+3  NNP --> university
+3  NNP --> v
+3  NNP --> vicki
+3  NNP --> virginia
+3  NNP --> volkswagen
+3  NNP --> volvo
+3  NNP --> weasel
+3  NNP --> wes
+3  NNP --> zayre
+2  NNP --> adamy
+2  NNP --> adult's-name
+2  NNP --> aid
+2  NNP --> ajax
+2  NNP --> alibabah
+2  NNP --> alston
+2  NNP --> amanda
+2  NNP --> america
+2  NNP --> andy
+2  NNP --> annette
+2  NNP --> arlena
+2  NNP --> arlington
+2  NNP --> auntie_eleanor
+2  NNP --> avenue
+2  NNP --> avon
+2  NNP --> baxter
+2  NNP --> beatrice
+2  NNP --> beauty
+2  NNP --> bee
+2  NNP --> beebee
+2  NNP --> benson
+2  NNP --> blacky
+2  NNP --> bonnie
+2  NNP --> bosa
+2  NNP --> brady
+2  NNP --> brave
+2  NNP --> bren
+2  NNP --> brenda
+2  NNP --> brendan
+2  NNP --> brighams
+2  NNP --> brown
+2  NNP --> brownie
+2  NNP --> bush
+2  NNP --> bye
+2  NNP --> cabbage
+2  NNP --> caca
+2  NNP --> caitlin
+2  NNP --> cameron
+2  NNP --> canobie
+2  NNP --> cat
+2  NNP --> cave
+2  NNP --> center
+2  NNP --> charmingz_chatty
+2  NNP --> cheese
+2  NNP --> chelsea
+2  NNP --> cherry
+2  NNP --> children
+2  NNP --> chinese
+2  NNP --> christine
+2  NNP --> circle
+2  NNP --> clause
+2  NNP --> cleanser
+2  NNP --> coca
+2  NNP --> cocoa
+2  NNP --> cola
+2  NNP --> common
+2  NNP --> connecticut
+2  NNP --> cousin
+2  NNP --> crawl_away_baby
+2  NNP --> cream_o_wheat
+2  NNP --> creepy
+2  NNP --> cristine
+2  NNP --> cross
+2  NNP --> cub_scout
+2  NNP --> dame
+2  NNP --> dawson
+2  NNP --> diddle
+2  NNP --> dina
+2  NNP --> dodge
+2  NNP --> dog
+2  NNP --> doggy
+2  NNP --> ducky_lucky
+2  NNP --> duplo
+2  NNP --> eagle
+2  NNP --> ed
+2  NNP --> elenore
+2  NNP --> elmo
+2  NNP --> elthea
+2  NNP --> elvis
+2  NNP --> erli
+2  NNP --> eva
+2  NNP --> fifi
+2  NNP --> fireman
+2  NNP --> fish
+2  NNP --> fisher
+2  NNP --> flip_flop
+2  NNP --> flipper
+2  NNP --> foxboro
+2  NNP --> friendly
+2  NNP --> fritzi
+2  NNP --> froggy
+2  NNP --> full
+2  NNP --> gene
+2  NNP --> georgia
+2  NNP --> gleason
+2  NNP --> gonzo
+2  NNP --> goose
+2  NNP --> grampa
+2  NNP --> grampie
+2  NNP --> granma
+2  NNP --> grill
+2  NNP --> ground
+2  NNP --> gruyere
+2  NNP --> h
+2  NNP --> harry
+2  NNP --> heart
+2  NNP --> helga
+2  NNP --> hercules
+2  NNP --> herman
+2  NNP --> hershey
+2  NNP --> hokeypokey
+2  NNP --> holland
+2  NNP --> hop
+2  NNP --> horton
+2  NNP --> humpty
+2  NNP --> hurvich
+2  NNP --> jean
+2  NNP --> jesse
+2  NNP --> jinx
+2  NNP --> johnson
+2  NNP --> jordan
+2  NNP --> joyce
+2  NNP --> juanita
+2  NNP --> kangaroo
+2  NNP --> kellogg
+2  NNP --> kentucky
+2  NNP --> kid
+2  NNP --> kiddie
+2  NNP --> knucklehead
+2  NNP --> koolaid
+2  NNP --> kris
+2  NNP --> krystal
+2  NNP --> lake
+2  NNP --> lauper
+2  NNP --> lee
+2  NNP --> legos
+2  NNP --> lenny
+2  NNP --> leon
+2  NNP --> light
+2  NNP --> lily
+2  NNP --> lincoln
+2  NNP --> line
+2  NNP --> louie
+2  NNP --> major
+2  NNP --> man
+2  NNP --> march
+2  NNP --> margareta
+2  NNP --> margie
+2  NNP --> martian
+2  NNP --> mary_ann
+2  NNP --> mcgregor
+2  NNP --> medicare
+2  NNP --> melanie
+2  NNP --> melloan
+2  NNP --> mercedes
+2  NNP --> messy_bessy
+2  NNP --> michigan
+2  NNP --> mighty_mouse
+2  NNP --> miranda
+2  NNP --> mitchell
+2  NNP --> mr.
+2  NNP --> muffet
+2  NNP --> muffin
+2  NNP --> nancy_nurse
+2  NNP --> nardeen
+2  NNP --> natalie
+2  NNP --> nemo
+2  NNP --> night_night_moon
+2  NNP --> norwood
+2  NNP --> nozo
+2  NNP --> nuwevah
+2  NNP --> old_spice
+2  NNP --> oreo
+2  NNP --> owl
+2  NNP --> pacific
+2  NNP --> paula
+2  NNP --> peabody
+2  NNP --> pebble
+2  NNP --> pete
+2  NNP --> phoebe
+2  NNP --> pine
+2  NNP --> pinky
+2  NNP --> pinky^rose
+2  NNP --> pinocchio
+2  NNP --> pledge_allegiance
+2  NNP --> plum_plum
+2  NNP --> pom
+2  NNP --> poopsky
+2  NNP --> poor
+2  NNP --> poor_pony
+2  NNP --> poppins
+2  NNP --> potatohead
+2  NNP --> price
+2  NNP --> procession
+2  NNP --> pumpkin
+2  NNP --> put_put
+2  NNP --> q
+2  NNP --> q_tip
+2  NNP --> queen
+2  NNP --> rachael
+2  NNP --> ranch
+2  NNP --> rand
+2  NNP --> rhonda
+2  NNP --> richardson
+2  NNP --> ricky
+2  NNP --> rin_tin_tin
+2  NNP --> roberts
+2  NNP --> robinhood
+2  NNP --> rock_a_bye
+2  NNP --> roosevelt
+2  NNP --> round
+2  NNP --> roy
+2  NNP --> russ
+2  NNP --> russell
+2  NNP --> sammy
+2  NNP --> sasha
+2  NNP --> school
+2  NNP --> scrambler
+2  NNP --> sec
+2  NNP --> shaggy
+2  NNP --> sheehan
+2  NNP --> shirley
+2  NNP --> shop
+2  NNP --> silly
+2  NNP --> sneezer
+2  NNP --> snow_queen
+2  NNP --> snowman
+2  NNP --> spag
+2  NNP --> sparky
+2  NNP --> squirt
+2  NNP --> st
+2  NNP --> stacie
+2  NNP --> stacy
+2  NNP --> stanley
+2  NNP --> station
+2  NNP --> steven
+2  NNP --> stop
+2  NNP --> stop_and_shop
+2  NNP --> study
+2  NNP --> subaru
+2  NNP --> susanna
+2  NNP --> sweden
+2  NNP --> swiss
+2  NNP --> tammy
+2  NNP --> tante
+2  NNP --> teacher
+2  NNP --> tim
+2  NNP --> ting
+2  NNP --> tinker
+2  NNP --> tinkerbell
+2  NNP --> tressa
+2  NNP --> tressy
+2  NNP --> triangle
+2  NNP --> trouble
+2  NNP --> truck
+2  NNP --> turnpike
+2  NNP --> unc
+2  NNP --> uncle_billy
+2  NNP --> uncle_eddie
+2  NNP --> vicky
+2  NNP --> wilma
+2  NNP --> winnie
+2  NNP --> wolf
+2  NNP --> woman
+2  NNP --> yayee
+2  NNP --> yoni
+2  NNP --> zepher
+2  NNP --> zoltan
+1  NNP --> a_kiss_for_little_bear
+1  NNP --> abbott
+1  NNP --> abyss
+1  NNP --> add_a_scale
+1  NNP --> adele
+1  NNP --> agricultural
+1  NNP --> air_force
+1  NNP --> al
+1  NNP --> alan
+1  NNP --> alf
+1  NNP --> alibaba
+1  NNP --> allendale
+1  NNP --> almanac
+1  NNP --> alright
+1  NNP --> alvin
+1  NNP --> amelia
+1  NNP --> american
+1  NNP --> andra
+1  NNP --> andrea
+1  NNP --> animal
+1  NNP --> apple_jack
+1  NNP --> arnie
+1  NNP --> art
+1  NNP --> arts
+1  NNP --> attydramatic
+1  NNP --> aunt_dottie
+1  NNP --> aunt_ellie
+1  NNP --> auntie_george
+1  NNP --> auntie_marion
+1  NNP --> auntie_patty
+1  NNP --> autrey
+1  NNP --> baa_baa_black_sheep
+1  NNP --> baby_bear
+1  NNP --> baby_crawl_away
+1  NNP --> back
+1  NNP --> balentine
+1  NNP --> bam
+1  NNP --> bambi
+1  NNP --> band
+1  NNP --> barbie
+1  NNP --> barron
+1  NNP --> barry
+1  NNP --> beanstalk
+1  NNP --> beany
+1  NNP --> beatlemania
+1  NNP --> beetle
+1  NNP --> bekaer
+1  NNP --> bellugi
+1  NNP --> benji
+1  NNP --> benton
+1  NNP --> bessie
+1  NNP --> best
+1  NNP --> big_bird
+1  NNP --> billie
+1  NNP --> block
+1  NNP --> boo
+1  NNP --> boo_boo
+1  NNP --> book
+1  NNP --> bookin
+1  NNP --> borax
+1  NNP --> bosco
+1  NNP --> bowl
+1  NNP --> bra
+1  NNP --> bradley
+1  NNP --> bran
+1  NNP --> brendy
+1  NNP --> bridge
+1  NNP --> bridget
+1  NNP --> bridgette
+1  NNP --> bright
+1  NNP --> brittany
+1  NNP --> broadway
+1  NNP --> brontosaurus
+1  NNP --> bruno
+1  NNP --> bryan
+1  NNP --> bu
+1  NNP --> buck
+1  NNP --> bullwinkle
+1  NNP --> bum
+1  NNP --> bunch
+1  NNP --> bundy
+1  NNP --> bunzy_bee
+1  NNP --> c
+1  NNP --> cage
+1  NNP --> campbell
+1  NNP --> canadian
+1  NNP --> canal
+1  NNP --> candy_fashion
+1  NNP --> cane
+1  NNP --> cara
+1  NNP --> carbona
+1  NNP --> care
+1  NNP --> carleton
+1  NNP --> carlisle
+1  NNP --> carolina
+1  NNP --> carposi
+1  NNP --> carrot
+1  NNP --> carter
+1  NNP --> cathernie
+1  NNP --> cecilia
+1  NNP --> centerville
+1  NNP --> cervick
+1  NNP --> chantelle
+1  NNP --> chaplin
+1  NNP --> chatty_baby_brother
+1  NNP --> chatty_brother
+1  NNP --> chester
+1  NNP --> chex
+1  NNP --> chica
+1  NNP --> chicken_little
+1  NNP --> chickie
+1  NNP --> chicky
+1  NNP --> chief
+1  NNP --> chinaman
+1  NNP --> chiny
+1  NNP --> chips
+1  NNP --> chit
+1  NNP --> chocks
+1  NNP --> chocolate
+1  NNP --> chomper
+1  NNP --> chris
+1  NNP --> christ
+1  NNP --> christmastime
+1  NNP --> chronicle
+1  NNP --> church
+1  NNP --> cissy
+1  NNP --> claire
+1  NNP --> class
+1  NNP --> clay
+1  NNP --> clever
+1  NNP --> coco
+1  NNP --> cocoa_crispie
+1  NNP --> cocoa_pop
+1  NNP --> cocoamarsh
+1  NNP --> colonel
+1  NNP --> colorform
+1  NNP --> columbus
+1  NNP --> community
+1  NNP --> company
+1  NNP --> continental
+1  NNP --> cop
+1  NNP --> cora
+1  NNP --> costello
+1  NNP --> count
+1  NNP --> county
+1  NNP --> courteny
+1  NNP --> cow
+1  NNP --> cowboy
+1  NNP --> crayola
+1  NNP --> cream
+1  NNP --> cricket
+1  NNP --> crocodile
+1  NNP --> cronin
+1  NNP --> crosby
+1  NNP --> cuddler
+1  NNP --> cummins
+1  NNP --> cup
+1  NNP --> curtain
+1  NNP --> cynthia
+1  NNP --> cyrus
+1  NNP --> d
+1  NNP --> dammy
+1  NNP --> darleen
+1  NNP --> davy
+1  NNP --> dawna
+1  NNP --> dean
+1  NNP --> deb
+1  NNP --> debbi
+1  NNP --> debby
+1  NNP --> december
+1  NNP --> dee
+1  NNP --> del
+1  NNP --> demi
+1  NNP --> derrik
+1  NNP --> diana
+1  NNP --> dicky
+1  NNP --> dictionary
+1  NNP --> didi
+1  NNP --> digger
+1  NNP --> dika
+1  NNP --> dirty
+1  NNP --> diwentca
+1  NNP --> do_bee
+1  NNP --> doctor_marx
+1  NNP --> doggie
+1  NNP --> dollie
+1  NNP --> donkey
+1  NNP --> donnie
+1  NNP --> dooey
+1  NNP --> doris
+1  NNP --> dottie
+1  NNP --> douglas
+1  NNP --> down
+1  NNP --> dreffel
+1  NNP --> drivas
+1  NNP --> drive
+1  NNP --> driver
+1  NNP --> drowsy
+1  NNP --> drumlin
+1  NNP --> duffy
+1  NNP --> dukakis
+1  NNP --> dustin
+1  NNP --> dynel
+1  NNP --> e
+1  NNP --> earling
+1  NNP --> easter_bunnie
+1  NNP --> easter_rabbit
+1  NNP --> eddie
+1  NNP --> ee_yay_ee_yay_oh
+1  NNP --> eensie
+1  NNP --> egg
+1  NNP --> egyptian_mummy
+1  NNP --> elanie
+1  NNP --> eleanore
+1  NNP --> elephant
+1  NNP --> elf
+1  NNP --> elijah
+1  NNP --> elka
+1  NNP --> elma
+1  NNP --> elmer
+1  NNP --> elsie
+1  NNP --> emmy
+1  NNP --> emry
+1  NNP --> eril
+1  NNP --> eth
+1  NNP --> f
+1  NNP --> faith
+1  NNP --> farmer_in_the_dell
+1  NNP --> feet
+1  NNP --> felix
+1  NNP --> felix_the_cat
+1  NNP --> ferguson
+1  NNP --> ferrari
+1  NNP --> fine
+1  NNP --> finn
+1  NNP --> firstname
+1  NNP --> fitzgerald
+1  NNP --> fitzy
+1  NNP --> fix_it
+1  NNP --> flack
+1  NNP --> flanagan
+1  NNP --> flintstone's
+1  NNP --> flintstones
+1  NNP --> flipflop
+1  NNP --> flupper_nutter
+1  NNP --> foolish_man
+1  NNP --> fox
+1  NNP --> fraggle
+1  NNP --> frankenstein
+1  NNP --> freckle
+1  NNP --> freddie
+1  NNP --> french
+1  NNP --> fruit
+1  NNP --> fruit_loop
+1  NNP --> fudd
+1  NNP --> fudgsicle
+1  NNP --> gammy
+1  NNP --> gap
+1  NNP --> gate
+1  NNP --> gerard
+1  NNP --> german
+1  NNP --> ghostbuster
+1  NNP --> ghostbusters
+1  NNP --> giant
+1  NNP --> gilbert
+1  NNP --> gillian
+1  NNP --> golden
+1  NNP --> goldy
+1  NNP --> goober_peas
+1  NNP --> goodbye
+1  NNP --> goodie
+1  NNP --> googenheimer
+1  NNP --> gordon
+1  NNP --> govenor
+1  NNP --> granpa
+1  NNP --> graves
+1  NNP --> greek
+1  NNP --> green
+1  NNP --> greenville
+1  NNP --> griffith
+1  NNP --> griffiths
+1  NNP --> grimm
+1  NNP --> grm
+1  NNP --> growler
+1  NNP --> gummy
+1  NNP --> happy
+1  NNP --> harvard_square
+1  NNP --> harve
+1  NNP --> harvey
+1  NNP --> he_man
+1  NNP --> heaven
+1  NNP --> hector
+1  NNP --> helen
+1  NNP --> henry
+1  NNP --> herbert
+1  NNP --> hermit
+1  NNP --> hey_diddle_diddle
+1  NNP --> hi
+1  NNP --> hi_c
+1  NNP --> hickey
+1  NNP --> hippity_doo
+1  NNP --> hokey
+1  NNP --> honeybun
+1  NNP --> hood
+1  NNP --> hotel
+1  NNP --> hubbard
+1  NNP --> huey
+1  NNP --> hummburger
+1  NNP --> hump
+1  NNP --> hungary
+1  NNP --> ichabod
+1  NNP --> information
+1  NNP --> instruments
+1  NNP --> inv
+1  NNP --> ireland
+1  NNP --> irene
+1  NNP --> irish
+1  NNP --> iron
+1  NNP --> izzy
+1  NNP --> jack^stone
+1  NNP --> jackson
+1  NNP --> jamaica_way
+1  NNP --> jasmine
+1  NNP --> jeanie
+1  NNP --> jeanine
+1  NNP --> jeffery
+1  NNP --> jeffrey
+1  NNP --> jeremy
+1  NNP --> jim_jump
+1  NNP --> jiminy
+1  NNP --> jo_anna
+1  NNP --> joan
+1  NNP --> jody
+1  NNP --> joey^joe
+1  NNP --> johnny_on_the_spot
+1  NNP --> jones
+1  NNP --> joseph^joseph
+1  NNP --> joseph_p
+1  NNP --> josephine
+1  NNP --> josie
+1  NNP --> junie
+1  NNP --> kahn
+1  NNP --> kanga
+1  NNP --> karate
+1  NNP --> kate
+1  NNP --> katz
+1  NNP --> kayla
+1  NNP --> keller
+1  NNP --> kenna
+1  NNP --> kennan
+1  NNP --> kennedy
+1  NNP --> kennel
+1  NNP --> kenner
+1  NNP --> kildare
+1  NNP --> kiss_for_little_bear
+1  NNP --> kissy
+1  NNP --> kitty
+1  NNP --> kool
+1  NNP --> kristen
+1  NNP --> kristin
+1  NNP --> krueger
+1  NNP --> kyle
+1  NNP --> l
+1  NNP --> la
+1  NNP --> labor
+1  NNP --> lady_bump
+1  NNP --> lalalilk
+1  NNP --> lamby
+1  NNP --> land
+1  NNP --> lauras
+1  NNP --> lauren
+1  NNP --> lead
+1  NNP --> leappad
+1  NNP --> lefty
+1  NNP --> leonard
+1  NNP --> leslie
+1  NNP --> lipton
+1  NNP --> lisette
+1  NNP --> liz
+1  NNP --> lizzie
+1  NNP --> locker
+1  NNP --> lola
+1  NNP --> lolly
+1  NNP --> loop
+1  NNP --> louis
+1  NNP --> louisville
+1  NNP --> love
+1  NNP --> lydia
+1  NNP --> lynnere
+1  NNP --> m
+1  NNP --> m_and_m
+1  NNP --> mabel
+1  NNP --> mackenzie
+1  NNP --> macy
+1  NNP --> mag
+1  NNP --> magazine
+1  NNP --> magazine_beach
+1  NNP --> magnuson
+1  NNP --> mallard
+1  NNP --> mandi
+1  NNP --> maple
+1  NNP --> mar
+1  NNP --> maria
+1  NNP --> mario
+1  NNP --> marks
+1  NNP --> maryann
+1  NNP --> mat
+1  NNP --> mattapan
+1  NNP --> maurine
+1  NNP --> mccarty
+1  NNP --> mcdonalds
+1  NNP --> mcginty
+1  NNP --> mcroth
+1  NNP --> mexico
+1  NNP --> microphone
+1  NNP --> middlesex
+1  NNP --> mighty
+1  NNP --> mighty_white
+1  NNP --> miguel
+1  NNP --> mikie
+1  NNP --> mila
+1  NNP --> miles
+1  NNP --> millisand
+1  NNP --> minnie
+1  NNP --> miss_america
+1  NNP --> missy
+1  NNP --> mobilgas
+1  NNP --> monroe
+1  NNP --> moore
+1  NNP --> motorboat
+1  NNP --> mulligan
+1  NNP --> munch
+1  NNP --> munster
+1  NNP --> mutt
+1  NNP --> my
+1  NNP --> my_three_son
+1  NNP --> n
+1  NNP --> naftali
+1  NNP --> nan
+1  NNP --> nana_gee
+1  NNP --> natick
+1  NNP --> navy
+1  NNP --> ned
+1  NNP --> never_never_land
+1  NNP --> new_york
+1  NNP --> newman
+1  NNP --> ngo
+1  NNP --> nicole
+1  NNP --> niglet
+1  NNP --> nikka
+1  NNP --> nima
+1  NNP --> nissen
+1  NNP --> norm
+1  NNP --> norman
+1  NNP --> north_pole
+1  NNP --> november
+1  NNP --> numinnuma
+1  NNP --> oda
+1  NNP --> old_mac_donald
+1  NNP --> old_macdonald
+1  NNP --> oldz_macdonald
+1  NNP --> olive
+1  NNP --> olly
+1  NNP --> othello
+1  NNP --> p_one
+1  NNP --> pa
+1  NNP --> pachene
+1  NNP --> pancake
+1  NNP --> pap
+1  NNP --> pappa
+1  NNP --> paris
+1  NNP --> parkers
+1  NNP --> pat_a_cake
+1  NNP --> patch
+1  NNP --> patricia
+1  NNP --> pedro
+1  NNP --> pee
+1  NNP --> peekaboo
+1  NNP --> pegleg_pete
+1  NNP --> pennsylvania
+1  NNP --> pepper
+1  NNP --> pepperoncini
+1  NNP --> pepsi_cola
+1  NNP --> perro
+1  NNP --> philip
+1  NNP --> phyllis
+1  NNP --> picnic
+1  NNP --> pin_the_tail_on_the_donkey
+1  NNP --> pineapple_sweet
+1  NNP --> piney
+1  NNP --> pippo
+1  NNP --> pixie
+1  NNP --> play
+1  NNP --> playmate
+1  NNP --> plaza
+1  NNP --> please
+1  NNP --> pluto
+1  NNP --> pokey_wokey
+1  NNP --> pokino
+1  NNP --> polly
+1  NNP --> polo
+1  NNP --> pond
+1  NNP --> pony
+1  NNP --> poo
+1  NNP --> poopah
+1  NNP --> porter
+1  NNP --> power
+1  NNP --> president
+1  NNP --> presley
+1  NNP --> prim
+1  NNP --> psychology
+1  NNP --> puerto
+1  NNP --> pumpkin_peters
+1  NNP --> punkin
+1  NNP --> raf
+1  NNP --> ralphy
+1  NNP --> ration
+1  NNP --> ray
+1  NNP --> razmah
+1  NNP --> razzie
+1  NNP --> red
+1  NNP --> red_is_best
+1  NNP --> reggie
+1  NNP --> reiko
+1  NNP --> renelle
+1  NNP --> rey
+1  NNP --> rhinoceros
+1  NNP --> ricardo
+1  NNP --> ricci
+1  NNP --> rico
+1  NNP --> rifle
+1  NNP --> rob
+1  NNP --> robo
+1  NNP --> rochester
+1  NNP --> rock
+1  NNP --> rock_a_bye_baby
+1  NNP --> rodger
+1  NNP --> roger
+1  NNP --> roll
+1  NNP --> ross
+1  NNP --> rouge
+1  NNP --> roundtree
+1  NNP --> route
+1  NNP --> roxbury
+1  NNP --> rumplestiltskin
+1  NNP --> run
+1  NNP --> ruthie
+1  NNP --> s
+1  NNP --> sab
+1  NNP --> sackville
+1  NNP --> sadie
+1  NNP --> safta
+1  NNP --> sally
+1  NNP --> sambo
+1  NNP --> sander
+1  NNP --> sandman
+1  NNP --> santa_clause
+1  NNP --> satch
+1  NNP --> saturdays
+1  NNP --> scarry
+1  NNP --> schroeder
+1  NNP --> science
+1  NNP --> sergeant
+1  NNP --> seuss
+1  NNP --> seymore
+1  NNP --> shaker
+1  NNP --> shakila
+1  NNP --> shana
+1  NNP --> shay
+1  NNP --> shayla
+1  NNP --> shell
+1  NNP --> shelley
+1  NNP --> shelly
+1  NNP --> shepherd
+1  NNP --> sheriff
+1  NNP --> sherrill
+1  NNP --> sherry
+1  NNP --> shica
+1  NNP --> shindig
+1  NNP --> shiva
+1  NNP --> show
+1  NNP --> show_and_tell
+1  NNP --> sillydilly
+1  NNP --> silvia
+1  NNP --> simeone
+1  NNP --> sippydipper
+1  NNP --> skippy
+1  NNP --> skittle
+1  NNP --> smiler
+1  NNP --> smokey
+1  NNP --> smoky
+1  NNP --> snatch
+1  NNP --> sneaker
+1  NNP --> snow
+1  NNP --> soakie
+1  NNP --> somerville
+1  NNP --> son
+1  NNP --> sony
+1  NNP --> soopie
+1  NNP --> sox
+1  NNP --> spock
+1  NNP --> sprite
+1  NNP --> spuds
+1  NNP --> squash
+1  NNP --> start
+1  NNP --> statue_of_liberty
+1  NNP --> step_in_time
+1  NNP --> stevie
+1  NNP --> stinky
+1  NNP --> stonzo
+1  NNP --> stripey
+1  NNP --> sugar_daddy
+1  NNP --> susie
+1  NNP --> susie_cue
+1  NNP --> sweet
+1  NNP --> sweety
+1  NNP --> swifty
+1  NNP --> switzerland
+1  NNP --> taffy
+1  NNP --> tag
+1  NNP --> tala
+1  NNP --> tan
+1  NNP --> tasha
+1  NNP --> taurus
+1  NNP --> teach
+1  NNP --> technical
+1  NNP --> temptee
+1  NNP --> tequita
+1  NNP --> teresa
+1  NNP --> than
+1  NNP --> the_little_engine_that_could
+1  NNP --> theodore
+1  NNP --> theresa
+1  NNP --> thriller
+1  NNP --> thumbelina
+1  NNP --> tickle
+1  NNP --> tilt_a_whirl
+1  NNP --> tinaka
+1  NNP --> toby
+1  NNP --> tomorrow
+1  NNP --> tootsie
+1  NNP --> toronto
+1  NNP --> tot
+1  NNP --> toto
+1  NNP --> tower
+1  NNP --> toy
+1  NNP --> trimmer
+1  NNP --> trowbridge
+1  NNP --> troy
+1  NNP --> tubbo
+1  NNP --> tumbler
+1  NNP --> tuppy
+1  NNP --> tuv
+1  NNP --> tylenol
+1  NNP --> ub
+1  NNP --> uncle_ernest
+1  NNP --> uncle_georgie
+1  NNP --> uncle_pat
+1  NNP --> uncle_tony
+1  NNP --> underdog
+1  NNP --> utah
+1  NNP --> vaseline
+1  NNP --> vernon
+1  NNP --> vi
+1  NNP --> viki
+1  NNP --> village
+1  NNP --> vinnie
+1  NNP --> vinny
+1  NNP --> vye
+1  NNP --> waffelo
+1  NNP --> wakefield
+1  NNP --> waldo
+1  NNP --> wally
+1  NNP --> walt
+1  NNP --> walt_disney
+1  NNP --> walter
+1  NNP --> waltham
+1  NNP --> waterloo
+1  NNP --> watertown
+1  NNP --> wayne
+1  NNP --> wee
+1  NNP --> weensie
+1  NNP --> wegos
+1  NNP --> weinberger
+1  NNP --> wence
+1  NNP --> westinghouse
+1  NNP --> whisky
+1  NNP --> whoa
+1  NNP --> whosit
+1  NNP --> wiggins
+1  NNP --> wilbur
+1  NNP --> william
+1  NNP --> windy
+1  NNP --> winne_the_pooh
+1  NNP --> winnie^the^pooh
+1  NNP --> wireless
+1  NNP --> wizard_of_oz
+1  NNP --> woosky
+1  NNP --> worcester
+1  NNP --> world
+1  NNP --> wubby
+1  NNP --> y
+1  NNP --> yankee_doodle
+1  NNP --> yolanda
+1  NNP --> yorgenson
+1  NNP --> yours
+1  NNP --> yuna
+1  NNP --> zebra
+1  NNP --> zelda
+1  NNP --> zetor
+1  NNP --> zipper
+1  NNP --> zone
+721  NNS --> those
+563  NNS --> these
+294  NNS --> people
+198  NNS --> feet
+193  NNS --> clothes
+165  NNS --> children
+130  NNS --> teeth
+116  NNS --> pants
+68  NNS --> glasses
+55  NNS --> scissors
+55  NNS --> some
+49  NNS --> stairs
+39  NNS --> men
+35  NNS --> fish
+35  NNS --> yours
+33  NNS --> spaghetti
+15  NNS --> thanks
+10  NNS --> women
+9  NNS --> shorts
+9  NNS --> sunglasses
+8  NNS --> deer
+8  NNS --> mice
+8  NNS --> sheep
+7  NNS --> firemen
+6  NNS --> zucchini
+5  NNS --> tights
+5  NNS --> two
+4  NNS --> macaroni
+4  NNS --> paper
+4  NNS --> snowmen
+4  NNS --> tweezers
+3  NNS --> jeans
+3  NNS --> ravioli
+3  NNS --> tunafish
+2  NNS --> any
+2  NNS --> geese
+2  NNS --> oven
+2  NNS --> policemen
+2  NNS --> sunscreen
+2  NNS --> them
+1  NNS --> a_and_p
+1  NNS --> antennae
+1  NNS --> babytalk
+1  NNS --> binoculars
+1  NNS --> both
+1  NNS --> cacti
+1  NNS --> cattle
+1  NNS --> celery
+1  NNS --> congratulations
+1  NNS --> everybody
+1  NNS --> gentlemen
+1  NNS --> green
+1  NNS --> hi
+1  NNS --> kindergarten
+1  NNS --> meat
+1  NNS --> milkmen
+1  NNS --> more
+1  NNS --> police
+1  NNS --> stuff
+1  NNS --> sweetie
+1  NNS --> there
+1  NNS --> tutu
+1  NNS --> uncle
+1  NNS --> workmen
+1  NNS --> yoyo
+9625  NOT --> n't
+2741  NOT --> not
+19  NOT --> no
+1  NOT --> nu
+537  PDT --> all
+55  PDT --> such
+7  PDT --> half
+2  PDT --> quite
+1  PDT --> both
+1  PDT --> that
+1  PDT --> the
+2128  POS --> 's
+1  POS --> yours
+38810  PRP --> you
+18139  PRP --> it
+13711  PRP --> i
+5935  PRP --> he
+5133  PRP --> we
+4061  PRP --> she
+3702  PRP --> they
+3445  PRP --> me
+2007  PRP --> them
+1593  PRP --> 's
+1478  PRP --> him
+1260  PRP --> her
+227  PRP --> yourself
+226  PRP --> us
+103  PRP --> cha
+49  PRP --> mine
+42  PRP --> yours
+35  PRP --> himself
+34  PRP --> one
+28  PRP --> myself
+15  PRP --> itself
+13  PRP --> herself
+8  PRP --> themselves
+7  PRP --> his
+5  PRP --> hers
+3  PRP --> chu
+3  PRP --> lot
+3  PRP --> ours
+3  PRP --> y'
+3  PRP --> your
+2  PRP --> baby
+2  PRP --> my
+2  PRP --> these
+1  PRP --> both
+1  PRP --> here
+1  PRP --> if
+1  PRP --> jou
+1  PRP --> mama
+1  PRP --> mommy
+1  PRP --> ourselves
+1  PRP --> scoot
+1  PRP --> the
+1  PRP --> there
+1  PRP --> ya
+1  PRP --> yas
+6580  PRP$ --> your
+1795  PRP$ --> my
+1327  PRP$ --> his
+987  PRP$ --> her
+215  PRP$ --> their
+191  PRP$ --> our
+113  PRP$ --> yours
+74  PRP$ --> mine
+26  PRP$ --> its
+14  PRP$ --> hers
+5  PRP$ --> you
+2  PRP$ --> theirs
+1  PRP$ --> 's
+1  PRP$ --> ours
+1  PRP$ --> them
+1  PRP$ --> thy
+3367  PRS --> s
+3550  RB --> here
+2497  RB --> now
+2403  RB --> there
+1712  RB --> just
+1656  RB --> too
+1161  RB --> so
+1108  RB --> right
+1095  RB --> else
+1039  RB --> very
+915  RB --> then
+856  RB --> up
+831  RB --> all
+824  RB --> down
+704  RB --> over
+607  RB --> well
+557  RB --> out
+533  RB --> again
+464  RB --> back
+464  RB --> maybe
+464  RB --> really
+401  RB --> today
+346  RB --> first
+304  RB --> still
+294  RB --> pretty
+267  RB --> only
+250  RB --> around
+247  RB --> yesterday
+243  RB --> better
+237  RB --> yet
+225  RB --> never
+209  RB --> though
+193  RB --> already
+178  RB --> even
+172  RB --> in
+172  RB --> outside
+169  RB --> almost
+163  RB --> ever
+159  RB --> always
+152  RB --> later
+148  RB --> away
+141  RB --> about
+140  RB --> much
+133  RB --> ahead
+131  RB --> probably
+126  RB --> together
+101  RB --> either
+98  RB --> home
+94  RB --> as
+93  RB --> inside
+90  RB --> on
+85  RB --> sometimes
+85  RB --> way
+81  RB --> before
+80  RB --> upstairs
+78  RB --> somewhere
+78  RB --> tonight
+75  RB --> soon
+74  RB --> enough
+74  RB --> once
+73  RB --> far
+73  RB --> usually
+71  RB --> sure
+69  RB --> hard
+67  RB --> ago
+67  RB --> tomorrow
+66  RB --> anyway
+66  RB --> real
+64  RB --> quite
+62  RB --> anymore
+57  RB --> any
+57  RB --> that
+55  RB --> round
+53  RB --> downstairs
+52  RB --> perhaps
+50  RB --> at
+50  RB --> fast
+49  RB --> upside
+47  RB --> not
+46  RB --> actually
+46  RB --> long
+44  RB --> instead
+43  RB --> sometime
+42  RB --> n't
+39  RB --> next
+39  RB --> no
+38  RB --> backwards
+38  RB --> off
+36  RB --> also
+36  RB --> apart
+34  RB --> awfully
+31  RB --> gently
+31  RB --> good
+29  RB --> anywhere
+29  RB --> early
+28  RB --> carefully
+27  RB --> certainly
+25  RB --> of
+23  RB --> rather
+21  RB --> come
+21  RB --> easy
+21  RB --> finally
+20  RB --> late
+20  RB --> straight
+19  RB --> little
+19  RB --> nicely
+18  RB --> close
+18  RB --> exactly
+17  RB --> afterwards
+16  RB --> kind
+15  RB --> along
+15  RB --> lately
+15  RB --> otherwise
+15  RB --> twice
+14  RB --> everywhere
+14  RB --> properly
+14  RB --> quickly
+14  RB --> someday
+13  RB --> tight
+12  RB --> high
+12  RB --> some
+11  RB --> alone
+11  RB --> awful
+11  RB --> indeed
+11  RB --> loud
+10  RB --> easily
+10  RB --> hardly
+10  RB --> through
+9  RB --> across
+9  RB --> hopefully
+9  RB --> quick
+9  RB --> sort
+8  RB --> asleep
+8  RB --> especially
+8  RB --> forth
+8  RB --> forward
+8  RB --> many
+8  RB --> please
+8  RB --> yes
+7  RB --> after
+7  RB --> nice
+7  RB --> often
+7  RB --> particularly
+7  RB --> quietly
+7  RB --> recently
+7  RB --> such
+7  RB --> this
+6  RB --> alright
+6  RB --> backward
+6  RB --> night
+6  RB --> sound
+6  RB --> under
+5  RB --> absolutely
+5  RB --> afterward
+5  RB --> alike
+5  RB --> awhile
+5  RB --> besides
+5  RB --> done
+5  RB --> everytime
+5  RB --> fine
+5  RB --> forever
+5  RB --> further
+5  RB --> like
+5  RB --> mostly
+5  RB --> sideways
+5  RB --> slowly
+4  RB --> both
+4  RB --> clearly
+4  RB --> course
+4  RB --> definitely
+4  RB --> earlier
+4  RB --> great
+4  RB --> honestly
+4  RB --> last
+4  RB --> mm
+4  RB --> more
+4  RB --> neither
+4  RB --> overnight
+4  RB --> possibly
+4  RB --> silly
+4  RB --> slow
+3  RB --> afternoon
+3  RB --> aside
+3  RB --> awake
+3  RB --> badly
+3  RB --> beautifully
+3  RB --> because
+3  RB --> behind
+3  RB --> but
+3  RB --> dark
+3  RB --> left
+3  RB --> morning
+3  RB --> necessarily
+3  RB --> normally
+3  RB --> nowhere
+3  RB --> obviously
+2  RB --> 're
+2  RB --> altogether
+2  RB --> bad
+2  RB --> below
+2  RB --> by
+2  RB --> closer
+2  RB --> completely
+2  RB --> constantly
+2  RB --> directly
+2  RB --> dolly
+2  RB --> doubly
+2  RB --> downtown
+2  RB --> every
+2  RB --> everyday
+2  RB --> extra
+2  RB --> forwards
+2  RB --> funny
+2  RB --> how
+2  RB --> incredibly
+2  RB --> lot
+2  RB --> past
+2  RB --> patiently
+2  RB --> perfectly
+2  RB --> practically
+2  RB --> shortly
+2  RB --> soft
+2  RB --> terribly
+2  RB --> underneath
+2  RB --> unsewn
+2  RB --> wide
+2  RB --> wrong
+1  RB --> aloud
+1  RB --> anytime
+1  RB --> barefoot
+1  RB --> basically
+1  RB --> best
+1  RB --> between
+1  RB --> closely
+1  RB --> correctly
+1  RB --> crackly
+1  RB --> dag
+1  RB --> darn
+1  RB --> dear
+1  RB --> deep
+1  RB --> differently
+1  RB --> each
+1  RB --> easier
+1  RB --> elsewhere
+1  RB --> equally
+1  RB --> evidently
+1  RB --> fairly
+1  RB --> farther
+1  RB --> freely
+1  RB --> freshly
+1  RB --> front
+1  RB --> frontward
+1  RB --> generally
+1  RB --> gentle
+1  RB --> gradually
+1  RB --> greatly
+1  RB --> haha
+1  RB --> half
+1  RB --> halfway
+1  RB --> happily
+1  RB --> hedgehog
+1  RB --> her
+1  RB --> hm
+1  RB --> however
+1  RB --> indoors
+1  RB --> informally
+1  RB --> interchangeably
+1  RB --> intravenously
+1  RB --> kindly
+1  RB --> least
+1  RB --> light
+1  RB --> likely
+1  RB --> meantime
+1  RB --> meanwhile
+1  RB --> mentally
+1  RB --> mighty
+1  RB --> mushy
+1  RB --> naturally
+1  RB --> near
+1  RB --> nearby
+1  RB --> nearly
+1  RB --> neat
+1  RB --> neatly
+1  RB --> north
+1  RB --> op
+1  RB --> outdoors
+1  RB --> partly
+1  RB --> period
+1  RB --> plus
+1  RB --> politely
+1  RB --> prolly
+1  RB --> purposely
+1  RB --> rapidly
+1  RB --> ready
+1  RB --> remarkably
+1  RB --> rid
+1  RB --> safely
+1  RB --> seldom
+1  RB --> side
+1  RB --> simply
+1  RB --> since
+1  RB --> sincerely
+1  RB --> softly
+1  RB --> somehow
+1  RB --> someplace
+1  RB --> sooner
+1  RB --> sorely
+1  RB --> sorry
+1  RB --> soundly
+1  RB --> south
+1  RB --> specially
+1  RB --> steadily
+1  RB --> strong
+1  RB --> suddenly
+1  RB --> surely
+1  RB --> than
+1  RB --> top
+1  RB --> totally
+1  RB --> uhoh
+1  RB --> unbelievably
+1  RB --> unfortunately
+1  RB --> where
+1  RB --> yay
+1  RB --> yo
+147  RBR --> more
+145  RBR --> better
+9  RBR --> closer
+9  RBR --> louder
+8  RBR --> later
+7  RBR --> earlier
+7  RBR --> harder
+6  RBR --> further
+5  RBR --> longer
+4  RBR --> faster
+3  RBR --> farther
+2  RBR --> higher
+2  RBR --> slower
+1  RBR --> best
+1  RBR --> quicker
+1  RBR --> sooner
+1  RBR --> straighter
+1  RBR --> wider
+1  RBR --> worse
+18  RBS --> best
+6  RBS --> least
+6  RBS --> most
+2  RBS --> farthest
+1  RBS --> latest
+1461  RP --> up
+965  RP --> on
+960  RP --> out
+657  RP --> off
+640  RP --> down
+441  RP --> back
+335  RP --> away
+308  RP --> in
+161  RP --> over
+90  RP --> around
+46  RP --> together
+29  RP --> alone
+16  RP --> apart
+12  RP --> along
+10  RP --> open
+8  RP --> by
+8  RP --> home
+3  RP --> there
+2  RP --> through
+1  RP --> about
+1  RP --> ahead
+1  RP --> aside
+1  RP --> behind
+1  RP --> done
+1  RP --> for
+1  RP --> full
+1  RP --> now
+1  RP --> round
+1  RP --> shut
+1  RP --> way
+1  RP --> with
+4371  T --> ed
+12757  TO --> to
+13  TO --> a
+6406  UH --> oh
+3558  UH --> no
+2429  UH --> yeah
+1456  UH --> yes
+1214  UH --> well
+797  UH --> huh
+541  UH --> please
+415  UH --> okay
+343  UH --> hey
+340  UH --> ah
+280  UH --> hi
+197  UH --> hello
+185  UH --> here
+130  UH --> bang
+128  UH --> mm
+123  UH --> uhoh
+99  UH --> there
+99  UH --> uhhuh
+93  UH --> alright
+62  UH --> so
+61  UH --> yep
+59  UH --> boom
+59  UH --> yay
+57  UH --> wow
+49  UH --> uhuh
+47  UH --> whoa
+45  UH --> bye
+42  UH --> mhm
+39  UH --> boy
+38  UH --> boop
+38  UH --> whoops
+37  UH --> yup
+34  UH --> hm
+34  UH --> nope
+33  UH --> oops
+31  UH --> gee
+30  UH --> quack
+29  UH --> oop
+26  UH --> ooh
+25  UH --> boo
+25  UH --> byebye
+24  UH --> hop
+23  UH --> ho
+21  UH --> ding
+20  UH --> yum
+19  UH --> now
+19  UH --> right
+18  UH --> thanks
+16  UH --> doo
+16  UH --> eh
+16  UH --> ow
+15  UH --> dear
+14  UH --> moo
+14  UH --> whee
+14  UH --> whoop
+14  UH --> yuck
+13  UH --> baa
+13  UH --> gobble
+13  UH --> peekaboo
+12  UH --> haha
+12  UH --> squeak
+11  UH --> awoh
+11  UH --> goodbye
+11  UH --> sorry
+10  UH --> my
+10  UH --> op
+10  UH --> shh
+9  UH --> man
+9  UH --> meow
+9  UH --> oink
+9  UH --> ssh
+8  UH --> babye
+8  UH --> crash
+8  UH --> nah
+8  UH --> ruff
+8  UH --> sure
+7  UH --> cough
+7  UH --> hee
+7  UH --> hehe
+7  UH --> like
+7  UH --> num
+7  UH --> nyum
+7  UH --> owie
+7  UH --> ring
+7  UH --> toot
+7  UH --> vroom
+6  UH --> goodness
+6  UH --> heh
+6  UH --> hoo
+6  UH --> kaboom
+6  UH --> knock
+6  UH --> pop
+6  UH --> shoo
+6  UH --> tweet
+6  UH --> whoo
+6  UH --> woo
+6  UH --> yoohoo
+5  UH --> cricket
+5  UH --> gosh
+5  UH --> la
+5  UH --> say
+5  UH --> then
+5  UH --> zoom
+4  UH --> ay
+4  UH --> beep
+4  UH --> bow
+4  UH --> cluck
+4  UH --> dong
+4  UH --> doop
+4  UH --> good
+4  UH --> hahaha
+4  UH --> nay
+4  UH --> ouch
+4  UH --> pbth
+4  UH --> squish
+4  UH --> tickle
+4  UH --> trot
+4  UH --> woof
+4  UH --> yah
+4  UH --> zzz
+3  UH --> ababye
+3  UH --> achoo
+3  UH --> amen
+3  UH --> ba
+3  UH --> chug
+3  UH --> cow
+3  UH --> daddy
+3  UH --> dom
+3  UH --> flap
+3  UH --> fuss
+3  UH --> galumph
+3  UH --> hiss
+3  UH --> hopbang
+3  UH --> koop
+3  UH --> look
+3  UH --> lookit
+3  UH --> mkay
+3  UH --> mmkay
+3  UH --> puff
+3  UH --> really
+3  UH --> shoot
+3  UH --> splash
+3  UH --> squelsh
+3  UH --> sweetie
+3  UH --> voom
+3  UH --> wee
+3  UH --> whiz
+3  UH --> woah
+3  UH --> yucky
+3  UH --> zoop
+2  UH --> actually
+2  UH --> aw
+2  UH --> bjj
+2  UH --> bleh
+2  UH --> blum
+2  UH --> boing
+2  UH --> bonk
+2  UH --> bravo
+2  UH --> bump
+2  UH --> bumpety
+2  UH --> buzz
+2  UH --> cha_cha_cha
+2  UH --> chgchg
+2  UH --> cock_a_doodle_doo
+2  UH --> da_da
+2  UH --> daboo
+2  UH --> diddle
+2  UH --> dingalingaling
+2  UH --> doom
+2  UH --> eee
+2  UH --> eeyaeeyayo
+2  UH --> ew
+2  UH --> gallop
+2  UH --> giddy_up
+2  UH --> golly
+2  UH --> hehehe
+2  UH --> hooray
+2  UH --> hum
+2  UH --> indeed
+2  UH --> neerow
+2  UH --> neigh
+2  UH --> oh_goodness
+2  UH --> oo
+2  UH --> ooboo
+2  UH --> oof
+2  UH --> ouchie
+2  UH --> peep
+2  UH --> rarr
+2  UH --> ribbit
+2  UH --> rmm
+2  UH --> rowr
+2  UH --> sagwa
+2  UH --> sir
+2  UH --> sniff
+2  UH --> squishy
+2  UH --> strum
+2  UH --> though
+2  UH --> ticktock
+2  UH --> tsk
+2  UH --> why
+2  UH --> yo
+2  UH --> youch
+2  UH --> zam
+2  UH --> zoo
+1  UH --> 's
+1  UH --> abl
+1  UH --> aboobooboobooboo
+1  UH --> abootibootiboo
+1  UH --> ahhah
+1  UH --> alra
+1  UH --> argh
+1  UH --> atweet
+1  UH --> baba
+1  UH --> baboom
+1  UH --> behold
+1  UH --> bhoo
+1  UH --> bih
+1  UH --> bingo
+1  UH --> blah
+1  UH --> blech
+1  UH --> bluh
+1  UH --> bo
+1  UH --> bopbobop
+1  UH --> bowwow
+1  UH --> bumbada
+1  UH --> buoydi
+1  UH --> bwa
+1  UH --> bzbzbz
+1  UH --> chg
+1  UH --> clippity
+1  UH --> cloppity
+1  UH --> clump
+1  UH --> crap
+1  UH --> damn
+1  UH --> dingdong
+1  UH --> dodo
+1  UH --> dododo
+1  UH --> dododododo
+1  UH --> ee_yay_ee_yay_oh
+1  UH --> eng
+1  UH --> fine
+1  UH --> giddyup
+1  UH --> god
+1  UH --> goody
+1  UH --> hmmhmmhmmhmmhmmhmm
+1  UH --> hmmts
+1  UH --> hoho
+1  UH --> hohohoho
+1  UH --> honey
+1  UH --> huhoh
+1  UH --> hunhunh
+1  UH --> iiy
+1  UH --> jeez
+1  UH --> joijoiyoiyoyoyoyoyoyoyoyoyoyoyoyoyo
+1  UH --> joseph
+1  UH --> khkhkhkhkh
+1  UH --> kho
+1  UH --> khuh
+1  UH --> khuhkhuhkhuk
+1  UH --> lo
+1  UH --> lumppity
+1  UH --> maam
+1  UH --> mmuhmm
+1  UH --> mmwah
+1  UH --> muedap
+1  UH --> nchoo
+1  UH --> neighehehe
+1  UH --> nuh
+1  UH --> ohohoh
+1  UH --> ohohoho
+1  UH --> oopsala
+1  UH --> oopsie
+1  UH --> oy
+1  UH --> oyoyoyoyoyoyoyoy
+1  UH --> pbthpbthpbth
+1  UH --> pfuhh
+1  UH --> pie
+1  UH --> poo
+1  UH --> presto
+1  UH --> psst
+1  UH --> rearr
+1  UH --> roar
+1  UH --> rrrr
+1  UH --> rum
+1  UH --> rumppity
+1  UH --> see
+1  UH --> shah
+1  UH --> shush
+1  UH --> silliness
+1  UH --> snap
+1  UH --> snort
+1  UH --> surprise
+1  UH --> tee
+1  UH --> thank
+1  UH --> that
+1  UH --> theo
+1  UH --> ting
+1  UH --> too
+1  UH --> tootaloo
+1  UH --> ububububububub
+1  UH --> ugabugabugabuga
+1  UH --> ugh
+1  UH --> uh
+1  UH --> umf
+1  UH --> ummhm
+1  UH --> umumum
+1  UH --> umyumyumyumyum
+1  UH --> umyumyumyumyumyumyum
+1  UH --> unh
+1  UH --> uzzybuzzybuzz
+1  UH --> voop
+1  UH --> welp
+1  UH --> whack
+1  UH --> whshoo
+1  UH --> whu
+1  UH --> woawoawoah
+1  UH --> wooao
+1  UH --> woosh
+1  UH --> wshew
+1  UH --> wup
+1  UH --> yububububububububu
+1  UH --> yucka
+8284  VB --> go
+5276  VB --> do
+3928  VB --> want
+3909  VB --> see
+3302  VB --> put
+3256  VB --> have
+3152  VB --> get
+2966  VB --> look
+2428  VB --> let
+2345  VB --> come
+2263  VB --> know
+2060  VB --> think
+1888  VB --> like
+1791  VB --> eat
+1735  VB --> make
+1618  VB --> say
+1419  VB --> play
+1370  VB --> take
+1168  VB --> tell
+1021  VB --> give
+905  VB --> happen
+838  VB --> sit
+675  VB --> show
+669  VB --> try
+667  VB --> remember
+627  VB --> call
+559  VB --> talk
+540  VB --> find
+536  VB --> hold
+513  VB --> need
+487  VB --> use
+462  VB --> thank
+456  VB --> bring
+449  VB --> read
+423  VB --> sleep
+419  VB --> wear
+385  VB --> watch
+384  VB --> turn
+361  VB --> drink
+356  VB --> wait
+344  VB --> mean
+330  VB --> finish
+329  VB --> fall
+329  VB --> write
+322  VB --> fix
+318  VB --> ask
+317  VB --> open
+311  VB --> help
+303  VB --> draw
+299  VB --> pull
+292  VB --> pick
+289  VB --> push
+283  VB --> keep
+276  VB --> stay
+273  VB --> hear
+269  VB --> stand
+260  VB --> cry
+258  VB --> buy
+256  VB --> work
+253  VB --> hurt
+253  VB --> move
+245  VB --> break
+243  VB --> throw
+233  VB --> leave
+230  VB --> sing
+224  VB --> stop
+223  VB --> cut
+218  VB --> feed
+212  VB --> build
+210  VB --> fit
+210  VB --> start
+207  VB --> jump
+207  VB --> wash
+205  VB --> blow
+205  VB --> suppose
+191  VB --> walk
+187  VB --> touch
+182  VB --> tir
+181  VB --> feel
+180  VB --> run
+167  VB --> close
+166  VB --> cook
+161  VB --> miss
+160  VB --> bite
+157  VB --> love
+156  VB --> swim
+147  VB --> hang
+141  VB --> pretend
+140  VB --> live
+139  VB --> fly
+137  VB --> taste
+135  VB --> knock
+130  VB --> be
+130  VB --> dance
+130  VB --> roll
+128  VB --> stick
+127  VB --> chew
+124  VB --> listen
+118  VB --> spell
+117  VB --> learn
+116  VB --> guess
+115  VB --> catch
+115  VB --> ride
+112  VB --> dress
+112  VB --> got
+110  VB --> color
+110  VB --> drop
+109  VB --> spill
+106  VB --> drive
+105  VB --> hit
+104  VB --> change
+104  VB --> count
+100  VB --> carry
+100  VB --> climb
+99  VB --> hide
+93  VB --> clean
+91  VB --> sound
+90  VB --> bang
+90  VB --> wipe
+85  VB --> shake
+82  VB --> hop
+82  VB --> rain
+79  VB --> kiss
+79  VB --> str
+79  VB --> visit
+77  VB --> hurry
+77  VB --> paint
+77  VB --> tie
+76  VB --> belong
+76  VB --> pour
+74  VB --> forget
+72  VB --> interest
+72  VB --> lie
+70  VB --> cover
+68  VB --> scar
+62  VB --> bet
+62  VB --> check
+62  VB --> crawl
+62  VB --> grow
+62  VB --> wake
+61  VB --> wonder
+60  VB --> spank
+59  VB --> mix
+58  VB --> hug
+57  VB --> reach
+57  VB --> understand
+55  VB --> brush
+55  VB --> dry
+55  VB --> save
+54  VB --> laugh
+53  VB --> excuse
+53  VB --> lose
+52  VB --> pat
+52  VB --> pop
+52  VB --> step
+51  VB --> fold
+51  VB --> mind
+51  VB --> tear
+49  VB --> comb
+49  VB --> share
+48  VB --> chase
+47  VB --> bend
+47  VB --> fight
+47  VB --> name
+47  VB --> tickle
+46  VB --> shut
+45  VB --> excit
+45  VB --> wrap
+44  VB --> burn
+44  VB --> lick
+44  VB --> smell
+43  VB --> bump
+43  VB --> lay
+43  VB --> seem
+43  VB --> set
+42  VB --> bless
+41  VB --> shave
+41  VB --> shoot
+40  VB --> clap
+39  VB --> swing
+39  VB --> yell
+38  VB --> send
+38  VB --> tease
+37  VB --> rip
+37  VB --> squeeze
+37  VB --> teach
+36  VB --> slide
+35  VB --> punch
+34  VB --> dump
+34  VB --> grab
+34  VB --> lift
+34  VB --> rock
+33  VB --> liv
+32  VB --> melt
+32  VB --> squeak
+32  VB --> win
+31  VB --> bounce
+31  VB --> care
+31  VB --> crack
+31  VB --> untie
+30  VB --> meet
+29  VB --> bother
+29  VB --> figure
+29  VB --> fill
+29  VB --> please
+29  VB --> scare
+29  VB --> scratch
+28  VB --> fish
+28  VB --> hammer
+28  VB --> kick
+28  VB --> marry
+28  VB --> park
+28  VB --> smoke
+28  VB --> swimm
+27  VB --> peek
+27  VB --> press
+27  VB --> snap
+26  VB --> believe
+26  VB --> dream
+26  VB --> fool
+26  VB --> spit
+25  VB --> die
+25  VB --> dig
+25  VB --> record
+25  VB --> shop
+25  VB --> worry
+24  VB --> cross
+24  VB --> screw
+24  VB --> sew
+24  VB --> shav
+24  VB --> smile
+23  VB --> attach
+23  VB --> camp
+23  VB --> pay
+23  VB --> ring
+22  VB --> darl
+21  VB --> disappear
+21  VB --> mash
+21  VB --> spin
+20  VB --> answer
+20  VB --> cool
+20  VB --> hope
+20  VB --> match
+20  VB --> peel
+20  VB --> scribble
+20  VB --> stock
+20  VB --> wind
+19  VB --> beat
+19  VB --> choke
+19  VB --> crook
+19  VB --> has
+19  VB --> hook
+19  VB --> kill
+19  VB --> lock
+19  VB --> slip
+18  VB --> erase
+18  VB --> kid
+18  VB --> notice
+18  VB --> splash
+17  VB --> beginn
+17  VB --> serve
+17  VB --> test
+16  VB --> decide
+16  VB --> did
+16  VB --> ic
+16  VB --> invite
+16  VB --> lean
+16  VB --> mess
+16  VB --> straighten
+16  VB --> twist
+16  VB --> unscrew
+16  VB --> warm
+16  VB --> writ
+15  VB --> point
+15  VB --> rake
+15  VB --> ruin
+15  VB --> speak
+15  VB --> spend
+15  VB --> surpris
+15  VB --> swallow
+15  VB --> wish
+14  VB --> bob
+14  VB --> danc
+14  VB --> drip
+14  VB --> end
+14  VB --> land
+14  VB --> plant
+14  VB --> recognize
+14  VB --> snow
+14  VB --> squish
+14  VB --> stretch
+13  VB --> act
+13  VB --> balance
+13  VB --> bath
+13  VB --> crash
+13  VB --> does
+13  VB --> frighten
+13  VB --> lookit
+13  VB --> pack
+13  VB --> poke
+13  VB --> pudd
+13  VB --> rinse
+13  VB --> rub
+13  VB --> scream
+13  VB --> ski
+13  VB --> sort
+13  VB --> tip
+13  VB --> undress
+13  VB --> waste
+13  VB --> wave
+12  VB --> add
+12  VB --> begin
+12  VB --> bleed
+12  VB --> borrow
+12  VB --> confus
+12  VB --> frost
+12  VB --> gett
+12  VB --> iron
+12  VB --> light
+11  VB --> blame
+11  VB --> bury
+11  VB --> button
+11  VB --> chop
+11  VB --> cough
+11  VB --> juggle
+11  VB --> last
+11  VB --> measure
+11  VB --> pinch
+11  VB --> remind
+11  VB --> shampoo
+11  VB --> shrink
+11  VB --> wet
+10  VB --> boil
+10  VB --> bowl
+10  VB --> chirp
+10  VB --> follow
+10  VB --> freeze
+10  VB --> had
+10  VB --> hand
+10  VB --> handle
+10  VB --> mail
+10  VB --> pin
+10  VB --> sell
+10  VB --> spray
+10  VB --> stir
+10  VB --> trip
+10  VB --> unbutton
+10  VB --> yawn
+9  VB --> allow
+9  VB --> bake
+9  VB --> calm
+9  VB --> cuddle
+9  VB --> done
+9  VB --> dunk
+9  VB --> earr
+9  VB --> enjoy
+9  VB --> murder
+9  VB --> nak
+9  VB --> offer
+9  VB --> pass
+9  VB --> prepare
+9  VB --> shovel
+9  VB --> suck
+9  VB --> type
+9  VB --> zip
+9  VB --> zipper
+8  VB --> become
+8  VB --> burp
+8  VB --> cheat
+8  VB --> crowd
+8  VB --> din
+8  VB --> even
+8  VB --> expect
+8  VB --> glue
+8  VB --> march
+8  VB --> practice
+8  VB --> promise
+8  VB --> rac
+8  VB --> roar
+8  VB --> scramble
+8  VB --> shape
+8  VB --> sock
+8  VB --> study
+8  VB --> stuff
+8  VB --> surprise
+8  VB --> trade
+8  VB --> treat
+8  VB --> whine
+7  VB --> amaz
+7  VB --> back
+7  VB --> choose
+7  VB --> curl
+7  VB --> meow
+7  VB --> owe
+7  VB --> print
+7  VB --> rescue
+7  VB --> sail
+7  VB --> se
+7  VB --> shopp
+7  VB --> slow
+7  VB --> smack
+7  VB --> sneeze
+7  VB --> spoil
+7  VB --> steal
+7  VB --> trick
+7  VB --> whisper
+7  VB --> wick
+7  VB --> wiggle
+6  VB --> bark
+6  VB --> clear
+6  VB --> clos
+6  VB --> cost
+6  VB --> drill
+6  VB --> drown
+6  VB --> empty
+6  VB --> examine
+6  VB --> explain
+6  VB --> flash
+6  VB --> float
+6  VB --> fry
+6  VB --> hoe
+6  VB --> imagine
+6  VB --> mark
+6  VB --> marri
+6  VB --> pet
+6  VB --> plug
+6  VB --> protect
+6  VB --> rattle
+6  VB --> relax
+6  VB --> rest
+6  VB --> row
+6  VB --> rush
+6  VB --> sign
+6  VB --> skip
+6  VB --> soak
+6  VB --> stack
+6  VB --> stink
+6  VB --> sweep
+6  VB --> tape
+6  VB --> thanksgiv
+6  VB --> twirl
+6  VB --> water
+6  VB --> wedd
+6  VB --> wreck
+6  VB --> zoom
+5  VB --> 've
+5  VB --> blink
+5  VB --> buckle
+5  VB --> clapp
+5  VB --> click
+5  VB --> concentrate
+5  VB --> connect
+5  VB --> copy
+5  VB --> dial
+5  VB --> disgust
+5  VB --> drum
+5  VB --> entertain
+5  VB --> fake
+5  VB --> fasten
+5  VB --> housekeep
+5  VB --> manage
+5  VB --> matter
+5  VB --> mop
+5  VB --> nibble
+5  VB --> order
+5  VB --> seek
+5  VB --> settle
+5  VB --> sneak
+5  VB --> spread
+5  VB --> sweat
+5  VB --> trace
+4  VB --> 's
+4  VB --> appreciate
+4  VB --> arrive
+4  VB --> been
+4  VB --> behave
+4  VB --> bit
+4  VB --> bow
+4  VB --> breath
+4  VB --> collect
+4  VB --> compare
+4  VB --> complicat
+4  VB --> dare
+4  VB --> decorate
+4  VB --> dip
+4  VB --> drape
+4  VB --> dripp
+4  VB --> drool
+4  VB --> exhaust
+4  VB --> flip
+4  VB --> gallop
+4  VB --> goof
+4  VB --> grind
+4  VB --> growl
+4  VB --> hate
+4  VB --> hunt
+4  VB --> introduce
+4  VB --> knit
+4  VB --> lend
+4  VB --> lightn
+4  VB --> load
+4  VB --> mow
+4  VB --> nip
+4  VB --> outgrow
+4  VB --> oyster
+4  VB --> pardon
+4  VB --> pee
+4  VB --> picture
+4  VB --> realize
+4  VB --> require
+4  VB --> rewind
+4  VB --> scoot
+4  VB --> sharpen
+4  VB --> slap
+4  VB --> split
+4  VB --> stamp
+4  VB --> steer
+4  VB --> store
+4  VB --> switch
+4  VB --> thaw
+4  VB --> tick
+4  VB --> tumble
+4  VB --> untangle
+4  VB --> unwrap
+4  VB --> whistle
+3  VB --> aim
+3  VB --> argue
+3  VB --> attract
+3  VB --> babysit
+3  VB --> barbecue
+3  VB --> block
+3  VB --> bop
+3  VB --> bor
+3  VB --> box
+3  VB --> braid
+3  VB --> bust
+3  VB --> butter
+3  VB --> cause
+3  VB --> clip
+3  VB --> confuse
+3  VB --> convince
+3  VB --> design
+3  VB --> determin
+3  VB --> disappoint
+3  VB --> dott
+3  VB --> face
+3  VB --> frustrat
+3  VB --> gab
+3  VB --> giddyup
+3  VB --> hopp
+3  VB --> improvise
+3  VB --> interrupt
+3  VB --> investigate
+3  VB --> is
+3  VB --> itch
+3  VB --> join
+3  VB --> kidd
+3  VB --> kidnap
+3  VB --> kneel
+3  VB --> leak
+3  VB --> line
+3  VB --> mention
+3  VB --> plan
+3  VB --> plop
+3  VB --> quit
+3  VB --> raise
+3  VB --> relate
+3  VB --> repeat
+3  VB --> saw
+3  VB --> scoop
+3  VB --> ship
+3  VB --> shoo
+3  VB --> smash
+3  VB --> squash
+3  VB --> starve
+3  VB --> sunburn
+3  VB --> sway
+3  VB --> tap
+3  VB --> thanks
+3  VB --> tow
+3  VB --> train
+3  VB --> undo
+3  VB --> unhook
+3  VB --> unpack
+3  VB --> unplug
+3  VB --> unwind
+3  VB --> wander
+3  VB --> weigh
+3  VB --> whack
+3  VB --> worri
+2  VB --> absorb
+2  VB --> adjust
+2  VB --> are
+2  VB --> armor
+2  VB --> arrange
+2  VB --> bak
+2  VB --> balanc
+2  VB --> blast
+2  VB --> bonk
+2  VB --> book
+2  VB --> bread
+2  VB --> breathe
+2  VB --> cancel
+2  VB --> capture
+2  VB --> celebrate
+2  VB --> clobber
+2  VB --> clonke
+2  VB --> complain
+2  VB --> concern
+2  VB --> consider
+2  VB --> continue
+2  VB --> crow
+2  VB --> crunch
+2  VB --> cultur
+2  VB --> darn
+2  VB --> defeat
+2  VB --> discover
+2  VB --> dissolve
+2  VB --> div
+2  VB --> divide
+2  VB --> drag
+2  VB --> drank
+2  VB --> duck
+2  VB --> duckl
+2  VB --> dust
+2  VB --> dye
+2  VB --> explode
+2  VB --> expose
+2  VB --> faint
+2  VB --> fizz
+2  VB --> flap
+2  VB --> flicker
+2  VB --> flop
+2  VB --> fund
+2  VB --> giggle
+2  VB --> gone
+2  VB --> gosh
+2  VB --> groan
+2  VB --> guzzle
+2  VB --> hatch
+2  VB --> head
+2  VB --> heat
+2  VB --> heave
+2  VB --> hid
+2  VB --> hitt
+2  VB --> hum
+2  VB --> ignore
+2  VB --> injure
+2  VB --> intrigue
+2  VB --> jive
+2  VB --> joke
+2  VB --> keel
+2  VB --> lead
+2  VB --> legg
+2  VB --> link
+2  VB --> look_it
+2  VB --> mend
+2  VB --> moo
+2  VB --> mumble
+2  VB --> nos
+2  VB --> organize
+2  VB --> own
+2  VB --> paste
+2  VB --> peck
+2  VB --> pedal
+2  VB --> pile
+2  VB --> pleas
+2  VB --> polish
+2  VB --> poope
+2  VB --> post
+2  VB --> potty
+2  VB --> puff
+2  VB --> purr
+2  VB --> rail
+2  VB --> rearrange
+2  VB --> repair
+2  VB --> replace
+2  VB --> return
+2  VB --> rhyme
+2  VB --> rid
+2  VB --> rise
+2  VB --> rope
+2  VB --> rust
+2  VB --> salute
+2  VB --> sand
+2  VB --> schedule
+2  VB --> school
+2  VB --> scrambl
+2  VB --> seawe
+2  VB --> shine
+2  VB --> shove
+2  VB --> skin
+2  VB --> slam
+2  VB --> slither
+2  VB --> smudge
+2  VB --> smush
+2  VB --> solve
+2  VB --> spot
+2  VB --> squirt
+2  VB --> squooshe
+2  VB --> stain
+2  VB --> stall
+2  VB --> stomp
+2  VB --> strip
+2  VB --> structure
+2  VB --> stuck
+2  VB --> subject
+2  VB --> tangle
+2  VB --> taperecorde
+2  VB --> tempt
+2  VB --> tire
+2  VB --> toot
+2  VB --> top
+2  VB --> transcribe
+2  VB --> translate
+2  VB --> trim
+2  VB --> trust
+2  VB --> tuck
+2  VB --> unbuckle
+2  VB --> usher
+2  VB --> wag
+2  VB --> was
+2  VB --> whirl
+2  VB --> will
+2  VB --> wink
+1  VB --> a
+1  VB --> accept
+1  VB --> ache
+1  VB --> activate
+1  VB --> admire
+1  VB --> advertise
+1  VB --> affect
+1  VB --> age
+1  VB --> aggravate
+1  VB --> agree
+1  VB --> alright
+1  VB --> amus
+1  VB --> annoy
+1  VB --> appear
+1  VB --> assume
+1  VB --> attempt
+1  VB --> avoid
+1  VB --> babble
+1  VB --> bail
+1  VB --> baldie
+1  VB --> band
+1  VB --> base
+1  VB --> bash
+1  VB --> bathe
+1  VB --> bawl
+1  VB --> bib
+1  VB --> bin
+1  VB --> birdfeed
+1  VB --> board
+1  VB --> boat
+1  VB --> break_dance
+1  VB --> bribe
+1  VB --> bulldoze
+1  VB --> bundle
+1  VB --> buzz
+1  VB --> cage
+1  VB --> can
+1  VB --> carb
+1  VB --> chalk
+1  VB --> charge
+1  VB --> cheer
+1  VB --> chip
+1  VB --> chomp
+1  VB --> cloth
+1  VB --> cloud
+1  VB --> cluck
+1  VB --> clutch
+1  VB --> coat
+1  VB --> collapse
+1  VB --> command
+1  VB --> concentrat
+1  VB --> contemplate
+1  VB --> control
+1  VB --> convinc
+1  VB --> corrupt
+1  VB --> counsel
+1  VB --> cradle
+1  VB --> crayon
+1  VB --> create
+1  VB --> creep
+1  VB --> crinkle
+1  VB --> crisp
+1  VB --> crochet
+1  VB --> crumble
+1  VB --> curv
+1  VB --> cutt
+1  VB --> damn
+1  VB --> dangle
+1  VB --> darle
+1  VB --> dash
+1  VB --> deflate
+1  VB --> defrost
+1  VB --> delay
+1  VB --> deprive
+1  VB --> describe
+1  VB --> destroy
+1  VB --> develop
+1  VB --> diaper
+1  VB --> digg
+1  VB --> dirty
+1  VB --> discipline
+1  VB --> discourage
+1  VB --> discuss
+1  VB --> dish
+1  VB --> display
+1  VB --> disturb
+1  VB --> dive
+1  VB --> doin
+1  VB --> dolle
+1  VB --> donate
+1  VB --> double
+1  VB --> doubt
+1  VB --> dribble
+1  VB --> duckle
+1  VB --> electrocute
+1  VB --> embarrass
+1  VB --> encourage
+1  VB --> enlarge
+1  VB --> escape
+1  VB --> excavate
+1  VB --> except
+1  VB --> exclaim
+1  VB --> exist
+1  VB --> explore
+1  VB --> extend
+1  VB --> ey
+1  VB --> fade
+1  VB --> farm
+1  VB --> fashion
+1  VB --> feature
+1  VB --> fell
+1  VB --> fetch
+1  VB --> fire
+1  VB --> firm
+1  VB --> fl
+1  VB --> flatter
+1  VB --> floss
+1  VB --> flow
+1  VB --> flower
+1  VB --> fluff
+1  VB --> flush
+1  VB --> focus
+1  VB --> forbid
+1  VB --> force
+1  VB --> forgive
+1  VB --> format
+1  VB --> foul
+1  VB --> frown
+1  VB --> frustrate
+1  VB --> fuck
+1  VB --> fudge
+1  VB --> funnel
+1  VB --> fuss
+1  VB --> garbl
+1  VB --> garden
+1  VB --> gather
+1  VB --> gave
+1  VB --> goin
+1  VB --> graduate
+1  VB --> grill
+1  VB --> grunt
+1  VB --> gush
+1  VB --> gyp
+1  VB --> hair
+1  VB --> hamper
+1  VB --> hanker
+1  VB --> haunt
+1  VB --> heal
+1  VB --> heel
+1  VB --> hi
+1  VB --> hiccough
+1  VB --> hire
+1  VB --> hoard
+1  VB --> holp
+1  VB --> horn
+1  VB --> hush
+1  VB --> ice
+1  VB --> imitate
+1  VB --> impress
+1  VB --> improve
+1  VB --> inclin
+1  VB --> include
+1  VB --> incriminate
+1  VB --> inherit
+1  VB --> inject
+1  VB --> intend
+1  VB --> invent
+1  VB --> invest
+1  VB --> involve
+1  VB --> irv
+1  VB --> jiggle
+1  VB --> jingle
+1  VB --> joose
+1  VB --> jug
+1  VB --> knead
+1  VB --> knitt
+1  VB --> knot
+1  VB --> lament
+1  VB --> licorice
+1  VB --> limit
+1  VB --> log
+1  VB --> lost
+1  VB --> lower
+1  VB --> lug
+1  VB --> lunch
+1  VB --> made
+1  VB --> magic
+1  VB --> magicke
+1  VB --> mhm
+1  VB --> milk
+1  VB --> min
+1  VB --> misplace
+1  VB --> moan
+1  VB --> mock
+1  VB --> mush
+1  VB --> nam
+1  VB --> nap
+1  VB --> nod
+1  VB --> obey
+1  VB --> observe
+1  VB --> obsess
+1  VB --> occupi
+1  VB --> of
+1  VB --> oil
+1  VB --> operat
+1  VB --> operate
+1  VB --> overlap
+1  VB --> overturn
+1  VB --> paddle
+1  VB --> pan
+1  VB --> party
+1  VB --> patch
+1  VB --> pause
+1  VB --> peep
+1  VB --> pelt
+1  VB --> perk
+1  VB --> pivot
+1  VB --> place
+1  VB --> pledge
+1  VB --> ploope
+1  VB --> plow
+1  VB --> pool
+1  VB --> pout
+1  VB --> prefer
+1  VB --> prepar
+1  VB --> presweetene
+1  VB --> prick
+1  VB --> process
+1  VB --> promenade
+1  VB --> provide
+1  VB --> pry
+1  VB --> pump
+1  VB --> pumpkin
+1  VB --> pushushushushushushush
+1  VB --> putt
+1  VB --> question
+1  VB --> race
+1  VB --> radio
+1  VB --> ration
+1  VB --> receive
+1  VB --> recommend
+1  VB --> recover
+1  VB --> recuperate
+1  VB --> recur
+1  VB --> redirect
+1  VB --> redo
+1  VB --> refer
+1  VB --> regress
+1  VB --> regret
+1  VB --> reheat
+1  VB --> rehook
+1  VB --> reload
+1  VB --> remade
+1  VB --> remove
+1  VB --> rent
+1  VB --> respond
+1  VB --> retire
+1  VB --> reverse
+1  VB --> revive
+1  VB --> ripen
+1  VB --> roast
+1  VB --> rob
+1  VB --> root
+1  VB --> rumble
+1  VB --> rump
+1  VB --> runn
+1  VB --> satisfy
+1  VB --> sav
+1  VB --> scent
+1  VB --> scooch
+1  VB --> score
+1  VB --> scram
+1  VB --> scrape
+1  VB --> screech
+1  VB --> scrub
+1  VB --> seal
+1  VB --> second
+1  VB --> separate
+1  VB --> sever
+1  VB --> shell
+1  VB --> shift
+1  VB --> shit
+1  VB --> shiver
+1  VB --> shorten
+1  VB --> side
+1  VB --> sink
+1  VB --> sitt
+1  VB --> skate
+1  VB --> skinn
+1  VB --> skitch
+1  VB --> skritch
+1  VB --> slant
+1  VB --> slash
+1  VB --> slop
+1  VB --> smarten
+1  VB --> smok
+1  VB --> smooshe
+1  VB --> smushe
+1  VB --> snarl
+1  VB --> snowball
+1  VB --> soap
+1  VB --> sockie
+1  VB --> sparkle
+1  VB --> spe
+1  VB --> speed
+1  VB --> spike
+1  VB --> spilt
+1  VB --> spinn
+1  VB --> spitt
+1  VB --> sponsor
+1  VB --> sprinkl
+1  VB --> sprinkle
+1  VB --> squelsh
+1  VB --> squoose
+1  VB --> squoosh
+1  VB --> staple
+1  VB --> startl
+1  VB --> steam
+1  VB --> strap
+1  VB --> stress
+1  VB --> strike
+1  VB --> strut
+1  VB --> stutter
+1  VB --> sugar
+1  VB --> suggest
+1  VB --> swap
+1  VB --> swear
+1  VB --> swipe
+1  VB --> swish
+1  VB --> syringe
+1  VB --> tackle
+1  VB --> talent
+1  VB --> technicolor
+1  VB --> threaten
+1  VB --> thrill
+1  VB --> thunder
+1  VB --> tickl
+1  VB --> tilt
+1  VB --> tim
+1  VB --> tramp
+1  VB --> trap
+1  VB --> triede
+1  VB --> tumbl
+1  VB --> unlock
+1  VB --> unravel
+1  VB --> unsnap
+1  VB --> unsticke
+1  VB --> unstitch
+1  VB --> unstuck
+1  VB --> unsupervis
+1  VB --> untwist
+1  VB --> unzip
+1  VB --> us
+1  VB --> vacuum
+1  VB --> velcro
+1  VB --> vex
+1  VB --> videotape
+1  VB --> vomit
+1  VB --> wallop
+1  VB --> waltz
+1  VB --> warp
+1  VB --> weakle
+1  VB --> weed
+1  VB --> weep
+1  VB --> weight
+1  VB --> wheelbarrow
+1  VB --> whip
+1  VB --> whipp
+1  VB --> wobble
+1  VB --> wrack
+1  VB --> wrestle
+1  VB --> wriggle
+1  VB --> wrinkl
+1  VB --> wunne
+1  VB --> yeah
+1  VB --> zap
+1  VB --> zzz
+978  VBD --> got
+567  VBD --> had
+565  VBD --> went
+490  VBD --> said
+455  VBD --> did
+277  VBD --> gave
+277  VBD --> thought
+237  VBD --> saw
+236  VBD --> came
+226  VBD --> made
+220  VBD --> put
+203  VBD --> fell
+190  VBD --> took
+152  VBD --> told
+126  VBD --> forgot
+122  VBD --> brought
+112  VBD --> ate
+107  VBD --> broke
+105  VBD --> found
+94  VBD --> bought
+76  VBD --> sent
+70  VBD --> left
+64  VBD --> knew
+60  VBD --> heard
+50  VBD --> lost
+44  VBD --> hit
+41  VBD --> threw
+35  VBD --> hurt
+32  VBD --> caught
+28  VBD --> ran
+28  VBD --> won
+24  VBD --> cut
+23  VBD --> wrote
+22  VBD --> drew
+20  VBD --> read
+20  VBD --> taught
+19  VBD --> sat
+19  VBD --> woke
+16  VBD --> kept
+15  VBD --> bit
+15  VBD --> flew
+15  VBD --> let
+14  VBD --> rode
+13  VBD --> drank
+13  VBD --> meant
+13  VBD --> met
+13  VBD --> was
+12  VBD --> slept
+11  VBD --> wore
+10  VBD --> sang
+10  VBD --> stuck
+10  VBD --> tore
+9  VBD --> blew
+9  VBD --> built
+9  VBD --> paid
+8  VBD --> held
+8  VBD --> hid
+7  VBD --> drove
+7  VBD --> shut
+6  VBD --> come
+6  VBD --> were
+5  VBD --> dug
+5  VBD --> grew
+5  VBD --> rang
+5  VBD --> stood
+4  VBD --> became
+4  VBD --> hung
+4  VBD --> slid
+3  VBD --> began
+3  VBD --> fit
+3  VBD --> lit
+3  VBD --> shot
+3  VBD --> sold
+3  VBD --> spent
+3  VBD --> stole
+3  VBD --> swam
+3  VBD --> swung
+2  VBD --> beat
+2  VBD --> bent
+2  VBD --> cost
+2  VBD --> shook
+2  VBD --> snuck
+2  VBD --> wound
+1  VBD --> been
+1  VBD --> bet
+1  VBD --> burnt
+1  VBD --> burst
+1  VBD --> dididit
+1  VBD --> done
+1  VBD --> dove
+1  VBD --> drunk
+1  VBD --> felt
+1  VBD --> fought
+1  VBD --> froze
+1  VBD --> laid
+1  VBD --> lay
+1  VBD --> led
+1  VBD --> mean
+1  VBD --> misunderstood
+1  VBD --> outgrew
+1  VBD --> quit
+1  VBD --> shrank
+1  VBD --> shrunk
+1  VBD --> spoke
+1  VBD --> stop
+1  VBD --> struck
+1  VBD --> stung
+1  VBD --> swept
+1  VBD --> take
+1  VBD --> understood
+1  VBD --> unmade
+1  VBD --> unwound
+1  VBD --> wet
+49  VBG --> building
+1  VBG --> comin
+1  VBG --> done
+1  VBG --> give
+1  VBG --> put
+1  VBG --> sting
+1  VBG --> strung
+497  VBN --> got
+175  VBN --> gone
+171  VBN --> seen
+105  VBN --> done
+91  VBN --> made
+66  VBN --> broken
+66  VBN --> stuck
+61  VBN --> had
+41  VBN --> hurt
+35  VBN --> cut
+33  VBN --> been
+33  VBN --> left
+31  VBN --> lost
+31  VBN --> put
+24  VBN --> taken
+19  VBN --> come
+18  VBN --> heard
+13  VBN --> caught
+12  VBN --> gotten
+11  VBN --> born
+10  VBN --> eaten
+10  VBN --> torn
+7  VBN --> found
+7  VBN --> grown
+7  VBN --> set
+7  VBN --> told
+7  VBN --> worn
+6  VBN --> bought
+6  VBN --> held
+6  VBN --> said
+5  VBN --> brought
+5  VBN --> built
+5  VBN --> forgotten
+5  VBN --> given
+5  VBN --> hit
+5  VBN --> written
+4  VBN --> known
+4  VBN --> met
+4  VBN --> read
+4  VBN --> shrunk
+4  VBN --> thought
+4  VBN --> thrown
+3  VBN --> burnt
+3  VBN --> kept
+3  VBN --> run
+3  VBN --> stung
+2  VBN --> bent
+2  VBN --> bitten
+2  VBN --> blown
+2  VBN --> frozen
+2  VBN --> hidden
+2  VBN --> laid
+2  VBN --> shot
+2  VBN --> sung
+2  VBN --> understood
+2  VBN --> wound
+1  VBN --> beat
+1  VBN --> become
+1  VBN --> bit
+1  VBN --> bled
+1  VBN --> clean
+1  VBN --> dead
+1  VBN --> drawn
+1  VBN --> dress
+1  VBN --> drunk
+1  VBN --> felt
+1  VBN --> fit
+1  VBN --> flown
+1  VBN --> hung
+1  VBN --> meant
+1  VBN --> mistaken
+1  VBN --> outgrown
+1  VBN --> pet
+1  VBN --> ridden
+1  VBN --> sent
+1  VBN --> sewn
+1  VBN --> shown
+1  VBN --> sold
+1  VBN --> spit
+1  VBN --> stolen
+1  VBN --> sunscreen
+1  VBN --> suppose
+1  VBN --> taught
+1  VBN --> tore
+1  VBN --> went
+1  VBN --> woken
+1037  VBP --> know
+1025  VBP --> think
+795  VBP --> want
+765  VBP --> have
+498  VBP --> go
+355  VBP --> see
+338  VBP --> like
+249  VBP --> do
+182  VBP --> guess
+174  VBP --> get
+174  VBP --> need
+170  VBP --> look
+170  VBP --> put
+166  VBP --> thank
+108  VBP --> mean
+92  VBP --> say
+88  VBP --> eat
+87  VBP --> bet
+85  VBP --> come
+69  VBP --> make
+65  VBP --> take
+63  VBP --> remember
+56  VBP --> tell
+55  VBP --> love
+52  VBP --> hope
+51  VBP --> play
+37  VBP --> sit
+32  VBP --> keep
+31  VBP --> call
+31  VBP --> turn
+30  VBP --> wonder
+28  VBP --> stay
+28  VBP --> try
+25  VBP --> hold
+25  VBP --> use
+24  VBP --> give
+24  VBP --> hate
+24  VBP --> live
+24  VBP --> suppose
+23  VBP --> push
+22  VBP --> finish
+22  VBP --> hear
+21  VBP --> talk
+20  VBP --> got
+20  VBP --> grow
+19  VBP --> wish
+18  VBP --> open
+17  VBP --> find
+17  VBP --> let
+17  VBP --> show
+17  VBP --> write
+16  VBP --> fall
+14  VBP --> leave
+14  VBP --> stand
+13  VBP --> drink
+13  VBP --> start
+13  VBP --> throw
+12  VBP --> feel
+12  VBP --> fit
+12  VBP --> pick
+12  VBP --> roll
+12  VBP --> wear
+11  VBP --> break
+11  VBP --> miss
+11  VBP --> seem
+11  VBP --> sing
+11  VBP --> sound
+11  VBP --> wash
+10  VBP --> move
+9  VBP --> cut
+9  VBP --> forget
+9  VBP --> pull
+9  VBP --> walk
+9  VBP --> watch
+8  VBP --> draw
+8  VBP --> fold
+8  VBP --> read
+8  VBP --> stop
+8  VBP --> taste
+7  VBP --> ask
+7  VBP --> blow
+7  VBP --> catch
+7  VBP --> close
+7  VBP --> cook
+7  VBP --> has
+7  VBP --> run
+7  VBP --> swim
+6  VBP --> help
+6  VBP --> hit
+6  VBP --> hurt
+6  VBP --> laugh
+6  VBP --> mix
+6  VBP --> punch
+6  VBP --> ride
+6  VBP --> smell
+5  VBP --> belong
+5  VBP --> bring
+5  VBP --> change
+5  VBP --> fix
+5  VBP --> imagine
+5  VBP --> learn
+5  VBP --> lose
+5  VBP --> sleep
+5  VBP --> tickle
+5  VBP --> wait
+5  VBP --> win
+5  VBP --> work
+4  VBP --> believe
+4  VBP --> build
+4  VBP --> buy
+4  VBP --> cheat
+4  VBP --> chew
+4  VBP --> crawl
+4  VBP --> dance
+4  VBP --> drive
+4  VBP --> drop
+4  VBP --> dump
+4  VBP --> feed
+4  VBP --> fly
+4  VBP --> jump
+4  VBP --> promise
+4  VBP --> shave
+4  VBP --> squeeze
+4  VBP --> step
+4  VBP --> swing
+3  VBP --> behave
+3  VBP --> bless
+3  VBP --> bounce
+3  VBP --> climb
+3  VBP --> comb
+3  VBP --> does
+3  VBP --> doubt
+3  VBP --> dry
+3  VBP --> end
+3  VBP --> knock
+3  VBP --> pour
+3  VBP --> row
+3  VBP --> sell
+3  VBP --> shut
+3  VBP --> slide
+3  VBP --> spend
+3  VBP --> spit
+3  VBP --> touch
+3  VBP --> wake
+3  VBP --> wipe
+2  VBP --> become
+2  VBP --> begin
+2  VBP --> bite
+2  VBP --> care
+2  VBP --> carry
+2  VBP --> chase
+2  VBP --> choke
+2  VBP --> chop
+2  VBP --> clap
+2  VBP --> cough
+2  VBP --> cry
+2  VBP --> dress
+2  VBP --> float
+2  VBP --> hatch
+2  VBP --> kick
+2  VBP --> kiss
+2  VBP --> lay
+2  VBP --> light
+2  VBP --> meet
+2  VBP --> offer
+2  VBP --> paint
+2  VBP --> please
+2  VBP --> poke
+2  VBP --> pop
+2  VBP --> press
+2  VBP --> recognize
+2  VBP --> refer
+2  VBP --> rip
+2  VBP --> rush
+2  VBP --> screw
+2  VBP --> sharpen
+2  VBP --> shoot
+2  VBP --> spell
+2  VBP --> stick
+2  VBP --> stuff
+2  VBP --> swam
+2  VBP --> tear
+2  VBP --> test
+2  VBP --> unbuckle
+2  VBP --> understand
+2  VBP --> weigh
+2  VBP --> wind
+1  VBP --> 've
+1  VBP --> act
+1  VBP --> answer
+1  VBP --> assume
+1  VBP --> bang
+1  VBP --> be
+1  VBP --> borrow
+1  VBP --> bowl
+1  VBP --> bribe
+1  VBP --> bump
+1  VBP --> burp
+1  VBP --> choose
+1  VBP --> clean
+1  VBP --> cost
+1  VBP --> count
+1  VBP --> cover
+1  VBP --> crack
+1  VBP --> crunch
+1  VBP --> dash
+1  VBP --> dial
+1  VBP --> die
+1  VBP --> dillydally
+1  VBP --> disappear
+1  VBP --> drag
+1  VBP --> drank
+1  VBP --> dream
+1  VBP --> drown
+1  VBP --> dust
+1  VBP --> echo
+1  VBP --> enjoy
+1  VBP --> expect
+1  VBP --> fight
+1  VBP --> figure
+1  VBP --> fill
+1  VBP --> fish
+1  VBP --> foot
+1  VBP --> grab
+1  VBP --> growl
+1  VBP --> guarantee
+1  VBP --> hide
+1  VBP --> hole
+1  VBP --> hop
+1  VBP --> hush
+1  VBP --> intend
+1  VBP --> interpret
+1  VBP --> kid
+1  VBP --> ladybug
+1  VBP --> latch
+1  VBP --> lie
+1  VBP --> lift
+1  VBP --> lock
+1  VBP --> lug
+1  VBP --> manage
+1  VBP --> march
+1  VBP --> mark
+1  VBP --> mine
+1  VBP --> name
+1  VBP --> notice
+1  VBP --> own
+1  VBP --> pack
+1  VBP --> paste
+1  VBP --> pay
+1  VBP --> pee
+1  VBP --> peek
+1  VBP --> peekaboo
+1  VBP --> pin
+1  VBP --> place
+1  VBP --> point
+1  VBP --> powder
+1  VBP --> praise
+1  VBP --> pray
+1  VBP --> prefer
+1  VBP --> prepare
+1  VBP --> progress
+1  VBP --> reach
+1  VBP --> return
+1  VBP --> rock
+1  VBP --> rub
+1  VBP --> save
+1  VBP --> scoot
+1  VBP --> scratch
+1  VBP --> scream
+1  VBP --> scribble
+1  VBP --> serve
+1  VBP --> set
+1  VBP --> shake
+1  VBP --> shine
+1  VBP --> shovel
+1  VBP --> slice
+1  VBP --> smack
+1  VBP --> snap
+1  VBP --> sneeze
+1  VBP --> spank
+1  VBP --> spill
+1  VBP --> splash
+1  VBP --> split
+1  VBP --> spray
+1  VBP --> squash
+1  VBP --> squish
+1  VBP --> stare
+1  VBP --> sting
+1  VBP --> stretch
+1  VBP --> teach
+1  VBP --> tease
+1  VBP --> that
+1  VBP --> tie
+1  VBP --> tire
+1  VBP --> trace
+1  VBP --> trade
+1  VBP --> train
+1  VBP --> twirl
+1  VBP --> twist
+1  VBP --> unopen
+1  VBP --> waste
+1  VBP --> we
+1  VBP --> wiggle
+1  VBP --> wink
+1  VBP --> wrap
+657  VBZ --> has
+539  VBZ --> goes
+130  VBZ --> does
+13  VBZ --> have
+4  VBZ --> drink
+3  VBZ --> fall
+3  VBZ --> pop
+2  VBZ --> 's
+2  VBZ --> feel
+2  VBZ --> were
+1  VBZ --> babytalk
+1  VBZ --> do
+1  VBZ --> get
+1  VBZ --> got
+1  VBZ --> like
+1  VBZ --> put
+1  VBZ --> roll
+1  VBZ --> sloth
+1  VBZ --> thank
+1  VBZ --> was
+1  VBZ --> washcloth
+936  WDT --> what
+385  WDT --> which
+164  WDT --> that
+11  WDT --> whatever
+3  WDT --> whichever
+18809  WP --> what
+2509  WP --> who
+522  WP --> that
+41  WP --> which
+34  WP --> whom
+11  WP --> whatever
+5  WP --> where
+3  WP --> whoever
+1  WP --> whomever
+175  WP$ --> whose
+4249  WRB --> where
+2380  WRB --> how
+1457  WRB --> why
+1291  WRB --> when
+7  WRB --> whenever
+1  WRB --> however
+1  WRB --> that
+1  WRB --> what
+1  WRB --> wherever
