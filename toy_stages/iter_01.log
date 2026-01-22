@@ -1,0 +1,5 @@
+# rule_bias_default (-a) = 0, stoptol (-s) = 1e-07, minruleprob (-p) = 0, maxlen (-l) = 0, minits (-m) = 0, maxits = (-n) = 1, annealstart (-b) = 1, annealstop (-B) = 1, nanneal (-N) = 0, jitter0 (-j) = 0, jitter (-J) = 0, VariationalBayes (-V) = 1, wordscale (-W) = 1000, randseed (-S) = 97, debuglevel (-d) = 1000, nruns (-R) = 1
+# Run 0
+# Iteration	temperature	nrules	-logP	bits/token	iter_min
+0	1	8610 101244 sentences failed to parse	6.44982e+06	107.274	0.0285688
+1	1	8465Assertion failed: (rl), function inside_chart, file expected-counts.c, line 194.

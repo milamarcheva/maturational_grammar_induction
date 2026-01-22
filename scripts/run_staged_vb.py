@@ -134,17 +134,15 @@ def dedupe_rules(rules: Iterable[Rule]) -> List[Rule]:
 
 def split_lexicon(
     rules: List[Rule],
-) -> Tuple[List[Rule], List[Rule], str]:
+) -> List[Rule]:
     if not rules:
         raise SystemExit("No rules found in full grammar.")
-    root_label = rules[0][0]
     nonterminals = {lhs for lhs, _, _ in rules}
-    root_rules = [r for r in rules if r[0] == root_label]
     lex_rules = []
     for lhs, rhs, raw in rules:
         if len(rhs) == 1 and rhs[0] not in nonterminals:
             lex_rules.append((lhs, rhs, raw))
-    return root_rules, lex_rules, root_label
+    return lex_rules
 
 
 def collect_terminals(lex_rules: List[Rule]) -> set[str]:
@@ -158,52 +156,18 @@ def collect_terminals(lex_rules: List[Rule]) -> set[str]:
 def merge_stage(
     stage_rules: List[Rule],
     prev_rules: Optional[List[Rule]],
-    root_rules: List[Rule],
     lex_rules: List[Rule],
-    root_label: str,
 ) -> List[str]:
-    if prev_rules is None:
-        seen = set()
-        lines: List[str] = []
-        for rule in root_rules + stage_rules + lex_rules:
-            rid = rule_id(rule)
-            if rid in seen:
-                continue
-            seen.add(rid)
-            lines.append(rule[2])
-        return lines
-
-    prev_ids = {rule_id(r) for r in prev_rules}
-    prev_root = [r for r in prev_rules if r[0] == root_label]
-    prev_other = [r for r in prev_rules if r[0] != root_label]
-
-    new_stage = [r for r in stage_rules if rule_id(r) not in prev_ids]
-    new_lex = [r for r in lex_rules if rule_id(r) not in prev_ids]
-
-    lines = [r[2] for r in prev_root + prev_other + new_stage + new_lex]
-    return lines
-
-
-def merge_trained_with_carry(
-    carry_rules: List[Rule],
-    trained_rules: List[Rule],
-) -> List[Rule]:
-    trained_map = {rule_id(r): r for r in trained_rules}
-    merged: List[Rule] = []
     seen = set()
-    for rule in carry_rules:
+    lines: List[str] = []
+    base_rules = stage_rules + lex_rules if prev_rules is None else prev_rules + stage_rules
+    for rule in base_rules:
         rid = rule_id(rule)
         if rid in seen:
             continue
         seen.add(rid)
-        merged.append(trained_map.get(rid, rule))
-    for rule in trained_rules:
-        rid = rule_id(rule)
-        if rid in seen:
-            continue
-        seen.add(rid)
-        merged.append(rule)
-    return merged
+        lines.append(rule[2])
+    return lines
 
 
 def prune_rules_missing_rhs(
@@ -246,6 +210,18 @@ def prune_rules_missing_rhs(
     return kept, sorted(missing_syms), dropped_total
 
 
+def order_rules_nonlex_then_lex(rules: List[Rule]) -> List[Rule]:
+    lhs_set = {lhs for lhs, _, _ in rules}
+    nonlex: List[Rule] = []
+    lex: List[Rule] = []
+    for lhs, rhs, raw in rules:
+        if len(rhs) == 1 and rhs[0] not in lhs_set:
+            lex.append((lhs, rhs, raw))
+        else:
+            nonlex.append((lhs, rhs, raw))
+    return nonlex + lex
+
+
 def normalize_rule_line(raw: str, default_bias: float) -> str:
     parts = raw.split()
     if "-->" in parts:
@@ -279,6 +255,7 @@ def apply_avg_weights_for_new_rules(
     init_rules: List[Rule],
     prev_rules: List[Rule],
     lex_rule_ids: Optional[set[Tuple[str, Tuple[str, ...]]]] = None,
+    new_rule_weight: Optional[float] = None,
 ) -> List[str]:
     prev_ids = {rule_id(r) for r in prev_rules}
     avg_weights = avg_weights_by_lhs(prev_rules)
@@ -289,7 +266,10 @@ def apply_avg_weights_for_new_rules(
             if lex_rule_ids and rid in lex_rule_ids:
                 adjusted.append(raw)
                 continue
-            raw = replace_rule_weight(raw, avg_weights.get(lhs, 1.0))
+            if new_rule_weight is not None:
+                raw = replace_rule_weight(raw, new_rule_weight)
+            else:
+                raw = replace_rule_weight(raw, avg_weights.get(lhs, 1.0))
         adjusted.append(raw)
     return adjusted
 
@@ -421,6 +401,15 @@ def main() -> None:
         ),
     )
     ap.add_argument(
+        "--new-rule-weight",
+        type=float,
+        default=None,
+        help=(
+            "Set a fixed weight for rules introduced after stage 1 (default: "
+            "use average per-LHS from the previous stage)."
+        ),
+    )
+    ap.add_argument(
         "--validate-lex",
         action="store_true",
         help=(
@@ -437,7 +426,7 @@ def main() -> None:
     out_dir = Path(args.out_dir) / args.order.replace(",", "_")
 
     full_rules = parse_rules(full_grammar)
-    root_rules, lex_rules, root_label = split_lexicon(full_rules)
+    lex_rules = split_lexicon(full_rules)
     terminals = collect_terminals(lex_rules)
     lex_rule_ids = {rule_id(r) for r in lex_rules}
     yields_counts = read_yield_token_counts(yields_path)
@@ -456,15 +445,14 @@ def main() -> None:
         if not stage_rules:
             raise SystemExit(f"No rules found in stage file: {stage_path}")
 
-        init_lines = merge_stage(
-            stage_rules, prev_rules, root_rules, lex_rules, root_label
-        )
+        init_lines = merge_stage(stage_rules, prev_rules, lex_rules)
         init_rules = parse_rules_from_lines(init_lines)
         if prev_rules is not None:
             init_lines = apply_avg_weights_for_new_rules(
                 init_rules,
                 prev_rules,
                 lex_rule_ids=lex_rule_ids if args.keep_lex else None,
+                new_rule_weight=args.new_rule_weight,
             )
             init_rules = parse_rules_from_lines(init_lines)
         init_rules = dedupe_rules(init_rules)
@@ -482,23 +470,18 @@ def main() -> None:
             init_rules, terminals
         )
         kept_ids = {rule_id(r) for r in pruned_rules}
-        dropped_rules = [r for r in init_rules if rule_id(r) not in kept_ids]
         stage_dir = out_dir / f"{idx:02d}_{stage_name}"
         stage_dir.mkdir(parents=True, exist_ok=True)
         if dropped:
             details = ", ".join(missing_syms[:10])
             more = "..." if len(missing_syms) > 10 else ""
             print(
-                f"[WARN] Dropped {dropped} rules with undefined RHS nonterminals (kept for later): {details}{more}",
+                f"[WARN] Dropped {dropped} rules with undefined RHS nonterminals: {details}{more}",
                 file=sys.stderr,
             )
-            heldout_path = stage_dir / "heldout_rules.lt"
-            heldout_path.write_text(
-                "\n".join(r[2] for r in dropped_rules) + "\n",
-                encoding="utf-8",
-            )
+        ordered_rules = order_rules_nonlex_then_lex(pruned_rules)
         normalized_lines = [
-            normalize_rule_line(r[2], args.bias) for r in pruned_rules
+            normalize_rule_line(r[2], args.bias) for r in ordered_rules
         ]
         init_path = stage_dir / "init_grammar.lt"
         init_path.write_text(
@@ -516,15 +499,8 @@ def main() -> None:
             out_path=out_path,
         )
 
-        trained_rules = parse_rules(out_path)
-        prev_rules = merge_trained_with_carry(init_rules, trained_rules)
-        merged_path = stage_dir / "results_with_heldout.lt"
-        merged_path.write_text(
-            "\n".join(normalize_rule_line(r[2], args.bias) for r in prev_rules)
-            + "\n",
-            encoding="utf-8",
-        )
-        prev_output = merged_path
+        prev_rules = parse_rules(out_path)
+        prev_output = out_path
 
     if prev_output:
         print(f"Final grammar: {prev_output}")

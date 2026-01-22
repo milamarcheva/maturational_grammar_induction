@@ -581,6 +581,10 @@ def tree_spans(
     return spans
 
 
+def unlabeled_spans_from_labeled(spans: set[Tuple[str, int, int]]) -> set[Tuple[int, int]]:
+    return {(start, end) for _, start, end in spans}
+
+
 def safe_div(num: float, denom: float) -> float:
     return num / denom if denom else 0.0
 
@@ -664,6 +668,146 @@ def evaluate(
     }
 
 
+def evaluate_both(
+    sentences: List[str],
+    predicted: List[Optional[Tree]],
+    gold: List[Optional[Tree]],
+    include_preterminals: bool,
+    include_root: bool,
+    progress_every: int = 0,
+) -> dict[str, object]:
+    total_sentences = len(sentences)
+    gold_available = 0
+    pred_available = 0
+    evaluated = 0
+    leaf_mismatch = 0
+
+    total_pred_u = 0
+    total_gold_u = 0
+    total_correct_u = 0
+    exact_match_u = 0
+
+    total_pred_l = 0
+    total_gold_l = 0
+    total_correct_l = 0
+    exact_match_l = 0
+
+    for idx in range(total_sentences):
+        if progress_every > 0:
+            current = idx + 1
+            if current % progress_every == 0 or current == total_sentences:
+                print(f"[progress] eval {current}/{total_sentences}", file=sys.stderr)
+        sent = sentences[idx].strip()
+        if not sent:
+            continue
+        tokens = sent.split()
+
+        gold_tree = gold[idx] if idx < len(gold) else None
+        pred_tree = predicted[idx] if idx < len(predicted) else None
+
+        if gold_tree is not None:
+            gold_available += 1
+        if pred_tree is not None:
+            pred_available += 1
+        if gold_tree is None or pred_tree is None:
+            continue
+
+        if gold_tree.leaves() != tokens or pred_tree.leaves() != tokens:
+            leaf_mismatch += 1
+            continue
+
+        gold_labeled = tree_spans(gold_tree, include_preterminals, include_root, True)
+        pred_labeled = tree_spans(pred_tree, include_preterminals, include_root, True)
+        gold_unlabeled = unlabeled_spans_from_labeled(gold_labeled)
+        pred_unlabeled = unlabeled_spans_from_labeled(pred_labeled)
+
+        total_correct_l += len(gold_labeled & pred_labeled)
+        total_gold_l += len(gold_labeled)
+        total_pred_l += len(pred_labeled)
+        if gold_labeled == pred_labeled:
+            exact_match_l += 1
+
+        total_correct_u += len(gold_unlabeled & pred_unlabeled)
+        total_gold_u += len(gold_unlabeled)
+        total_pred_u += len(pred_unlabeled)
+        if gold_unlabeled == pred_unlabeled:
+            exact_match_u += 1
+
+        evaluated += 1
+
+    def finalize_metrics(
+        total_correct: int,
+        total_pred: int,
+        total_gold: int,
+        exact_match: int,
+    ) -> dict[str, float]:
+        precision = safe_div(total_correct, total_pred)
+        recall = safe_div(total_correct, total_gold)
+        f1 = safe_div(2 * precision * recall, precision + recall)
+        accuracy = safe_div(exact_match, evaluated)
+        return {
+            "precision": precision,
+            "recall": recall,
+            "f1": f1,
+            "accuracy": accuracy,
+            "exact_match": exact_match,
+            "total_pred": total_pred,
+            "total_gold": total_gold,
+            "total_correct": total_correct,
+        }
+
+    return {
+        "total_sentences": total_sentences,
+        "gold_available": gold_available,
+        "pred_available": pred_available,
+        "evaluated": evaluated,
+        "leaf_mismatch": leaf_mismatch,
+        "unlabeled": finalize_metrics(
+            total_correct_u, total_pred_u, total_gold_u, exact_match_u
+        ),
+        "labeled": finalize_metrics(
+            total_correct_l, total_pred_l, total_gold_l, exact_match_l
+        ),
+    }
+
+
+def print_parse_eval(
+    stats: dict[str, object],
+    gold_source: str,
+    cache_path: Optional[Path],
+    cached_predicted: bool,
+    pred_errors: int,
+    pred_no_parse: int,
+    gold_errors: int,
+    gold_no_parse: int,
+    label: Optional[str] = None,
+) -> None:
+    header = "Parse evaluation" if not label else f"Parse evaluation ({label})"
+    print(header)
+    print(f"- sentences: {stats['total_sentences']}")
+    print(f"- gold source: {gold_source}")
+    print(f"- gold parses available: {stats['gold_available']}")
+    print(f"- predicted parses available: {stats['pred_available']}")
+    print(f"- evaluated: {stats['evaluated']}")
+    print("Unlabeled spans")
+    print(f"- exact match accuracy: {stats['unlabeled']['accuracy']:.6f}")
+    print(f"- precision: {stats['unlabeled']['precision']:.6f}")
+    print(f"- recall: {stats['unlabeled']['recall']:.6f}")
+    print(f"- f1: {stats['unlabeled']['f1']:.6f}")
+    print("Labeled spans")
+    print(f"- exact match accuracy: {stats['labeled']['accuracy']:.6f}")
+    print(f"- precision: {stats['labeled']['precision']:.6f}")
+    print(f"- recall: {stats['labeled']['recall']:.6f}")
+    print(f"- f1: {stats['labeled']['f1']:.6f}")
+    print(f"- leaf mismatches: {stats['leaf_mismatch']}")
+    if cache_path and cached_predicted:
+        print(f"- predicted cache: {cache_path}")
+        print(f"- predicted parse errors: n/a, no-parse: {pred_no_parse}")
+    else:
+        print(f"- predicted parse errors: {pred_errors}, no-parse: {pred_no_parse}")
+    print(f"- gold parse errors: {gold_errors}, no-parse: {gold_no_parse}")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(
         description=(
@@ -713,7 +857,7 @@ def main() -> None:
     ap.add_argument(
         "--labeled",
         action="store_true",
-        help="Use labeled spans for parse metrics (default: unlabeled).",
+        help="Deprecated: parse metrics now report both labeled and unlabeled spans.",
     )
     ap.add_argument(
         "--progress-every",
@@ -808,11 +952,15 @@ def main() -> None:
         if (want_parse or want_loglik or args.prune_lexicon) and not sentences:
             raise SystemExit("No sentences found.")
 
-    need_oracle = want_jsd or (want_parse and not args.gold_parses)
-    if want_loglik and args.loglik_grammar == "oracle":
-        need_oracle = True
+    need_oracle_for_parse = want_parse and not args.gold_parses
+    need_oracle_rules = (
+        want_jsd
+        or (want_loglik and args.loglik_grammar == "oracle")
+        or need_oracle_for_parse
+        or (want_parse and args.oracle_grammar is not None)
+    )
 
-    if need_oracle and not args.oracle_grammar:
+    if need_oracle_rules and not args.oracle_grammar:
         raise SystemExit("--oracle-grammar is required for this evaluation.")
 
     induced_path = Path(args.induced_grammar)
@@ -821,7 +969,7 @@ def main() -> None:
         raise SystemExit("No induced grammar rules found.")
 
     oracle_rules = []
-    if need_oracle or want_jsd:
+    if need_oracle_rules:
         oracle_rules = parse_weighted_rules(Path(args.oracle_grammar), args.weight_index)
         if not oracle_rules:
             raise SystemExit("No oracle grammar rules found.")
@@ -909,20 +1057,12 @@ def main() -> None:
                 cache_path.parent.mkdir(parents=True, exist_ok=True)
                 write_parse_records(cache_path, sentences, predicted)
 
-        if args.gold_parses:
-            gold = read_parse_records(Path(args.gold_parses))
-            gold_source = "gold parse file"
-            gold_errors = 0
-            gold_no_parse = 0
-            if len(gold) != len(sentences):
-                print(
-                    f"[WARN] gold parse count ({len(gold)}) != sentence count ({len(sentences)})"
-                )
-        else:
+        eval_jobs = []
+        if args.oracle_grammar:
             if not normalized_decoding_oracle:
                 raise SystemExit("Oracle grammar required to generate gold parses.")
             if processes > 1:
-                gold, gold_errors, gold_no_parse = parse_sentences_parallel(
+                gold_oracle, gold_errors, gold_no_parse = parse_sentences_parallel(
                     normalized_decoding_oracle,
                     args.start_symbol,
                     sentences,
@@ -932,48 +1072,63 @@ def main() -> None:
                 )
             else:
                 oracle_parser = build_parser(normalized_decoding_oracle, args.start_symbol)
-                gold, gold_errors, gold_no_parse = parse_sentences(
+                gold_oracle, gold_errors, gold_no_parse = parse_sentences(
                     oracle_parser,
                     sentences,
                     progress_every=args.progress_every,
                     label="gold",
                 )
-            gold_source = "oracle grammar"
-
-        stats = evaluate(
-            sentences,
-            predicted,
-            gold,
-            include_preterminals=args.include_preterminals,
-            include_root=args.include_root,
-            labeled=args.labeled,
-            progress_every=args.progress_every,
-        )
-
-        print("Parse evaluation")
-        print(f"- sentences: {stats['total_sentences']}")
-        print(f"- gold source: {gold_source}")
-        print(f"- gold parses available: {stats['gold_available']}")
-        print(f"- predicted parses available: {stats['pred_available']}")
-        print(f"- evaluated: {stats['evaluated']}")
-        print(f"- labeled spans: {args.labeled}")
-        print(f"- exact match accuracy: {stats['accuracy']:.6f}")
-        print(f"- precision: {stats['precision']:.6f}")
-        print(f"- recall: {stats['recall']:.6f}")
-        print(f"- f1: {stats['f1']:.6f}")
-        print(f"- leaf mismatches: {stats['leaf_mismatch']}")
-        if cache_path and cached_predicted:
-            print(f"- predicted cache: {cache_path}")
-            print(f"- predicted parse errors: n/a, no-parse: {pred_no_parse}")
-        else:
-            print(
-                f"- predicted parse errors: {pred_errors}, no-parse: {pred_no_parse}"
+            eval_jobs.append(
+                {
+                    "label": "oracle grammar",
+                    "gold": gold_oracle,
+                    "gold_source": "oracle grammar",
+                    "gold_errors": gold_errors,
+                    "gold_no_parse": gold_no_parse,
+                }
             )
+
         if args.gold_parses:
-            print("- gold parse errors: 0, no-parse: 0")
-        else:
-            print(
-                f"- gold parse errors: {gold_errors}, no-parse: {gold_no_parse}"
+            gold_file = read_parse_records(Path(args.gold_parses))
+            gold_errors = 0
+            gold_no_parse = sum(
+                1
+                for sent, tree in zip(sentences, gold_file)
+                if tree is None and sent.strip()
+            )
+            if len(gold_file) != len(sentences):
+                print(
+                    f"[WARN] gold parse count ({len(gold_file)}) != sentence count ({len(sentences)})"
+                )
+            eval_jobs.append(
+                {
+                    "label": "gold parses",
+                    "gold": gold_file,
+                    "gold_source": "gold parse file",
+                    "gold_errors": gold_errors,
+                    "gold_no_parse": gold_no_parse,
+                }
+            )
+
+        for job in eval_jobs:
+            stats = evaluate_both(
+                sentences,
+                predicted,
+                job["gold"],
+                include_preterminals=args.include_preterminals,
+                include_root=args.include_root,
+                progress_every=args.progress_every,
+            )
+            print_parse_eval(
+                stats,
+                job["gold_source"],
+                cache_path,
+                cached_predicted,
+                pred_errors,
+                pred_no_parse,
+                job["gold_errors"],
+                job["gold_no_parse"],
+                label=job["label"],
             )
 
     if want_jsd:

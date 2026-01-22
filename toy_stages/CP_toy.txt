@@ -1,0 +1,24 @@
+1.0 0.1  ROOT --> S
+1.0 0.1  ROOT --> SBARQ
+1.0 0.1  ROOT --> SQ
+1.0 0.1  ROOT --> S SQ
+1.0 0.1  ROOT --> SINV
+1.0 0.1  ROOT --> S NP
+1.0 0.1  ROOT --> S S
+1.0 0.1  ROOT --> NP S
+1.0 0.1  S --> NP VP
+1.0 0.1  S --> VP
+1.0 0.1  SBAR --> S
+1.0 0.1  SBAR --> WHNP S
+1.0 0.1  SBARQ --> WHNP SQ
+1.0 0.1  SINV --> NP VP
+1.0 0.1  SINV --> NP VP NP
+1.0 0.1  SINV --> NP NP VP
+1.0 0.1  SINV --> VP NP
+1.0 0.1  SQ --> VP
+1.0 0.1  SQ --> NP VP
+1.0 0.1  SQ --> AUX NP VP
+1.0 0.1  SQ --> MD NP VP
+1.0 0.1  SQ --> VP NP
+1.0 0.1  WHNP --> WP
+1.0 0.1  WHNP --> WDT NN
