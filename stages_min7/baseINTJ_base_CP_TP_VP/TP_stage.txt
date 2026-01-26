@@ -1,0 +1,53 @@
+1.0 0.1  AUX --> VB ASP
+1.0 0.1  COP --> VB ASP
+1.0 0.1  NN --> VB ASP
+1.0 0.1  NN --> VB T
+1.0 0.1  NNP --> VB ASP
+1.0 0.1  VB --> VB ASP
+1.0 0.1  VBD --> VB T
+1.0 0.1  VBZ --> VB PRS
+1.0 0.1  VP --> AUX NP VP
+1.0 0.1  VP --> COP NP
+1.0 0.1  VP --> AUX VP
+1.0 0.1  VP --> MD VP
+1.0 0.1  VP --> MD NP VP
+1.0 0.1  VP --> VBD NP
+1.0 0.1  VP --> COP
+1.0 0.1  VP --> VBP NP
+1.0 0.1  VP --> VBP
+1.0 0.1  VP --> VBD
+1.0 0.1  VP --> COP NP NP
+1.0 0.1  VP --> AUX S
+1.0 0.1  VP --> VBZ NP
+1.0 0.1  VP --> VBP S
+1.0 0.1  VP --> VBZ
+1.0 0.1  VP --> AUX
+1.0 0.1  VP --> AUX NP
+1.0 0.1  VP --> VBD S
+1.0 0.1  VP --> MD
+1.0 0.1  VP --> VBZ S
+1.0 0.1  VP --> VBD NP NP
+1.0 0.1  VP --> MD NP
+1.0 0.1  VP --> COP VP
+1.0 0.1  VP --> VBD VP
+1.0 0.1  VP --> COP NP VP
+1.0 0.1  VP --> VBP NP NP
+1.0 0.1  VP --> COP S
+1.0 0.1  VP --> VBP VP
+1.0 0.1  VP --> VBD NP S
+1.0 0.1  VP --> VBP NP VP
+1.0 0.1  VP --> VBZ NP NP
+1.0 0.1  VP --> AUX NP NP
+1.0 0.1  VP --> VBZ VP
+1.0 0.1  VP --> MD S
+1.0 0.1  VP --> VBP NP S
+1.0 0.1  VP --> VBZ FRAG
+1.0 0.1  VP --> COP NP S
+1.0 0.1  VP --> VBD NP VP
+1.0 0.1  VP --> COP WHADVP
+1.0 0.1  VP --> VBP WHADVP
+1.0 0.1  VP --> VBZ NP S
+1.0 0.1  VP --> VBZ NP VP
+1.0 0.1  VP --> VBD FRAG
+1.0 0.1  VP --> NP VBD
+1.0 0.1  VP --> AUX NP S

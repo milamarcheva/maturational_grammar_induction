@@ -30,6 +30,7 @@ STAGE_DEFS = [
         name="base",
         pts={"NN", "NNP", "PRP", "PRP$", "VB", },
         nts={"ROOT", "S", "FRAG", "NP", "VP"},
+        exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP", "ADVP", "PP"},
     ),
     StageDef(
         name="baseINTJ",
@@ -64,7 +65,7 @@ STAGE_DEFS = [
     StageDef(
         name="TP",
         pts={"VBD", "VBP", "VBZ", "AUX", "COP", "MD", "ASP", "T", "PRS"},
-        exclude={"SBAR", "SBARQ", "SQ", "INTJ", "SINV", "WHNP", "WHNPP", "WHPP"},
+        exclude={"SBAR", "SBARQ", "SQ", "INTJ", "SINV", "WHNP", "WHNPP", "WHPP", "ADVP", "PP"},
     ),
     StageDef(
         name="INTJ",
@@ -74,6 +75,7 @@ STAGE_DEFS = [
     StageDef(
         name="CP",
         pts={"COMP", "CC", "WP", "WP$", "WRB", "WDT", "FW"},
+        exclude={"INTJ", "PP", "ADVP"},
     ),
 ]
 

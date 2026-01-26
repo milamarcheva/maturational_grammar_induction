@@ -1,0 +1,61 @@
+1.0 0.1  COP --> VB ASP
+1.0 0.1  NN --> VB ASP
+1.0 0.1  VBD --> VB T
+1.0 0.1  VBZ --> VB PRS
+1.0 0.1  VP --> AUX NP VP
+1.0 0.1  VP --> COP NP
+1.0 0.1  VP --> AUX VP
+1.0 0.1  VP --> MD VP
+1.0 0.1  VP --> MD NP VP
+1.0 0.1  VP --> VBD NP
+1.0 0.1  VP --> COP
+1.0 0.1  VP --> VBP NP
+1.0 0.1  VP --> COP PP
+1.0 0.1  VP --> VBP
+1.0 0.1  VP --> VBD
+1.0 0.1  VP --> COP NP NP
+1.0 0.1  VP --> AUX S
+1.0 0.1  VP --> VBD PP
+1.0 0.1  VP --> VBZ NP
+1.0 0.1  VP --> VBP S
+1.0 0.1  VP --> COP NP PP
+1.0 0.1  VP --> VBZ
+1.0 0.1  VP --> VBZ PP
+1.0 0.1  VP --> AUX
+1.0 0.1  VP --> COP ADVP
+1.0 0.1  VP --> VBD NP PP
+1.0 0.1  VP --> AUX NP
+1.0 0.1  VP --> COP NP ADVP
+1.0 0.1  VP --> VBD S
+1.0 0.1  VP --> VBP PP
+1.0 0.1  VP --> MD
+1.0 0.1  VP --> VBZ S
+1.0 0.1  VP --> AUX ADVP VP
+1.0 0.1  VP --> VBP NP PP
+1.0 0.1  VP --> VBD NP ADVP
+1.0 0.1  VP --> VBP ADVP
+1.0 0.1  VP --> VBD ADVP
+1.0 0.1  VP --> VBZ ADVP
+1.0 0.1  VP --> VBD NP NP
+1.0 0.1  VP --> COP ADVP NP
+1.0 0.1  VP --> MD ADVP VP
+1.0 0.1  VP --> VBP NP ADVP
+1.0 0.1  VP --> VBZ NP PP
+1.0 0.1  VP --> AUX NP ADVP VP
+1.0 0.1  VP --> COP ADVP PP
+1.0 0.1  VP --> MD NP
+1.0 0.1  VP --> COP VP
+1.0 0.1  VP --> VBD PP PP
+1.0 0.1  VP --> VBD VP
+1.0 0.1  VP --> COP NP NP PP
+1.0 0.1  VP --> COP PP ADVP
+1.0 0.1  VP --> COP PP PP
+1.0 0.1  VP --> COP NP VP
+1.0 0.1  VP --> VBZ NP ADVP
+1.0 0.1  VP --> COP ADVP ADVP
+1.0 0.1  VP --> VBP NP NP
+1.0 0.1  VP --> COP S
+1.0 0.1  VP --> VBD PP ADVP
+1.0 0.1  VP --> VBP VP
+1.0 0.1  VP --> COP NP NP ADVP
+1.0 0.1  VP --> ADVP VBD NP

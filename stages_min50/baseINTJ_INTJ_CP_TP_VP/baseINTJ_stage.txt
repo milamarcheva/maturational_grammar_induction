@@ -1,0 +1,24 @@
+1.0 0.1  ROOT --> S
+1.0 0.1  ROOT --> FRAG
+1.0 0.1  ROOT --> INTJ S
+1.0 0.1  ROOT --> INTJ
+1.0 0.1  ROOT --> INTJ FRAG
+1.0 0.1  ROOT --> S S
+1.0 0.1  ROOT --> FRAG S
+1.0 0.1  ROOT --> S INTJ
+1.0 0.1  ROOT --> S FRAG
+1.0 0.1  ROOT --> FRAG FRAG
+1.0 0.1  ROOT --> FRAG INTJ
+1.0 0.1  ROOT --> INTJ INTJ
+1.0 0.1  ROOT --> INTJ S S
+1.0 0.1  ROOT --> INTJ S FRAG
+1.0 0.1  ROOT --> INTJ S INTJ
+1.0 0.1  ROOT --> INTJ FRAG S
+1.0 0.1  FRAG --> INTJ
+1.0 0.1  FRAG --> INTJ INTJ
+1.0 0.1  FRAG --> S
+1.0 0.1  FRAG --> NN
+1.0 0.1  INTJ --> UH
+1.0 0.1  INTJ --> UH UH
+1.0 0.1  INTJ --> UH UH UH
+1.0 0.1  S --> S S

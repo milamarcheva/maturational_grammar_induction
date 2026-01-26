@@ -1,0 +1,4 @@
+python3 scripts/run_staged_vb_from_stage_dir.py  --stage-folder /Users/milamarcheva/Desktop/maturational_grammar_induction/stages/base_VP_TP_INTJ_CP \
+  --yields /Users/milamarcheva/Desktop/maturational_grammar_induction/yields/filtered_ctb_yields.txt \
+  --lexicon /Users/milamarcheva/Desktop/maturational_grammar_induction/grammars/lexicon.txt \
+  --iterations 2 --minruleprob 0 --bias 0.1 --prod-bias-zero --prod-weight-floor 1e-4  --unary-nt-cap 0.3

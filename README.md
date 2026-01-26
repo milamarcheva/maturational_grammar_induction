@@ -39,7 +39,10 @@ According to the original distribution website:
 This software is redistributed here in accordance with that request.
 All credit for the original implementation belongs to Mark Johnson.
 
-Change to the code: I have added a timing functionality in expected-counts.c, which prints an extra column in the debugging output: the time (in minutes) that each iteration takes is printed under "iter_min". 
+Change to the code: 
+ -- I have added a timing functionality in expected-counts.c, which prints an extra column in the debugging output: the time (in minutes) that each iteration takes is printed under "iter_min". 
+
+ 
 -------------------------------------------------------------------
 
 Extracting grammars and yields
@@ -73,3 +76,8 @@ Yield extraction (lowercased):
     --extract-yields \
     --yields-output yields.txt \
     --skip-bad
+
+
+## procedure
+1. extract grammars or use the already extracted grammars in childes_tb_extracted_grammars
+2. create mature grammars using scripts/create_grammar.py
