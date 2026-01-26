@@ -75,7 +75,7 @@ STAGE_DEFS = [
     StageDef(
         name="CP",
         pts={"COMP", "CC", "WP", "WP$", "WRB", "WDT", "FW"},
-        exclude={"INTJ", "PP", "ADVP"},
+        exclude={"INTJ", }, #"PP", "ADVP" for running baseINTJ first 
     ),
 ]
 

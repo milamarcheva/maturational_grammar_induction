@@ -3,4 +3,21 @@
 # Iteration	temperature	nrules	-logP	bits/token	iter_min
 0	1	9397 25720 sentences failed to parse	5.05842e+06	12.8506	2.11041
 1	1	9397 25720 sentences failed to parse	3.34698e+06	8.50279	2.08239
-2	1	9397
+2	1	9397 25720 sentences failed to parse	3.29916e+06	8.38131	2.1113
+3	1	9397 25720 sentences failed to parse	3.28536e+06	8.34625	2.1266
+4	1	9397 25720 sentences failed to parse	3.28166e+06	8.33685	2.09108
+5	1	9397 25720 sentences failed to parse	3.28078e+06	8.33462	2.08597
+6	1	9397 25720 sentences failed to parse	3.28049e+06	8.33389	2.09524
+7	1	9397 25720 sentences failed to parse	3.28036e+06	8.33355	2.09517
+8	1	9397 25720 sentences failed to parse	3.28027e+06	8.33333	2.10805
+9	1	9397 25720 sentences failed to parse	3.28021e+06	8.33317	2.09298
+10	1	9397 25720 sentences failed to parse	3.28016e+06	8.33304	2.14043
+11	1	9397 25720 sentences failed to parse	3.28012e+06	8.33294	2.10497
+12	1	9397 25720 sentences failed to parse	3.28008e+06	8.33284	2.12435
+13	1	9397 25720 sentences failed to parse	3.28005e+06	8.33277	2.11642
+14	1	9397 25720 sentences failed to parse	3.28002e+06	8.3327	2.12878
+15	1	9397 25720 sentences failed to parse	3.28e+06	8.33264	2.15012
+16	1	9397 25720 sentences failed to parse	3.27998e+06	8.33259	2.15576
+17	1	9397 25720 sentences failed to parse	3.27997e+06	8.33255	2.11928
+18	1	9397 25720 sentences failed to parse	3.27995e+06	8.33252	2.13844
+19	1	9397
