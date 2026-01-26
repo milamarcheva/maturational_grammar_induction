@@ -1,3 +1,18 @@
 slurm_submit.peta4-icelake 
 inside-outside/*.o
 inside-outside/io
+
+# ---- inside-outside build artifacts ----
+inside-outside/io
+inside-outside/*.o
+
+# ---- logs/results (local + HPC) ----
+hyperparam_results/
+hyperparam_eval*/
+slurm-*.out
+logfile*
+errfile*
+result_withUnary*.lt
+eval_pairs.tsv
+*_list.txt
+requirements_fixed.txt
