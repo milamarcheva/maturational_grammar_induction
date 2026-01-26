@@ -1,0 +1,27 @@
+1	S1 --> S
+1	S --> NP VP
+1	NP --> Det N
+0.0925127	VP --> V
+0.907487	VP --> V NP
+0.433433	Det --> the
+0.566567	Det --> a
+1.4013e-45	Det --> dog
+1.4013e-45	Det --> man
+1.4013e-45	Det --> bone
+1.4013e-45	Det --> bites
+1.4013e-45	Det --> gives
+1.4013e-45	N --> the
+1.4013e-45	N --> a
+0.393775	N --> dog
+0.333323	N --> man
+0.272902	N --> bone
+1.4013e-45	N --> bites
+1.4013e-45	N --> gives
+2.8026e-45	V --> the
+2.8026e-45	V --> a
+2.8026e-45	V --> dog
+2.8026e-45	V --> man
+2.8026e-45	V --> bone
+0.64946	V --> bites
+0.35054	V --> gives
+

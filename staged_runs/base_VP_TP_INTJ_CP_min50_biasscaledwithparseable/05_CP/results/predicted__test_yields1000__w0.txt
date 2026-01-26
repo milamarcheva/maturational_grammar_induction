@@ -1,0 +1,5507 @@
+(ROOT
+  (NP (PRP it))
+  (S
+    (NP (RB only))
+    (VP (VBZ (VB come) (PRS s)) (PRT (RP apart)))
+    (NP
+      (NP (RB right))
+      (ADVP
+        (NP (NP (PRP there)) (CC and) (NP (RB right)))
+        (RB there))))) (p=6.68354e-28)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB why))
+    (SQ
+      (AUX do)
+      (NP (PRP you))
+      (VP
+        (VBP have)
+        (VP
+          (TO to)
+          (VP (VB wait) (PP (IN till) (NP (PRP it))))))))
+  (FRAG (VP (VBZ (VB get) (PRS s)) (ADJP (JJR older))))) (p=3.10317e-26)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (NN deer))))) (p=3.26995e-08)
+(ROOT
+  (S
+    (VP
+      (VB look)
+      (PP (IN at) (NP (DT the) (NNS (NN animal) (DIV s))))))) (p=7.89604e-11)
+(ROOT
+  (FRAG
+    (ADVP (RB because))
+    (NP (PRP i))
+    (VP (VBD (VB pour) (T ed)) (NP (PRP you))))
+  (NP (DT some) (JJ delicious) (NN milk))) (p=1.21446e-21)
+(ROOT
+  (INTJ (UH yes))
+  (NP (PRP i))
+  (S
+    (VP
+      (MD would)
+      (VP (VB like) (NP (DT that) (NN shirt)))))) (p=8.62762e-15)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP (COP 's) (PP (IN over) (NP (PRP here))))
+    (NP (NNP child)))) (p=3.87608e-13)
+(ROOT
+  (INTJ (UH yes))
+  (NP (PRP i))
+  (S (VP (MD 'd) (VP (VB like) (NP (DT some) (JJR more)))))) (p=9.30219e-15)
+(ROOT
+  (INTJ (UH oh))
+  (NP (PRP there))
+  (S
+    (VP
+      (VB 's)
+      (NP (DT some) (NN milk))
+      (PP (IN in) (NP (PRP there)))))) (p=1.12846e-15)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP
+      (VBP want)
+      (VP
+        (TO to)
+        (VP
+          (VB put)
+          (NP (PRP it))
+          (PP (IN on) (NP (RB now)))))))) (p=2.73466e-15)
+(ROOT (INTJ (UH hello)) (NP (NNP eve))) (p=1.07876e-07)
+(ROOT
+  (NP (NNP gracie))
+  (S (VP (COP 's) (NOT not) (NP (DT an) (NN elephant))))) (p=7.74657e-16)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT an) (NN airplane))))) (p=8.07644e-09)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP
+      (AUX does)
+      (NOT n't)
+      (VP (VB have) (NP (DT a) (NN sweater)))))) (p=1.99079e-12)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBP want)
+      (VP
+        (TO to)
+        (VP (VB play) (PP (IN with) (NP (EX this))))))
+    (NP (RB crackly)))) (p=1.21227e-18)
+(ROOT
+  (NP (PRP here))
+  (S
+    (NP (PRP it))
+    (VP (VBZ (VB come) (PRS s)) (NP (NNP sarah))))) (p=4.61221e-12)
+(ROOT
+  (NP (NNP eve))
+  (S
+    (NP (PRP there))
+    (VP
+      (VB are)
+      (NP (DT a) (NN lot))
+      (PP
+        (IN of)
+        (NP
+          (NNS (NN thing) (DIV s))
+          (PP (IN in) (NP (PRP there)))))))) (p=8.46213e-23)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP
+      (VB need)
+      (NP (DT a) (NN drink))
+      (PP (IN of) (NP (NN milk)))))) (p=1.52289e-17)
+(ROOT (FRAG (ADVP (RB perhaps))) (FRAG (ADVP (RB so)))) (p=2.00858e-08)
+(ROOT
+  (NP (PRP you))
+  (S (VP (VBD (VB drop) (T ed)) (NP (PRP it))))) (p=8.22086e-09)
+(ROOT
+  (FRAG (ADVP (RB all)))
+  (NP
+    (NNS (NN kind) (DIV s))
+    (PP (IN of) (NP (JJ beautiful) (NN ribbon))))) (p=1.73947e-19)
+(ROOT (S (VP (VB do) (NP (PRP you))))) (p=6.21708e-05)
+(ROOT
+  (INTJ (UH well))
+  (NP (PRP i))
+  (S
+    (VP
+      (MD 'd)
+      (VP
+        (VBP like)
+        (VP
+          (TO to)
+          (VP
+            (VBP see)
+            (SBAR
+              (WHADVP (WRB what))
+              (S
+                (VP (COP 's) (PP (IN in) (NP (PRP here)))))))))))) (p=2.9649e-21)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX did)
+      (NP (PRP i))
+      (VP
+        (VB give)
+        (NP (PRP you))
+        (PP (DT the) (JJ other) (NN day)))))
+  (FRAG (PP (IN with) (NP (PRP$ your) (NN sandwich))))) (p=6.78994e-23)
+(ROOT
+  (NP (NNP huh))
+  (FRAG
+    (ADVP (RB because))
+    (NP (PRP he))
+    (VP (COP 's) (NP (NNP trouble))))) (p=1.01987e-15)
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (PRP you))
+    (VP (MD can) (VP (VB watch))))
+  (NP (DT the) (NN snow))) (p=1.79105e-14)
+(ROOT
+  (SBARQ
+    (WHNP
+      (WDT what)
+      (NN kind)
+      (PP (IN of) (NP (NNS (NN egg) (DIV s)))))
+    (SQ
+      (AUX did)
+      (NP (PRP i))
+      (VP (VB make) (PP (IN for) (NP (PRP you))))))
+  (NP (DT this) (NN morning))) (p=4.04385e-25)
+(ROOT (NP (PRP it)) (S (VP (COP 's) (NP (NNP becky))))) (p=1.44006e-08)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP are) (NP (PRP you))))
+  (FRAG
+    (ADJP
+      (ADJP (JJ (VB do) (ASP ing)))
+      (PP (IN with) (NP (DT the) (NN radio)))))) (p=2.5447e-15)
+(ROOT
+  (S
+    (VP
+      (COP are)
+      (NP (PRP you))
+      (ADJP (JJ (VB go) (ASP ing)))))
+  (S
+    (VP
+      (TO to)
+      (VP
+        (VB have)
+        (NP (DT a) (JJ big) (NN dog))
+        (PP (IN next) (NP (NN year))))))) (p=2.79861e-25)
+(ROOT
+  (INTJ (UH well))
+  (NP (PRP you))
+  (S
+    (VP
+      (MD might)
+      (VP
+        (VB get)
+        (NP
+          (NN hot)
+          (PP
+            (ADVP (RB though))
+            (IN with)
+            (NP (RB just) (DT a) (NN sweater))))
+        (PRT (RP on)))))) (p=2.51761e-31)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VB want)
+      (NP
+        (NP (DT some) (NN applesauce))
+        (CC or)
+        (NP (NN something)))))) (p=2.29101e-18)
+(ROOT
+  (FRAG
+    (NP (PRP i))
+    (VP
+      (VBP wonder)
+      (SBAR
+        (COMP if)
+        (S (NP (PRP they)) (VP (VBD came) (PRT (RP out)))))))
+  (INTJ (UH well))) (p=5.91409e-20)
+(ROOT (NP (DT the) (NN dinosaur))) (p=6.38774e-07)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB why))
+    (SQ
+      (AUX are)
+      (NP (NP (PRP they)) (ADJP (JJ (VB go) (ASP ing))))
+      (VP (TO to) (VP (VB do) (NP (RB that))))))) (p=1.5426e-15)
+(ROOT
+  (S
+    (VP
+      (AUX did)
+      (NP (PRP you))
+      (VP
+        (VP (VB go))
+        (CC and)
+        (VP
+          (VB say)
+          (NP (NNP goodbye))
+          (PP (IN to) (NP (NNP linda)))
+          (PP (IN when) (NP (PRP she)))))))
+  (S (VP (VBD went) (PP (IN on) (NP (DT the) (NN bus)))))) (p=1.19281e-36)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP
+      (AUX does)
+      (NOT n't)
+      (VP (VB have) (NP (DT a) (NN hat)))))) (p=1.28457e-11)
+(ROOT
+  (S
+    (VP
+      (VB look)
+      (PP (IN at) (NP (DT the) (JJ pretty) (NN paper)))))) (p=1.67922e-13)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP (VB see) (NP (PRP$ your))))) (p=1.22393e-09)
+(ROOT
+  (S (VP (VB go)))
+  (S
+    (VP
+      (VP
+        (VB bring)
+        (NP (DT the) (NN horsie))
+        (PRT (RP out)))
+      (CC and)
+      (VP
+        (VB let)
+        (NP (PRP me))
+        (VP (VB look) (PP (IN at) (NP (PRP it)))))))) (p=4.39421e-27)
+(ROOT
+  (NP (PRP we))
+  (S
+    (VP
+      (MD 'll)
+      (VP (VB go) (FRAG (VP (VB see) (NP (PRP her))))))
+    (NP (RB soon)))) (p=1.0744e-17)
+(ROOT
+  (INTJ (UH yes))
+  (NP (PRP you))
+  (S
+    (VP
+      (VB have)
+      (NP (NN one) (PP (IN like) (NP (RB that)))))
+    (NP (RB upstairs)))) (p=3.9954e-18)
+(ROOT
+  (S
+    (VP
+      (COP are)
+      (NP (PRP you))
+      (ADJP (JJ (VB go) (ASP ing)))))
+  (S
+    (VP
+      (TO to)
+      (VP
+        (VB close)
+        (NP (PRP it))
+        (PP (IN for) (NP (PRP me))))))) (p=1.9148e-17)
+(ROOT
+  (INTJ (UH yeah))
+  (NP (PRP you))
+  (S
+    (VP
+      (VBD (VB use) (T ed))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB dribble)
+            (NP (RB all))
+            (PP
+              (IN over)
+              (NP
+                (NN everything)
+                (PP (DT and) (NN everyone)))))))))) (p=3.2596e-33)
+(ROOT (FRAG (ADVP (RB much))) (FRAG (ADVP (RBR better)))) (p=4.13438e-08)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ
+      (AUX do)
+      (NP (PRP you))
+      (VP
+        (VBP want)
+        (VP (TO to) (VP (VB put) (NP (DT the) (NN roof)))))))) (p=3.64689e-14)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB think)
+        (NP (PRP he))
+        (VP
+          (MD can)
+          (VP
+            (VB jump)
+            (PP (IN through) (NP (DT the) (NN hole))))))))) (p=6.93067e-22)
+(ROOT (NP (PRP i)) (S (VP (VB see)))) (p=3.89219e-05)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP is) (NP (FRAG (WHNP (WDT what))))))) (p=1.81499e-07)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (COP is)
+      (NP (NP (PRP he)) (ADJP (JJ (VB go) (ASP ing))))))
+  (FRAG
+    (VP
+      (TO to)
+      (VP
+        (VB drink)
+        (PP (IN with) (NP (DT the) (NN lady))))))) (p=1.28618e-19)
+(ROOT
+  (INTJ (UH yeah))
+  (NP (PRP she))
+  (S
+    (VP
+      (COP 's)
+      (ADJP (RB really) (JJ (VB take) (ASP ing)))
+      (S
+        (NP (RB good))
+        (VP (VB care) (PP (IN of) (NP (PRP him)))))))) (p=1.06988e-23)
+(ROOT
+  (INTJ (UH oh))
+  (NP (EX this))
+  (S (VP (VB is) (NP (NNP millisandy))))) (p=5.37757e-11)
+(ROOT
+  (NP (PRP you))
+  (S (VP (VB go) (ADJP (JJ (VB shop) (ASP ing)))))) (p=1.90649e-09)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP
+      (VBP want)
+      (VP
+        (TO to)
+        (VP (VB see) (NP (NNP russell) (NNP sunday))))))) (p=8.22318e-19)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP are) (NP (PRP you))))
+  (FRAG (ADJP (JJ (VB do) (ASP ing))))) (p=4.38629e-08)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT the) (JJ other) (NN one))))) (p=3.89817e-09)
+(ROOT
+  (S
+    (VP
+      (COP are)
+      (NP (PRP you))
+      (ADJP (JJ (VB tir) (T ed)))))) (p=9.64826e-10)
+(ROOT
+  (INTJ (UH okay) (UH now))
+  (NP (PRP we))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S (VP (TO to) (VP (VB dump) (NP (RB that)))))))) (p=8.59352e-20)
+(ROOT
+  (NP (NNP cromer))
+  (S (VP (COP 's) (WHNP (WDT what))))) (p=3.5859e-09)
+(ROOT (S (VP (VB read) (NP (DT this) (NN book))))) (p=1.66715e-09)
+(ROOT
+  (NP (EX this))
+  (S (VP (VB is) (NP (DT a) (JJ real) (NN one))))) (p=1.2527e-12)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (VBD (VB ask) (T ed))
+      (NP (PRP you))
+      (ADVP (RB first))))) (p=1.25706e-11)
+(ROOT
+  (NP (PRP$ my) (NN goodness))
+  (S
+    (NP (PRP you))
+    (VP
+      (VB have)
+      (NP
+        (NN one)
+        (PP
+          (IN on)
+          (NP (DT every) (JJ single) (NN finger))))
+      (PRT (RP now))))) (p=3.3552e-29)
+(ROOT (S (VP (COP is) (NP (PRP it)) (ADJP (JJ sharp))))) (p=1.15264e-09)
+(ROOT (NP (PRP it)) (S (VP (COP 's) (ADJP (JJ good))))) (p=7.48317e-07)
+(ROOT
+  (FRAG (WHNP (WDT what)) (PP (IN if) (NP (PRP we))))
+  (FRAG
+    (VP
+      (VB put)
+      (NP (PRP it))
+      (PP (IN in) (NP (DT that) (NN way)))))) (p=8.90375e-19)
+(ROOT
+  (NP (NNP nina))
+  (S (VP (AUX do) (NOT n't) (VP (VB cry))))) (p=1.99272e-09)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP
+      (VBP know)
+      (SBAR
+        (WHADVP (WRB what))
+        (S (NP (EX this)) (VP (VB is))))))) (p=3.59548e-13)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB when))
+    (SQ
+      (AUX do)
+      (NP (PRP you))
+      (VP (VB say) (NP (RB that)))))) (p=4.875e-10)
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP
+      (COP 're)
+      (VP
+        (VBG (VB cut) (ASP ing))
+        (NP (PRP it))
+        (PP (IN in) (NP (DT the) (NN plate))))))
+  (FRAG (WHPP (IN with) (WHNP (WDT what))))) (p=4.16959e-22)
+(ROOT
+  (FRAG (PP (IN from) (NP (DT one) (NN doll))))
+  (FRAG (PP (IN to) (NP (DT the) (NN other))))) (p=1.72871e-15)
+(ROOT
+  (SQ
+    (AUX did)
+    (NP (NP (PRP you)) (ADVP (RB ever)))
+    (VP (VB see) (NP (RB that))))
+  (NP (RB before))) (p=8.24055e-17)
+(ROOT (FRAG (PP (IN on) (NP (DT the) (NN magazine))))) (p=1.27578e-09)
+(ROOT (INTJ (UH yes)) (NP (NNP harvard_square) (NN bus))) (p=8.76275e-14)
+(ROOT
+  (INTJ (UH oh))
+  (NP (NN somebody))
+  (S (VP (VB was) (NP (DT a) (JJ careless) (NN driver))))) (p=2.7756e-21)
+(ROOT (NP (DT a) (NN zebra))) (p=4.34149e-07)
+(ROOT (INTJ (UH no) (UH no)) (FRAG (NN money))) (p=4.21145e-09)
+(ROOT (FRAG (ADVP (RB nice))) (FRAG (NN cereal))) (p=7.62247e-09)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (PRP$ my) (NN cigarette))))
+  (NP (NNP huh))) (p=2.67739e-13)
+(ROOT
+  (S (VP (VB come) (PRT (RP on))))
+  (S
+    (VP
+      (VB save)
+      (NP (RB some))
+      (PP (IN for) (NP (PRP me)))))) (p=6.20659e-18)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (RB that))))) (p=7.36231e-05)
+(ROOT
+  (S
+    (VP
+      (VBP let)
+      (VP
+        (COP 's)
+        (VP
+          (VB cut)
+          (NP (DT the) (NN nail))
+          (PP (IN on) (NP (PRP$ your) (NN thumb)))))))) (p=6.31825e-22)
+(ROOT
+  (INTJ (UH oh))
+  (S (VP (COP is) (ADVP (RB that))))
+  (FRAG
+    (INTJ (UH why))
+    (NP (PRP you))
+    (VP (VBD (VB miss) (T ed))))) (p=4.00837e-17)
+(ROOT
+  (FRAG
+    (NP (DT a) (NN seahorse))
+    (VP (VBZ (VB eat) (PRS s)) (NP (NN plankton))))
+  (FRAG
+    (CC and)
+    (NP (NN microbacteria) (RB that))
+    (VP
+      (VB float)
+      (PRT (RP around))
+      (PP (IN in) (NP (DT the) (NN ocean)))))) (p=4.07308e-42)
+(ROOT
+  (INTJ (UH yeah))
+  (S (VP (COP is) (ADVP (RB that)) (NP (PRP$ your))))) (p=2.26476e-11)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB right))))) (p=1.38433e-05)
+(ROOT
+  (INTJ (UH oh))
+  (S
+    (NP (PRP i))
+    (VP
+      (VBD (VB try) (T ed))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB get)
+            (NP (PRP her))
+            (PRT (RP up))
+            (ADVP (RBR earlier)))))))
+  (FRAG
+    (CC and)
+    (NP (PRP she))
+    (VP (MD would) (NOT n't) (VP (VB get) (PRT (RP up)))))) (p=2.07902e-34)
+(ROOT (NP (PRP it)) (S (VP (COP 's) (ADJP (JJ nice))))) (p=5.87343e-07)
+(ROOT (S (VP (VB got) (NP (PRP$ your) (NN penny))))) (p=1.68318e-09)
+(ROOT (FRAG (ADJP (JJ new))) (FRAG (NN haircut))) (p=3.97462e-10)
+(ROOT
+  (SBARQ (WHADVP (WRB where)) (SQ (COP is) (NP (PRP it))))) (p=4.72436e-05)
+(ROOT (NP (DT some) (JJR more) (NNS (NN noodle) (DIV s)))) (p=6.90322e-11)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP (VB splash) (NP (DT a) (NN lot))))) (p=2.46259e-12)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP
+      (VB want)
+      (NP (PRP me))
+      (VP
+        (TO to)
+        (VP (VB listen) (PP (IN to) (NP (PRP you)))))))) (p=1.037e-16)
+(ROOT (NP (DT the) (NNS (NN eye) (DIV s)))) (p=4.13724e-07)
+(ROOT (NP (DT a) (NN ukelele))) (p=1.81404e-08)
+(ROOT
+  (INTJ (UH mhm))
+  (S
+    (NP (PRP you))
+    (VP (VB like) (NP (DT this) (NN stuff))))
+  (FRAG (NP (PRP i)) (VP (VB think)))) (p=7.16381e-19)
+(ROOT
+  (SBARQ
+    (INTJ (UH oh))
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (RB right))))) (p=2.75487e-07)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VBP know)
+        (SBAR
+          (WHADVP (WRB where))
+          (S (NP (PRP$ her) (NN arm)) (VP (VB is)))))))) (p=3.13292e-17)
+(ROOT
+  (NP (PRP he))
+  (S (NP (RB only)) (VP (VB has) (NP (DT one) (NN nose))))) (p=1.92033e-15)
+(ROOT
+  (SBARQ
+    (CC and)
+    (WHNP (WDT what))
+    (SQ (AUX did) (NP (PRP you)) (VP (VB do))))) (p=8.12935e-08)
+(ROOT
+  (SBARQ
+    (WHNP
+      (WDT what)
+      (NN kind)
+      (PP (IN of) (NP (NNS (NN truck) (DIV s)))))
+    (SQ
+      (COP are)
+      (NP (NN those) (PP (IN over) (NP (PRP there))))))) (p=7.80207e-21)
+(ROOT
+  (INTJ (UH mm))
+  (NP (PRP it))
+  (S (VP (COP 's) (ADVP (RB almost)) (ADVP (RB right))))) (p=4.99181e-13)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ
+      (COP is)
+      (NP (NP (PRP he)) (ADJP (JJ (VB go) (ASP ing))))))
+  (FRAG
+    (VP
+      (TO to)
+      (VP (VB go) (PP (IN on) (NP (DT the) (NN bus))))))) (p=1.36764e-18)
+(ROOT (FRAG (PP (IN for) (NP (DT the) (NN night))))) (p=5.42818e-09)
+(ROOT
+  (INTJ (UH why))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (NP (PRP you))
+      (VP
+        (VB put)
+        (NP (DT the) (NN frog))
+        (PP (IN on) (NP (DT the) (NN doggy))))))) (p=3.03117e-20)
+(ROOT (NP (PRP i)) (S (NP (NNP daddy)))) (p=8.15754e-07)
+(ROOT
+  (NP (PRP you))
+  (S (VP (VBP want) (VP (TO to) (VP (VB read)))))) (p=7.55909e-09)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VB think)
+      (NP (PRP you))
+      (VP (COP 're) (ADJP (RB so) (JJ funny)))))) (p=2.69615e-13)
+(ROOT (NP (DT which) (NN wall))) (p=6.23987e-09)
+(ROOT
+  (FRAG (WHNP (WDT what) (NN kind)))
+  (FRAG (PP (IN of)))) (p=1.36636e-09)
+(ROOT
+  (S (VP (VB come) (NP (PRP here))))
+  (NP (NNP chantilly))) (p=2.37334e-10)
+(ROOT (FRAG (NN clam)) (FRAG (NN chowder))) (p=4.82009e-11)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (VB think)
+      (NP
+        (DT the)
+        (NNS (NN top) (DIV s))
+        (PP (IN of) (NP (EX this))))
+      (VP (VB is) (NP (CD six)))))) (p=6.89108e-21)
+(ROOT
+  (SBARQ
+    (INTJ (UH no))
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (NN big))))
+  (FRAG
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (JJ big) (NN gorilla))))) (p=1.20294e-21)
+(ROOT
+  (S
+    (VP
+      (VBP let)
+      (VP
+        (COP 's)
+        (VP
+          (VBP see)
+          (SBAR
+            (WHADVP (WRB what))
+            (S
+              (VP
+                (COP 's)
+                (PP (IN in) (NP (DT the) (NN bag))))))))))) (p=1.37406e-18)
+(ROOT
+  (FRAG
+    (CC but)
+    (NP (PRP you))
+    (VP
+      (VP
+        (MD can)
+        (VP (VB take) (NP (PRP her)) (PRT (RP out))))
+      (CC and)
+      (VP (VB give) (NP (PRP her)))))
+  (FRAG
+    (NP (DT some) (NN tea) (PP (IN if) (NP (PRP you))))
+    (VP (VB want)))) (p=6.84387e-34)
+(ROOT
+  (S (VP (VB try)))
+  (S
+    (VP (TO to) (VP (VB keep) (NP (PRP it)) (PRT (RP on)))))) (p=2.56906e-13)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB work) (ASP ing)))
+      (ADVP (RB very) (RB hard))))) (p=4.35069e-14)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VBP know)
+        (SBAR
+          (COMP if)
+          (S (NP (PRP he)) (VP (VBZ (VB know) (PRS s))))))))) (p=9.7489e-15)
+(ROOT
+  (SBARQ
+    (INTJ (UH yes))
+    (WHADVP (WRB that))
+    (SQ (COP was) (NP (DT a) (JJ good) (NN one))))) (p=1.7021e-12)
+(ROOT (INTJ (UH hey)) (NP (NNP thomas))) (p=6.27907e-08)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (COP 's) (NP (DT the) (NN teapot))))) (p=3.64283e-08)
+(ROOT
+  (FRAG
+    (ADVP (RB so))
+    (NP (PRP you))
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB think) (ASP ing)))
+      (PP (IN of))))
+  (FRAG
+    (VP
+      (VBG (VB have) (ASP ing))
+      (NP (DT this) (JJ last) (NN ear))
+      (PP (IN of) (NP (NN corn) (RB here)))))) (p=4.08395e-34)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB how))
+    (SQ
+      (AUX 'd)
+      (NP (PRP you))
+      (VP (VB play) (PP (IN in) (NP (DT the) (NN water))))))) (p=4.04828e-14)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX do)
+      (NP (PRP you))
+      (VP
+        (VB want)
+        (PP (IN for) (NP (NN lunch) (RB today))))))) (p=9.97716e-16)
+(ROOT
+  (INTJ (UH wow))
+  (S
+    (NP (PRP you))
+    (VP
+      (COP 're)
+      (ADJP (RB really) (JJ (VB make) (ASP ing)))
+      (S
+        (NP (DT that) (NN light))
+        (VP (VB flash) (PRT (RP on))))))
+  (FRAG (CC and) (NP (RB off)))) (p=4.36723e-33)
+(ROOT
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB swing)
+        (NP (PRP$ your) (NN head))
+        (PRT (RP around))
+        (PP (IN while) (NP (PRP you))))))
+  (S (VP (COP 're) (ADJP (JJ (VB eat) (ASP ing)))))) (p=7.29671e-24)
+(ROOT (FRAG (ADVP (RB bad))) (FRAG (NN horsie))) (p=3.9196e-09)
+(ROOT
+  (FRAG (NP (PRP you)) (VP (VB like)))
+  (FRAG (NN beer))) (p=3.76425e-10)
+(ROOT (NP (PRP you)) (S (NP (RB sure)) (VP (VB are)))) (p=3.6887e-09)
+(ROOT
+  (NP (PRP there))
+  (S (VP (COP 's) (NP (DT one) (JJR more) (NN animal))))) (p=2.16707e-13)
+(ROOT (NP (DT a) (NN train))) (p=2.38174e-06)
+(ROOT
+  (FRAG
+    (VP
+      (VB remember)
+      (NP (PRP you))
+      (VP (VBD won) (PP (DT that) (JJ little) (NN teddy)))))
+  (FRAG (NN bear))) (p=5.92633e-24)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP is) (NP (RB that))))) (p=2.83737e-05)
+(ROOT (NP (PRP i)) (S (VP (VB know)))) (p=2.13601e-05)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (NN crisscross))))) (p=1.92481e-09)
+(ROOT
+  (FRAG
+    (NP (PRP i))
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VBP know)
+        (SBAR (COMP if) (S (NP (PRP they)) (VP (VB like)))))))
+  (FRAG (NN hay))) (p=1.33529e-18)
+(ROOT (FRAG (ADVP (RB very))) (INTJ (UH yucky))) (p=1.71133e-09)
+(ROOT
+  (S (VP (VB is) (NP (DT the) (NN rice)) (PRT (RP on))))) (p=7.53288e-11)
+(ROOT
+  (S
+    (VP
+      (MD would)
+      (NP (PRP you))
+      (VP (VB move) (PP (IN into) (NP (DT the) (NN room))))))
+  (NP (NNP eve))) (p=9.24169e-19)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (VB want)
+      (NP (NN one) (PP (IN of) (NP (PRP them))))))) (p=4.30482e-12)
+(ROOT
+  (NP (PRP i))
+  (S (VP (AUX do) (NOT n't) (VP (VB know))))) (p=3.46728e-07)
+(ROOT (SQ (MD can) (NP (PRP you)) (VP (VB say)))) (p=9.36766e-08)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (EX this))))) (p=4.76364e-05)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (JJ squeaky) (NN scooter))))) (p=7.85008e-13)
+(ROOT
+  (NP (PRP you))
+  (S (VP (VB want) (NP (DT some) (JJR more))))) (p=1.9166e-09)
+(ROOT
+  (NP (PRP it))
+  (S
+    (VP
+      (COP 's)
+      (NP (PRP$ your) (JJ (VB color) (ASP ing)) (NN book))))) (p=6.11479e-13)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX are)
+      (NP (NP (PRP you)) (ADJP (JJ (VB go) (ASP ing))))
+      (VP
+        (TO to)
+        (VP (VB do) (PP (IN with) (NP (PRP it)))))))) (p=6.59867e-15)
+(ROOT (FRAG (ADJP (RB pretty) (JJ good))) (NP (NNP huh))) (p=1.14199e-10)
+(ROOT
+  (NP (PRP i))
+  (S (VP (AUX do) (NOT n't) (VP (VB know))))) (p=3.46728e-07)
+(ROOT (INTJ (UH thank)) (NP (PRP you))) (p=2.55381e-05)
+(ROOT
+  (INTJ (UH yeah))
+  (S
+    (VP
+      (VB get)
+      (NP (DT some) (JJR more) (NNS (NN picture) (DIV s)))))) (p=2.97084e-13)
+(ROOT (NP (PRP i)) (S (VP (VB see)))) (p=3.89219e-05)
+(ROOT
+  (INTJ (UH now))
+  (NP (PRP you))
+  (S (VP (VB pull) (NP (EX this)) (PRT (RP back))))) (p=5.99537e-12)
+(ROOT (INTJ (UH squish)) (NP (PRP them))) (p=8.86783e-09)
+(ROOT (NP (DT which) (NN side))) (p=1.72077e-08)
+(ROOT
+  (S
+    (VP
+      (COP were)
+      (NP (PRP they))
+      (ADJP (JJ (VB fly) (ASP ing)))))) (p=1.38079e-10)
+(ROOT
+  (NP (NNP child))
+  (SBARQ
+    (WHNP (WP what) (RB else))
+    (SQ
+      (COP is)
+      (NP (FRAG (PP (IN in) (NP (DT the) (NN picture)))))))) (p=2.35055e-18)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBD (VB zip) (T ed))
+      (NP (PRP yourself))
+      (PRT (RP up))))) (p=5.44246e-13)
+(ROOT
+  (INTJ (UH oh) (UH now))
+  (NP (PRP you))
+  (S
+    (VP
+      (COP 're)
+      (NP (NP (CD four)) (CC and) (NP (DT a) (NN half)))))) (p=1.64585e-19)
+(ROOT
+  (SBARQ
+    (WHNP (WP who))
+    (SQ (VP (VB cut) (NP (PRP it)) (PRT (RP down)))))) (p=8.0941e-11)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX do)
+      (NP (PRP you))
+      (VP
+        (VBP mean)
+        (SBAR
+          (WHADVP (WRB what))
+          (S (VP (AUX do) (NP (PRP you)) (VP (VB mean))))))))) (p=5.77103e-16)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP (VBP know) (VP (VB do) (NP (PRP i))))))) (p=3.39686e-10)
+(ROOT (S (VP (VB tell) (NP (PRP him))))) (p=3.57821e-07)
+(ROOT
+  (S
+    (VP (VB put) (NP (DT the) (NN nickel)) (PRT (RP back))))) (p=1.28939e-11)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP is) (NP (PRP it))))) (p=8.1762e-05)
+(ROOT
+  (NP (EX this))
+  (S (VP (VB is) (NP (DT a) (NN giraffe))))) (p=2.36684e-10)
+(ROOT
+  (NP (PRP here))
+  (S
+    (VP (COP are) (NP (DT the) (NNP easter)))
+    (NP (NNS (NN egg) (DIV s))))) (p=3.53114e-17)
+(ROOT (INTJ (UH okay)) (FRAG (ADVP (JJ angry) (NN boy)))) (p=1.44854e-12)
+(ROOT
+  (FRAG (ADVP (RB not) (RB tonight)))
+  (FRAG (CC or) (NP (NP (RB not)) (ADVP (RB tomorrow))))) (p=1.21261e-17)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP were) (NP (PRP they))))) (p=3.18485e-06)
+(ROOT
+  (FRAG (ADJP (JJ creamy)))
+  (FRAG
+    (ADJP
+      (ADJP (JJ italian))
+      (CC or)
+      (ADJP (JJ regular) (JJ italian))))) (p=2.38662e-28)
+(ROOT
+  (INTJ (UH no))
+  (NP (DT the) (NN kangaroo))
+  (S
+    (VP
+      (AUX does)
+      (NOT n't)
+      (VP (VB go) (PP (IN in) (NP (DT the) (NN farm))))))) (p=1.50005e-17)
+(ROOT
+  (NP (PRP i))
+  (S (VP (AUX do) (NOT n't) (VP (VB know))))) (p=3.46728e-07)
+(ROOT (NP (PRP you)) (S (VP (VB squish) (NP (PRP him))))) (p=3.37071e-09)
+(ROOT
+  (NP (RB that))
+  (S
+    (VP
+      (COP 's)
+      (PP
+        (IN on)
+        (NP
+          (NN top)
+          (PP
+            (IN of)
+            (NP
+              (DT the)
+              (NN chimney)
+              (PP
+                (IN on)
+                (NP
+                  (NN top)
+                  (PP (IN of) (NP (DT the) (NN roof)))))))))))) (p=1.26694e-29)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP is) (NP (PRP$ your) (NN house))))
+  (FRAG (VP (VB like)))) (p=6.21981e-11)
+(ROOT
+  (NP (PRP he))
+  (S (VP (COP 's) (NP (DT a) (JJ good) (NN bunny))))) (p=2.92444e-12)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB snap)
+        (NP (NNS (NN button) (DIV s)))
+        (VP (VB do) (NP (PRP you))))))) (p=8.64831e-17)
+(ROOT (NP (RB just)) (S (VP (VB like) (NP (RB that))))) (p=3.55091e-08)
+(ROOT
+  (SQ (COP is) (NP (RB that)))
+  (NP
+    (DT the)
+    (NN (VB beginn) (ASP ing))
+    (PP (IN of) (NP (DT a) (NN froggie))))) (p=9.95841e-20)
+(ROOT
+  (NP (CD two) (NNS (NN week) (DIV s)))
+  (FRAG
+    (ADVP (RB ago))
+    (NP (PRP there))
+    (VP
+      (COP was)
+      (NP (DT a) (JJ little) (NN doll))
+      (SBAR
+        (WHADVP (WRB that))
+        (S
+          (VP
+            (COP was)
+            (ADJP (JJ made))
+            (PP (IN in) (NP (NNP italy))))))))) (p=1.01588e-38)
+(ROOT
+  (S
+    (VP
+      (AUX do)
+      (NP (PRP i))
+      (VP (VBP have) (VP (TO to) (VP (VB go))))))
+  (S (VP (TO to) (VP (VB work))))) (p=6.81703e-16)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX did)
+      (NP (PRP you))
+      (VP
+        (VB have)
+        (PP
+          (IN for)
+          (NP (NN lunch) (PP (IN at) (NP (NNP school))))))))
+  (FRAG (ADVP (RB usually)))) (p=9.96284e-22)
+(ROOT
+  (NP (PRP we))
+  (S
+    (VP
+      (VBP want)
+      (VP (TO to) (VP (VB go) (NP (RB outside))))))) (p=8.33192e-12)
+(ROOT
+  (FRAG (ADVP (RB someday)) (PP (IN when) (NP (PRP you))))
+  (FRAG
+    (VP
+      (COP 're)
+      (ADJP
+        (ADJP (JJ big) (CC and) (JJ big))
+        (CC and)
+        (ADJP (JJ big)))))) (p=3.05436e-25)
+(ROOT
+  (FRAG (PP (IN over)))
+  (FRAG (PP (IN at) (NP (NNP aunt_dot) (POS 's))))) (p=1.331e-12)
+(ROOT
+  (NP (PRP you))
+  (S (VP (VB knock) (PP (IN at) (NP (DT the) (NN door)))))) (p=1.19577e-11)
+(ROOT
+  (SBARQ
+    (CC and)
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (NNP daddy))))) (p=6.8841e-08)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S (VP (TO to) (VP (VB shake) (NP (PRP him)))))))) (p=4.35281e-14)
+(ROOT (NP (RB right)) (S (NP (PRP here)) (VP (VB look)))) (p=5.6288e-09)
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG (PP (IN if) (NP (PRP you))))
+  (S (VP (AUX do) (NOT n't) (VP (VB mind))))) (p=1.9369e-14)
+(ROOT
+  (NP (NNP joshua))
+  (S (VP (VB had) (NP (DT a) (NN sword))))) (p=1.22774e-14)
+(ROOT (INTJ (UH oh)) (INTJ (UH thank) (UH goodness))) (p=9.72053e-09)
+(ROOT
+  (SBARQ
+    (CC and)
+    (WHNP (WP who))
+    (SQ
+      (COP 's)
+      (NP (FRAG (PP (IN on) (NP (DT the) (NN bus)))))))) (p=1.25319e-12)
+(ROOT
+  (NP (PRP i))
+  (S (VP (AUX do) (NOT n't) (VP (VB want) (PP (IN to)))))) (p=1.55933e-09)
+(ROOT
+  (SBARQ
+    (INTJ (UH yeah))
+    (WHADVP (WRB what))
+    (SQ (COP are) (NP (PRP they))))
+  (FRAG
+    (ADJP
+      (ADJP (JJ (VB eat) (ASP ing)))
+      (PP (IN at) (NP (PRP$ their) (NN picnic)))))) (p=7.8015e-21)
+(ROOT
+  (NP (EX this))
+  (S
+    (VP
+      (COP is)
+      (SBAR
+        (WHADVP (WRB what))
+        (S (VP (VB was) (PRT (RP up))) (NP (PRP there))))))) (p=4.10218e-16)
+(ROOT (FRAG (ADVP (RB very))) (FRAG (ADVP (RB good)))) (p=2.15478e-07)
+(ROOT
+  (S
+    (VP
+      (VBP tell)
+      (NP (PRP him))
+      (SBAR
+        (WHADVP (WRB what))
+        (S (NP (PRP we)) (VP (VB did))))))) (p=6.96606e-15)
+(ROOT
+  (FRAG
+    (ADVP (RB there))
+    (NP (PRP$ 's) (NN nothing))
+    (VP
+      (VBG (VB happen) (ASP ing))
+      (PRT (RP up))
+      (NP (PRP here))))
+  (FRAG (PP (IN at) (NP (RB all))))) (p=3.98091e-23)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VB have)
+      (NP (RB some))
+      (PP (IN on) (NP (PRP$ your) (NN tray)))))) (p=1.45775e-14)
+(ROOT
+  (S (VP (VB swing) (NP (PRP it)) (PRT (RP open))))
+  (S
+    (VP
+      (VB swing)
+      (NP (NP (PRP it)) (ADJP (JJ (VB close) (T ed))))))) (p=3.90884e-23)
+(ROOT
+  (S
+    (VP
+      (COP was)
+      (VP
+        (VB was)
+        (NP (DT the) (NN story))
+        (PP (IN about) (NP (NNP flip))))))
+  (NP (DT a) (JJ good) (NN story))) (p=5.02388e-26)
+(ROOT
+  (FRAG
+    (NP (PRP i))
+    (VP
+      (VP (MD 'll) (VP (VB come) (PRT (RP back))))
+      (CC and)
+      (VP
+        (VB see)
+        (NP (PRP you))
+        (PP (DT this) (NN afternoon)))))
+  (INTJ (UH eh))) (p=5.07268e-27)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (AUX did)
+      (NOT n't)
+      (NP (RB even))
+      (VP (VB let) (NP (PRP it)) (VP (VB try)))))) (p=6.53789e-17)
+(ROOT
+  (FRAG
+    (NP (DT a) (NN clock))
+    (VP
+      (COP is)
+      (PP (IN on) (NP (DT the) (NN bell) (NN tower)))))
+  (FRAG (VP (COP is) (NOT n't) (NP (PRP it))))) (p=6.37488e-25)
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP
+      (MD should)
+      (VP
+        (VBP 've)
+        (VP
+          (COP been)
+          (ADVP (RB here))
+          (PP (DT the) (NN day))))))
+  (FRAG
+    (ADVP (DT the) (NN fish))
+    (NP (RB almost))
+    (VP (VBD went) (PP (IN down) (NP (DT the) (NN drain)))))) (p=3.35296e-40)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ
+      (AUX do)
+      (NP (PRP they))
+      (VP (VBP want) (VP (TO to) (VP (VB go))))))) (p=1.23305e-10)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (EX this))))) (p=4.76364e-05)
+(ROOT (NP (PRP i)) (S (VP (VB know)))) (p=2.13601e-05)
+(ROOT
+  (FRAG (PP (IN because) (NP (PRP you))))
+  (FRAG
+    (NP (RB still))
+    (VP (VB have) (NP (DT a) (NN cold))))) (p=4.45381e-16)
+(ROOT (NP (EX this)) (S (VP (COP is) (ADVP (RB really))))) (p=1.34549e-08)
+(ROOT
+  (FRAG (ADJP (JJ (VB go) (ASP ing))))
+  (NP (DT that) (NN way))) (p=4.95148e-09)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBD met)
+      (NP (NNP anne_marie))
+      (PP (DT the) (JJ other) (NN day))))) (p=2.82738e-20)
+(ROOT
+  (SQ
+    (AUX did)
+    (NP (PRP you))
+    (VP (VB like) (NP (PRP it))))) (p=3.57504e-08)
+(ROOT
+  (S
+    (VP
+      (VB come)
+      (PRT (RP on))
+      (PP (IN in) (NP (PRP here)))))) (p=7.22365e-10)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (JJ red) (NN box))))) (p=1.41116e-10)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBD (VB miss) (T ed))
+      (NP (NNP grammy))
+      (PP (IN over) (NP (PRP there)))))) (p=8.95783e-16)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB right))))) (p=1.38433e-05)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX do)
+      (NP (PRP you))
+      (VP
+        (VB have)
+        (PP (IN for) (NP (NN lunch) (RB today))))))) (p=1.62903e-15)
+(ROOT (NP (DT the) (NN split))) (p=7.06196e-08)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP 's) (NP (DT the) (NN governor))))
+  (FRAG (VP (COP 's) (ADJP (JJ name))))) (p=5.09827e-15)
+(ROOT
+  (FRAG (ADVP (RB right) (RB there)))
+  (FRAG (PP (IN on) (NP (DT the) (NN wheel))))) (p=6.08043e-13)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (COP 's) (NP (NNP bozo))))) (p=3.05815e-07)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP are) (NP (PRP they))))
+  (FRAG (ADJP (JJ (VB wear) (ASP ing))))) (p=2.8535e-10)
+(ROOT
+  (NP (PRP it))
+  (S
+    (VP
+      (MD must)
+      (VP
+        (VB be)
+        (NP (DT the) (NN top))
+        (PP (IN to) (NP (DT the) (NN sugar) (NN dish))))))) (p=7.40193e-23)
+(ROOT
+  (NP (RB that))
+  (S (VP (MD would) (VP (VB look) (NP (RB funny)))))) (p=1.01307e-11)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (PRP$ your) (NN finger))))) (p=2.43183e-07)
+(ROOT (FRAG (CC and) (NP (NNP red)))) (p=4.32609e-08)
+(ROOT
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP (VB throw) (NP (DT the) (NN ball)))))) (p=5.18372e-11)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (COP 's) (NP (DT the) (NN doggy))))) (p=2.14449e-07)
+(ROOT
+  (INTJ (UH oh))
+  (NP (PRP you))
+  (S
+    (VP
+      (VB want)
+      (NP (PRP me))
+      (VP (TO to) (VP (VB play)))))) (p=9.47778e-13)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP (VB have) (NP (DT a) (NN knight) (NN book)))))) (p=3.55516e-16)
+(ROOT (INTJ (UH oh) (NP (PRP you))) (FRAG (NN doggie))) (p=7.68515e-09)
+(ROOT
+  (INTJ (UH so))
+  (NP (PRP he))
+  (S
+    (VP
+      (AUX does)
+      (NOT n't)
+      (VP (VB cut) (NP (PRP himself)))))) (p=9.37106e-16)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (VP (VBZ (VB begin) (PRS s)) (PP (IN with)))))) (p=7.73689e-12)
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP
+      (VB help)
+      (NP (NNP maggie))
+      (VP
+        (VB put)
+        (NP (NNS (NN thing) (DIV s)))
+        (PRT (RP away)))))
+  (FRAG
+    (NP (RB too))
+    (VP (AUX do) (NOT n't) (NP (PRP you))))) (p=1.03698e-25)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB right))))) (p=1.38433e-05)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (COP 's) (NP (DT the) (NN baby))))) (p=1.69762e-06)
+(ROOT
+  (FRAG (VP (VB look) (WHNP (WDT what))))
+  (FRAG
+    (NP (PRP i))
+    (VP (VB put) (PP (IN in) (NP (DT the) (NN house)))))) (p=8.43886e-16)
+(ROOT
+  (FRAG
+    (NP (PRP$ your) (NN wife))
+    (VP (VB gave) (NP (PRP it)) (PP (IN to) (NP (PRP me)))))
+  (FRAG (PP (IN for) (NP (NNP christmas))))) (p=2.32964e-21)
+(ROOT
+  (NP (NN big) (NN boy))
+  (S (VP (VB look) (PP (IN at))))) (p=8.56806e-14)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX did)
+      (NP (PRP you))
+      (VP (VB do) (PP (IN when) (NP (PRP you))))))
+  (FRAG (VP (VB saw) (NP (NNP santa_claus))))) (p=2.59603e-17)
+(ROOT (FRAG (NN bear)) (INTJ (UH rowr))) (p=8.69356e-11)
+(ROOT (NP (NNP mr) (NN cotton)) (FRAG (NN tail))) (p=1.2898e-14)
+(ROOT
+  (NP (PRP you))
+  (S (VP (AUX do) (NOT n't) (VP (VB want) (NP (RB any)))))) (p=3.3007e-10)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (COP 's) (NP (PRP$ your) (NN radish))))) (p=6.56073e-09)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (NN hard))))) (p=1.13201e-09)
+(ROOT
+  (S
+    (VP
+      (COP are)
+      (NP (PRP you))
+      (ADJP (JJ (VB go) (ASP ing)))))
+  (S (VP (TO to) (VP (VB feed) (NP (DT the) (NN baby)))))) (p=2.13505e-15)
+(ROOT
+  (SBARQ
+    (WHNP (WP who))
+    (SQ
+      (VP
+        (VB gave)
+        (NP (PRP you))
+        (PP (DT this) (NN balloon)))))) (p=1.96543e-14)
+(ROOT
+  (NP (NNP sarah))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (NP (PRP you))
+      (VP
+        (VB think)
+        (NP (PRP you))
+        (VP
+          (VBP 've)
+          (VP
+            (VB had)
+            (ADJP (RB enough) (JJ (VB party) (ASP ing))))))))) (p=9.54775e-27)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP are) (NP (PRP you))))
+  (FRAG (ADJP (JJ (VB do) (ASP ing))))) (p=4.38629e-08)
+(ROOT (S (VP (VB eat) (PRT (RP up))))) (p=1.51052e-06)
+(ROOT
+  (NP (PRP you))
+  (S (VP (VB love) (NP (PRP$ your) (NN sign))))) (p=3.79337e-11)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP 's) (NP (DT the) (JJ little) (NN boy))))
+  (FRAG
+    (ADJP
+      (ADJP (JJ (VB do) (ASP ing)))
+      (PP (IN to) (NP (DT the) (NN kitty)))))) (p=9.05524e-19)
+(ROOT
+  (NP (PRP it))
+  (S (VP (COP 's) (NP (DT a) (JJ broken) (NN car))))) (p=2.48828e-12)
+(ROOT
+  (NP (NNP celia))
+  (S
+    (VP
+      (VBZ (VB wear) (PRS s))
+      (NP (NNS (NN sneaker) (DIV s)))))) (p=1.98686e-16)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ
+      (COP 's)
+      (NP (NP (RB enough)) (NNS (NN letter) (DIV s)))))) (p=3.64011e-12)
+(ROOT
+  (NP (PRP here))
+  (S (VP (COP 's) (NP (DT the) (JJ red) (NN one))))) (p=4.44434e-12)
+(ROOT (FRAG (ADJP (JJ careful))) (NP (NNP adam))) (p=1.05607e-08)
+(ROOT
+  (FRAG (CC and) (VP (VB look) (WHNP (WDT what))))
+  (FRAG (NP (PRP they)) (VP (VB did)))) (p=5.78013e-15)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (AUX did) (NP (PRP he)) (VP (VB do))))) (p=2.77882e-07)
+(ROOT (FRAG (ADVP (RB very))) (FRAG (ADVP (RB good)))) (p=2.15478e-07)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (NN sugar))))) (p=6.85382e-08)
+(ROOT
+  (NP (DT the) (NNS (NN present) (DIV s)))
+  (S
+    (VP
+      (COP are)
+      (ADJP (RB all) (JJ open))
+      (ADVP (RB now))))) (p=2.78859e-17)
+(ROOT (S (VP (VB come) (NP (PRP here))))) (p=1.20853e-06)
+(ROOT
+  (INTJ (UH why))
+  (S
+    (VP
+      (COP are)
+      (NP (PRP you))
+      (ADJP
+        (ADJP (JJ (VB climb) (ASP ing)))
+        (PP
+          (IN over)
+          (NP (NN top) (PP (IN of) (NP (PRP me)))))))
+    (NP (NNP joseph) (NNP huh)))) (p=1.33558e-28)
+(ROOT
+  (S
+    (VP (COP is) (ADVP (RB that)) (PP (DT the) (NN queen))))
+  (NP (RB now))) (p=9.60201e-14)
+(ROOT
+  (SBARQ
+    (INTJ (UH oh))
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (NNP paul))))
+  (FRAG
+    (PP
+      (IN when)
+      (NP
+        (NP (PRP he))
+        (S
+          (VP
+            (VBD came)
+            (NP (RB home))
+            (PP (IN from) (NP (DT the) (NN hospital))))))))) (p=1.65187e-30)
+(ROOT (NP (NNP christmas)) (FRAG (NN tree))) (p=7.61568e-09)
+(ROOT (FRAG (CC and) (NP (RB soft)))) (p=1.71862e-08)
+(ROOT
+  (INTJ (UH no))
+  (S (VP (VB say)))
+  (FRAG (NN elephant))) (p=6.521e-10)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (VBP know)
+      (SBAR
+        (COMP but)
+        (S (NP (PRP they)) (VP (VB fell) (PRT (RP down)))))))) (p=2.41512e-16)
+(ROOT
+  (SBARQ
+    (WHNP (WP who))
+    (SQ
+      (COP 's)
+      (NP
+        (FRAG
+          (PP (IN in) (NP (DT the) (NN dog) (NN house)))))))
+  (FRAG (ADVP (RB now)))) (p=3.51885e-17)
+(ROOT (FRAG (WHPP (IN for) (WHNP (WP who))))) (p=3.86368e-07)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBP want)
+      (VP
+        (TO to)
+        (VP
+          (VB wash)
+          (NP (PRP$ your) (NNS (NN hand) (DIV s)))))))) (p=1.27629e-13)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (VB know)
+      (NP (PRP i))
+      (VP
+        (VB know)
+        (NP (PRP it))
+        (VP (COP 's) (ADJP (RB very) (JJ sad))))))) (p=3.6287e-19)
+(ROOT
+  (NP (DT this) (NN one))
+  (S (VP (COP 's) (NP (DT the) (NN pizza))))) (p=2.1172e-12)
+(ROOT
+  (S
+    (VP (COP were) (ADJP (RB there) (JJ many)))
+    (NP
+      (NNS children)
+      (PP (IN at) (NP (NNP nina) (POS 's)))))
+  (NP (NN birthday) (NN party))) (p=2.31067e-29)
+(ROOT (INTJ (UH hello)) (NP (PRP there))) (p=6.62566e-07)
+(ROOT (NP (NNP ronny)) (S (VP (VB come) (PRT (RP on))))) (p=9.38973e-11)
+(ROOT
+  (NP (PRP here))
+  (S
+    (VP
+      (VB 's)
+      (NP (DT the) (JJ other) (NN part))
+      (PP (IN of) (NP (DT the) (JJ yellow) (NN egg)))))) (p=1.65925e-22)
+(ROOT
+  (FRAG (CC and) (NP (PRP i)))
+  (FRAG
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VBP know)
+        (SBAR
+          (WHNP (WP what) (RB else))
+          (S
+            (NP (PRP we))
+            (VP
+              (MD might)
+              (VP (COP be) (ADJP (JJ (VB do) (ASP ing))))))))))) (p=2.23564e-24)
+(ROOT
+  (NP (DT the) (NN girl))
+  (S (NP (RB downstairs)) (VP (VB was) (PRT (RP up))))) (p=2.24222e-14)
+(ROOT (NP (DT the) (NN paper)) (FRAG (ADVP (RB too)))) (p=1.44031e-08)
+(ROOT
+  (NP (DT which) (JJ little) (NN boy))
+  (S
+    (VP
+      (VB do)
+      (NP (PRP you))
+      (PP (IN like) (NP (NNP best)))))) (p=7.47836e-19)
+(ROOT
+  (S (VP (COP is) (NOT n't) (ADJP (RB that) (JJ pretty))))) (p=7.01561e-10)
+(ROOT
+  (FRAG
+    (NP (PRP they))
+    (VP
+      (COP 're)
+      (ADJP (RB so) (JJ smart))
+      (PP (IN because) (NP (PRP they)))))
+  (FRAG
+    (NP (RB always))
+    (VP
+      (VB go)
+      (PRT (RP around))
+      (PP (IN in) (NP (NNS (NN school) (DIV s))))))) (p=4.90007e-32)
+(ROOT
+  (NP (PRP we))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S (VP (TO to) (VP (VB have) (NP (NNP fish)))))))) (p=6.61415e-15)
+(ROOT
+  (INTJ (UH no) (UH no))
+  (FRAG
+    (ADVP (RB not))
+    (PP (IN in) (NP (DT this) (NN one))))) (p=1.91834e-13)
+(ROOT
+  (FRAG (ADVP (RB but) (RB before) (RB tomorrow)))
+  (FRAG
+    (WHADVP (WRB what))
+    (SQ (MD would) (NP (PRP you)) (VP (VB like))))) (p=9.79585e-21)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP 's) (NP (FRAG (PP (IN in) (NP (PRP it)))))))) (p=5.81941e-08)
+(ROOT
+  (SBARQ (CC and) (WHADVP (WRB where)) (SQ (VP (VB does))))) (p=3.68004e-09)
+(ROOT
+  (SBARQ
+    (WHNP (WP what) (RB else))
+    (SQ (COP is) (NP (RB inside))))
+  (NP (PRP$ your) (NN glass))) (p=2.10635e-16)
+(ROOT
+  (INTJ (UH well))
+  (NP (PRP it))
+  (S
+    (VP
+      (VBZ (VB look) (PRS s))
+      (PP (IN like) (NP (PRP it)))))) (p=1.7871e-11)
+(ROOT (NP (PRP it)) (S (VP (COP 's) (NP (PRP there))))) (p=6.33161e-07)
+(ROOT (NP (PRP they)) (S (VP (VB did) (WHNP (WDT what))))) (p=8.91162e-09)
+(ROOT
+  (FRAG (NP (PRP we)) (VP (MD 'll) (VP (VB read))))
+  (FRAG (ADVP (RBR later)))) (p=2.47148e-12)
+(ROOT
+  (SQ
+    (AUX did)
+    (NP (PRP you))
+    (VP
+      (VB drop)
+      (NP (DT the) (NNS (NN vegetable) (DIV s)))))) (p=1.19076e-13)
+(ROOT
+  (NP (PRP she))
+  (S
+    (VP (MD 'll) (VP (VB eat) (NP (PRP it))))
+    (NP (RB all)))) (p=1.9375e-12)
+(ROOT
+  (S
+    (VP
+      (VBP see)
+      (SBAR
+        (COMP if)
+        (S
+          (NP (PRP you))
+          (VP (MD can) (VP (VB make) (NP (PRP it))))))))) (p=1.63885e-13)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VB mean)
+      (NP (DT the) (NN water))
+      (VP (COP 's) (ADJP (JJ dirty)))))) (p=7.50127e-15)
+(ROOT
+  (INTJ (UH so))
+  (NP (PRP i))
+  (S (VP (VBD took) (NP (PRP it)) (ADVP (RB outside))))) (p=2.11429e-15)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX did)
+      (NP (PRP we))
+      (VP (VB do) (NP (PRP there)))))) (p=3.10577e-09)
+(ROOT (SQ (COP is) (NP (RB that))) (NP (RB so))) (p=4.71523e-08)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VB know)
+      (NP (PRP$ your) (NNS (NN color) (DIV s)))))) (p=2.28881e-09)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX do)
+      (NP (PRP they))
+      (VP
+        (VB think)
+        (PP (IN of) (NP (DT the) (NN candle))))))) (p=1.49825e-13)
+(ROOT
+  (FRAG (CC or) (NP (PRP i)) (VP (MD could) (VP (VB do))))
+  (NP (DT this) (NN one))) (p=1.14945e-14)
+(ROOT
+  (FRAG
+    (NP (PRP i))
+    (VP
+      (VB hate)
+      (NP (PRP it))
+      (PP (IN when) (NP (PRP i)))))
+  (FRAG (VP (VB miss) (NP (NNS (NN thing) (DIV s)))))) (p=1.16168e-20)
+(ROOT
+  (INTJ (UH no))
+  (NP (PRP he))
+  (S
+    (VP
+      (AUX did)
+      (NOT n't)
+      (VP
+        (VB give)
+        (NP (DT a) (NN lollipop))
+        (PP (IN to) (NP (NNP mommy))))))) (p=5.28735e-19)
+(ROOT (FRAG (NN screw)) (NP (PRP me))) (p=4.09865e-08)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX did)
+      (NP (NNP robin))
+      (VP (VB make) (NP (NNP adam)))))) (p=3.83409e-12)
+(ROOT
+  (SBARQ
+    (INTJ (JJ old) (NN lady))
+    (WHADVP (WRB where))
+    (SQ
+      (AUX does)
+      (NP (DT that) (NN basket))
+      (VP (VB belong))))) (p=2.0387e-22)
+(ROOT (SBARQ (WHNP (WP who)) (SQ (COP 's) (NP (RB that))))) (p=2.09679e-05)
+(ROOT (S (VP (VB do) (NP (PRP they))))) (p=5.91808e-06)
+(ROOT (S (VP (VB bring) (NP (PRP it)))) (NP (PRP here))) (p=9.71646e-09)
+(ROOT (FRAG (WHNP (WDT what))) (FRAG (NN dessert))) (p=8.30734e-08)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (AUX do) (NP (PRP you)) (VP (VB mean))))) (p=2.15237e-07)
+(ROOT
+  (S
+    (VP
+      (MD can)
+      (NP (PRP you))
+      (VP (VB do) (NP (RB that)))))
+  (NP (NNP adam))) (p=1.30902e-11)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP (VBP want) (VP (TO to) (VP (VB go))))))) (p=7.89216e-10)
+(ROOT
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (NP (PRP you))
+      (VP (VB turn) (NP (PRP it)) (PRT (RP around)))))) (p=6.89564e-13)
+(ROOT
+  (INTJ (UH yep))
+  (NP (PRP you))
+  (S (VP (COP were) (NOT n't) (NP (RB quite))))) (p=1.97814e-13)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (VB think)
+      (NP (RB that))
+      (VP (COP 's) (NP (DT the) (JJ ideal) (NN age)))))) (p=4.31365e-21)
+(ROOT
+  (S
+    (VP
+      (VBP want)
+      (VP (TO to) (VP (VB get) (NP (PRP it))))))) (p=5.99666e-09)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (NN cement) (NN truck))))) (p=1.30002e-11)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBP want)
+      (VP (TO to) (VP (VB close) (NP (DT the) (NN door))))))) (p=6.89864e-13)
+(ROOT (FRAG (NN pretzel)) (FRAG (ADVP (RB right)))) (p=6.02103e-09)
+(ROOT
+  (S
+    (VP (AUX do) (NOT n't) (VP (VB scare) (NP (PRP him)))))) (p=1.74498e-10)
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP
+      (VBD told)
+      (NP (NNP daddy))
+      (PP (IN about) (NP (DT that) (NN duck)))))
+  (S
+    (VP (AUX did) (NOT n't) (NP (PRP you)))
+    (NP (NNP child)))) (p=1.99371e-25)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (PRP$ her) (NN bed))))) (p=2.9605e-08)
+(ROOT (INTJ (UH hi)) (NP (NNP eve))) (p=1.43733e-07)
+(ROOT
+  (NP (PRP it))
+  (S
+    (VP
+      (COP 's)
+      (ADVP (RB not))
+      (PP (IN in) (NP (DT the) (NN picture)))))) (p=1.64721e-11)
+(ROOT (INTJ (UH okay)) (NP (DT good) (NN boy))) (p=6.47263e-10)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ
+      (AUX did)
+      (NP (PRP you))
+      (VP
+        (VB get)
+        (NP (DT those) (NNS (NN whistle) (DIV s))))))) (p=4.04695e-14)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP are) (NP (PRP$ my) (NNS (NN slide) (DIV s)))))
+  (FRAG
+    (ADJP
+      (ADJP (JJ (VB do) (ASP ing)))
+      (PP (IN in) (NP (PRP there)))))) (p=1.40768e-17)
+(ROOT
+  (SBARQ (WHNP (WP who)) (SQ (COP was) (NP (PRP her))))) (p=5.58221e-07)
+(ROOT
+  (S (VP (VB finish) (ADJP (JJ (VB eat) (ASP ing)))))
+  (S
+    (VP
+      (VB go)
+      (FRAG (VP (VB get) (ADJP (JJ (VB wash) (T ed)))))))) (p=3.09753e-20)
+(ROOT
+  (INTJ (UH well))
+  (S (VP (VB look) (PP (IN at) (NP (PRP it)))))
+  (FRAG (ADVP (RB first)))) (p=6.08401e-13)
+(ROOT
+  (INTJ (UH yes))
+  (NP (PRP it))
+  (S
+    (VP
+      (COP 's)
+      (ADJP (JJ good))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB make)
+            (FRAG
+              (ADVP (RB sure))
+              (NP (PRP you))
+              (VP
+                (VB put)
+                (NP (DT the) (NN cover))
+                (PRT (RP back))
+                (PP (IN on)))))))))) (p=7.898e-30)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (EX this))))) (p=4.76364e-05)
+(ROOT (S (VP (VB sing))) (S (VP (VB sing)))) (p=1.23944e-09)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBP want)
+      (VP (TO to) (VP (VB stand) (PRT (RP up))))))) (p=7.28599e-11)
+(ROOT (SBARQ (WHNP (WP who)) (SQ (COP 's) (NP (EX this))))) (p=1.35669e-05)
+(ROOT
+  (INTJ (UH yeah))
+  (NP (PRP it))
+  (S
+    (VP
+      (AUX does)
+      (NP
+        (FRAG
+          (VP
+            (VB look)
+            (FRAG
+              (VP
+                (VBD (VB burn) (T ed))
+                (NP
+                  (NP (PRP it))
+                  (S
+                    (VP
+                      (COP 's)
+                      (ADJP
+                        (ADJP
+                          (RB not)
+                          (JJ (VB burn) (T ed)))
+                        (PP (IN though) (NP (NNP sara))))
+                      (S
+                        (NP (PRP it))
+                        (VP
+                          (VB 's)
+                          (FRAG
+                            (ADVP (RB just))
+                            (NP
+                              (NN something)
+                              (PP
+                                (IN inside)
+                                (NP
+                                  (DT the)
+                                  (NN cup)
+                                  (PP
+                                    (IN because)
+                                    (NP (PRP you))))))
+                            (VP
+                              (MD can)
+                              (VP (VB pick) (NP (RB that))))))
+                        (NP (RB right))))))
+                (PRT (RP off)))))))
+      (VP (VB see))))) (p=1.2319e-76)
+(ROOT
+  (SBARQ
+    (WHNP (WDT what) (NN color))
+    (SQ (MD would) (NP (PRP you)) (VP (VB like))))) (p=3.71319e-11)
+(ROOT
+  (NP (PRP it))
+  (S (VP (COP 's) (PP (IN for) (NP (PRP me)))))) (p=1.92631e-08)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB put)
+            (NP (DT the) (NN hat))
+            (PP (IN on) (NP (RB next))))))))) (p=2.39603e-19)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (COP 's)
+      (NP (FRAG (PP (IN in) (NP (DT the) (NN basket)))))))) (p=6.92995e-11)
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (MD can) (VP (VB have) (NP (DT a) (NN bath)))))
+  (FRAG (ADVP (RBR later)))) (p=1.60312e-14)
+(ROOT
+  (NP (PRP he))
+  (S (VP (VBD went) (PP (IN in) (NP (DT the) (NN door)))))) (p=2.45685e-12)
+(ROOT
+  (INTJ (UH well))
+  (NP (PRP it))
+  (S
+    (VP
+      (VBP has)
+      (VP
+        (VB got)
+        (NP (NNP chocolate) (NN cake))
+        (VP
+          (VBD (VB sprinkle) (T ed))
+          (PP (IN inside) (NP (PRP it)))))))) (p=2.28953e-31)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX do)
+      (NP (PRP they))
+      (VP (VB do) (NP (PRP it)) (PP (IN with)))))) (p=3.0919e-11)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (VBD thought)
+      (SBAR
+        (WHADVP (WRB that))
+        (S (VP (VB was) (NP (PRP her)))))))) (p=1.45946e-15)
+(ROOT
+  (NP (PRP here))
+  (S (VP (COP 's) (NP (DT some) (NN paper))))) (p=1.38497e-10)
+(ROOT
+  (NP (PRP you))
+  (S (VP (VB eat) (NP (NN spinach) (RB too))))) (p=3.92901e-13)
+(ROOT (NP (DT which) (NN one))) (p=2.75663e-07)
+(ROOT
+  (SQ
+    (MD can)
+    (NP (PRP you))
+    (VP
+      (VB get)
+      (NP (PRP it))
+      (PP (IN in) (NP (PRP there)))))) (p=3.26286e-12)
+(ROOT
+  (FRAG (VP (VB tell) (NP (PRP them))))
+  (FRAG
+    (ADVP (RB how))
+    (NP (PRP you))
+    (VP (VB got) (NP (RB that))))) (p=3.12158e-15)
+(ROOT
+  (SQ
+    (AUX does)
+    (NP (RB that))
+    (VP
+      (VB look)
+      (PP (IN like) (NP (PRP$ your) (NN room)))))) (p=1.78182e-14)
+(ROOT
+  (INTJ (UH yeah))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP (VB throw) (NP (DT the) (NNS (NN toy) (DIV s))))))) (p=2.24489e-13)
+(ROOT
+  (NP (PRP she))
+  (S
+    (VP
+      (VBZ (VB take) (PRS s))
+      (NP (DT a) (NN pencil))
+      (PP (DT and) (NN paper))))) (p=6.02185e-18)
+(ROOT
+  (NP (NNP mommy))
+  (S (VP (VB has) (NP (DT a) (NN splinter))))) (p=1.03367e-11)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP
+      (VBP know)
+      (SBAR (WHNP (WP what) (RB that)) (S (VP (VB is))))))) (p=9.28354e-13)
+(ROOT
+  (SBARQ
+    (CC and)
+    (WHNP (WDT what))
+    (SQ (COP are) (NP (PRP they))))
+  (NP (NN building) (PP (IN at) (NP (DT the) (NN beach))))) (p=1.16043e-18)
+(ROOT
+  (INTJ (UH well))
+  (S
+    (NP (PRP you))
+    (VP (VB give) (NP (PRP me)))
+    (NP (DT the) (NN scissors)))
+  (FRAG
+    (CC and)
+    (NP (PRP i))
+    (VP
+      (MD 'll)
+      (VP
+        (VB let)
+        (NP (NNP paul))
+        (VP (VB cut) (NP (RB some))))))) (p=7.82758e-34)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB right))))) (p=1.38433e-05)
+(ROOT (INTJ (UH hehe)) (S (VP (VB look) (NP (PRP it))))) (p=6.86562e-10)
+(ROOT (FRAG (ADVP (RB good))) (FRAG (NN job))) (p=4.24423e-08)
+(ROOT
+  (INTJ (UH well))
+  (NP (PRP you))
+  (S
+    (VP
+      (VBP tell)
+      (NP (PRP me))
+      (SBAR
+        (WHADVP (WRB what))
+        (S (NP (PRP it)) (VP (VB is))))))) (p=8.80225e-16)
+(ROOT (NP (PRP$ his) (NNS (NN wing) (DIV s)))) (p=6.32782e-09)
+(ROOT
+  (S
+    (VP
+      (COP is)
+      (NP (RB that))
+      (SBAR
+        (WHADVP (WRB what))
+        (S
+          (NP (PRP you))
+          (VP (VBD meant) (PP (IN when) (NP (PRP you))))))))
+  (S
+    (VP
+      (COP were)
+      (ADJP (JJ (VB talk) (ASP ing)))
+      (PP (IN about) (NP (NNS (NN gypsy) (DIV s))))))) (p=3.06871e-33)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (AUX did) (NP (PRP you)) (VP (VB pick))))) (p=8.16897e-08)
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP
+      (VBD (VB learn) (T ed))
+      (NP (RB how))
+      (PP (IN to) (NP (PRP she)))))
+  (FRAG
+    (VP
+      (COP 's)
+      (ADJP (JJ (VB learn) (ASP ing)))
+      (S
+        (NP (RB how))
+        (VP
+          (TO to)
+          (VP (VB do) (NP (PRP it)) (PRT (RP now)))))))) (p=4.3077e-31)
+(ROOT
+  (NP (PRP$ your) (NN dog))
+  (S (VP (COP 's) (NP (NNP michael))))) (p=3.29581e-11)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VBP know)
+        (SBAR
+          (WHADVP (WRB what))
+          (S
+            (VP
+              (MD 'd)
+              (NP (PRP you))
+              (VP (VB do) (PP (IN with) (NP (PRP it))))))))))) (p=1.83149e-17)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP (VB have) (NP (DT a) (NN back) (NN side))))) (p=1.87167e-14)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP
+      (VBZ (VB want) (PRS s))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB play)
+            (PP (IN with) (NP (DT the) (NN seal))))))))) (p=6.10497e-18)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP
+      (VB want)
+      (NP (PRP me))
+      (VP (TO to) (VP (VB do) (NP (PRP it))))))) (p=9.37815e-14)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (MD can)
+      (VP (VB get) (NP (PRP it)) (VP (VB look)))))) (p=1.4702e-11)
+(ROOT
+  (FRAG
+    (VP (COP is) (ADVP (RB that)) (PP (DT the) (NN way))))
+  (FRAG (NP (PRP you)) (VP (VB do) (NP (PRP it))))) (p=1.45712e-14)
+(ROOT (NP (PRP it)) (S (VP (COP 's) (ADVP (RB alright))))) (p=9.43818e-08)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (JJ okay) (NNP thomas))))) (p=4.39583e-11)
+(ROOT
+  (S
+    (VP
+      (COP are)
+      (NP (PRP you))
+      (ADJP (JJ (VB bend) (ASP ing)))))
+  (NP
+    (NP (PRP$ her) (NNP feet))
+    (CC and)
+    (NP (PRP$ her) (NNS (NN knee) (DIV s))))) (p=1.12646e-24)
+(ROOT (S (VP (VB put) (NP (RB that)) (PRT (RP down))))) (p=3.56985e-08)
+(ROOT
+  (SQ
+    (AUX did)
+    (NP (PRP you))
+    (VP (VB sit) (PP (IN on) (NP (PRP$ his) (NN lap)))))) (p=2.40888e-14)
+(ROOT
+  (INTJ (UH oh))
+  (S
+    (VP
+      (COP is)
+      (ADVP (RB that))
+      (NP (PRP$ your) (NN favorite) (NN kind))))
+  (FRAG (PP (IN of) (NP (NN cake))))) (p=3.99207e-22)
+(ROOT (NP (DT a) (JJ big) (NN boy))) (p=8.95782e-09)
+(ROOT
+  (S (VP (VB show) (NP (PRP her))) (NP (DT the) (NN book)))
+  (CC and)
+  (S
+    (VP
+      (VBP see)
+      (SBAR
+        (COMP if)
+        (S
+          (NP (PRP she))
+          (VP
+            (VBZ (VB know) (PRS s))
+            (SBAR
+              (WHADVP (WRB what))
+              (S
+                (NP (DT the) (NNS (NN picture) (DIV s)))
+                (VP (VB are)))))))))) (p=9.80972e-35)
+(ROOT
+  (S
+    (VP
+      (VB sit)
+      (PRT (RP down))
+      (PP
+        (IN in)
+        (NP
+          (DT the)
+          (NN chair)
+          (PP (IN till) (NP (PRP i)))))))
+  (S (VP (VB get) (NP (PRP him))) (NP (RB ready)))) (p=3.41749e-27)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (VBD knew)
+      (S
+        (NP (PRP she))
+        (VP
+          (MD 'd)
+          (VP (VB come) (PP (IN in) (NP (NN handy)))))
+        (NP (DT some) (NN day)))))) (p=2.90678e-29)
+(ROOT (FRAG (ADVP (RB too))) (FRAG (ADVP (RB bad)))) (p=3.10337e-08)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (JJ (VB hurt) (ASP ing)) (NNP mommy))))
+  (FRAG
+    (NP (PRP$ 's) (NNS (NN knee) (DIV s)))
+    (NP (NNP child)))) (p=7.83956e-22)
+(ROOT
+  (S
+    (VP
+      (VB remember)
+      (NP (DT the) (NNS (NN monkey) (DIV s)))
+      (PP (IN at) (NP (DT the) (NN zoo)))))) (p=7.15749e-16)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB feel)
+        (PP
+          (IN like)
+          (NP
+            (JJ (VB eat) (ASP ing))
+            (JJ hot)
+            (NNS (NN dog) (DIV s)))))))) (p=9.76543e-21)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (MD can) (NP (PRP you)) (VP (VB sing))))) (p=1.70709e-08)
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VB mean) (NP (DT the) (NN one))))
+  (FRAG
+    (NP (NP (PRP you)) (ADVP (RB just)))
+    (VP
+      (VBD drew)
+      (S
+        (VP
+          (COP is)
+          (ADJP (JJ (VB suppose) (T ed)))
+          (S
+            (VP
+              (TO to)
+              (VP (VB look) (PP (IN like) (NP (RB that))))))))))) (p=1.54427e-34)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP (VB got) (NP (NNP ann_marie)) (PRT (RP down)))
+    (NP (PRP there)))) (p=7.95787e-14)
+(ROOT
+  (INTJ (UH no))
+  (FRAG
+    (ADVP (RB because))
+    (NP (PRP they))
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB like)
+        (NP (PRP you))
+        (VP
+          (TO to)
+          (VP
+            (VB get)
+            (PP (IN in) (NP (PRP$ their) (NNP honey))))))))
+  (S (VP (VB do) (NP (PRP they))))) (p=9.70006e-31)
+(ROOT
+  (FRAG (NN one))
+  (FRAG
+    (CC then)
+    (NP (NP (CD two)) (CC then) (NP (CD three))))) (p=2.50184e-18)
+(ROOT
+  (INTJ (UH oh))
+  (S (VP (VB look) (WHNP (WDT what))))
+  (FRAG (NP (PRP i)) (VP (VBP 've) (VP (VB got))))) (p=8.3473e-16)
+(ROOT (FRAG (NN poodle)) (FRAG (NN dog))) (p=5.89197e-09)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ
+      (AUX did)
+      (NP (NNP daddy))
+      (VP (VB go) (NP (NNP child)))))) (p=3.85208e-11)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP
+      (VBP know)
+      (SBAR
+        (WHADVP (WRB what))
+        (S (NP (EX this)) (VP (VB is))))))) (p=3.59548e-13)
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP
+      (VBD (VB knock) (T ed))
+      (NP (CD one))
+      (PRT (RP down))))
+  (FRAG (NN driver))) (p=5.32284e-17)
+(ROOT
+  (INTJ (UH no))
+  (NP (PRP i))
+  (S (VP (VBD meant) (NP (DT the) (NN present))))) (p=2.16399e-14)
+(ROOT
+  (NP (PRP you))
+  (FRAG
+    (ADJP
+      (ADJP (JJ (VB talk) (ASP ing)))
+      (PP (IN about) (NP (DT the) (NN baby)))))) (p=4.75679e-13)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (VP
+        (VBZ (VB happen) (PRS s))
+        (PP
+          (IN to)
+          (NP (PDT all) (DT the) (NNS (NN paper) (DIV s)))))))
+  (FRAG
+    (PP (IN on) (NP (PRP$ your) (NNS (NN crayon) (DIV s)))))) (p=1.63925e-22)
+(ROOT
+  (S (VP (VB put) (PRT (RP out))))
+  (NP (PRP$ your) (NNS (NN hand) (DIV s)))) (p=5.80433e-11)
+(ROOT
+  (S
+    (VP
+      (COP are)
+      (NP (PRP you))
+      (ADJP (JJ (VB put) (ASP ing)))))
+  (NP
+    (NN something)
+    (PP (IN on) (NP (PRP$ your) (NN knee))))) (p=9.50474e-18)
+(ROOT (NP (PRP i)) (S (VP (VB like) (NP (PRP you))))) (p=4.31948e-06)
+(ROOT
+  (INTJ (UH thank))
+  (NP (NP (PRP you)) (ADVP (RB very) (RB much)))
+  (S (NP (NNP sarah)))) (p=1.28268e-15)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (MD need)
+      (VP (TO to) (VP (VB do) (WHNP (WDT what))))))) (p=1.73592e-11)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ
+      (AUX did)
+      (NP (PRP you))
+      (VP
+        (VB go)
+        (PP (IN with) (NP (DT the) (NNS (NN kid) (DIV s)))))))) (p=2.97524e-13)
+(ROOT
+  (NP (PRP there))
+  (S
+    (VP
+      (VB are)
+      (NP (DT a) (NN lot))
+      (PP (IN of) (NP (PRP them)))))) (p=3.96227e-14)
+(ROOT (INTJ (UH oh)) (FRAG (NN man))) (p=1.97887e-06)
+(ROOT
+  (INTJ (UH well))
+  (NP (PRP you))
+  (S (VP (VB put) (NP (PRP them)) (PRT (RP on))))) (p=1.63555e-10)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (VP
+        (COP 's)
+        (ADJP (JJ (VB happen) (ASP ing)))
+        (PP (IN to) (NP (DT the) (NN truck))))))) (p=3.14656e-13)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP (COP was) (ADJP (JJ (VB play) (ASP ing))))
+    (NP
+      (DT a)
+      (NN game)
+      (PP
+        (IN with)
+        (NP
+          (DT a)
+          (JJ little)
+          (NN girl)
+          (PP (DT the) (JJ other) (NN day))))))) (p=2.73408e-29)
+(ROOT
+  (FRAG
+    (PP
+      (IN in)
+      (PP (IN in) (NP (DT the) (NN baby) (NN toy)))))
+  (NP (NN box) (PP (IN in) (NP (DT the) (NN garage))))) (p=1.55164e-23)
+(ROOT (NP (NNP friday)) (S (VP (VB say)))) (p=3.35471e-08)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (NN dog))))) (p=4.94539e-07)
+(ROOT
+  (SBARQ
+    (WHNP (WP what) (RB else))
+    (SQ
+      (MD can)
+      (NP (PRP you))
+      (VP (VB find) (PP (IN over) (NP (PRP here))))))) (p=1.44357e-15)
+(ROOT
+  (S
+    (VP
+      (VBP show)
+      (NP (PRP me))
+      (SBAR
+        (WHADVP (WRB what))
+        (S (VP (COP 's) (PP (IN on) (NP (PRP it))))))))) (p=8.77066e-15)
+(ROOT (FRAG (VP (VB make))) (FRAG (WHNP (WP who)))) (p=2.23513e-07)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (COP is)
+      (NP (NP (PRP she)) (ADJP (JJ (VB go) (ASP ing))))))
+  (FRAG
+    (VP (TO to) (VP (VB do) (PP (IN in) (NP (PRP there))))))) (p=1.7119e-16)
+(ROOT
+  (NP (DT the) (NN swing))
+  (S
+    (VP
+      (VB 's)
+      (PRT (RP out))
+      (PP (IN in) (NP (DT the) (NN yard)))))) (p=6.77232e-16)
+(ROOT
+  (NP (NNP eve) (POS 's))
+  (S (VP (VB turn) (NP (RB now))))) (p=3.60144e-11)
+(ROOT
+  (NP (NNP thomas))
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (VP
+        (VBD (VB happen) (T ed))
+        (PP (IN to) (NP (PRP you))))))) (p=3.35925e-15)
+(ROOT (FRAG (ADVP (RB before))) (NP (PRP$ your) (NN nap))) (p=3.94159e-10)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX did)
+      (NP (PRP you))
+      (VP
+        (VB put)
+        (PP (IN under) (NP (NNP mommy) (POS 's))))))
+  (FRAG (NN nose))) (p=2.37946e-17)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP
+      (VB has)
+      (NP (DT a) (NN stethoscope))
+      (PRT (RP on))))) (p=3.09914e-13)
+(ROOT (FRAG (NN scooter)) (FRAG (NN doll))) (p=1.65305e-09)
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP
+      (VBP know)
+      (SBAR
+        (COMP if)
+        (S
+          (NP (PRP you))
+          (VP
+            (AUX did)
+            (NP
+              (FRAG
+                (SBAR
+                  (WHADVP (WRB what))
+                  (S
+                    (NP (PRP you))
+                    (VP
+                      (COP were)
+                      (ADJP (JJ (VB suppose) (T ed)))
+                      (S
+                        (VP
+                          (TO to)
+                          (VP
+                            (VB do)
+                            (PP (IN when) (NP (PRP you)))))))))))
+            (VP
+              (COP 're)
+              (VP
+                (VBD told)
+                (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))))))
+  (FRAG
+    (NP (PRP you))
+    (VP
+      (VP
+        (MD might)
+        (VP
+          (COP be)
+          (ADJP (JJ able))
+          (S
+            (VP
+              (TO to)
+              (VP
+                (VB go)
+                (PRT (RP out))
+                (PP (IN at) (NP (RB night))))))))
+      (CC and)
+      (VP
+        (AUX do)
+        (NP
+          (NP (NNS (NN thing) (DIV s)))
+          (S
+            (NP (PRP you))
+            (VP
+              (VB know)
+              (PP
+                (IN like)
+                (NP (DT a) (JJ good) (NN girl))))))
+        (VP
+          (VBZ (VB get) (PRS s))
+          (S (VP (TO to) (VP (VB do))))))))) (p=4.61277e-97)
+(ROOT
+  (FRAG
+    (NP (PRP i))
+    (VP
+      (COP 'm)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S (VP (TO to) (VP (VB get) (NP (PRP you)))))))
+  (FRAG
+    (NP (PRP i))
+    (VP
+      (COP 'm)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB get)
+            (NP (PRP you))
+            (VP (VBD (VB clean) (T ed)) (PRT (RP up))))))))) (p=4.46736e-31)
+(ROOT
+  (INTJ (UH now))
+  (NP (DT the) (NN barn))
+  (S (VP (COP is) (ADJP (JJ (VB lock) (T ed)))))) (p=4.3545e-15)
+(ROOT
+  (INTJ (UH oh) (UH oh))
+  (NP (NNP mommy))
+  (S
+    (VP
+      (VBD (VB knock) (T ed))
+      (NP (PRP him))
+      (PRT (RP over))))) (p=8.06206e-17)
+(ROOT
+  (NP (RB because))
+  (S
+    (NP (RB that))
+    (VP (COP 's) (ADJP (JJ (VB seal) (T ed)))))) (p=8.94393e-15)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB right))))) (p=1.38433e-05)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (AUX does) (NP (DT the) (NN drum)) (VP (VB make))))) (p=2.64732e-11)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB pull)
+            (NP (PRP yourself))
+            (PRT (RP over)))))))) (p=5.86074e-17)
+(ROOT
+  (NP (PRP you))
+  (S (VP (VB tell) (NP (PRP him)) (PRT (RP now))))) (p=3.00997e-10)
+(ROOT
+  (NP (PRP it))
+  (S (VP (COP 's) (NP (PRP$ your) (NN favorite) (NN guy))))) (p=2.68135e-13)
+(ROOT (NP (NNP auntie) (NNP mabel))) (p=4.63342e-12)
+(ROOT
+  (INTJ (UH why))
+  (S (VP (AUX do) (NOT n't) (NP (PRP you)) (VP (VB go))))
+  (FRAG (VP (VB blow) (NP (PRP$ your) (NN nose))))) (p=4.67868e-18)
+(ROOT
+  (NP (PRP here))
+  (S (VP (COP 's) (NP (DT a) (NN blanket))))) (p=5.46818e-10)
+(ROOT
+  (NP
+    (NP (NNS (NN pea) (DIV s)))
+    (CC and)
+    (NP
+      (NP
+        (ADJP (JJ (VB mash) (T ed)))
+        (NNS (NN potato) (DIV s)))
+      (CC and)
+      (NP (DT a) (NN baby))))
+  (FRAG (NN hamburger))) (p=3.26894e-30)
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (PRP we))
+    (VP
+      (MD 'll)
+      (VP
+        (VB put)
+        (NP (PRP it))
+        (PRT (RP on))
+        (PP (IN after) (NP (PRP you))))))
+  (FRAG (VP (VB finish) (NP (NN building))))) (p=4.82935e-25)
+(ROOT
+  (NP (PRP we))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (RB not) (JJ (VB leave) (ASP ing)))))) (p=2.3937e-10)
+(ROOT
+  (INTJ (UH oh))
+  (NP (PRP you))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB take) (ASP ing)))
+      (ADVP (NP (PRP$ your) (NN turn)) (RB alright))))) (p=1.57206e-17)
+(ROOT
+  (FRAG (ADVP (JJ little) (NN country)))
+  (NP (NN doctor) (NN box))) (p=7.16217e-18)
+(ROOT (INTJ (UH well)) (S (VP (VB fix) (NP (PRP it))))) (p=1.99423e-08)
+(ROOT
+  (S
+    (VP
+      (VBP let)
+      (VP (COP 's) (VP (VB see) (NP (RB that))))))) (p=5.45139e-11)
+(ROOT
+  (INTJ (UH oh) (UH dear))
+  (S (VP (VB let) (NP (PRP me))))
+  (FRAG (VP (VB see)))) (p=8.40315e-15)
+(ROOT
+  (NP (PRP you))
+  (S (VP (VB have) (NP (DT a) (NN cough))))) (p=8.72961e-10)
+(ROOT
+  (NP (PRP i))
+  (S (VP (VB think) (NP (PRP you)) (VP (MD can))))) (p=7.28139e-10)
+(ROOT
+  (SBARQ
+    (WHNP (WP who))
+    (SQ (COP 's) (NP (NNP mister) (NNP g))))) (p=4.6323e-12)
+(ROOT
+  (NP (PRP here))
+  (S
+    (VP
+      (VB let)
+      (NP (PRP me))
+      (VP (VB pull) (NP (EX this)) (PRT (RP down)))))) (p=1.32294e-16)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (COP 'm)
+      (ADVP (RB not))
+      (PP (IN in) (NP (PRP$ your) (NN way))))
+    (NP (RB either)))) (p=1.84762e-17)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB hard))))
+  (FRAG
+    (VP
+      (TO to)
+      (VP
+        (VB make)
+        (PRT (RP out))
+        (PP (IN of) (NP (NNP clay))))))) (p=3.27646e-19)
+(ROOT
+  (NP (PRP you))
+  (FRAG (ADJP (JJ (VB cough) (ASP ing))))) (p=4.69411e-09)
+(ROOT
+  (S
+    (VP (VB make) (NP (DT the) (NN hair)))
+    (NP (DT a) (NN little)))
+  (FRAG (ADVP (RBR longer)))) (p=7.81707e-17)
+(ROOT
+  (SBARQ
+    (INTJ (UH look) (NP (DT that) (NN way)))
+    (WHADVP (WRB what))
+    (SQ (AUX do) (NP (PRP you)) (VP (VB see))))) (p=3.63494e-15)
+(ROOT
+  (INTJ (UH no) (UH no))
+  (FRAG (ADVP (RB not)) (PP (IN for) (NP (PRP me))))) (p=6.70992e-12)
+(ROOT (NP (NNP robin) (POS 's))) (p=4.37761e-07)
+(ROOT
+  (INTJ (UH no))
+  (NP (PRP i))
+  (S
+    (VP
+      (VB think)
+      (NP (RB that))
+      (VP
+        (VB 's)
+        (NP (DT a) (NN knife))
+        (VP (COP is) (NOT n't) (NP (PRP it))))))) (p=1.99001e-21)
+(ROOT
+  (FRAG (VP (VB make)))
+  (FRAG
+    (ADVP (RB sure))
+    (NP (PRP it))
+    (VP (COP 's) (NP (DT a) (JJ whole) (NN bunch))))) (p=1.72525e-20)
+(ROOT
+  (NP (PRP here))
+  (S
+    (VP
+      (VP (COP 's) (NP (DT the) (NN magnet)))
+      (CC and)
+      (VP (VB watch))))) (p=2.492e-16)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBD went)
+      (PP (IN to) (NP (DT the) (NN hospital)))))) (p=6.64303e-13)
+(ROOT
+  (SQ
+    (AUX does)
+    (NP (PRP it))
+    (VP (VB sew) (NP (NNS (NN toy) (DIV s)))))) (p=1.01155e-13)
+(ROOT
+  (SQ
+    (AUX did)
+    (NP (PRP you))
+    (VP (VB like) (NP (RB that))))) (p=1.24064e-08)
+(ROOT
+  (SBARQ (WHADVP (WRB how)) (SQ (COP 's) (NP (RB that))))) (p=1.58954e-05)
+(ROOT
+  (INTJ (UH okay))
+  (NP (PRP we))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S
+        (VP
+          (TO to)
+          (VP (VB need) (NP (DT some) (NN soap))))))
+    (NP (PRP here)))) (p=7.0611e-23)
+(ROOT
+  (SBARQ
+    (INTJ (UH oh))
+    (WHNP (WP who))
+    (SQ
+      (COP 's)
+      (NP (FRAG (PP (IN in) (NP (DT the) (NN village)))))))) (p=1.28074e-13)
+(ROOT
+  (NP (PRP i))
+  (S (VP (AUX do) (NOT n't) (VP (VB think) (NP (RB so)))))) (p=2.03859e-09)
+(ROOT
+  (S (VP (COP is) (ADJP (RB that) (JJ (VB call) (T ed)))))
+  (NP (DT a) (NN saw))) (p=2.14621e-14)
+(ROOT
+  (INTJ (UH oh))
+  (FRAG
+    (CC and)
+    (NP (PRP he))
+    (VP
+      (VBZ (VB knock) (PRS s))
+      (NP (PRP it))
+      (ADVP (RB right) (RB down))))) (p=5.31079e-19)
+(ROOT
+  (NP (NNP sarah))
+  (SBARQ
+    (WHNP (WDT what) (NN color))
+    (SQ
+      (COP is)
+      (NP (NP (NNP courtney) (POS 's)) (NN blouse))))) (p=4.11761e-22)
+(ROOT
+  (NP
+    (DT a)
+    (NN (VB flower) (ASP ing))
+    (PP (IN like) (NP (PRP they))))
+  (S
+    (VP
+      (VB use)
+      (PP (IN for) (NP (DT a) (NN street) (NN tree)))))) (p=3.07048e-27)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP (COP 'm) (ADJP (JJ (VB make) (ASP ing))))
+    (NP (DT a) (NN jungle) (NN gym)))) (p=4.94634e-20)
+(ROOT (NP (PRP it)) (S (VP (COP was) (ADJP (JJ great))))) (p=4.68441e-09)
+(ROOT (INTJ (UH oh)) (NP (DT the) (JJ little) (NN guy))) (p=5.95066e-10)
+(ROOT
+  (S
+    (VP
+      (COP are)
+      (NP (DT any) (NNP children))
+      (ADJP (JJ (VB go) (ASP ing)))))
+  (S (VP (TO to) (VP (VB visit) (NP (PRP you)))))) (p=2.39897e-19)
+(ROOT
+  (FRAG
+    (PP (IN over) (NP (NP (PRP there)) (ADVP (RB please)))))
+  (FRAG (CC and) (VP (VB finish)))) (p=5.65687e-17)
+(ROOT
+  (FRAG (PP (IN at) (NP (NNP ari) (POS 's))))
+  (FRAG (ADVP (RB home)))) (p=2.34343e-12)
+(ROOT
+  (NP (PRP it))
+  (S (VP (VBP does) (VP (VB does) (NP (PRP it)))))) (p=1.41701e-11)
+(ROOT
+  (NP (NNP nina) (POS 's))
+  (S
+    (NP
+      (NP (DT the) (NN mommy))
+      (CC and)
+      (NP (NNP elizabeth)))
+    (VP (COP 's) (NP (DT the) (JJ little) (NN baby))))) (p=3.2137e-24)
+(ROOT
+  (FRAG
+    (CC and)
+    (VP
+      (VBP let)
+      (VP
+        (COP 's)
+        (VP (VB put) (NP (DT an) (NN ice) (NN cube))))))
+  (FRAG (PP (IN in)))) (p=3.08384e-25)
+(ROOT (INTJ (UH oh)) (INTJ (UH no) (UH no) (UH no))) (p=9.41874e-08)
+(ROOT
+  (NP (PRP$ your) (NNP mom))
+  (S
+    (VP
+      (COP 's)
+      (VP
+        (VB got)
+        (NP (DT some) (NNS (NN paint) (DIV s)))
+        (PP (IN for) (NP (PRP you))))))) (p=1.01584e-21)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (AUX did) (NP (NNP robin)) (VP (VB do))))) (p=4.83728e-09)
+(ROOT
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (NP (PRP you))
+      (VP
+        (VB think)
+        (NP (PRP it))
+        (VP
+          (MD might)
+          (VP
+            (COP be)
+            (NP (DT a) (NN little))
+            (ADJP (RB too) (JJ large)))))))
+  (S
+    (VP (TO to) (VP (VB go) (PP (IN on) (NP (PRP there))))))) (p=6.22634e-34)
+(ROOT
+  (NP (PRP they))
+  (S
+    (VP (AUX do) (NOT n't) (VP (VB come) (PRT (RP off))))
+    (NP (NNP sarah)))) (p=4.94075e-13)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB not))))
+  (NP (DT a) (NN jump))) (p=2.93728e-12)
+(ROOT
+  (INTJ (UH well))
+  (NP (PRP i))
+  (S
+    (VP
+      (COP 'm)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (ADVP (RB along))))) (p=8.03131e-14)
+(ROOT
+  (FRAG (WHNP (WDT what) (NN kind) (PP (IN of))))
+  (FRAG (NN stuff))) (p=1.11479e-12)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (COP 's) (NP (NNP nina) (POS 's))))
+  (NP (NNP mommy))) (p=3.44793e-11)
+(ROOT
+  (S (VP (VB have) (NP (PRP they))))
+  (S
+    (VP
+      (VBD (VB finish) (T ed))
+      (ADJP (JJ (VB eat) (ASP ing)))))) (p=9.12628e-15)
+(ROOT
+  (NP (DT the) (NN lady))
+  (S (VP (COP 's) (ADVP (RB home))))) (p=2.01102e-10)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX did)
+      (NP (PRP you))
+      (VP (VB do) (PP (IN at) (NP (DT the) (NN cottage))))))) (p=2.61157e-13)
+(ROOT (INTJ (UH yes)) (NP (PRP you)) (S (VP (VB do)))) (p=1.71766e-06)
+(ROOT
+  (INTJ (UH no))
+  (NP (NNP chelsea) (CC and) (NNP ting))) (p=9.2778e-15)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP was) (NP (RB that))))) (p=7.31892e-06)
+(ROOT
+  (S
+    (VP
+      (MD shall)
+      (NP (PRP we))
+      (VP (VB read) (NP (PRP her)))))
+  (NP
+    (DT a)
+    (NN story)
+    (PP (IN about) (NP (DT the) (NN farm))))) (p=3.28038e-23)
+(ROOT (NP (PRP she)) (S (VP (VBD said)))) (p=7.97933e-08)
+(ROOT
+  (INTJ (UH oh))
+  (NP (DT the) (NNP hokey))
+  (S (NP (NNP pokey)))) (p=2.49868e-16)
+(ROOT
+  (INTJ (UH no))
+  (S (VP (VB draw) (PP (IN on) (NP (DT the) (NN paper)))))) (p=3.86303e-12)
+(ROOT (FRAG (NN paper)) (NP (NNS (NN cup) (DIV s)))) (p=2.3511e-09)
+(ROOT
+  (NP (PRP it))
+  (S (VP (COP 's) (NP (DT a) (NNP round) (NN block))))) (p=2.63806e-13)
+(ROOT
+  (SQ
+    (MD can)
+    (NP (PRP you))
+    (VP
+      (VB tell)
+      (NP (NNP anne))
+      (PP (IN about) (NP (DT that) (NN park)))))) (p=2.28993e-19)
+(ROOT (NP (DT a) (NN truck))) (p=2.58406e-06)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (COP is) (NP (DT the) (NN train))))
+  (FRAG (ADJP (JJ (VB go) (ASP ing))))) (p=7.63007e-11)
+(ROOT
+  (NP (NNS clothes))
+  (S
+    (VP
+      (COP are)
+      (ADVP (RB all))
+      (PP (IN around) (NP (DT the) (NN yard)))))) (p=3.05579e-18)
+(ROOT (INTJ (UH no)) (INTJ (UH thank) (NP (PRP you)))) (p=3.18569e-07)
+(ROOT
+  (NP (PRP i))
+  (S (VP (AUX do) (NOT n't) (VP (VB know))))) (p=3.46728e-07)
+(ROOT
+  (NP (PRP here))
+  (S (VP (COP 's) (NP (DT another) (NN one))))) (p=4.69178e-10)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (NN finger))))) (p=4.55636e-07)
+(ROOT (INTJ (UH no)) (INTJ (UH no))) (p=0.00019186)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (PRP he))))
+  (FRAG (VP (VBG (VB sit) (ASP ing)) (PRT (RP on))))) (p=8.89962e-12)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (AUX did) (NP (PRP i)) (VP (VB do))))) (p=6.39911e-07)
+(ROOT
+  (S (VP (COP is) (NOT n't) (ADJP (RB that) (JJ pretty))))) (p=7.01561e-10)
+(ROOT (INTJ (UH no)) (INTJ (UH dear))) (p=4.75343e-06)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP were) (NP (PRP they))))
+  (FRAG
+    (ADJP
+      (ADJP (JJ (VB do) (ASP ing)))
+      (PP (IN to) (NP (PRP you)))))) (p=6.26248e-13)
+(ROOT
+  (FRAG (VP (VB tell) (NP (NNP daddy))))
+  (FRAG
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (NN tiger))))) (p=4.32756e-16)
+(ROOT
+  (INTJ (UH mm))
+  (S
+    (VP (VB take) (PRT (RP off)))
+    (NP (DT those) (NNS (NN jammie) (DIV s))))) (p=5.23242e-18)
+(ROOT
+  (SQ
+    (MD shall)
+    (NP (PRP we))
+    (VP
+      (VB put)
+      (NP (DT the) (NN top))
+      (PRT (RP back))
+      (PP (IN on) (NP (DT the) (NN car)))))) (p=8.5552e-20)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB right))))
+  (FRAG
+    (NP (PRP there))
+    (VP
+      (COP 's)
+      (ADVP (DT a) (NN guitar))
+      (ADVP
+        (NP
+          (NP (PRP here))
+          (CC and)
+          (NP (DT a) (NN guitar)))
+        (RB there))))) (p=4.70141e-29)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP are) (NP (PRP you))))
+  (FRAG (ADJP (JJ (VB do) (ASP ing))))) (p=4.38629e-08)
+(ROOT
+  (FRAG (PP (IN when) (NP (PRP you))))
+  (FRAG (VP (VBD (VB turn) (T ed)) (NP (PRP it))))) (p=1.82561e-11)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ
+      (AUX did)
+      (NP (PRP you))
+      (VP (VB put) (NP (DT the) (NN crib)))))) (p=3.78862e-11)
+(ROOT
+  (S
+    (VP
+      (VB look)
+      (PP (IN at) (NP (PRP$ her) (NN (VB feed) (ASP ing)))))
+    (NP (DT the) (NN dolly)))
+  (NP (NNP sab))) (p=1.38806e-23)
+(ROOT
+  (NP (DT a) (JJ big) (NN cup))
+  (FRAG (PP (IN for) (NP (PRP you))))) (p=9.64857e-12)
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (PRP they))
+    (VP (COP 're) (ADVP (RB all))))
+  (NP (NNS (NN cousin) (DIV s)))) (p=1.39734e-15)
+(ROOT (FRAG (ADVP (RB very))) (FRAG (ADVP (RB good)))) (p=2.15478e-07)
+(ROOT (S (VP (VB come) (PRT (RP down))))) (p=1.04962e-06)
+(ROOT (NP (NNP sarah)) (FRAG (ADVP (RB please)))) (p=5.58337e-08)
+(ROOT
+  (NP (PRP they))
+  (S (VP (COP were) (NP (DT a) (NN boy))))) (p=2.83518e-10)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (COP 's) (NP (DT the) (NN other))))
+  (FRAG (NP (NNP auntie) (NNP ellie)) (VP (VB live)))) (p=6.46472e-20)
+(ROOT
+  (NP (DT a) (JJ little) (NN piece))
+  (FRAG (PP (IN of) (NP (NNP fruit))))) (p=4.46533e-15)
+(ROOT
+  (INTJ (UH now))
+  (S
+    (VP
+      (AUX do)
+      (NP (PRP you))
+      (VP (VB see) (NP (DT some) (NNS (NN slack) (DIV s))))))
+  (FRAG (ADVP (RB somewhere)))) (p=1.0559e-20)
+(ROOT (INTJ (UH mm)) (INTJ (UH yeah))) (p=4.42619e-06)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (COP 's) (NP (PRP$ your) (NNP daddy))))) (p=4.84713e-08)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (RB that))))) (p=7.36231e-05)
+(ROOT (NP (RB that)) (S (VP (VB 's)))) (p=9.84546e-06)
+(ROOT
+  (NP (RB that))
+  (S (VP (COP 's) (ADJP (RB not) (JJ bad))))) (p=6.30337e-10)
+(ROOT
+  (INTJ (UH yeah))
+  (NP (EX this))
+  (S
+    (VP
+      (VB is)
+      (NP (DT a) (JJ nice) (NN game))
+      (VP (COP is) (NOT n't) (NP (PRP it)))))) (p=5.49569e-20)
+(ROOT
+  (NP (PRP she))
+  (S
+    (VP
+      (AUX has)
+      (NOT n't)
+      (VP (VBD left) (NP (PRP there)) (ADVP (RB not))))
+    (NP (DT one) (NN minute)))) (p=1.93616e-23)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (MD would)
+      (NP (PRP you))
+      (VP
+        (VB like)
+        (NP (PRP me))
+        (VP
+          (TO to)
+          (VP
+            (VB put)
+            (PP (IN on) (NP (PRP$ your) (NN baby))))))))
+  (NP (NNP honey))) (p=8.89344e-24)
+(ROOT
+  (FRAG
+    (ADVP (NP (PRP you)) (RB sure))
+    (PP (IN about) (NP (RB that))))
+  (FRAG
+    (ADVP (NP (PRP you)) (RB sure))
+    (NP (PRP you))
+    (VP (COP 're) (ADJP (JJ (VB fake) (ASP ing)))))) (p=2.69271e-24)
+(ROOT
+  (FRAG (VP (VB get) (NP (NNP mommy) (POS 's))))
+  (FRAG (NN stool))) (p=3.88161e-12)
+(ROOT
+  (FRAG (WHNP (WDT what) (NN kind) (PP (IN of))))
+  (FRAG (NN meat))) (p=4.89976e-13)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (AUX did) (NP (PRP you)) (VP (VB drop))))) (p=3.60027e-08)
+(ROOT (FRAG (PP (DT another) (NN man))) (INTJ (UH uhhuh))) (p=6.30573e-12)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB how))
+    (SQ
+      (COP 's)
+      (NP (NNS (NN bug) (DIV s)) (PP (DT this) (NN week)))))) (p=3.09504e-14)
+(ROOT
+  (FRAG
+    (ADJP (RB how) (RB about) (JJ (VB leave) (ASP ing))))
+  (NP
+    (NP (DT those) (NN two))
+    (ADVP (RB there) (RB right)))) (p=1.47176e-23)
+(ROOT (S (VP (VB watch) (PRT (RP out))))) (p=2.83411e-07)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB right))))) (p=1.38433e-05)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP (COP 're) (ADJP (JJ (VB make) (ASP ing))))
+    (NP (NNS (NN curl) (DIV s))))) (p=8.96685e-13)
+(ROOT (NP (PRP you)) (FRAG (ADJP (JJ hot)))) (p=2.90941e-07)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (AUX does) (NP (RB that)) (VP (VB mean))))) (p=6.18511e-09)
+(ROOT
+  (FRAG (NP (PRP i)) (VP (VBD forgot) (NP (PRP i))))
+  (FRAG
+    (VP
+      (VB had)
+      (NP (ADJP (JJ other)) (NNS (NN toy) (DIV s)))))) (p=1.92032e-20)
+(ROOT
+  (INTJ (UH why))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (NP (PRP we))
+      (VP
+        (VB save)
+        (NP
+          (DT this)
+          (NN corn)
+          (PP (IN for) (NP (PRP you))))
+        (PP (IN for) (ADVP (RBR later))))))) (p=6.64387e-27)
+(ROOT (FRAG (ADJP (JJ tall) (CC and) (JJ skinny)))) (p=4.67769e-14)
+(ROOT
+  (S
+    (VP
+      (VB put)
+      (NP (DT these) (NNS (NN sock) (DIV s)))
+      (PRT (RP on))))) (p=5.00668e-13)
+(ROOT
+  (INTJ (UH yeah))
+  (SBARQ
+    (CC but)
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (RB soft))))) (p=1.03867e-12)
+(ROOT
+  (INTJ (UH no))
+  (NP (DT that) (NN one))
+  (S (VP (AUX does) (NOT n't) (VP (VB snap))))) (p=9.4608e-14)
+(ROOT
+  (NP (PRP he))
+  (S (VP (COP 's) (ADJP (RB too) (JJ heavy))))) (p=3.7809e-10)
+(ROOT
+  (NP (PRP they))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (RB not) (JJ (VB go) (ASP ing)))
+      (ADVP (RB anywhere))))) (p=2.89576e-13)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP (COP is) (ADJP (JJ (VB eat) (ASP ing))))
+    (NP (DT a) (NN cheerio)))) (p=1.83535e-13)
+(ROOT
+  (NP (PRP you))
+  (S
+    (NP (RB either))
+    (VP
+      (VB use)
+      (NP
+        (NP (DT the) (NN chalk))
+        (CC or)
+        (NP (DT the) (NN crayon)))))) (p=5.28749e-22)
+(ROOT (NP (PRP you)) (S (VP (VB did)))) (p=2.64789e-05)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (AUX did) (NP (PRP you)) (VP (VB do))))) (p=1.81699e-06)
+(ROOT
+  (INTJ (UH alright))
+  (NP (PRP i))
+  (S (VP (MD 'll) (VP (VB go) (NP (RB first)))))) (p=1.12878e-12)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP (COP 're) (ADJP (JJ (VB pull) (ASP ing))))
+    (NP
+      (DT the)
+      (NN (VB str) (ASP ing))
+      (PP (IN of) (NP (DT the) (NN hat)))))) (p=2.65819e-20)
+(ROOT
+  (NP (PRP i))
+  (S
+    (NP (RB just))
+    (VP
+      (VB put)
+      (NP (PRP$ your) (NN hair))
+      (PRT (RP up))
+      (PP (IN in) (NP (NN pin) (NNS (NN curl) (DIV s))))))) (p=9.51463e-25)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP (VB has) (NP (CD three) (NNS (NN rabbit) (DIV s)))))) (p=3.76915e-12)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (RB that))))) (p=7.36231e-05)
+(ROOT (S (VP (VB come) (PP (IN on) (NP (NNP theo)))))) (p=7.80275e-10)
+(ROOT (S (VP (VB take) (NP (PRP it)) (PRT (RP off))))) (p=3.40378e-08)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (NNP tuesday))))) (p=1.88359e-07)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP (VB think) (NP (PRP it)) (VP (VB does)))))) (p=1.51302e-12)
+(ROOT (FRAG (CC and) (NP (PRP i))) (FRAG (VP (VB had)))) (p=1.73222e-08)
+(ROOT
+  (FRAG (VP (VB put) (WHNP (WDT what))))
+  (FRAG (PP (IN in) (NP (PRP$ his) (NN mouth))))) (p=1.87078e-13)
+(ROOT
+  (INTJ (UH no))
+  (NP (DT the) (NN roof))
+  (S
+    (VP
+      (AUX does)
+      (NOT n't)
+      (VP
+        (VB come)
+        (PRT (RP off))
+        (PP (DT that) (NN house)))))) (p=3.18566e-19)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBP know)
+      (SBAR (WHADVP (WRB what)) (S (NP (NNP child))))))) (p=2.63848e-10)
+(ROOT
+  (INTJ (UH yeah))
+  (S (VP (VB lay) (NP (RB still))))
+  (FRAG (ADVP (RB please)))) (p=1.3951e-14)
+(ROOT
+  (S
+    (VP
+      (COP is)
+      (NP (RB that))
+      (SBAR
+        (WHADVP (WRB what))
+        (S (NP (PRP you)) (VP (VB had))))))
+  (S
+    (VP
+      (TO to)
+      (VP
+        (VB drink)
+        (PP (IN at) (NP (PRP$ your) (NN birthday))))))) (p=5.63025e-24)
+(ROOT
+  (INTJ (UH no))
+  (NP (EX this))
+  (S (VP (COP is) (NOT n't) (NP (DT a) (NN book))))) (p=1.91203e-11)
+(ROOT (INTJ (UH yay)) (INTJ (UH joseph))) (p=1.17301e-07)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP are) (NP (PRP you))))
+  (FRAG
+    (ADJP (ADJP (JJ (VB look) (ASP ing))) (PP (IN for))))) (p=9.38419e-12)
+(ROOT
+  (S
+    (VP
+      (VB play)
+      (NP (RB that))
+      (PP (IN after) (NP (PRP you)))))
+  (S (VP (VB finish) (NP (NN supper))))) (p=2.00905e-18)
+(ROOT (S (VP (VB come) (PRT (RP on))))) (p=1.64754e-06)
+(ROOT
+  (NP (PRP she))
+  (S (VP (VBZ goes) (PP (IN like) (NP (EX this)))))) (p=1.97711e-11)
+(ROOT
+  (NP (NNP adam))
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX did)
+      (NP
+        (NP (DT the) (NN lady))
+        (S (VP (VB say) (PP (IN when) (NP (PRP she))))))
+      (VP
+        (VBD told)
+        (NP (PRP you))
+        (PP (DT that) (NN story)))))) (p=7.38073e-32)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB just))))
+  (FRAG
+    (ADVP (DT the) (NN way))
+    (NP (PRP it))
+    (VP (COP was) (ADJP (JJ made))))) (p=2.89882e-19)
+(ROOT (S (VP (VB come) (NP (PRP here))))) (p=1.20853e-06)
+(ROOT
+  (SBARQ
+    (INTJ (UH no) (UH no))
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (NNP adam) (POS 's))))) (p=4.09121e-11)
+(ROOT
+  (NP (PRP i))
+  (S (VP (VB have) (NP (DT some) (NN money))))) (p=3.59214e-10)
+(ROOT
+  (NP (PRP she))
+  (S (VP (COP 's) (NP (DT the) (NN mother))))) (p=2.58136e-09)
+(ROOT (FRAG (NN name)) (NP (DT and) (NN name))) (p=5.24698e-10)
+(ROOT (FRAG (PP (IN on) (NP (DT the) (NN grass))))) (p=1.0171e-08)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (EX this))))) (p=4.76364e-05)
+(ROOT
+  (NP (PRP$ his) (NN eye))
+  (S (VP (VB come) (PRT (RP off))))) (p=6.85175e-11)
+(ROOT
+  (NP (PRP here))
+  (S
+    (NP (PRP you))
+    (VP
+      (VBP have)
+      (VP
+        (TO to)
+        (VP
+          (VB hold)
+          (NP (PRP him))
+          (PP (IN like) (NP (EX this)))))))) (p=3.73906e-18)
+(ROOT
+  (S
+    (VP
+      (MD shall)
+      (NP (PRP we))
+      (VP (VB see) (NP (DT the) (NN mouse)))))
+  (NP (PRP$ 's) (NN bed))) (p=4.88386e-18)
+(ROOT (INTJ (UH yeah) (NP (RB bad))) (FRAG (NN floor))) (p=6.96186e-12)
+(ROOT
+  (FRAG (NN hug))
+  (FRAG (CC and) (NP (DT a) (NN kiss)))) (p=3.82914e-12)
+(ROOT
+  (SBARQ
+    (INTJ (UH no))
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (RB not))))
+  (NP (NNP jamie))) (p=1.96821e-13)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP am) (NP (PRP i))))
+  (FRAG (ADJP (JJ (VB do) (ASP ing))))) (p=5.76482e-10)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VBP know)
+        (SBAR
+          (WHADVP (WRB what))
+          (S
+            (NP (PRP you))
+            (VP (COP 're) (ADJP (JJ (VB say) (ASP ing)))))))))) (p=1.67918e-14)
+(ROOT (NP (PRP i)) (S (VP (VB see) (NP (PRP it))))) (p=2.70722e-06)
+(ROOT
+  (INTJ (UH well))
+  (S
+    (NP (PRP it))
+    (VP
+      (COP 's)
+      (NP (RB just))
+      (ADJP (RB that) (RB light) (JJ golden)))
+    (NP (NNP brown)))
+  (FRAG (PP (IN across) (NP (DT the) (NN top))))) (p=2.30546e-33)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 're) (NP (PRP you))))
+  (FRAG (ADJP (JJ (VB drink) (ASP ing))))) (p=2.61845e-09)
+(ROOT
+  (S
+    (VP (VB look) (WHNP (WDT what)))
+    (NP (NNP alvin) (POS 's)))
+  (FRAG (PP (IN on)))) (p=1.29214e-17)
+(ROOT
+  (S
+    (VP
+      (VB look)
+      (PP (IN at) (NP (PDT all) (DT that) (NN rice)))))) (p=7.42045e-14)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP 's) (NP (DT this) (NN bunny))))
+  (FRAG (ADJP (JJ (VB do) (ASP ing))))) (p=1.67183e-11)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VB mean)
+      (NP (DT that) (NN dog))
+      (VP
+        (COP 's)
+        (ADJP (JJ (VB bite) (ASP ing)))
+        (PP (DT the) (JJ other) (NN dog)))))) (p=1.37179e-22)
+(ROOT
+  (INTJ (UH oh))
+  (NP (PRP you))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB get) (ASP ing)) (JJ heavy))
+      (ADVP (JJ little) (NN boy))))) (p=1.18294e-19)
+(ROOT (FRAG (ADVP (RB so))) (FRAG (WHNP (WDT what)))) (p=1.88201e-06)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBG (VB go) (ASP ing))
+      (PRT (RP down))
+      (NP (DT the) (NN beach)))
+    (NP (RB today)))) (p=2.54896e-15)
+(ROOT (FRAG (ADVP (RB right))) (NP (NNP mikey))) (p=1.62141e-08)
+(ROOT (FRAG (PP (IN with) (NP (DT some) (NN cereal))))) (p=7.10787e-10)
+(ROOT
+  (S
+    (VP
+      (VBP let)
+      (VP
+        (COP 's)
+        (VP (VB do) (NP (NNS (NN exercise) (DIV s)))))))) (p=1.5656e-14)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (COP 's)
+      (NP (DT the) (NN name) (PP (IN of) (NP (PRP it))))))) (p=4.77611e-10)
+(ROOT (NP (CD one) (CD two))) (p=1.35123e-06)
+(ROOT
+  (FRAG
+    (NP (PRP it))
+    (VP
+      (VBZ (VB look) (PRS s))
+      (NP (DT a) (NN lot))
+      (PP (IN like) (NP (CD one)))))
+  (FRAG (VP (AUX does) (NOT n't) (NP (PRP it))))) (p=1.80158e-21)
+(ROOT
+  (NP (PRP she))
+  (S
+    (VP
+      (MD 'll)
+      (VP (COP be) (ADJP (JJR bigger)) (ADVP (RB then)))))) (p=3.17362e-14)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP
+      (VBP have)
+      (VP (VB paint) (NP (NNS (NN brush) (DIV s))))))) (p=1.14502e-15)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (RB that))))) (p=7.36231e-05)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ
+      (COP 's)
+      (NP (DT a) (NN lot) (PP (IN of) (NP (NN coffee))))))) (p=1.64432e-13)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (RB that))))) (p=7.36231e-05)
+(ROOT
+  (FRAG
+    (NP (RB just))
+    (VP
+      (VBG (VB notice) (ASP ing))
+      (NP (PRP her))
+      (PP (DT the) (NN way))))
+  (FRAG (NP (PRP she)) (VP (VBD (VB extend) (T ed))))) (p=8.11662e-27)
+(ROOT (SQ (AUX did) (NP (NNP mommy)) (VP (VB drive)))) (p=4.292e-10)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (COP are) (NP (DT the) (NNS (NN bang) (DIV s)))))) (p=1.52894e-09)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (EX this))))) (p=4.76364e-05)
+(ROOT
+  (SQ
+    (MD shall)
+    (NP (PRP i))
+    (VP (VB take) (NP (PRP him)) (PRT (RP off))))) (p=2.8479e-13)
+(ROOT
+  (NP (PRP she))
+  (S
+    (VP (COP 's) (ADJP (JJ (VB feed) (ASP ing))))
+    (NP (DT the) (NN baby)))) (p=5.30877e-12)
+(ROOT
+  (NP (NNS (NN boy) (DIV s)))
+  (S
+    (VP (VB get) (NP (JJ (VB dress) (T ed)) (NNP please))))) (p=1.03075e-16)
+(ROOT
+  (FRAG
+    (VP
+      (VB have)
+      (NP (PRP you))
+      (VP
+        (VB got)
+        (NP
+          (NP (NNS (NN crayon) (DIV s)))
+          (CC and)
+          (NP (DT a) (NN crayon))))))
+  (FRAG (NN book))) (p=6.16829e-23)
+(ROOT
+  (NP (DT a) (NN hole))
+  (FRAG (PP (IN in) (NP (DT the) (NN bottom))))) (p=2.14196e-12)
+(ROOT (FRAG (CC and) (NP (PRP these)))) (p=4.76191e-07)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VB want)
+      (NP (PRP me))
+      (VP
+        (TO to)
+        (VP
+          (VB smack)
+          (NP (PRP$ your) (NNS (NN finger) (DIV s)))))))) (p=2.02644e-18)
+(ROOT (S (VP (VB let) (NP (PRP me)))) (S (VP (VB see)))) (p=1.09792e-09)
+(ROOT
+  (S
+    (VP
+      (MD would)
+      (NP (FRAG (NOT n't) (NP (PRP you))))
+      (VP (VB miss) (NP (RB all)))))
+  (NP (PRP$ your) (NNS (NN friend) (DIV s)))) (p=9.95383e-22)
+(ROOT
+  (NP (PRP yours))
+  (S
+    (VP
+      (COP is)
+      (VP
+        (VB made)
+        (PRT (RP out))
+        (PP (IN of) (NP (NNP wood))))))) (p=4.28217e-18)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP are) (NP (PRP you))))
+  (FRAG (NN building))) (p=4.09256e-09)
+(ROOT (NP (DT one) (NN line)) (FRAG (ADVP (RB here)))) (p=6.25866e-11)
+(ROOT
+  (SBARQ
+    (CC so)
+    (WHNP (WDT what))
+    (SQ (COP are) (NP (NNS people))))
+  (FRAG
+    (ADJP
+      (ADJP (JJ (VB do) (ASP ing)))
+      (PP (IN in) (NP (PRP there)))))) (p=3.99429e-19)
+(ROOT
+  (INTJ (UH oh))
+  (SBARQ
+    (CC and)
+    (WHNP (WDT what))
+    (SQ
+      (AUX did)
+      (NP (PRP he))
+      (VP (VB give) (NP (PRP you)))))) (p=4.1077e-12)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP
+      (VBP remember)
+      (SBAR
+        (WHADVP (WRB what))
+        (S
+          (NP (PRP you))
+          (VP
+            (MD can)
+            (VP
+              (VB do)
+              (PP (IN with) (NP (DT that) (NN car)))))))))) (p=1.38938e-20)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT the) (NN dress))))) (p=3.78625e-07)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP
+      (VBD went)
+      (S
+        (VP
+          (TO to)
+          (VP (VB visit) (NP (DT a) (NN friend)))))))) (p=1.70287e-17)
+(ROOT (FRAG (PP (IN on) (NP (DT the) (NN tree))))) (p=3.8341e-08)
+(ROOT
+  (NP (PRP i))
+  (S
+    (NP (RB never))
+    (VP (VBD heard) (NP (CD eleven)) (ADVP (RB before))))) (p=7.49087e-20)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP (MD may) (VP (VB have) (NP (RB only))))
+    (NP (DT one) (NN nut)))) (p=5.75385e-18)
+(ROOT
+  (FRAG
+    (CC but)
+    (NP (PRP you))
+    (VP (VB have) (NP (DT good) (NNS (NN day) (DIV s)))))
+  (FRAG (ADVP (RB too)))) (p=3.73933e-17)
+(ROOT
+  (NP (PRP it))
+  (S (VP (COP 's) (ADJP (JJ (VB rain) (ASP ing)))))) (p=5.53176e-08)
+(ROOT
+  (SQ
+    (MD would)
+    (NP (PRP you))
+    (VP
+      (VBP like)
+      (VP (TO to) (VP (VB make) (NP (RB some))))))) (p=5.02713e-15)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP (VB want) (NP (NNS (NN potato) (DIV s))))
+    (NP (NNP april)))) (p=8.24077e-15)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP
+      (VBZ (VB eat) (PRS s))
+      (NP (PRP it))
+      (PP (IN for) (NP (NN breakfast) (NN lunch))))
+    (NP (DT and) (NN supper)))) (p=9.80434e-25)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBP take)
+      (NP (NP (DT the) (NN bus)) (CC and) (NP (RB then)))
+      (SBAR
+        (WHADVP (WRB what))
+        (S (NP (PRP you)) (VP (VB take))))))) (p=1.23009e-21)
+(ROOT (S (VP (VB look) (PP (IN at) (NP (EX this)))))) (p=2.83766e-08)
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (AUX do) (NOT n't) (VP (VB throw))))
+  (FRAG (NN food))) (p=1.21069e-11)
+(ROOT
+  (INTJ (UH no))
+  (NP (PRP i))
+  (S
+    (VP (COP was) (ADJP (RB just) (JJ (VB get) (ASP ing))))
+    (NP
+      (DT some)
+      (NNS (NN diaper) (DIV s))
+      (PP (IN for) (NP (NNP paul)))))) (p=3.95979e-23)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VB move)
+      (NP
+        (NP (PRP$ your) (NN highchair))
+        (CC and)
+        (NP (PRP$ your) (NN bib)))))) (p=2.8547e-18)
+(ROOT
+  (INTJ (UH oh) (UH now))
+  (NP (RB where))
+  (S
+    (NP (PRP you))
+    (VP (VBG (VB put) (ASP ing)) (NP (PRP them))))) (p=1.17253e-16)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB want)
+        (NP (DT any) (NN juice))
+        (PP (IN on) (NP (PRP them))))))) (p=7.41636e-16)
+(ROOT
+  (FRAG
+    (NP (DT a) (JJ different) (NN order))
+    (NP (DT this) (NN time)))
+  (NP (NNP huh))) (p=1.92102e-19)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP
+      (MD can)
+      (VP
+        (VB hurt)
+        (NP (PRP himself))
+        (PP (IN with) (NP (PRP it))))))) (p=2.01541e-15)
+(ROOT (FRAG (ADVP (RB very))) (FRAG (ADVP (RB good)))) (p=2.15478e-07)
+(ROOT (FRAG (PP (IN in))) (FRAG (NN jail))) (p=3.35406e-09)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP is) (NP (DT the) (NN bear))))) (p=2.50809e-07)
+(ROOT
+  (NP (PRP i))
+  (S (VP (AUX do) (NOT n't) (VP (VB know))))) (p=3.46728e-07)
+(ROOT
+  (S
+    (VP
+      (VBP let)
+      (VP
+        (COP 's)
+        (VP
+          (VB get)
+          (NP (PRP$ your) (NNS (NN finger) (DIV s)))))))) (p=4.37658e-14)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (MD 'll)
+      (VP
+        (VB be)
+        (PP (IN at) (NP (PRP$ your) (NN own) (NN party))))))) (p=1.22705e-17)
+(ROOT
+  (S
+    (VP (VBD broke) (NP (DT the) (NN leg)) (PRT (RP off))))) (p=7.44708e-13)
+(ROOT
+  (FRAG
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (MD need)
+        (VP
+          (TO to)
+          (VP (VB get) (ADJP (RB so) (JJ possessive)))))))
+  (FRAG (PP (IN about) (NP (PRP it))))) (p=2.01241e-23)
+(ROOT
+  (NP (PRP there))
+  (S (VP (COP are) (NP (PRP$ his) (NNS (NN eye) (DIV s)))))) (p=9.93042e-12)
+(ROOT
+  (FRAG
+    (VP
+      (AUX do)
+      (NP (PRP you))
+      (VP
+        (VB want)
+        (NP (PRP me))
+        (VP
+          (TO to)
+          (VP
+            (VB see)
+            (NP (PRP him))
+            (PP
+              (IN on)
+              (NP (PRP$ your) (NN hand) (NN while))))))))
+  (FRAG
+    (NP (PRP you))
+    (VP
+      (VB show)
+      (NP (PRP him))
+      (PP (IN to) (NP (PRP me)))))) (p=9.12393e-36)
+(ROOT (INTJ (UH yeah)) (S (VP (VB dance)))) (p=1.72505e-07)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBP know)
+      (SBAR
+        (WHADVP (WRB what))
+        (S
+          (VP
+            (VBZ (VB happen) (PRS s))
+            (PP (IN with) (NP (NNP mike))))))))) (p=9.32373e-16)
+(ROOT (NP (DT one) (JJ sick) (NN pony))) (p=3.92465e-13)
+(ROOT (INTJ (UH yes)) (NP (PRP you)) (S (VP (MD can)))) (p=1.9025e-07)
+(ROOT
+  (FRAG (ADVP (RB down)))
+  (FRAG (PP (IN in) (NP (DT the) (NN yard))))) (p=6.60138e-11)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (AUX 'd) (NP (PRP he)) (VP (VB go))))) (p=8.00211e-09)
+(ROOT (FRAG (CC and) (NP (CD one))) (FRAG (NN arm))) (p=3.67897e-10)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (COP 's)
+      (NP (DT the) (NN rabbit) (PP (JJ tiny) (NN rabbit)))))
+  (FRAG (ADJP (JJ (VB do) (ASP ing))))) (p=1.26801e-19)
+(ROOT
+  (NP (PRP here))
+  (S
+    (VP
+      (VB 's)
+      (NP (DT a) (NN piece))
+      (PP (IN of) (NP (NN paper)))))) (p=1.16269e-15)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (AUX do) (NP (PRP you)) (VP (VB see))))) (p=1.79465e-06)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (NN raven))))) (p=7.75486e-10)
+(ROOT (NP (CD two) (NNS (NN book) (DIV s)))) (p=1.48623e-07)
+(ROOT
+  (SQ
+    (AUX did)
+    (NP (PRP you))
+    (VP (VB need) (NP (DT a) (NN tissue))))
+  (NP (NNP sweetie))) (p=2.96139e-16)
+(ROOT
+  (S
+    (VP
+      (VB show)
+      (NP (PRP her))
+      (PRT (RP around))
+      (PP (IN in) (NP (DT her) (JJ new) (NN dress)))))) (p=1.38957e-20)
+(ROOT (NP (DT the) (NN same)) (FRAG (NN time))) (p=2.60269e-09)
+(ROOT
+  (FRAG
+    (NP (RB that))
+    (VP (COP was) (NOT n't) (ADJP (RB too) (JJ hard))))
+  (FRAG (VP (VB was) (NP (PRP it))))) (p=7.88463e-18)
+(ROOT
+  (FRAG
+    (NP (PRP she))
+    (VP (COP 's) (ADJP (JJ (VB get) (ASP ing)))))
+  (FRAG (NN fussy))) (p=1.77427e-12)
+(ROOT
+  (INTJ (UH why))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (NP (PRP you))
+      (VP
+        (VB stay)
+        (PP
+          (IN between)
+          (NP (DT the) (NNS (NN line) (DIV s)))))))) (p=2.16354e-20)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (EX this))))) (p=4.76364e-05)
+(ROOT
+  (NP (PRP i))
+  (S
+    (NP (RB usually))
+    (VP
+      (VB do)
+      (NP (PRP it))
+      (PP (IN with) (NP (DT a) (NN comb))))
+    (NP (PRP myself)))) (p=9.39503e-22)
+(ROOT
+  (S (VP (VB say) (ADJP (JJ merry))))
+  (NP (NNP christmas))) (p=6.02747e-14)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 're) (NP (PRP you))))
+  (FRAG (ADJP (JJ (VB do) (ASP ing))))) (p=4.33538e-08)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX did)
+      (NP (NNP mommy))
+      (VP
+        (VB give)
+        (NP (PRP you))
+        (PP (IN for) (NP (PRP$ your) (NN birthday))))))) (p=8.23971e-16)
+(ROOT
+  (FRAG
+    (NP (PRP i))
+    (VP (AUX do) (NOT n't) (VP (VB know) (NP (PRP him)))))
+  (FRAG
+    (CC but)
+    (NP (PRP i))
+    (VP (VB know) (PP (IN of) (NP (PRP him)))))) (p=7.72279e-21)
+(ROOT
+  (FRAG (CC and) (NP (NNS (NN lot) (DIV s))))
+  (FRAG (PP (IN of) (NP (JJ other) (NNP children))))) (p=2.91432e-17)
+(ROOT
+  (INTJ (UH so))
+  (NP (PRP he))
+  (S
+    (VP
+      (MD can)
+      (VP (VB sleep) (PP (IN in) (NP (PRP here))))))) (p=8.61967e-15)
+(ROOT
+  (SQ (COP is) (NP (PRP there)))
+  (NP
+    (DT a)
+    (NN baby)
+    (PP (IN on) (NP (DT the) (NN sled))))) (p=1.95385e-16)
+(ROOT (NP (PRP you)) (S (VP (COP 're)))) (p=9.57877e-06)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ
+      (AUX 'd)
+      (NP (PRP you))
+      (VP (VB get) (NP (PRP these)))))) (p=6.39792e-11)
+(ROOT
+  (NP (PRP they))
+  (S (VP (COP 're) (PP (IN at) (NP (NNP college)))))) (p=1.24861e-12)
+(ROOT (INTJ (UH hey)) (NP (NNP child))) (p=2.08328e-07)
+(ROOT
+  (NP (NNP chi))
+  (S (VP (VB leave) (NP (NNP freddy)) (PRT (RP alone))))) (p=3.05844e-16)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB think)
+        (NP (PRP they))
+        (VP (VB fit) (PP (IN on) (NP (PRP$ my) (NN back)))))))) (p=1.17088e-19)
+(ROOT (FRAG (CC and) (NP (DT a) (NN snake)))) (p=6.4989e-09)
+(ROOT
+  (NP (PRP she))
+  (S (VP (VB has) (NP (DT some) (NN medicine))))) (p=6.48512e-12)
+(ROOT (INTJ (UH no)) (NP (DT this) (NN button))) (p=1.09766e-08)
+(ROOT
+  (FRAG
+    (NP (EX this))
+    (VP
+      (VB is)
+      (NP (DT the) (ADJP (RB only) (JJ other)) (NN one))))
+  (FRAG (NP (PRP we)) (VP (VB have)))) (p=9.42044e-21)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (VB think)
+      (NP (PRP it))
+      (VP (COP 's) (NP (NN way)) (ADJP (RB too) (JJ tiny)))))) (p=1.88479e-18)
+(ROOT
+  (S
+    (VP
+      (MD would)
+      (NP (PRP you))
+      (VP
+        (VBP like)
+        (VP
+          (TO to)
+          (VP
+            (VB go)
+            (ADJP
+              (ADJP (JJ (VB row) (ASP ing)))
+              (PP (IN with) (NP (NNP mommy)))))))))
+  (NP (RB sometime))) (p=1.19586e-26)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP 's) (NP (NNP becky) (POS 's))))
+  (FRAG
+    (NP (NN name) (PP (IN when) (NP (PRP she))))
+    (VP (COP 's) (NP (DT a) (NN horse))))) (p=6.89356e-23)
+(ROOT
+  (SBARQ
+    (INTJ (UH oh))
+    (WHADVP (WRB what))
+    (SQ (AUX does) (NP (RB that)) (VP (VB mean))))) (p=1.23086e-10)
+(ROOT (NP (PRP$ her) (NNS (NN toy) (DIV s)))) (p=4.08112e-08)
+(ROOT
+  (SQ
+    (MD shall)
+    (NP (PRP we))
+    (VP (VB build) (NP (DT a) (NN tower))))) (p=5.1721e-15)
+(ROOT
+  (FRAG
+    (VP
+      (MD can)
+      (NP (PRP you))
+      (VP
+        (VB fix)
+        (NP (PRP them))
+        (PRT (RP up))
+        (PP (IN on) (NP (DT the) (NN side))))))
+  (FRAG (PP (IN of) (NP (DT the) (NN road))))) (p=4.85792e-24)
+(ROOT
+  (SBARQ (WHADVP (WRB where)) (SQ (COP is) (NP (PRP he))))) (p=2.07561e-05)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (COP 's)
+      (NP (FRAG (PP (IN on) (NP (PRP$ your) (NN shirt)))))))) (p=2.31783e-11)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (PRP it))))) (p=0.000148901)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX were)
+      (NP (PRP you))
+      (VP
+        (VBG (VB do) (ASP ing))
+        (PRT (RP out))
+        (NP (PRP there)))))
+  (FRAG (PP (IN with) (NP (NNP becky))))) (p=1.4588e-20)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (COP 'm)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S
+        (VP
+          (TO to)
+          (VP (VB wipe) (NP (PRP$ your) (NN face)))))))) (p=4.70091e-17)
+(ROOT
+  (FRAG
+    (NP (PRP they))
+    (VP
+      (VBP have)
+      (VP (TO to) (VP (VB know) (NP (DT which) (NN way))))))
+  (FRAG
+    (NP (PRP they))
+    (VP (COP 're) (ADJP (JJ (VB go) (ASP ing)))))) (p=1.17649e-21)
+(ROOT
+  (FRAG
+    (ADVP (NP (PRP we)) (RB really))
+    (NP (RB only))
+    (VP (VB got)))
+  (FRAG
+    (ADVP (RB how))
+    (NP (RB many))
+    (VP
+      (AUX did)
+      (NP (PRP we))
+      (VP (VB get) (PP (IN at) (NP (NN gap))))))) (p=2.2412e-34)
+(ROOT (SQ (COP is) (NP (PRP$ your) (NN name) (NN crazy)))) (p=7.54115e-12)
+(ROOT
+  (FRAG (ADVP (RB just)) (PP (IN like) (NP (PRP i))))
+  (FRAG (VP (VB did) (NP (RB yesterday))))) (p=1.47425e-14)
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VBP want) (VP (TO to) (VP (VB come)))))
+  (FRAG (VP (VB see) (NP (NNP mama))))) (p=5.57318e-15)
+(ROOT
+  (INTJ (UH yeah))
+  (S
+    (VP (VBP let) (VP (COP 's) (VP (VB go) (PRT (RP up)))))
+    (NP (DT the) (NNS stairs)))) (p=7.78437e-19)
+(ROOT (INTJ (UH oh)) (NP (PRP you)) (S (VP (VB are)))) (p=9.41359e-07)
+(ROOT (NP (PRP there)) (S (NP (PRP we)) (VP (VB go)))) (p=9.08188e-08)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (MD 'll)
+      (VP (VB put) (NP (DT the) (NN top)) (PRT (RP on)))))) (p=7.52654e-13)
+(ROOT (S (VP (VB come))) (S (VP (COP 're) (NP (NN baby))))) (p=2.32766e-11)
+(ROOT
+  (FRAG
+    (NP (PRP they))
+    (VP (VBD (VB invite) (T ed)) (NP (PRP you))))
+  (FRAG
+    (VP
+      (TO to)
+      (VP (VB stay) (PP (IN for) (NP (NN supper))))))) (p=5.38652e-22)
+(ROOT (FRAG (WHNP (WDT what))) (FRAG (ADVP (RB else)))) (p=1.39828e-06)
+(ROOT (S (VP (VB try) (NP (RB again))))) (p=4.49396e-08)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (EX this))))) (p=4.76364e-05)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (AUX do) (NP (PRP you)) (VP (VB see))))) (p=1.79465e-06)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (COP 'm)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S
+        (VP
+          (TO to)
+          (VP (VB go) (FRAG (VP (VB make) (NP (PRP me))))))))
+    (NP
+      (DT a)
+      (NN bowl)
+      (PP (IN of) (NP (DT that) (NN soup)))))) (p=3.35998e-29)
+(ROOT
+  (INTJ (UH no))
+  (NP (JJR more) (NN (VB be) (ASP ing)))
+  (S (NP (RB silly)))) (p=4.83387e-15)
+(ROOT
+  (FRAG
+    (VP
+      (AUX are)
+      (NP (PRP you))
+      (VP
+        (VBG (VB take) (ASP ing))
+        (NP (PRP it))
+        (PRT (RP away)))))
+  (FRAG (PP (IN from) (NP (PRP me))))) (p=7.33011e-18)
+(ROOT
+  (NP (PRP here))
+  (S (VP (COP 's) (NP (DT the) (NN zebra))))) (p=3.27844e-10)
+(ROOT (SQ (MD can) (NP (PRP you)) (VP (VB say)))) (p=9.36766e-08)
+(ROOT (FRAG (NP (PRP you)) (VP (VB want))) (FRAG (NN air))) (p=2.2091e-09)
+(ROOT
+  (S (VP (AUX do) (NOT n't) (VP (VB do) (NP (RB that)))))) (p=1.21911e-07)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (JJ nice) (NN pipe))))) (p=8.2838e-11)
+(ROOT (NP (PRP i)) (S (VP (VB bet)))) (p=1.57827e-06)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX did)
+      (NP (PRP you))
+      (VP (VB do) (PP (IN with) (NP (NNP mrs) (NNP wood))))))
+  (FRAG (ADVP (NP (DT all) (NN day)) (RB yesterday)))) (p=1.69778e-26)
+(ROOT
+  (SBARQ (WHADVP (WRB how)) (SQ (COP is) (NP (PRP he))))
+  (FRAG (ADJP (JJ (VB hang) (ASP ing))))) (p=5.45315e-11)
+(ROOT
+  (SQ
+    (MD can)
+    (NP (PRP you))
+    (VP (VB turn) (NP (PRP it)) (PRT (RP on))))) (p=2.35651e-11)
+(ROOT
+  (FRAG (PP (IN when) (NP (PRP you))))
+  (FRAG
+    (VP
+      (VB go)
+      (FRAG
+        (ADVP (RB outside))
+        (NP (PRP you))
+        (VP
+          (VB wear)
+          (NP (PRP$ your) (NNS (NN boot) (DIV s)))))))) (p=1.20708e-21)
+(ROOT
+  (NP (PRP i))
+  (S (VP (COP 'm) (ADVP (RB not)) (ADVP (RB sure))))) (p=7.21411e-11)
+(ROOT
+  (SBARQ
+    (CC and)
+    (WHNP (WDT what))
+    (SQ (COP is) (NP (RB that))))) (p=1.26946e-06)
+(ROOT
+  (INTJ (UH well) (UH thank))
+  (NP (PRP you))
+  (S (NP (NNP honey)))) (p=1.57178e-11)
+(ROOT (NP (PRP i)) (S (VP (COP 'm) (ADJP (JJ cold))))) (p=1.03953e-08)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S
+        (VP
+          (TO to)
+          (VP (VB play) (PP (IN with) (NP (PRP me)))))))
+    (NP (DT some) (JJR more)))) (p=9.81779e-20)
+(ROOT
+  (FRAG (VP (VB see) (NP (DT which) (NN color))))
+  (FRAG (NP (PRP she)) (VP (MD 'd) (VP (VB like))))) (p=1.9618e-17)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (VBP wonder)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (DT the) (JJ other) (NN stick))
+          (VP (VB is))))))) (p=8.23857e-19)
+(ROOT
+  (NP (RB that))
+  (S (VP (MD could) (VP (COP be) (ADJP (JJ dangerous)))))) (p=3.82729e-13)
+(ROOT
+  (NP (NNP louise))
+  (FRAG (PP (IN on) (NP (DT the) (NN horse))))) (p=7.86534e-13)
+(ROOT
+  (SBARQ (WHADVP (WRB how)) (SQ (COP 's) (NP (RB that))))) (p=1.58954e-05)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP
+      (VB have)
+      (NP (DT a) (NN bunny))
+      (PP (IN in) (NP (PRP$ your) (NN doll) (NN house)))))
+  (NP (RB too))) (p=5.52576e-22)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP (MD 'll) (VP (VB be) (NP (CD nineteen))))
+    (NP (NNP sunday)))) (p=5.29926e-17)
+(ROOT
+  (SQ
+    (AUX did)
+    (NP (PRP you))
+    (VP
+      (VB cuddle)
+      (PP
+        (IN in)
+        (NP (NN bed) (PP (IN with) (NP (PRP me)))))))
+  (NP (DT this) (NN morning))) (p=2.89541e-23)
+(ROOT (NP (PRP you)) (S (VP (VB roll) (NP (PRP it))))) (p=3.22292e-07)
+(ROOT (NP (PRP i)) (S (VP (COP 'm) (NP (DT a) (NN tree))))) (p=4.55927e-10)
+(ROOT
+  (NP (NNP chi))
+  (S (VP (VB sit) (PRT (RP down)) (ADVP (RB please))))) (p=6.69172e-13)
+(ROOT
+  (FRAG
+    (ADVP (NP (DT the) (NN time)) (RB that))
+    (NP (PRP he))
+    (VP (VBD went) (ADJP (JJ (VB fish) (ASP ing)))))
+  (FRAG
+    (CC and)
+    (NP (PRP he))
+    (VP
+      (VBD caught)
+      (NP
+        (NP (DT the) (NNS (NN scallop) (DIV s)))
+        (CC and)
+        (NP (DT the) (NN lobster)))))) (p=5.16608e-42)
+(ROOT
+  (INTJ (UH oh))
+  (NP (PRP they))
+  (S (VP (VBD stung) (NP (PRP$ his) (NN nose))))) (p=3.42492e-16)
+(ROOT
+  (S
+    (VP
+      (VBP tell)
+      (NP (PRP her))
+      (SBAR
+        (WHADVP (WRB what))
+        (S
+          (NP (PRP they))
+          (VP (COP are) (ADVP (RB inside)))))))) (p=4.48531e-18)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB think)
+        (NP (RB that))
+        (VP (COP 's) (ADJP (RB very) (JJ nice))))))) (p=9.6012e-16)
+(ROOT
+  (INTJ (UH well))
+  (NP (PRP it))
+  (S (VP (COP 's) (ADJP (JJR easier))))) (p=1.11868e-09)
+(ROOT
+  (SQ
+    (MD should)
+    (NP (RB of))
+    (VP
+      (VBD bought)
+      (NP (CD two) (NNS (NN package) (DIV s)))))) (p=6.2171e-21)
+(ROOT
+  (SBARQ
+    (CC so)
+    (WHNP (WDT what))
+    (SQ
+      (MD will)
+      (NP (PRP you))
+      (VP (VBP have) (VP (TO to) (VP (VB do))))))) (p=9.61055e-15)
+(ROOT
+  (INTJ (UH no))
+  (NP (PRP i))
+  (S
+    (VP
+      (VB think)
+      (NP (RB that))
+      (VP
+        (COP 's)
+        (ADVP (RB just))
+        (PP (DT the) (NN floor)))))) (p=9.55378e-18)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP is) (NP (RB that))))) (p=2.83737e-05)
+(ROOT
+  (S
+    (VP (VB hold) (PP (IN on) (NP (CD one))))
+    (NP (CD two) (CD three)))
+  (INTJ (UH whoop))) (p=1.92343e-20)
+(ROOT
+  (SQ
+    (AUX do)
+    (NP (PRP you))
+    (VP
+      (VBP like)
+      (VP
+        (TO to)
+        (VP (VB play) (PP (IN with) (NP (NNP poy)))))))) (p=7.80475e-17)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (COP 's) (NP (NNP nonna))))) (p=1.07392e-06)
+(ROOT
+  (NP (PRP she))
+  (S
+    (VP
+      (VB has)
+      (NP (DT a) (JJ (VB danc) (ASP ing)) (NN lesson)))
+    (NP (RB today)))) (p=4.79892e-20)
+(ROOT
+  (S
+    (VP
+      (VB come)
+      (PRT (RP on))
+      (PP (IN over) (NP (PRP here)))))) (p=9.50659e-11)
+(ROOT
+  (FRAG (PP (IN like) (NP (RB that))))
+  (FRAG (NN radio))) (p=3.31252e-10)
+(ROOT (INTJ (UH oh)) (NP (NNS (NN daughter) (DIV s)))) (p=1.06786e-08)
+(ROOT
+  (NP (PRP here))
+  (S
+    (NP (PRP you))
+    (VP (VBD (VB drop) (T ed)) (NP (RB that))))) (p=5.70282e-12)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VB got)
+      (NP (NP (PRP him)) (ADJP (RB all) (JJ broken)))))) (p=3.62796e-14)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB not))))
+  (NP (DT the))) (p=2.96789e-09)
+(ROOT (NP (PRP you)) (FRAG (CC and) (NP (PRP me)))) (p=5.21646e-07)
+(ROOT
+  (SQ (COP is) (NP (PRP it)))
+  (NP (NP (NN morning)) (CC or) (NP (RB night)))) (p=8.05797e-16)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (COP 's)
+      (NP
+        (FRAG
+          (PP (IN on) (NP (PRP$ your) (NNP christmas)))))))
+  (NP (NN tree) (PP (IN at) (NP (RB home))))) (p=8.77674e-23)
+(ROOT
+  (NP (DT a) (NN shot))
+  (FRAG (PP (IN of) (NP (NN brandy))))) (p=5.4328e-16)
+(ROOT
+  (FRAG (VP (VB tell) (NP (PRP him))))
+  (FRAG (NP (PRP you)) (VP (COP 're) (ADJP (JJ sorry))))) (p=4.09947e-14)
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHADVP (WRB what))
+      (SQ (COP 's) (NP (NNP bam_bam)))))
+  (S
+    (NP (PRP$ 's) (NN doggie))
+    (VP (COP 's) (ADJP (JJ name))))) (p=5.64698e-24)
+(ROOT
+  (S (VP (VB let) (NP (PRP him))))
+  (S (VP (VB have) (NP (DT the) (NN ball))))) (p=1.38035e-13)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX do)
+      (NP (PRP you))
+      (VP (VB think) (NP (PRP it)) (VP (VB is)))))) (p=4.33284e-11)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP 's) (NP (DT the) (NN matter))))) (p=5.25184e-07)
+(ROOT
+  (SQ
+    (AUX did)
+    (NP (PRP we))
+    (VP (VB walk) (PRT (RP around))))) (p=9.49155e-12)
+(ROOT
+  (NP (RB that))
+  (S
+    (VP
+      (VBZ (VB make) (PRS s))
+      (NP (PRP it))
+      (ADVP (RB very) (RB hard))))) (p=2.84555e-15)
+(ROOT
+  (FRAG
+    (ADVP (RB someday))
+    (NP (PRP you))
+    (VP
+      (MD 'll)
+      (VP
+        (VBP have)
+        (VP
+          (TO to)
+          (VP
+            (VB clean)
+            (NP (DT the) (NN rug))
+            (PP (IN with) (NP (DT the) (NN vacuum))))))))
+  (FRAG (NN cleaner))) (p=5.97242e-33)
+(ROOT
+  (S
+    (VP
+      (COP are)
+      (NP (PRP we))
+      (ADJP (JJ (VB go) (ASP ing)))))
+  (S
+    (VP
+      (TO to)
+      (VP
+        (VB go)
+        (FRAG
+          (VP (VB get) (NP (NNP daddy)) (ADVP (RBR later)))))))) (p=5.08767e-22)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (RB that))))) (p=7.36231e-05)
+(ROOT
+  (INTJ (UH yes) (NP (DT the) (NNP christmas) (NN tree)))
+  (FRAG (NN cookie))) (p=1.92611e-16)
+(ROOT (SQ (MD should) (NP (PRP i)) (VP (VB try)))) (p=1.95098e-09)
+(ROOT (NP (PRP here)) (S (VP (COP 's) (NP (NNP nonna))))) (p=4.10703e-09)
+(ROOT
+  (FRAG
+    (NP (PRP i))
+    (VP
+      (VBP 've)
+      (VP (COP been) (ADJP (JJ (VB break) (ASP ing))))))
+  (FRAG
+    (NP
+      (NNS (NN dish) (DIV s))
+      (PP (IN like) (NP (PRP they))))
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (PP (IN out) (NP (DT a) (NN style)))))) (p=1.36873e-35)
+(ROOT (NP (DT a) (NN neck))) (p=5.17371e-07)
+(ROOT
+  (NP (PRP i))
+  (S (VP (MD should) (VP (VB open) (NP (PRP it)))))) (p=4.82781e-10)
+(ROOT
+  (FRAG (ADVP (RB how)))
+  (FRAG (PP (IN about) (NP (DT one) (NN glass))))) (p=3.78701e-13)
+(ROOT
+  (FRAG (ADJP (JJ (VB go) (ASP ing))))
+  (FRAG (VP (TO to) (VP (VB do) (NP (RB that)))))) (p=9.21523e-10)
+(ROOT (INTJ (UH oh)) (FRAG (WHNP (WDT what)))) (p=2.49128e-05)
+(ROOT
+  (FRAG (VP (COP are) (NP (PRP you))))
+  (FRAG
+    (ADVP (RB sure))
+    (NP (RB that))
+    (VP (COP 's) (ADJP (JJ yellow))))) (p=5.71222e-16)
+(ROOT
+  (NP (PRP it))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP (VB go) (PRT (RP together)))))) (p=1.41844e-09)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBP want)
+      (VP
+        (TO to)
+        (VP
+          (VB put)
+          (NP (DT the) (NN elephant))
+          (PRT (RP down))))))) (p=9.50148e-14)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (NN gazelle))))) (p=3.09881e-09)
+(ROOT
+  (INTJ (UH oh))
+  (NP (PRP you))
+  (S
+    (VP (COP 're) (ADJP (JJ (VB turn) (ASP ing))))
+    (NP (DT the) (NN stethoscope)))) (p=1.0764e-14)
+(ROOT (NP (PRP you)) (S (VP (COP 're) (ADJP (JJ silly))))) (p=4.60481e-08)
+(ROOT
+  (FRAG (PP (IN when) (NP (DT the) (NN clock))))
+  (FRAG
+    (VP
+      (VBZ (VB get) (PRS s))
+      (S (VP (TO to) (VP (VB be) (NP (PRP here)))))))) (p=7.94135e-20)
+(ROOT (NP (DT that) (NN way)) (S (NP (DT that) (NN way)))) (p=1.59304e-11)
+(ROOT
+  (S
+    (VP
+      (COP is)
+      (NP (PRP she))
+      (ADJP (JJ (VB drink) (ASP ing)))))) (p=2.53542e-09)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBP have)
+      (VP
+        (TO to)
+        (VP (VB get) (ADJP (JJ (VB dress) (T ed)))))))) (p=9.19079e-14)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB all))))) (p=1.03753e-05)
+(ROOT
+  (NP (RB only))
+  (S
+    (NP (PRP it))
+    (VP (COP 's) (NOT not) (NP (PRP yours))))) (p=8.59284e-14)
+(ROOT
+  (INTJ (UH no))
+  (NP (PRP she))
+  (S (VP (COP 's) (ADJP (JJ (VB cry) (ASP ing)))))) (p=1.28982e-09)
+(ROOT
+  (NP (PRP they))
+  (S (VP (COP 're) (ADJP (RB not) (JJ wet))))) (p=1.09241e-10)
+(ROOT
+  (SQ
+    (MD shall)
+    (NP (PRP i))
+    (VP
+      (VB roll)
+      (NP (PRP it))
+      (PRT (RP back))
+      (PP (IN to) (NP (PRP you)))))) (p=1.2142e-15)
+(ROOT
+  (INTJ (UH oh))
+  (NP (PRP we))
+  (S
+    (VP
+      (MD 'll)
+      (VP
+        (VB eat)
+        (NP (RB that))
+        (PP (IN after) (NP (NN breakfast))))))) (p=1.09186e-18)
+(ROOT
+  (INTJ (UH boy))
+  (NP (PRP he))
+  (S (VP (COP 's) (ADJP (RB really) (JJ tall))))) (p=5.66378e-14)
+(ROOT
+  (FRAG
+    (VP (MD can) (NP (PRP i)) (VP (VB get) (NP (PRP you)))))
+  (FRAG
+    (NP (NP (NN something)) (ADJP (JJ warm)))
+    (VP (TO to) (VP (VB drink))))) (p=6.59062e-23)
+(ROOT
+  (SBARQ
+    (WHNP (WDT what) (NN color) (PP (JJ ice) (NN cream)))
+    (SQ (AUX did) (NP (PRP you)) (VP (VB have))))) (p=4.86212e-19)
+(ROOT (NP (DT a) (NN man))) (p=2.47292e-06)
+(ROOT (INTJ (UH well)) (S (VP (VB kiss) (NP (PRP it))))) (p=4.17354e-09)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ
+      (COP are)
+      (NP (DT these) (JJ pretty) (NNS (NN kitty) (DIV s)))))) (p=5.96191e-14)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (COP been)
+      (ADJP (JJ (VB wait) (ASP ing)))
+      (ADVP (RB long))))) (p=4.9259e-13)
+(ROOT
+  (S (VP (VB wait) (NP (DT a) (NN minute))))
+  (NP (RB now))) (p=9.63928e-12)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VBD (VB start) (T ed))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB eat)
+            (NP (NP (PRP him)) (ADVP (RB all)))
+            (PRT (RP up)))))))) (p=2.4127e-19)
+(ROOT (FRAG (ADVP (RB almost))) (NP (NNP white))) (p=2.10691e-09)
+(ROOT
+  (SBARQ
+    (CC and)
+    (WHNP (WDT what))
+    (SQ (COP 's) (NP (RB that))))) (p=3.29395e-06)
+(ROOT (NP (PRP it)) (S (VP (MD could)))) (p=1.04784e-06)
+(ROOT (S (VP (COP is) (NP (PRP it)) (ADJP (JJ little))))) (p=4.40158e-08)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (AUX do) (NP (PRP you)) (VP (VB want))))) (p=1.24657e-06)
+(ROOT
+  (SQ
+    (AUX did)
+    (NP (PRP you))
+    (VP (VB tear) (PRT (RP up))))
+  (NP (PRP$ your) (NN valentine))) (p=2.29359e-15)
+(ROOT
+  (INTJ (UH look))
+  (NP (NP (PRP it)) (ADJP (RB how) (JJ tall)))
+  (S (NP (PRP she)) (VP (VB is)))) (p=4.92488e-18)
+(ROOT
+  (NP (NNP child))
+  (S
+    (NP (PRP you))
+    (VP (MD should) (VP (VB get) (NP (PRP$ your)))))) (p=6.82599e-14)
+(ROOT
+  (SBARQ
+    (INTJ (UH now))
+    (WHNP
+      (WDT what)
+      (NN kind)
+      (PP (IN of) (NP (NN cereal))))
+    (SQ (AUX do) (NP (PRP you)) (VP (VB want))))) (p=1.79111e-18)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX does)
+      (NP (PRP it))
+      (VP (VB look) (PP (IN like)))))) (p=1.3575e-10)
+(ROOT
+  (S (VP (VBP let) (VP (COP 's) (VP (VB go)))))
+  (S
+    (VP
+      (VB get)
+      (NP (NP (PRP you)) (ADJP (JJ (VB nak) (T ed))))))) (p=8.31594e-20)
+; NO_PARSE: katie is the biggest
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP 's) (NP (PRP$ her) (NN name))))) (p=6.3394e-08)
+(ROOT
+  (S
+    (VP
+      (COP is)
+      (NP (DT the) (NN light))
+      (ADJP (JJ (VB flash) (ASP ing)))))) (p=2.95503e-13)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX did)
+      (NP (NP (PRP you)) (CC and) (NP (NNP ryan)))
+      (VP (VB do))))) (p=2.10651e-13)
+(ROOT (S (VP (VB sit) (PP (IN over) (NP (PRP here)))))) (p=1.82855e-09)
+(ROOT (S (VP (VB sit) (NP (PRP here))))) (p=4.27241e-07)
+(ROOT
+  (FRAG (PP (IN while) (NP (PRP you))))
+  (FRAG (VP (VB take) (NP (DT a) (NN nap))))) (p=2.07345e-13)
+(ROOT (SBARQ (WHNP (WP who)) (SQ (COP 's) (NP (RB that))))) (p=2.09679e-05)
+(ROOT (INTJ (UH thank)) (NP (PRP you))) (p=2.55381e-05)
+(ROOT
+  (INTJ (UH no))
+  (NP (PRP i))
+  (S (VP (VBP want) (VP (TO to) (VP (VB learn)))))) (p=1.32531e-11)
+(ROOT
+  (SBARQ
+    (CC and)
+    (WHNP (WDT what))
+    (SQ (COP 's) (NP (EX this))))) (p=2.13128e-06)
+(ROOT
+  (S (VP (VB come) (PRT (RP on))))
+  (CC and)
+  (S (VP (VB talk) (PP (IN to) (NP (NNP gloria)))))) (p=6.79168e-17)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (COP 's)
+      (NP (FRAG (PP (IN over) (NP (PRP here)))))))) (p=1.08919e-09)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB how))
+    (SQ
+      (COP 's)
+      (NP (NP (PRP he)) (ADJP (JJ (VB hang) (ASP ing))))))
+  (FRAG (ADVP (RB now)))) (p=6.99234e-14)
+(ROOT
+  (S
+    (VP
+      (COP was)
+      (NP (PRP it))
+      (ADJP (JJ fun) (JJ (VB sleep) (ASP ing)))))
+  (NP (PRP there))) (p=4.11461e-16)
+(ROOT (INTJ (UH oh)) (NP (PRP$ my) (NN goodness))) (p=8.7499e-09)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP was) (NP (NNP erin))))
+  (FRAG (NP (PRP$ 's) (NN nightgown)) (VP (VB remember)))) (p=2.98545e-19)
+(ROOT (INTJ (UH yes)) (NP (PRP you)) (S (VP (MD can)))) (p=1.9025e-07)
+(ROOT
+  (FRAG (VP (VB is) (NP (PRP it))))
+  (FRAG
+    (NP (NNP time))
+    (VP
+      (TO to)
+      (VP (VB go) (PP (IN to) (NP (NN bed) (RB now))))))) (p=1.90737e-21)
+(ROOT
+  (NP (NNP child))
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP 's) (NP (FRAG (PP (IN in) (NP (PRP these)))))))) (p=5.27689e-14)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX do)
+      (NP (PRP you))
+      (VP
+        (VB think)
+        (NP (DT the) (NNS (NN bear) (DIV s)))
+        (VP (VBD ate)))))) (p=3.09202e-17)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (MD should)
+      (NP (PRP i))
+      (VP (VB do) (NP (RB now)))))) (p=8.45621e-11)
+(ROOT
+  (FRAG (VP (VB is) (NP (PRP it))))
+  (FRAG
+    (NP (NNP time))
+    (VP (TO to) (VP (VB cook) (NP (RB now)))))) (p=3.9065e-17)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP is) (NP (EX this))))) (p=1.83587e-05)
+(ROOT
+  (NP (PRP it))
+  (S (VP (COP 's) (PP (IN for) (NP (NNP mommy)))))) (p=3.32604e-09)
+(ROOT (NP (PRP you)) (S (VP (VBD said) (NP (RB that))))) (p=1.49011e-08)
+(ROOT (SQ (COP is) (NP (RB that))) (NP (DT an) (NN eagle))) (p=2.85235e-12)
+(ROOT
+  (FRAG
+    (NP (PRP i))
+    (VP
+      (COP 'm)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB drop)
+            (NP (PRP you))
+            (PP (IN on) (NP (DT the) (NN floor))))))))
+  (FRAG (WHADVP (WRB that)) (SQ (COP 's) (NP (PRP it))))) (p=5.98917e-25)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (NN cow))))) (p=2.54802e-07)
+(ROOT (SQ (AUX do) (NP (PRP you)) (VP (VB know)))) (p=8.56675e-07)
+(ROOT
+  (NP (PRP there))
+  (S (VP (COP 's) (NP (DT a) (NN cow))))) (p=1.08348e-09)
+(ROOT (FRAG (ADVP (RB how))) (FRAG (ADVP (RB pretty)))) (p=1.19721e-07)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP
+      (COP 's)
+      (VP
+        (VB got)
+        (NP (DT the) (JJR funniest) (NNS (NN eye) (DIV s))))))) (p=4.89188e-17)
+(ROOT
+  (FRAG (ADVP (RB probably)))
+  (FRAG (ADVP (RB tonight)))) (p=4.18064e-09)
+(ROOT (SBARQ (WHNP (WP who)) (SQ (COP 's) (NP (EX this))))) (p=1.35669e-05)
+(ROOT
+  (SBARQ (WHADVP (WRB where)) (SQ (COP is) (NP (PRP it))))) (p=4.72436e-05)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB how))
+    (SQ (COP was) (NP (PRP$ your) (NN supper))))) (p=4.18818e-09)
+(ROOT
+  (S
+    (VP
+      (MD shall)
+      (NP (PRP we))
+      (VP
+        (VB tie)
+        (NP (PRP it))
+        (PP (IN around) (NP (DT the) (NN dog)))))
+    (NP (PRP$ 's) (NN ear)))
+  (CC and)
+  (S (VP (VB make) (NP (DT an) (NN (VB earr) (ASP ing)))))) (p=1.07842e-37)
+(ROOT
+  (FRAG
+    (NP (PRP i))
+    (VP
+      (AUX did)
+      (NOT n't)
+      (NP (RB really))
+      (VP (VB get) (NP (PRP$ his) (NN back)))))
+  (FRAG
+    (CC but)
+    (NP (PRP i))
+    (VP (MD can) (VP (VB use) (NP (NN shampoo)))))) (p=1.65985e-31)
+(ROOT
+  (INTJ (UH no))
+  (NP (NNP eve))
+  (S
+    (NP (PRP$ 's) (NN soup))
+    (VP (COP is) (NOT n't) (ADJP (JJ hot))))) (p=9.96551e-19)
+(ROOT (S (VP (VB tell) (NP (PRP me))))) (p=8.34158e-07)
+(ROOT (NP (PRP it)) (S (VP (COP 's) (WHNP (WDT what))))) (p=9.62806e-07)
+(ROOT
+  (INTJ (UH why))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (NP (PRP you))
+      (VP
+        (VB take)
+        (NP (PRP her))
+        (PP (IN to) (NP (DT the) (NN store))))))) (p=1.76669e-18)
+(ROOT
+  (FRAG (CC and) (NP (DT the) (NNS (NN carrot) (DIV s))))
+  (FRAG
+    (VP
+      (COP are)
+      (PP (IN in) (NP (DT the) (NN wheelbarrow)))))) (p=5.38618e-19)
+(ROOT
+  (SBARQ
+    (CC and)
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT the) (NN milk))))) (p=9.08155e-09)
+(ROOT
+  (INTJ (UH yep))
+  (FRAG
+    (CC and)
+    (NP
+      (NP (DT the) (NN train))
+      (CC and)
+      (NP (DT the) (NN bus))))) (p=2.10438e-17)
+(ROOT
+  (FRAG
+    (NP (RB that))
+    (VP (COP 's) (ADJP (RB not) (JJ brown))))
+  (FRAG
+    (WHNP (WDT what) (NN color))
+    (SQ (COP is) (NP (RB that))))) (p=5.46344e-20)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (MD 'll)
+      (VP
+        (VB put)
+        (NP (DT the) (NN top))
+        (PRT (RP back))
+        (PP
+          (IN on)
+          (NP
+            (DT the)
+            (NN car)
+            (PP (IN for) (NP (PRP you))))))))) (p=3.52495e-21)
+(ROOT
+  (SQ
+    (AUX did)
+    (NP (PRP they))
+    (VP (VB taste) (NP (RB good))))) (p=7.01944e-12)
+(ROOT
+  (INTJ (UH no))
+  (FRAG
+    (ADVP (RB only))
+    (PP (IN in) (NP (NNS (NN advertisement) (DIV s)))))) (p=1.16798e-14)
+(ROOT
+  (NP (PRP it))
+  (S
+    (VP
+      (COP 's)
+      (ADJP (RB too) (JJ big))
+      (PP (IN around) (NP (DT the) (NN waist)))))) (p=4.87221e-17)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (COP were)
+      (NOT n't)
+      (ADJP (JJ (VB laugh) (ASP ing)))))) (p=1.62691e-10)
+(ROOT
+  (SBARQ
+    (WHNP (WP who))
+    (SQ (VP (VBD broke) (NP (PRP it)))))) (p=1.12449e-10)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (VBD (VB talk) (T ed))
+      (PP (IN to) (NP (DT her) (JJ last) (NN week)))))) (p=5.42754e-18)
+(ROOT
+  (SBARQ
+    (INTJ (UH joseph))
+    (WHADVP (WRB what))
+    (SQ (COP are) (NP (PRP you))))
+  (NP (JJ (VB do) (ASP ing)) (NNP sweetie))) (p=7.0709e-16)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB think)
+        (NP (PRP they))
+        (VP
+          (AUX 've)
+          (NP (RB all))
+          (VP
+            (COP been)
+            (ADJP (JJ (VB dress) (T ed)))
+            (PP (IN at) (NP (DT one) (NN time))))))))) (p=2.14342e-31)
+(ROOT
+  (INTJ (UH oh))
+  (NP (PRP you))
+  (S
+    (VP
+      (VB had)
+      (NP (RB some))
+      (PP
+        (IN on)
+        (NP
+          (DT the)
+          (NN back)
+          (PP (IN of) (NP (PRP yours))))))
+    (NP (RB too)))) (p=4.33794e-24)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (COP were)
+      (ADJP (JJ (VB sit) (ASP ing)))
+      (PP (IN on) (NP (DT the) (NN truck)))))) (p=3.51912e-13)
+(ROOT
+  (NP (RB that))
+  (S
+    (VP
+      (MD would)
+      (VP (VB make) (NP (DT a) (JJ nice) (NN hat)))))) (p=4.16784e-15)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (MD 'll)
+      (VP
+        (VBP have)
+        (VP
+          (TO to)
+          (VP
+            (VB pay)
+            (NP (NNP ursula))
+            (PP (IN for) (NP (RB that))))))))) (p=1.51971e-19)
+(ROOT
+  (SBARQ
+    (INTJ (UH no))
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT an) (NN egg))))) (p=1.22629e-10)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (MD can)
+      (VP
+        (VB have)
+        (NP (PRP$ your) (NN dessert))
+        (PP (IN in) (NP (DT one) (NN minute))))))) (p=2.65146e-18)
+(ROOT
+  (INTJ (UH no))
+  (S
+    (NP (PRP you))
+    (VP (VBD went) (PP (IN in) (NP (RB that)))))
+  (FRAG (VP (AUX did) (NOT n't) (NP (PRP you))))) (p=1.24255e-16)
+(ROOT
+  (SBARQ
+    (INTJ (UH hi) (NP (NNP edna)))
+    (WHADVP (WRB how))
+    (SQ (COP are) (NP (PRP you))))) (p=1.63767e-14)
+(ROOT
+  (INTJ (UH oh))
+  (NP (DT the) (NN chicken))
+  (S (VP (VBD caught) (NP (DT the) (NN duck))))) (p=4.09225e-16)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (VB know)
+      (NP (PRP you))
+      (VP
+        (VBP 've)
+        (VP (VB got) (NP (DT a) (NN nose) (NN problem))))))) (p=1.04082e-20)
+(ROOT
+  (FRAG
+    (VP
+      (VBP see)
+      (SBAR
+        (COMP if)
+        (S (NP (PRP you)) (VP (MD can) (VP (VB make)))))))
+  (FRAG (NN one))) (p=1.03399e-14)
+(ROOT (S (VP (VB got) (NP (PRP it))))) (p=5.45963e-06)
+(ROOT
+  (SQ (COP are) (NP (PRP there)))
+  (NP
+    (NNS (NN lot) (DIV s))
+    (PP (IN of) (NP (NNS (NN pea) (DIV s)))))) (p=5.448e-17)
+(ROOT
+  (S (VP (VBD bought) (NP (PRP him))))
+  (NP (CD two) (NNS (NN shirt) (DIV s)))) (p=1.77246e-15)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX do)
+      (NP (PRP you))
+      (VP
+        (VB think)
+        (NP (PRP she))
+        (VP
+          (COP 's)
+          (ADJP (JJ (VB go) (ASP ing)))
+          (S (VP (TO to) (VP (VB hear))))))))) (p=1.62005e-17)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (VB make)
+      (NP (PRP her))
+      (VP (VB look) (NP (RB pretty)))))) (p=1.85656e-13)
+(ROOT
+  (NP (PRP here))
+  (S (VP (COP 's) (NP (DT the) (NN cup))))) (p=2.02465e-09)
+(ROOT
+  (FRAG
+    (NP (PRP i))
+    (VP (VBP want) (VP (TO to) (VP (VB go)))))
+  (FRAG (ADVP (RB where)) (NP (PRP i)) (VP (VB belong)))) (p=1.76963e-17)
+(ROOT
+  (S
+    (VP
+      (COP are)
+      (NP (PRP you))
+      (ADJP (JJ (VB go) (ASP ing)))))
+  (S
+    (VP
+      (TO to)
+      (VP (VB sit) (PP (IN at) (NP (DT the) (NN table))))))) (p=3.32882e-17)
+(ROOT
+  (NP (PRP i))
+  (S (VP (AUX do) (NOT n't) (NP (RB how))))) (p=3.4115e-08)
+(ROOT
+  (FRAG (NN everybody))
+  (FRAG (VP (VB has) (NP (DT a) (NN tongue))))) (p=1.92058e-13)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP 's) (NP (RB that))))) (p=7.36231e-05)
+(ROOT
+  (NP (PRP here))
+  (S
+    (NP (PRP you))
+    (VP
+      (MD may)
+      (VP
+        (VB keep)
+        (NP (CD three) (NNS (NN penny) (DIV s))))))) (p=4.88226e-18)
+(ROOT
+  (INTJ (UH yeah))
+  (NP (DT the) (NN rabbit))
+  (S
+    (VP
+      (COP is)
+      (ADJP (JJ (VB talk) (ASP ing)))
+      (PP (IN to) (NP (DT the) (NN kangaroo)))))) (p=3.74643e-18)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (PRP it))))) (p=0.000148901)
+(ROOT
+  (SBARQ
+    (INTJ (UH then))
+    (WHADVP (WRB what))
+    (SQ
+      (AUX did)
+      (NP (PRP you))
+      (VP (VB do) (PP (IN at) (NP (NNP school))))))) (p=2.37205e-14)
+(ROOT (INTJ (UH boom)) (INTJ (UH boom))) (p=5.56939e-08)
+(ROOT
+  (NP (PRP i))
+  (S
+    (VP
+      (COP was)
+      (ADJP (JJ (VB try) (ASP ing)))
+      (S (VP (TO to) (VP (VB reach))))))) (p=4.98763e-14)
+(ROOT
+  (FRAG (ADVP (RB completely)))
+  (FRAG (ADJP (JJ awesome)))) (p=2.17064e-13)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (MD can)
+      (NP (RB not))
+      (VP
+        (VB go)
+        (PRT (RP out))
+        (PP (IN in) (NP (DT the) (NN rain))))))) (p=1.47118e-16)
+(ROOT
+  (NP (PRP we))
+  (S
+    (VP
+      (MD 'll)
+      (VP
+        (VBP have)
+        (VP
+          (TO to)
+          (VP
+            (VB get)
+            (NP (RB some))
+            (PP (IN at) (NP (DT the) (NN store))))))))) (p=3.08706e-20)
+(ROOT
+  (SBARQ
+    (INTJ (UH no))
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (RB not))))
+  (NP (DT a) (NN stove))) (p=2.43907e-13)
+(ROOT
+  (S (VP (VB push) (NP (DT the) (NN thing)) (PRT (RP in))))) (p=3.50059e-11)
+(ROOT
+  (NP (DT a) (NN lamb))
+  (S
+    (VP
+      (VB had)
+      (NP (DT a) (JJ broken) (NN leg))
+      (PP (IN at) (NP (DT the) (NNP children))))
+    (NP (PRP$ 's) (NN zoo)))) (p=3.48372e-30)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ (COP 's) (NP (PRP$ his) (NN tail))))) (p=1.93542e-08)
+(ROOT
+  (NP (PRP we))
+  (S (VP (VB saw) (NP (DT the) (NN squirrel))))) (p=2.82573e-11)
+(ROOT
+  (INTJ (UH yes))
+  (NP (PRP there))
+  (S (VP (COP 's) (NP (PRP$ his) (NN pillow))))) (p=3.15141e-13)
+(ROOT
+  (NP (PRP it))
+  (S (VP (COP 's) (PP (IN on) (NP (DT the) (NN chair)))))) (p=4.39658e-10)
+(ROOT
+  (SBARQ (WHADVP (WRB why)) (SQ (COP was) (NP (RB that))))) (p=8.14722e-07)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (VP (VBD (VB happen) (T ed)))))) (p=5.97497e-08)
+(ROOT (S (VP (AUX do) (NOT n't) (NP (PRP they))))) (p=1.10454e-06)
+(ROOT
+  (FRAG (CC and) (WHNP (WDT what)))
+  (FRAG (PP (IN about) (NP (NNP alexandra))))) (p=5.51702e-12)
+(ROOT
+  (SBARQ
+    (CC and)
+    (WHNP (WDT what))
+    (SQ (COP 's) (NP (FRAG (PP (IN in) (NP (PRP it)))))))) (p=2.60365e-09)
+(ROOT (FRAG (ADVP (RB not))) (NP (DT this) (NN morning))) (p=3.90497e-09)
+(ROOT
+  (INTJ (UH yeah) (UH yeah))
+  (NP (PRP you))
+  (S (VP (VB like) (NP (DT that) (NN one))) (NP (RB too)))) (p=7.25158e-16)
+(ROOT
+  (INTJ (UH well))
+  (NP (PRP i))
+  (S
+    (VP
+      (VB have)
+      (NP (PRP it))
+      (PP (IN in) (NP (NNP middlesex) (NNP county)))))) (p=2.70581e-21)
+(ROOT
+  (NP (PRP they))
+  (S
+    (VP
+      (MD might)
+      (VP (VB be) (PP (IN in) (NP (PRP here))))))) (p=7.40188e-13)
+(ROOT (S (VP (VB get) (NP (RB some))))) (p=1.8095e-07)
+(ROOT
+  (NP (NNP sarah))
+  (S
+    (NP (PRP i))
+    (VP
+      (COP 'm)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB say)
+            (NP
+              (NP (CD two) (NNS (NN thing) (DIV s)))
+              (CC and)
+              (NP (PRP you)))
+            (VP
+              (VBP tell)
+              (NP (PRP me))
+              (SBAR
+                (WHNP (WDT which) (NN one))
+                (S
+                  (NP (PRP you))
+                  (VP (VB like) (NP (RB better)))
+                  (NP (RB alright))))))))))) (p=1.30153e-45)
+(ROOT
+  (NP (PRP$ her) (NNS (NN eye) (DIV s)))
+  (S (VP (VB hurt)))) (p=1.15404e-10)
+(ROOT
+  (SBARQ
+    (INTJ (UH oops))
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (JJ loud) (NN noise))))) (p=2.19923e-16)
+(ROOT
+  (INTJ (UH look))
+  (S (VP (VB see) (NP (DT the) (NN kitty))))) (p=9.85072e-11)
+(ROOT
+  (NP (PRP he))
+  (S
+    (VP
+      (AUX did)
+      (NOT n't)
+      (NP (RB really))
+      (VP (VB knock) (NP (PRP it)) (PRT (RP down)))))) (p=4.13746e-16)
+(ROOT
+  (SQ
+    (AUX did)
+    (NP (NNP spencer))
+    (VP
+      (VP (VB come))
+      (CC and)
+      (VP (VB stay) (PP (IN with) (NP (PRP you))))))
+  (NP (RB again))) (p=2.85399e-21)
+(ROOT
+  (NP (PRP it))
+  (S (VP (VBD (VB surprise) (T ed)) (NP (PRP him))))) (p=1.50839e-11)
+(ROOT
+  (NP (RB how))
+  (S
+    (VP
+      (VB come)
+      (NP (NP (PRP he)) (ADJP (JJ (VB die) (T ed))))))) (p=5.14921e-15)
+(ROOT
+  (SBARQ (WHADVP (WRB what)) (SQ (COP is) (NP (PRP it))))) (p=8.1762e-05)
+(ROOT
+  (NP (NNP michael))
+  (FRAG
+    (CC and)
+    (NP
+      (NP (PRP$ his) (NN mommy))
+      (CC and)
+      (NP (NNP daddy))))) (p=1.95562e-18)
+(ROOT (INTJ (UH no)) (NP (JJR more) (NN tea))) (p=9.5159e-10)
+(ROOT
+  (SBARQ
+    (INTJ (UH no) (UH no))
+    (WHADVP (WRB what))
+    (SQ
+      (MD 'll)
+      (NP (PRP i))
+      (VP
+        (VB put)
+        (NP (DT the) (NNS (NN egg) (DIV s)))
+        (PRT (RP in)))))) (p=3.11119e-19)
+(ROOT
+  (INTJ (UH well))
+  (NP (EX this))
+  (S (VP (VB is) (NP (NNP rachel) (POS 's))))) (p=1.15626e-12)
+(ROOT
+  (SQ
+    (AUX does)
+    (NP (DT the) (NN dolly))
+    (VP (VB have) (NP (NNS (NN eyebrow) (DIV s)))))) (p=2.25903e-15)
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (PRP$ your) (NN crib))
+    (VP (COP is) (VP (VB made) (PRT (RP out)))))
+  (FRAG (WHPP (IN of) (WHNP (WDT what))))) (p=5.51056e-21)
+(ROOT
+  (INTJ (UH yes))
+  (S
+    (NP (RB that))
+    (VP (COP 's) (ADJP (RB very) (JJ nice))))
+  (FRAG (NN one))) (p=4.05552e-15)
+(ROOT
+  (INTJ (UH no))
+  (S
+    (VP (VB stay) (NP (PRP here)))
+    (NP (DT a) (NN minute)))) (p=1.56965e-13)
+(ROOT
+  (FRAG
+    (NP (RB not))
+    (NP (NP (NNP sarah)) (CC and) (NP (RB not)))
+    (NP (NP (NNP papa)) (CC and) (NP (RB not))))
+  (FRAG (ADVP (NP (NNP fraser)) (RB either)))) (p=7.8835e-30)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP
+      (COP 're)
+      (ADJP (JJ (VB go) (ASP ing)))
+      (S
+        (VP
+          (TO to)
+          (VP (VB get) (ADJP (RB too) (JJ skinny)))))))) (p=1.18888e-17)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB where))
+    (SQ
+      (COP 's)
+      (NP
+        (NP (DT the) (JJ red) (NN one))
+        (CC and)
+        (NP (DT the) (JJ green) (NN one)))))) (p=1.02195e-18)
+(ROOT
+  (NP (DT the) (NN towel))
+  (S
+    (VP
+      (COP 's)
+      (ADVP (RB right))
+      (PP (IN over) (NP (PRP here)))))) (p=2.98973e-14)
+(ROOT (NP (PRP you)) (S (VP (VB like) (NP (RB that))))) (p=1.48161e-06)
+(ROOT
+  (FRAG (NN doll))
+  (NP (PRP$ 's) (NNS (NN house) (DIV s)))) (p=1.54306e-10)
+(ROOT
+  (S
+    (VP
+      (VB look)
+      (PP (IN at) (NP (DT those) (NNS (NN ducky) (DIV s))))))) (p=1.03473e-13)
+(ROOT (SQ (COP is) (NP (RB that))) (NP (DT a) (NN rat))) (p=1.09425e-11)
+(ROOT
+  (INTJ (UH no))
+  (NP
+    (NNS (NN sock) (DIV s))
+    (PP (IN in) (NP (DT the) (NN mouth))))) (p=1.8276e-13)
+(ROOT (NP (PRP i)) (S (VP (VB mean)))) (p=4.66801e-06)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ (COP is) (NP (DT this) (JJ little) (NN boy))))
+  (FRAG (ADJP (JJ (VB do) (ASP ing))))) (p=4.39615e-14)
+(ROOT
+  (INTJ (UH oh))
+  (S (NP (PRP they)) (VP (VB go)))
+  (INTJ (UH ding) (UH dong))) (p=3.43916e-17)
+(ROOT
+  (NP (PRP he))
+  (S (VP (COP 's) (ADJP (RB so) (JJ cute))))) (p=8.7454e-10)
+(ROOT
+  (FRAG
+    (NP (PRP we))
+    (VP
+      (VBP have)
+      (VP
+        (TO to)
+        (VP
+          (VP
+            (VB go)
+            (PP (IN to) (NP (DT the) (NN store))))
+          (CC and)
+          (VP (VB get))))))
+  (FRAG (NN something))) (p=1.11368e-22)
+(ROOT (S (VP (VB like) (NP (EX this))))) (p=1.58035e-06)
+(ROOT
+  (SQ (COP is) (NP (EX this)))
+  (NP (PRP$ your) (NN favorite))) (p=3.04452e-10)
+(ROOT
+  (NP (PRP she))
+  (S
+    (NP (RB just))
+    (VP (VB got) (NP (PRP them)))
+    (NP (NP (PDT half) (DT an) (NN hour)) (ADVP (RB ago))))) (p=2.24962e-26)
+(ROOT
+  (FRAG
+    (NP (NNP heather))
+    (VP
+      (MD must)
+      (VP
+        (VBP like)
+        (VP (TO to) (VP (VB eat) (PRT (RP off)))))))
+  (FRAG
+    (NP
+      (NP (DT the) (NN table))
+      (ADJP
+        (ADJP (JJR more))
+        (PP (IN than) (NP (PRP she)))))
+    (VP
+      (VBZ (VB like) (PRS s))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB eat)
+            (PRT (RP off))
+            (PP (DT the) (NN dish)))))))) (p=5.42317e-47)
+(ROOT
+  (NP (RB that))
+  (S (VP (MD 'll) (VP (COP be) (ADJP (JJ funny)))))) (p=3.69285e-11)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (NN gorilla))))) (p=3.03303e-08)
+(ROOT
+  (SBARQ
+    (INTJ (UH no))
+    (WHADVP (WRB that))
+    (SQ (COP 's) (NP (DT a) (JJ brown) (NN circle))))) (p=6.67414e-14)
+(ROOT
+  (SBARQ (WHADVP (WRB that)) (SQ (COP 's) (NP (RB where))))
+  (FRAG
+    (NP (DT the) (NN milk))
+    (VP (VBZ (VB come) (PRS s))))) (p=3.39643e-15)
+(ROOT
+  (NP (PRP you))
+  (S
+    (VP (COP 're) (ADJP (JJ (VB fake) (ASP ing))))
+    (NP (NNP huh)))) (p=8.20126e-13)
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (PRP you))
+    (VP (COP 're) (ADJP (JJ stuck))))
+  (NP (PRP$ my) (NN friend))) (p=2.14218e-15)
+(ROOT (NP (PRP he)) (S (VP (VB 's) (PRT (RP out))))) (p=1.81038e-07)
+(ROOT (NP (DT a) (NN little)) (FRAG (NN car))) (p=1.01927e-08)
+(ROOT (NP (PRP there)) (S (NP (PRP you)) (VP (VB go)))) (p=7.09847e-07)
+(ROOT
+  (SBARQ
+    (WHADVP (WRB what))
+    (SQ
+      (AUX are)
+      (NP (NP (PRP you)) (ADJP (JJ (VB go) (ASP ing))))
+      (VP
+        (TO to)
+        (VP (VB do) (PP (IN with) (NP (PRP them)))))))) (p=9.82028e-16)

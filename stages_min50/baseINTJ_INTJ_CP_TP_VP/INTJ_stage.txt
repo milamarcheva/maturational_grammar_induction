@@ -1,0 +1,93 @@
+1.0 0.1  ROOT --> S NP
+1.0 0.1  ROOT --> NP S
+1.0 0.1  ROOT --> INTJ NP
+1.0 0.1  ROOT --> FRAG NP
+1.0 0.1  ROOT --> NP
+1.0 0.1  ROOT --> INTJ NP S
+1.0 0.1  ROOT --> NP FRAG
+1.0 0.1  ROOT --> INTJ S NP
+1.0 0.1  ROOT --> S NP S
+1.0 0.1  ADVP --> NN
+1.0 0.1  FRAG --> NP
+1.0 0.1  FRAG --> VP
+1.0 0.1  FRAG --> NP VP
+1.0 0.1  FRAG --> PP
+1.0 0.1  FRAG --> ADVP
+1.0 0.1  FRAG --> INTJ NP
+1.0 0.1  FRAG --> NP PP
+1.0 0.1  FRAG --> NP NP
+1.0 0.1  FRAG --> NP ADVP
+1.0 0.1  FRAG --> ADVP NP
+1.0 0.1  FRAG --> NP INTJ
+1.0 0.1  FRAG --> ADVP PP
+1.0 0.1  FRAG --> ADVP VP
+1.0 0.1  FRAG --> INTJ NP VP
+1.0 0.1  FRAG --> INTJ ADVP
+1.0 0.1  FRAG --> INTJ PP
+1.0 0.1  FRAG --> INTJ VP
+1.0 0.1  FRAG --> ADVP NP VP
+1.0 0.1  FRAG --> NP NP NP
+1.0 0.1  FRAG --> PP PP
+1.0 0.1  INTJ --> VP
+1.0 0.1  INTJ --> UH NP
+1.0 0.1  INTJ --> NP
+1.0 0.1  INTJ --> UH VP
+1.0 0.1  INTJ --> ADVP
+1.0 0.1  NP --> PRP
+1.0 0.1  NP --> NN
+1.0 0.1  NP --> PRP$ NN
+1.0 0.1  NP --> NP PP
+1.0 0.1  NP --> NP NN
+1.0 0.1  NP --> NN NN
+1.0 0.1  NP --> NN PP
+1.0 0.1  NP --> PRP$
+1.0 0.1  NP --> PRP$ NN NN
+1.0 0.1  NP --> FRAG
+1.0 0.1  NP --> NP NP
+1.0 0.1  NP --> INTJ
+1.0 0.1  NP --> NP ADVP
+1.0 0.1  NP --> NP S
+1.0 0.1  NP --> S
+1.0 0.1  NP --> NN ADVP
+1.0 0.1  PP --> NP
+1.0 0.1  S --> NP VP
+1.0 0.1  S --> VP
+1.0 0.1  S --> INTJ NP VP
+1.0 0.1  S --> ADVP NP VP
+1.0 0.1  S --> NP ADVP VP
+1.0 0.1  S --> INTJ VP
+1.0 0.1  S --> ADVP VP
+1.0 0.1  S --> NP VP INTJ
+1.0 0.1  S --> NP NP VP
+1.0 0.1  S --> NP VP NP
+1.0 0.1  S --> NP
+1.0 0.1  S --> PP NP VP
+1.0 0.1  S --> NP VP ADVP
+1.0 0.1  S --> INTJ NP VP INTJ
+1.0 0.1  S --> VP INTJ
+1.0 0.1  S --> INTJ ADVP NP VP
+1.0 0.1  S --> VP NP
+1.0 0.1  VP --> VB NP
+1.0 0.1  VP --> VB
+1.0 0.1  VP --> VB S
+1.0 0.1  VP --> VB PP
+1.0 0.1  VP --> VB NP PP
+1.0 0.1  VP --> VB ADVP
+1.0 0.1  VP --> VB NP ADVP
+1.0 0.1  VP --> VB NP NP
+1.0 0.1  VP --> VB VP
+1.0 0.1  VP --> VB PP PP
+1.0 0.1  VP --> VB PP ADVP
+1.0 0.1  VP --> VB ADVP PP
+1.0 0.1  VP --> VB NP S
+1.0 0.1  VP --> VB NP PP ADVP
+1.0 0.1  VP --> VB NP PP PP
+1.0 0.1  VP --> VB NP VP
+1.0 0.1  VP --> VB INTJ
+1.0 0.1  VP --> VB FRAG
+1.0 0.1  VP --> VB ADVP ADVP
+1.0 0.1  VP --> VB NP ADVP PP
+1.0 0.1  VP --> ADVP VB NP
+1.0 0.1  VP --> VB NP NP PP
+1.0 0.1  VP --> VB PP NP
+1.0 0.1  VP --> VB NP NP ADVP

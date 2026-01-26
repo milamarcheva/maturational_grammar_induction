@@ -1,0 +1,25 @@
+# rule_bias_default (-a) = 0, stoptol (-s) = 1e-07, minruleprob (-p) = 0, maxlen (-l) = 0, minits (-m) = 0, maxits = (-n) = 20, annealstart (-b) = 1, annealstop (-B) = 1, nanneal (-N) = 0, jitter0 (-j) = 0, jitter (-J) = 0, VariationalBayes (-V) = 1, wordscale (-W) = 1, randseed (-S) = 97, debuglevel (-d) = 1000, nruns (-R) = 1
+# Run 0
+# Iteration	temperature	nrules	-logP	bits/token	iter_min
+0	1	9186 41339 sentences failed to parse	4.12193e+06	13.3327	1.00158
+1	1	9186 41339 sentences failed to parse	2.67495e+06	8.65234	0.990058
+2	1	9186 41339 sentences failed to parse	2.65004e+06	8.57177	0.991823
+3	1	9186 41339 sentences failed to parse	2.64048e+06	8.54085	0.989478
+4	1	9186 41339 sentences failed to parse	2.63625e+06	8.52716	0.992515
+5	1	9186 41339 sentences failed to parse	2.63379e+06	8.51921	0.991214
+6	1	9186 41339 sentences failed to parse	2.63205e+06	8.51357	0.999515
+7	1	9186 41339 sentences failed to parse	2.63066e+06	8.50909	0.988066
+8	1	9186 41339 sentences failed to parse	2.62949e+06	8.50531	0.991692
+9	1	9186 41339 sentences failed to parse	2.62846e+06	8.50198	0.985941
+10	1	9186 41339 sentences failed to parse	2.6275e+06	8.49885	0.99825
+11	1	9186 41339 sentences failed to parse	2.62655e+06	8.49579	0.988288
+12	1	9186 41339 sentences failed to parse	2.62559e+06	8.49269	0.991305
+13	1	9186 41339 sentences failed to parse	2.62459e+06	8.48947	0.997449
+14	1	9186 41339 sentences failed to parse	2.62356e+06	8.48612	0.999289
+15	1	9186 41339 sentences failed to parse	2.6225e+06	8.48269	0.995009
+16	1	9186 41339 sentences failed to parse	2.62144e+06	8.47928	0.998814
+17	1	9186 41339 sentences failed to parse	2.62045e+06	8.47606	0.990248
+18	1	9186 41339 sentences failed to parse	2.61956e+06	8.47319	0.995751
+19	1	9186 41339 sentences failed to parse	2.6188e+06	8.47074	0.985387
+20	1	9186 41339 sentences failed to parse	2.61818e+06	8.46873	0.981907
+# run 0, entropy 8.46873, 9186 rules

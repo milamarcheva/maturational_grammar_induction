@@ -28,8 +28,14 @@ class StageDef:
 STAGE_DEFS = [
     StageDef(
         name="base",
-        pts={"NN", "NNP", "PRP", "PRP$", "VB"},
+        pts={"NN", "NNP", "PRP", "PRP$", "VB", },
         nts={"ROOT", "S", "FRAG", "NP", "VP"},
+        exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP", "ADVP", "PP"},
+    ),
+    StageDef(
+        name="baseINTJ",
+        pts={"NN", "VB", "PRP", "PRP$", "VB", "UH"},
+        nts={"ROOT", "S", "FRAG", "INTJ"},
     ),
     StageDef(
         name="VP",
@@ -59,7 +65,7 @@ STAGE_DEFS = [
     StageDef(
         name="TP",
         pts={"VBD", "VBP", "VBZ", "AUX", "COP", "MD", "ASP", "T", "PRS"},
-        exclude={"SBAR", "SBARQ", "SQ", "INTJ", "SINV", "WHNP", "WHNPP", "WHPP"},
+        exclude={"SBAR", "SBARQ", "SQ", "INTJ", "SINV", "WHNP", "WHNPP", "WHPP", "ADVP", "PP"},
     ),
     StageDef(
         name="INTJ",
@@ -69,6 +75,7 @@ STAGE_DEFS = [
     StageDef(
         name="CP",
         pts={"COMP", "CC", "WP", "WP$", "WRB", "WDT", "FW"},
+        exclude={"INTJ", }, #"PP", "ADVP" for running baseINTJ first 
     ),
 ]
 
@@ -195,11 +202,11 @@ def parse_stage_order(order: str) -> List[str]:
         raise SystemExit(f"Unknown stage name(s): {', '.join(unknown)}")
     if len(set(names)) != len(names):
         raise SystemExit("Stage order must not contain duplicates.")
-    if names[0] != "base":
-        raise SystemExit("Stage order must start with base.")
-    missing = [name for name in STAGE_DEF_MAP if name not in names]
-    if missing:
-        raise SystemExit(f"Stage order missing stage(s): {', '.join(missing)}")
+    first_stage = STAGE_DEF_MAP[names[0]]
+    if first_stage.nts is None:
+        raise SystemExit(
+            "Stage order must start with a base stage (e.g., base or baseINTJ)."
+        )
     return names
 
 
@@ -250,8 +257,8 @@ def main() -> None:
 
     stage_order = parse_stage_order(args.order)
     stage_defs = [STAGE_DEF_MAP[name] for name in stage_order]
-    base_idx = stage_order.index("base")
-    min_non_base_stage = base_idx + 1
+    base_idx = 0
+    min_non_base_stage = 1
     max_stage = len(stage_order) - 1
     stage_dir = base_out_dir / "_".join(stage_order)
     stage_dir.mkdir(parents=True, exist_ok=True)

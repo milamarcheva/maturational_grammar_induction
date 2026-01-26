@@ -1,0 +1,16 @@
+1	S1 --> S
+1	S --> NP VP
+1	NP --> Det N
+7.00816e-06	VP --> V
+0.616835	VP --> V NP
+7.00816e-06	VP --> NP V
+0.383144	VP --> V NP NP
+7.00816e-06	VP --> NP NP V
+0.409347	Det --> the
+0.590653	Det --> a
+0.427929	N --> dog
+0.333271	N --> man
+0.238799	N --> bone
+0.622459	V --> bites
+0.377541	V --> gives
+
