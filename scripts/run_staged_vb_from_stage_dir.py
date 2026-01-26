@@ -269,7 +269,7 @@ def build_init_lines(
     for lhs, rhs, raw in ordered_rules:
         if is_lex((lhs, rhs, raw)):
             rid = (lhs, tuple(rhs))
-            if args.lex_bias == "from-prev" and prev_lex_bias_map is not None:
+            if prev_lex_bias_map is not None:
                 prev_bias = prev_lex_bias_map.get(rid, args.lex_init_bias)
                 if prev_bias <= 0:
                     prev_bias = args.lex_init_bias
@@ -280,7 +280,7 @@ def build_init_lines(
                 f"{args.lex_init_weight} {bias} {lhs} --> {' '.join(rhs)}"
             )
             continue
-        if args.prod_bias == "from-prev" and prev_prod_bias_map is not None:
+        if prev_prod_bias_map is not None:
             rid = (lhs, tuple(rhs))
             prev_bias = prev_prod_bias_map.get(rid, args.bias)
             if prev_bias <= 0:
@@ -466,9 +466,8 @@ def build_run_tag(stage_dir: Path, args: argparse.Namespace) -> str:
         stage_label = f"stages_{stage_dir.name}"
     tag = stage_label
     tag += f"__ps-{format_scale_tag(args.prod_bias_scale)}"
-    tag += f"__lex-{args.lex_bias}"
-    if args.lex_bias == "from-prev":
-        tag += f"__ls-{format_scale_tag(args.lex_bias_scale)}"
+    tag += "__lex-from-prev"
+    tag += f"__ls-{format_scale_tag(args.lex_bias_scale)}"
     return tag
 
 
@@ -492,17 +491,6 @@ def main() -> None:
         help="Lexicon grammar file (default: grammars/lexicon.txt).",
     )
     ap.add_argument(
-        "--lex-bias",
-        choices=["reset_every_stage", "from-prev"],
-        default="reset_every_stage",
-        help=(
-            "Lexicon bias mode: reset_every_stage (use --lex-init-weight/"
-            "--lex-init-bias each stage) or from-prev (use previous-stage "
-            "lex rule weights as bias, scaled by parsed sentences and "
-            "--lex-bias-scale)."
-        ),
-    )
-    ap.add_argument(
         "--lex-init-weight",
         type=float,
         default=1.0,
@@ -519,8 +507,8 @@ def main() -> None:
         type=float,
         default=1.0,
         help=(
-            "Multiplier for parsed-sentence scaling when --lex-bias=from-prev "
-            "(default: 1.0)."
+            "Multiplier for parsed-sentence scaling of lexical biases from the "
+            "previous stage (default: 1.0)."
         ),
     )
     ap.add_argument(
@@ -546,17 +534,6 @@ def main() -> None:
         help="Output directory for staged grammars (default: staged_runs).",
     )
     ap.add_argument(
-        "--prod-bias",
-        choices=["reset_every_stage", "from-prev"],
-        default="reset_every_stage",
-        help=(
-            "Production bias mode: reset_every_stage uses rule weights as-is "
-            "and fills missing bias with --bias; from-prev sets weights to "
-            "1.0 and uses previous-stage rule weights as bias, scaled by "
-            "parsed sentences and --prod-bias-scale."
-        ),
-    )
-    ap.add_argument(
         "--bias",
         type=float,
         default=0.1,
@@ -570,8 +547,8 @@ def main() -> None:
         type=float,
         default=1.0,
         help=(
-            "Multiplier for parsed-sentence scaling when --prod-bias=from-prev "
-            "(default: 1.0)."
+            "Multiplier for parsed-sentence scaling of production biases from "
+            "the previous stage (default: 1.0)."
         ),
     )
     ap.add_argument(
@@ -697,7 +674,7 @@ def main() -> None:
         stage_out_dir = out_dir / f"{idx:02d}_{stage_name}"
         stage_out_dir.mkdir(parents=True, exist_ok=True)
         prev_bias_map = None
-        if args.prod_bias == "from-prev" and prev_rules is not None:
+        if prev_rules is not None:
             scale = 1.0
             if prev_output is not None:
                 scale = parsed_sentence_scale(
@@ -712,7 +689,7 @@ def main() -> None:
                 base_bias=args.bias,
             )
         prev_lex_bias_map = None
-        if args.lex_bias == "from-prev" and prev_lex_rules is not None:
+        if prev_lex_rules is not None:
             scale = 1.0
             if prev_output is not None:
                 scale = parsed_sentence_scale(

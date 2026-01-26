@@ -20,4 +20,6 @@
 16	1	9397 25720 sentences failed to parse	3.27998e+06	8.33259	2.15576
 17	1	9397 25720 sentences failed to parse	3.27997e+06	8.33255	2.11928
 18	1	9397 25720 sentences failed to parse	3.27995e+06	8.33252	2.13844
-19	1	9397
+19	1	9397 25720 sentences failed to parse	3.27994e+06	8.33249	2.1706
+20	1	9397 25720 sentences failed to parse	3.27993e+06	8.33246	2.12333
+# run 0, entropy 8.33246, 9397 rules
