@@ -245,12 +245,46 @@ def normalize_rule_line(
     return f"{weight} {bias} {lhs} --> {' '.join(rhs)}"
 
 
+def set_rule_bias(raw: str, new_bias: float, default_bias: float) -> str:
+    parts = raw.split()
+    if "-->" in parts:
+        arrow = parts.index("-->")
+    elif "->" in parts:
+        arrow = parts.index("->")
+    else:
+        return raw
+    if arrow <= 0 or arrow >= len(parts) - 1:
+        return raw
+    lhs = parts[arrow - 1]
+    rhs = parts[arrow + 1 :]
+    prefix = parts[: arrow - 1]
+
+    nums: List[float] = []
+    for tok in prefix:
+        try:
+            nums.append(float(tok))
+        except ValueError:
+            nums = []
+            break
+
+    if len(nums) >= 1:
+        weight = nums[0]
+    else:
+        weight = 1.0
+
+    if not nums:
+        _ = default_bias
+
+    return f"{weight} {new_bias} {lhs} --> {' '.join(rhs)}"
+
+
 def build_init_lines(
     rules: List[Rule],
     terminals: set[str],
     args: argparse.Namespace,
     prev_prod_bias_map: Optional[Dict[Tuple[str, Tuple[str, ...]], float]] = None,
     prev_lex_bias_map: Optional[Dict[Tuple[str, Tuple[str, ...]], float]] = None,
+    new_rule_scale: Optional[float] = None,
 ) -> List[str]:
     pruned_rules, missing_syms, dropped = prune_rules_missing_rhs(
         rules, terminals
@@ -264,6 +298,16 @@ def build_init_lines(
         )
 
     ordered_rules = order_rules_nonlex_then_lex(pruned_rules)
+    new_lhs_counts: Dict[str, int] = {}
+    prev_prod_ids: Optional[set[Tuple[str, Tuple[str, ...]]]] = None
+    if prev_prod_bias_map is not None and args.new_prod_bias_mode == "lhs-parsed":
+        prev_prod_ids = set(prev_prod_bias_map.keys())
+        for lhs, rhs, raw in ordered_rules:
+            if is_lex((lhs, rhs, raw)):
+                continue
+            rid = (lhs, tuple(rhs))
+            if rid not in prev_prod_ids:
+                new_lhs_counts[lhs] = new_lhs_counts.get(lhs, 0) + 1
 
     normalized_lines: List[str] = []
     for lhs, rhs, raw in ordered_rules:
@@ -282,12 +326,24 @@ def build_init_lines(
             continue
         if prev_prod_bias_map is not None:
             rid = (lhs, tuple(rhs))
-            prev_bias = prev_prod_bias_map.get(rid, args.bias)
-            if prev_bias <= 0:
-                prev_bias = args.bias
-            normalized_lines.append(
-                f"1.0 {prev_bias} {lhs} --> {' '.join(rhs)}"
-            )
+            if rid in prev_prod_bias_map:
+                prev_bias = prev_prod_bias_map[rid]
+                if prev_bias <= 0:
+                    prev_bias = args.carryover_prod_bias_min
+                normalized_lines.append(
+                    f"1.0 {prev_bias} {lhs} --> {' '.join(rhs)}"
+                )
+                continue
+            new_bias = args.bias
+            if args.new_prod_bias_mode == "lhs-parsed" and new_rule_scale is not None:
+                x_new = new_lhs_counts.get(lhs, 0)
+                if x_new > 0:
+                    computed = (new_rule_scale * args.new_prod_bias_eta) / x_new
+                    if computed > 0:
+                        new_bias = computed
+            if args.new_prod_bias_min is not None and new_bias < args.new_prod_bias_min:
+                new_bias = args.new_prod_bias_min
+            normalized_lines.append(set_rule_bias(raw, new_bias, args.bias))
             continue
         normalized_lines.append(normalize_rule_line(raw, args.bias))
     return normalized_lines
@@ -466,6 +522,12 @@ def build_run_tag(stage_dir: Path, args: argparse.Namespace) -> str:
         stage_label = f"stages_{stage_dir.name}"
     tag = stage_label
     tag += f"__ps-{format_scale_tag(args.prod_bias_scale)}"
+    tag += f"__bias-{format_scale_tag(args.bias)}"
+    tag += f"__cb-{format_scale_tag(args.carryover_prod_bias_min)}"
+    tag += f"__nbm-{args.new_prod_bias_mode}"
+    tag += f"__nbe-{format_scale_tag(args.new_prod_bias_eta)}"
+    if args.new_prod_bias_min is not None:
+        tag += f"__nbmin-{format_scale_tag(args.new_prod_bias_min)}"
     tag += "__lex-from-prev"
     tag += f"__ls-{format_scale_tag(args.lex_bias_scale)}"
     return tag
@@ -538,9 +600,39 @@ def main() -> None:
         type=float,
         default=0.1,
         help=(
-            "Bias (pseudocount) to add when missing in production rules "
+            "Bias (pseudocount) for new production rules or missing biases "
             "(default: 0.1)."
         ),
+    )
+    ap.add_argument(
+        "--carryover_prod_bias_min",
+        type=float,
+        default=None,
+        help=(
+            "Minimum/additive bias term for carried-over production rules "
+            "(default: use --bias)."
+        ),
+    )
+    ap.add_argument(
+        "--new-prod-bias-mode",
+        choices=["fixed", "lhs-parsed"],
+        default="fixed",
+        help=(
+            "How to set bias for new production rules: fixed uses --bias; "
+            "lhs-parsed uses (N * prod-bias-scale * eta) / X_new per LHS."
+        ),
+    )
+    ap.add_argument(
+        "--new-prod-bias-eta",
+        type=float,
+        default=0.01,
+        help="Scaling factor (eta) for lhs-parsed new rule bias (default: 0.01).",
+    )
+    ap.add_argument(
+        "--new-prod-bias-min",
+        type=float,
+        default=None,
+        help="Minimum bias for new production rules (default: unset).",
     )
     ap.add_argument(
         "--prod-bias-scale",
@@ -583,6 +675,8 @@ def main() -> None:
 
     if args.iterations is not None:
         args.maxits = args.iterations
+    if args.carryover_prod_bias_min is None:
+        args.carryover_prod_bias_min = args.bias
 
     stage_dir = Path(args.stage_folder).expanduser().resolve()
     yields_path = Path(args.yields).expanduser().resolve()
@@ -674,6 +768,7 @@ def main() -> None:
         stage_out_dir = out_dir / f"{idx:02d}_{stage_name}"
         stage_out_dir.mkdir(parents=True, exist_ok=True)
         prev_bias_map = None
+        prod_new_rule_scale = None
         if prev_rules is not None:
             scale = 1.0
             if prev_output is not None:
@@ -683,10 +778,11 @@ def main() -> None:
                     args.prod_bias_scale,
                     "prod",
                 )
+                prod_new_rule_scale = scale
             prev_bias_map = build_prev_prod_bias_map(
                 prev_rules,
                 scale=scale,
-                base_bias=args.bias,
+                base_bias=args.carryover_prod_bias_min,
             )
         prev_lex_bias_map = None
         if prev_lex_rules is not None:
@@ -705,6 +801,7 @@ def main() -> None:
             args,
             prev_prod_bias_map=prev_bias_map,
             prev_lex_bias_map=prev_lex_bias_map,
+            new_rule_scale=prod_new_rule_scale,
         )
         init_path = stage_out_dir / "init_grammar.lt"
         init_path.write_text("\n".join(normalized_lines) + "\n", encoding="utf-8")
