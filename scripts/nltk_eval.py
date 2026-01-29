@@ -4,6 +4,7 @@ import math
 import os
 import re
 import sys
+import time
 from concurrent.futures import ProcessPoolExecutor
 from collections import defaultdict
 from pathlib import Path
@@ -22,8 +23,19 @@ except ImportError as exc:
         "NLTK is required for this script. Install with: pip install nltk"
     ) from exc
 
+try:
+    from tqdm import tqdm
+except Exception:
+    tqdm = None
+
 
 PROB_SUFFIX_RE = re.compile(r"\s*\((?:p|prob|logprob)=[^)]+\)\s*$")
+
+
+def progress_iter(iterable, total: int, desc: str, use_tqdm: bool):
+    if use_tqdm and tqdm is not None:
+        return tqdm(iterable, total=total, desc=desc, unit="sent", leave=False)
+    return iterable
 
 
 def parse_weighted_rules(
@@ -330,13 +342,16 @@ def parse_sentences(
     sentences: List[str],
     progress_every: int = 0,
     label: str = "",
+    use_tqdm: bool = False,
 ) -> Tuple[List[Optional[Tree]], int, int]:
     parsed: List[Optional[Tree]] = []
     parse_errors = 0
     no_parse = 0
     total = len(sentences)
-    for idx, sent in enumerate(sentences, start=1):
-        if progress_every > 0 and (idx % progress_every == 0 or idx == total):
+    desc = f"{label} parse" if label else "parse"
+    iterator = progress_iter(sentences, total=total, desc=desc, use_tqdm=use_tqdm)
+    for idx, sent in enumerate(iterator, start=1):
+        if not use_tqdm and progress_every > 0 and (idx % progress_every == 0 or idx == total):
             prefix = f"{label} " if label else ""
             print(f"[progress] {prefix}{idx}/{total}", file=sys.stderr)
         sent = sent.strip()
@@ -364,6 +379,7 @@ def parse_sentences_parallel(
     processes: int,
     progress_every: int = 0,
     label: str = "",
+    use_tqdm: bool = False,
 ) -> Tuple[List[Optional[Tree]], int, int]:
     parsed: List[Optional[Tree]] = [None] * len(sentences)
     parse_errors = 0
@@ -373,20 +389,21 @@ def parse_sentences_parallel(
         return parsed, parse_errors, no_parse
 
     chunksize = max(1, total // max(processes * 4, 1))
+    desc = f"{label} parse" if label else "parse"
     with ProcessPoolExecutor(
         max_workers=processes,
         initializer=_init_worker,
         initargs=(rules, start_symbol),
     ) as ex:
-        for idx, (tree, status) in enumerate(
-            ex.map(_parse_sentence_worker, sentences, chunksize=chunksize), start=1
-        ):
+        iterator = ex.map(_parse_sentence_worker, sentences, chunksize=chunksize)
+        iterator = progress_iter(iterator, total=total, desc=desc, use_tqdm=use_tqdm)
+        for idx, (tree, status) in enumerate(iterator, start=1):
             parsed[idx - 1] = tree
             if status == "error":
                 parse_errors += 1
             elif status == "no_parse":
                 no_parse += 1
-            if progress_every > 0 and (idx % progress_every == 0 or idx == total):
+            if not use_tqdm and progress_every > 0 and (idx % progress_every == 0 or idx == total):
                 prefix = f"{label} " if label else ""
                 print(f"[progress] {prefix}{idx}/{total}", file=sys.stderr)
     return parsed, parse_errors, no_parse
@@ -406,6 +423,22 @@ def edge_probability(edge) -> Optional[float]:
     if hasattr(edge, "probability") and callable(edge.probability):
         return edge.probability()
     return None
+
+
+def loglik_from_chart(chart, start_symbol: str, sent_len: int) -> float:
+    start_nt = Nonterminal(start_symbol)
+    total_prob = 0.0
+    for edge in chart.edges():
+        if not edge.is_complete():
+            continue
+        if edge.lhs() != start_nt:
+            continue
+        if edge.span() != (0, sent_len):
+            continue
+        prob = edge_probability(edge)
+        if prob:
+            total_prob += prob
+    return total_prob
 
 
 def sentence_loglik_viterbi(
@@ -438,23 +471,27 @@ def sentence_loglik_inside(
         return None, "empty"
     words = sentence.split()
     try:
-        chart = parser.chart_parse(words)
+        chart = None
+        if hasattr(parser, "chart_parse"):
+            chart = parser.chart_parse(words)
+        else:
+            parsed = parser.parse(words)
+            if hasattr(parsed, "edges"):
+                chart = parsed
+            else:
+                total_prob = 0.0
+                for tree in parsed:
+                    prob = tree_probability(tree)
+                    if prob:
+                        total_prob += prob
+                if total_prob <= 0:
+                    return None, "no_parse"
+                return math.log(total_prob), "ok"
     except ValueError:
         return None, "error"
     if chart is None:
         return None, "no_parse"
-    start_nt = Nonterminal(start_symbol)
-    total_prob = 0.0
-    for edge in chart.edges():
-        if not edge.is_complete():
-            continue
-        if edge.lhs() != start_nt:
-            continue
-        if edge.span() != (0, len(words)):
-            continue
-        prob = edge_probability(edge)
-        if prob:
-            total_prob += prob
+    total_prob = loglik_from_chart(chart, start_symbol, len(words))
     if total_prob <= 0:
         return None, "no_parse"
     return math.log(total_prob), "ok"
@@ -502,6 +539,7 @@ def compute_logliks(
     mode: str,
     processes: int,
     progress_every: int = 0,
+    use_tqdm: bool = False,
 ) -> Tuple[List[Optional[float]], int, int, int]:
     logliks: List[Optional[float]] = []
     parse_errors = 0
@@ -518,9 +556,11 @@ def compute_logliks(
             initializer=_init_loglik_worker,
             initargs=(rules, start_symbol, mode),
         ) as ex:
-            for idx, (loglik, status) in enumerate(
-                ex.map(_loglik_worker, sentences, chunksize=chunksize), start=1
-            ):
+            iterator = ex.map(_loglik_worker, sentences, chunksize=chunksize)
+            iterator = progress_iter(
+                iterator, total=total, desc="loglik", use_tqdm=use_tqdm
+            )
+            for idx, (loglik, status) in enumerate(iterator, start=1):
                 logliks.append(loglik)
                 if status == "error":
                     parse_errors += 1
@@ -528,7 +568,7 @@ def compute_logliks(
                     no_parse += 1
                 elif status == "empty":
                     empty += 1
-                if progress_every > 0 and (idx % progress_every == 0 or idx == total):
+                if not use_tqdm and progress_every > 0 and (idx % progress_every == 0 or idx == total):
                     print(f"[progress] loglik {idx}/{total}", file=sys.stderr)
         return logliks, parse_errors, no_parse, empty
 
@@ -537,7 +577,8 @@ def compute_logliks(
         parser = InsideChartParser(build_pcfg(rules, start_symbol))
     else:
         parser = build_parser(rules, start_symbol)
-    for idx, sentence in enumerate(sentences, start=1):
+    iterator = progress_iter(sentences, total=total, desc="loglik", use_tqdm=use_tqdm)
+    for idx, sentence in enumerate(iterator, start=1):
         loglik, status = (
             sentence_loglik_inside(parser, start_label, sentence)
             if mode == "inside" and InsideChartParser is not None
@@ -550,7 +591,7 @@ def compute_logliks(
             no_parse += 1
         elif status == "empty":
             empty += 1
-        if progress_every > 0 and (idx % progress_every == 0 or idx == total):
+        if not use_tqdm and progress_every > 0 and (idx % progress_every == 0 or idx == total):
             print(f"[progress] loglik {idx}/{total}", file=sys.stderr)
     return logliks, parse_errors, no_parse, empty
 
@@ -603,6 +644,8 @@ def evaluate(
     include_root: bool,
     labeled: bool,
     progress_every: int = 0,
+    use_tqdm: bool = False,
+    label: str = "",
 ) -> dict[str, float]:
     total_sentences = len(sentences)
     gold_available = 0
@@ -614,8 +657,12 @@ def evaluate(
     total_correct = 0
     leaf_mismatch = 0
 
-    for idx in range(total_sentences):
-        if progress_every > 0:
+    desc = f"eval {label}" if label else "eval"
+    iterator = progress_iter(
+        range(total_sentences), total=total_sentences, desc=desc, use_tqdm=use_tqdm
+    )
+    for idx in iterator:
+        if not use_tqdm and progress_every > 0:
             current = idx + 1
             if current % progress_every == 0 or current == total_sentences:
                 print(f"[progress] eval {current}/{total_sentences}", file=sys.stderr)
@@ -675,6 +722,8 @@ def evaluate_both(
     include_preterminals: bool,
     include_root: bool,
     progress_every: int = 0,
+    use_tqdm: bool = False,
+    label: str = "",
 ) -> dict[str, object]:
     total_sentences = len(sentences)
     gold_available = 0
@@ -692,8 +741,12 @@ def evaluate_both(
     total_correct_l = 0
     exact_match_l = 0
 
-    for idx in range(total_sentences):
-        if progress_every > 0:
+    desc = f"eval {label}" if label else "eval"
+    iterator = progress_iter(
+        range(total_sentences), total=total_sentences, desc=desc, use_tqdm=use_tqdm
+    )
+    for idx in iterator:
+        if not use_tqdm and progress_every > 0:
             current = idx + 1
             if current % progress_every == 0 or current == total_sentences:
                 print(f"[progress] eval {current}/{total_sentences}", file=sys.stderr)
@@ -866,10 +919,20 @@ def main() -> None:
         help="Report progress every N sentences (default: 1000, 0 disables).",
     )
     ap.add_argument(
+        "--progress-bar",
+        action="store_true",
+        help="Show tqdm progress bars (requires tqdm).",
+    )
+    ap.add_argument(
         "--processes",
         type=int,
         default=1,
         help="Number of worker processes for parsing (default: 1, 0 = auto).",
+    )
+    ap.add_argument(
+        "--timing",
+        action="store_true",
+        help="Report elapsed time for major evaluation stages.",
     )
     ap.add_argument(
         "--prune-lexicon",
@@ -931,8 +994,20 @@ def main() -> None:
         "--loglik-out",
         help="Optional output file with per-sentence log-likelihoods.",
     )
+    ap.add_argument(
+        "--oracle-jsd-only",
+        action="store_true",
+        help="Use oracle grammar only for JSD (skip oracle-based parse evaluation).",
+    )
 
     args = ap.parse_args()
+
+    use_tqdm = args.progress_bar
+    if use_tqdm and tqdm is None:
+        print("[WARN] tqdm not installed; progress bar disabled.", file=sys.stderr)
+        use_tqdm = False
+
+    overall_start = time.perf_counter() if args.timing else None
 
     want_parse = args.eval_parse
     want_jsd = args.eval_jsd
@@ -952,16 +1027,36 @@ def main() -> None:
         if (want_parse or want_loglik or args.prune_lexicon) and not sentences:
             raise SystemExit("No sentences found.")
 
+    if want_jsd and not args.oracle_grammar:
+        print(
+            "[WARN] --eval-jsd requested but --oracle-grammar not provided; skipping JSD.",
+            file=sys.stderr,
+        )
+        want_jsd = False
+
+    if want_loglik and args.loglik_grammar == "oracle" and not args.oracle_grammar:
+        print(
+            "[WARN] --loglik-grammar oracle requested but --oracle-grammar not provided; skipping log-likelihood.",
+            file=sys.stderr,
+        )
+        want_loglik = False
+
     need_oracle_for_parse = want_parse and not args.gold_parses
+    if args.oracle_jsd_only and want_parse and not args.gold_parses:
+        raise SystemExit(
+            "--gold-parses is required when --oracle-jsd-only is set."
+        )
+    if need_oracle_for_parse and not args.oracle_grammar:
+        raise SystemExit(
+            "--oracle-grammar is required when --gold-parses is omitted."
+        )
+
     need_oracle_rules = (
         want_jsd
         or (want_loglik and args.loglik_grammar == "oracle")
         or need_oracle_for_parse
-        or (want_parse and args.oracle_grammar is not None)
+        or (want_parse and args.oracle_grammar is not None and not args.oracle_jsd_only)
     )
-
-    if need_oracle_rules and not args.oracle_grammar:
-        raise SystemExit("--oracle-grammar is required for this evaluation.")
 
     induced_path = Path(args.induced_grammar)
     induced_rules = parse_weighted_rules(induced_path, args.weight_index)
@@ -1004,6 +1099,7 @@ def main() -> None:
     processes = resolve_processes(args.processes)
 
     if want_parse:
+        parse_start = time.perf_counter() if args.timing else None
         predicted = None
         pred_errors = 0
         pred_no_parse = 0
@@ -1042,6 +1138,7 @@ def main() -> None:
                     processes=processes,
                     progress_every=args.progress_every,
                     label="predicted",
+                    use_tqdm=use_tqdm,
                 )
             else:
                 induced_parser = build_parser(
@@ -1052,13 +1149,14 @@ def main() -> None:
                     sentences,
                     progress_every=args.progress_every,
                     label="predicted",
+                    use_tqdm=use_tqdm,
                 )
             if cache_path:
                 cache_path.parent.mkdir(parents=True, exist_ok=True)
                 write_parse_records(cache_path, sentences, predicted)
 
         eval_jobs = []
-        if args.oracle_grammar:
+        if args.oracle_grammar and not args.oracle_jsd_only:
             if not normalized_decoding_oracle:
                 raise SystemExit("Oracle grammar required to generate gold parses.")
             if processes > 1:
@@ -1069,6 +1167,7 @@ def main() -> None:
                     processes=processes,
                     progress_every=args.progress_every,
                     label="gold",
+                    use_tqdm=use_tqdm,
                 )
             else:
                 oracle_parser = build_parser(normalized_decoding_oracle, args.start_symbol)
@@ -1077,6 +1176,7 @@ def main() -> None:
                     sentences,
                     progress_every=args.progress_every,
                     label="gold",
+                    use_tqdm=use_tqdm,
                 )
             eval_jobs.append(
                 {
@@ -1118,6 +1218,8 @@ def main() -> None:
                 include_preterminals=args.include_preterminals,
                 include_root=args.include_root,
                 progress_every=args.progress_every,
+                use_tqdm=use_tqdm,
+                label=job["label"],
             )
             print_parse_eval(
                 stats,
@@ -1130,8 +1232,12 @@ def main() -> None:
                 job["gold_no_parse"],
                 label=job["label"],
             )
+        if args.timing:
+            elapsed = time.perf_counter() - parse_start
+            print(f"[timer] parse eval: {elapsed:.2f}s", file=sys.stderr)
 
     if want_jsd:
+        jsd_start = time.perf_counter() if args.timing else None
         oracle_by = rules_by_lhs(normalized_oracle_rules)
         induced_by = rules_by_lhs(normalized_induced_rules)
         shared_lhs = sorted(set(oracle_by) & set(induced_by))
@@ -1160,8 +1266,12 @@ def main() -> None:
                 if lhs in preterminals:
                     continue
                 print(f"{lhs}\t{jsd_by_lhs[lhs]:.6f}")
+        if args.timing:
+            elapsed = time.perf_counter() - jsd_start
+            print(f"[timer] jsd eval: {elapsed:.2f}s", file=sys.stderr)
 
     if want_loglik:
+        loglik_start = time.perf_counter() if args.timing else None
         loglik_rules = (
             normalized_decoding_induced
             if args.loglik_grammar == "induced"
@@ -1177,10 +1287,26 @@ def main() -> None:
             mode=loglik_mode,
             processes=processes,
             progress_every=args.progress_every,
+            use_tqdm=use_tqdm,
         )
         valid = [v for v in logliks if v is not None]
         total = sum(valid)
         mean = total / len(valid) if valid else float("nan")
+        normalized_vals = []
+        total_tokens = 0
+        for sentence, loglik in zip(sentences, logliks):
+            if loglik is None:
+                continue
+            tokens = sentence.split()
+            if not tokens:
+                continue
+            length = len(tokens)
+            normalized_vals.append(loglik / length)
+            total_tokens += length
+        mean_normalized = (
+            sum(normalized_vals) / len(normalized_vals) if normalized_vals else float("nan")
+        )
+        corpus_normalized = total / total_tokens if total_tokens else float("nan")
         print("Sentence log-likelihood")
         print(f"- grammar: {args.loglik_grammar}")
         print(f"- mode: {loglik_mode}")
@@ -1188,6 +1314,11 @@ def main() -> None:
         print(f"- evaluated: {len(valid)}")
         print(f"- total log-likelihood: {total:.6f}")
         print(f"- mean log-likelihood: {mean:.6f}")
+        print(
+            f"- mean normalized log-likelihood (per token, sentence avg): {mean_normalized:.6f}"
+        )
+        print(f"- normalized log-likelihood (per token, corpus): {corpus_normalized:.6f}")
+        print(f"- total tokens (evaluated): {total_tokens}")
         print(f"- no-parse: {ll_no_parse}, parse errors: {ll_errors}, empty: {ll_empty}")
         if args.loglik_out:
             out_lines = [
@@ -1197,6 +1328,13 @@ def main() -> None:
             Path(args.loglik_out).write_text(
                 "\n".join(out_lines) + "\n", encoding="utf-8"
             )
+        if args.timing:
+            elapsed = time.perf_counter() - loglik_start
+            print(f"[timer] loglik eval: {elapsed:.2f}s", file=sys.stderr)
+
+    if args.timing:
+        elapsed = time.perf_counter() - overall_start
+        print(f"[timer] total: {elapsed:.2f}s", file=sys.stderr)
 
 
 if __name__ == "__main__":
