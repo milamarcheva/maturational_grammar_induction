@@ -963,6 +963,11 @@ def main() -> None:
         help="Run Jensen-Shannon divergence over grammar rule distributions.",
     )
     ap.add_argument(
+        "--eval-jsd-per-lhs",
+        action="store_true",
+        help="Report JSD per nonterminal (implies --eval-jsd and --jsd-per-lhs).",
+    )
+    ap.add_argument(
         "--eval-loglik",
         action="store_true",
         help="Run sentence log-likelihood evaluation.",
@@ -1010,10 +1015,12 @@ def main() -> None:
     overall_start = time.perf_counter() if args.timing else None
 
     want_parse = args.eval_parse
-    want_jsd = args.eval_jsd
+    want_jsd = args.eval_jsd or args.eval_jsd_per_lhs
     want_loglik = args.eval_loglik
     if not (want_parse or want_jsd or want_loglik):
         want_parse = True
+    if args.eval_jsd_per_lhs:
+        args.jsd_per_lhs = True
     if want_jsd and (args.jsd_base <= 0 or args.jsd_base == 1.0):
         raise SystemExit("--jsd-base must be > 0 and not equal to 1.")
 
