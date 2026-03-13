@@ -77,6 +77,75 @@ STAGE_DEFS = [
         pts={"COMP", "CC", "WP", "WP$", "WRB", "WDT", "FW"},
         exclude={"INTJ", }, #"PP", "ADVP" for running baseINTJ first 
     ),
+    # ---- MMM curriculum (full) ----
+    StageDef(
+        name="MMM1",
+        pts={"VB"},
+        nts={"VP", "ROOT", "S", "FRAG",},
+        exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP", "ADVP", "PP", "INTJ"},
+
+    ),
+
+    StageDef(
+        name="MMM2",
+        pts={"NN", "NNP", "PRP", "PRP$"},
+        nts={"NP"},
+        exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP", "ADVP", "PP", "INTJ"},
+
+    ),
+
+    StageDef(
+        name="MMM3",
+        pts={"UH", "DT"},
+        nts={"INTJ"},
+        exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP", "ADVP", "PP",},
+
+    ),
+
+    StageDef(
+        name="MMM4",
+        pts={"T"},
+        exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP", "ADVP", "PP",},
+
+    ),
+
+    StageDef(
+        name="MMM5",
+        pts={"ASP", "VBD", "VBP", "VBZ", "VBG", "VBN", "NOT", "AUX", "COP", "MD", "PRS",
+            "PDT", "POS", "NNS", "DIV", "CD", "JJ", "RB", "IN", "RP",},
+        exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP",},
+    ),
+
+    StageDef(
+        name="MMM6",
+        pts={"COMP", "CC", "WP", "WP$", "WRB", "WDT", "JJR", "RBR"},
+        nts={"SBAR", "SBARQ", "SINV", "SQ", "WHADJP", "WHADVP", "WHNP", },
+        exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP",},
+    ),
+
+    StageDef(
+        name="MMM7",
+        # pts={"COMP", "CC", "WP", "WP$", "WRB", "WDT"},
+        pts = {"JJS", "RBS", "FW"},
+        nts={"SBAR", "SBARQ", "SINV", "SQ","WHADJP", "WHADVP", "WHNP", },
+    ),
+    # ---- MMM curriculum (collapsed) ----
+
+    StageDef(
+        name="MMM12",
+        pts={"VB", "NN", "NNP", "PRP", "PRP$"},
+        nts={"ROOT", "S", "FRAG", "NP", "VP"},
+    ),
+
+    StageDef(
+        name="MMM34",
+        pts={
+            "UH",
+            "VBD", "VBP", "VBZ", "AUX", "COP", "MD",
+            "ASP", "PRS",
+        },
+        nts={"INTJ"},
+    ),
 ]
 
 STAGE_DEF_MAP = {stage.name: stage for stage in STAGE_DEFS}
