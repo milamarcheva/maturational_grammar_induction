@@ -1,0 +1,21 @@
+1.0 0.1  NN --> VB T
+1.0 0.1  NP --> EX
+1.0 0.1  VBD --> VB T
+1.0 0.1  VP --> VBD NP
+1.0 0.1  VP --> VBP NP
+1.0 0.1  VP --> VBP
+1.0 0.1  VP --> VBD
+1.0 0.1  VP --> VBP S
+1.0 0.1  VP --> VBD S
+1.0 0.1  VP --> VBD NP NP
+1.0 0.1  VP --> VBD VP
+1.0 0.1  VP --> VBP NP NP
+1.0 0.1  VP --> VBP VP
+1.0 0.1  VP --> VBD NP S
+1.0 0.1  VP --> VBP NP VP
+1.0 0.1  VP --> VBP NP S
+1.0 0.1  VP --> VBD NP VP
+1.0 0.1  VP --> VBD INTJ
+1.0 0.1  VP --> VBD FRAG
+1.0 0.1  VP --> NP VBD
+1.0 0.1  VP --> VBP INTJ

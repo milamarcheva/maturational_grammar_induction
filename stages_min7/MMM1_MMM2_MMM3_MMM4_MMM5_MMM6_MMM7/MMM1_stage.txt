@@ -1,0 +1,31 @@
+1.0 0.1  ROOT --> S
+1.0 0.1  ROOT --> FRAG
+1.0 0.1  ROOT --> S S
+1.0 0.1  ROOT --> FRAG S
+1.0 0.1  ROOT --> S FRAG
+1.0 0.1  ROOT --> FRAG FRAG
+1.0 0.1  ROOT --> S S S
+1.0 0.1  ROOT --> FRAG FRAG FRAG
+1.0 0.1  ROOT --> FRAG S S
+1.0 0.1  ROOT --> FRAG FRAG S
+1.0 0.1  ROOT --> FRAG S FRAG
+1.0 0.1  ROOT --> S FRAG S
+1.0 0.1  ROOT --> S S S S
+1.0 0.1  ROOT --> S VP
+1.0 0.1  ROOT --> VP
+1.0 0.1  FRAG --> VP
+1.0 0.1  FRAG --> S
+1.0 0.1  FRAG --> VP VP
+1.0 0.1  FRAG --> VB
+1.0 0.1  S --> VP
+1.0 0.1  S --> S S
+1.0 0.1  S --> VP VP
+1.0 0.1  S --> S VP
+1.0 0.1  S --> VP FRAG
+1.0 0.1  VP --> VB
+1.0 0.1  VP --> VB S
+1.0 0.1  VP --> VB VP
+1.0 0.1  VP --> VB FRAG
+1.0 0.1  VP --> VB VB VB
+1.0 0.1  VP --> VB VB
+1.0 0.1  VP --> VP VP

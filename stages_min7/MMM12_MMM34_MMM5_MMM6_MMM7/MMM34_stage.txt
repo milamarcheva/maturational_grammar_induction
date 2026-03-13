@@ -1,0 +1,131 @@
+1.0 0.1  ROOT --> INTJ S
+1.0 0.1  ROOT --> INTJ
+1.0 0.1  ROOT --> INTJ FRAG
+1.0 0.1  ROOT --> INTJ NP
+1.0 0.1  ROOT --> S INTJ
+1.0 0.1  ROOT --> FRAG INTJ
+1.0 0.1  ROOT --> INTJ INTJ
+1.0 0.1  ROOT --> INTJ NP S
+1.0 0.1  ROOT --> INTJ S S
+1.0 0.1  ROOT --> INTJ S NP
+1.0 0.1  ROOT --> INTJ S FRAG
+1.0 0.1  ROOT --> INTJ S INTJ
+1.0 0.1  ROOT --> INTJ FRAG S
+1.0 0.1  ROOT --> INTJ INTJ S
+1.0 0.1  ROOT --> INTJ NP FRAG
+1.0 0.1  ROOT --> NP S INTJ
+1.0 0.1  ROOT --> FRAG INTJ S
+1.0 0.1  ROOT --> NP INTJ
+1.0 0.1  ROOT --> INTJ FRAG FRAG
+1.0 0.1  ROOT --> INTJ INTJ FRAG
+1.0 0.1  ROOT --> INTJ FRAG INTJ
+1.0 0.1  ROOT --> INTJ FRAG NP
+1.0 0.1  ROOT --> S INTJ NP
+1.0 0.1  ROOT --> INTJ INTJ INTJ
+1.0 0.1  ROOT --> INTJ S S S
+1.0 0.1  ROOT --> INTJ INTJ NP
+1.0 0.1  ROOT --> NP INTJ S
+1.0 0.1  ROOT --> FRAG INTJ FRAG
+1.0 0.1  ROOT --> FRAG INTJ NP
+1.0 0.1  ROOT --> S INTJ S
+1.0 0.1  ROOT --> S S INTJ
+1.0 0.1  ROOT --> INTJ S NP S
+1.0 0.1  FRAG --> INTJ NP
+1.0 0.1  FRAG --> NP INTJ
+1.0 0.1  FRAG --> INTJ
+1.0 0.1  FRAG --> INTJ INTJ
+1.0 0.1  FRAG --> INTJ NP VP
+1.0 0.1  FRAG --> INTJ VP
+1.0 0.1  FRAG --> VP INTJ
+1.0 0.1  FRAG --> DT NN
+1.0 0.1  FRAG --> INTJ NP INTJ
+1.0 0.1  FRAG --> INTJ NP NP
+1.0 0.1  FRAG --> INTJ INTJ INTJ
+1.0 0.1  FRAG --> NP VP INTJ
+1.0 0.1  FRAG --> UH
+1.0 0.1  FRAG --> INTJ FRAG
+1.0 0.1  INTJ --> UH
+1.0 0.1  INTJ --> UH UH
+1.0 0.1  INTJ --> VP
+1.0 0.1  INTJ --> UH NP
+1.0 0.1  INTJ --> UH UH UH
+1.0 0.1  INTJ --> NP
+1.0 0.1  INTJ --> UH VP
+1.0 0.1  INTJ --> UH UH UH UH
+1.0 0.1  INTJ --> UH NN
+1.0 0.1  INTJ --> VB
+1.0 0.1  INTJ --> NP VP
+1.0 0.1  INTJ --> UH UH UH UH UH
+1.0 0.1  INTJ --> UH PRP$ NN
+1.0 0.1  INTJ --> UH INTJ
+1.0 0.1  INTJ --> UH NNP
+1.0 0.1  INTJ --> VP NP
+1.0 0.1  INTJ --> UH PRP$
+1.0 0.1  INTJ --> NN
+1.0 0.1  INTJ --> NP NP
+1.0 0.1  INTJ --> UH UH UH UH UH UH
+1.0 0.1  NN --> VB T
+1.0 0.1  NNPS --> NNP DIV
+1.0 0.1  NP --> DT NN
+1.0 0.1  NP --> EX
+1.0 0.1  NP --> DT NN NN
+1.0 0.1  NP --> DT
+1.0 0.1  NP --> DT NNP
+1.0 0.1  NP --> PRP DT
+1.0 0.1  NP --> DT NNP NN
+1.0 0.1  NP --> INTJ
+1.0 0.1  NP --> DT DT NN
+1.0 0.1  NP --> DT NNP NNP
+1.0 0.1  NP --> DT NN NN NN
+1.0 0.1  NP --> NNPS
+1.0 0.1  NP --> DT PRP$ NN
+1.0 0.1  NP --> DT VB
+1.0 0.1  NP --> DT NNPS
+1.0 0.1  NP --> DT NP NN
+1.0 0.1  NP --> UH
+1.0 0.1  NP --> DT NP
+1.0 0.1  NP --> DT NN S
+1.0 0.1  NP --> NP INTJ
+1.0 0.1  NP --> NNP DT NN
+1.0 0.1  NP --> DT NN DT NN
+1.0 0.1  NP --> DT NNP NN NN
+1.0 0.1  NP --> DT PRP
+1.0 0.1  NP --> NN DT
+1.0 0.1  NP --> DT NN NNP
+1.0 0.1  NP --> NN DT NN
+1.0 0.1  S --> INTJ NP VP
+1.0 0.1  S --> INTJ VP
+1.0 0.1  S --> NP VP INTJ
+1.0 0.1  S --> INTJ NP VP INTJ
+1.0 0.1  S --> VP INTJ
+1.0 0.1  S --> INTJ NP NP VP
+1.0 0.1  S --> INTJ
+1.0 0.1  S --> INTJ INTJ NP VP
+1.0 0.1  S --> INTJ INTJ VP
+1.0 0.1  S --> INTJ NP
+1.0 0.1  S --> INTJ VP INTJ
+1.0 0.1  S --> INTJ INTJ
+1.0 0.1  S --> INTJ NP VP NP
+1.0 0.1  S --> INTJ S
+1.0 0.1  S --> INTJ VP NP
+1.0 0.1  VBD --> VB T
+1.0 0.1  VP --> VBD NP
+1.0 0.1  VP --> VBP NP
+1.0 0.1  VP --> VBP
+1.0 0.1  VP --> VBD
+1.0 0.1  VP --> VBP S
+1.0 0.1  VP --> VBD S
+1.0 0.1  VP --> VBD NP NP
+1.0 0.1  VP --> VB INTJ
+1.0 0.1  VP --> VBD VP
+1.0 0.1  VP --> VBP NP NP
+1.0 0.1  VP --> VBP VP
+1.0 0.1  VP --> VBD NP S
+1.0 0.1  VP --> VBP NP VP
+1.0 0.1  VP --> VBP NP S
+1.0 0.1  VP --> VBD NP VP
+1.0 0.1  VP --> VBD INTJ
+1.0 0.1  VP --> VBD FRAG
+1.0 0.1  VP --> NP VBD
+1.0 0.1  VP --> VBP INTJ
+1.0 0.1  VP --> VB INTJ NP
