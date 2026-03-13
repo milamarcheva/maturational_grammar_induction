@@ -96,22 +96,22 @@ STAGE_DEFS = [
 
     StageDef(
         name="MMM3",
-        pts={"UH", "DT"},
-        nts={"INTJ"},
+        pts={"UH", "DT", "DIV"},
+        nts={"INTJ", "NNS"},
         exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP", "ADVP", "PP",},
 
     ),
 
     StageDef(
         name="MMM4",
-        pts={"T"},
+        pts={"T", "EX", "VBD", "VBP"},
         exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP", "ADVP", "PP",},
 
     ),
 
     StageDef(
         name="MMM5",
-        pts={"ASP", "VBD", "VBP", "VBZ", "VBG", "VBN", "NOT", "AUX", "COP", "MD", "PRS",
+        pts={"ASP", "VBD", "VBP", "VBZ", "VBG", "VBN", "NOT", "AUX", "COP", "MD", "PRS", "TO",
             "PDT", "POS", "NNS", "DIV", "CD", "JJ", "RB", "IN", "RP",},
         exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP",},
     ),

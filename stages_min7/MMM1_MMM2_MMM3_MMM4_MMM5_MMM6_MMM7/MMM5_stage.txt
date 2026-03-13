@@ -49,6 +49,7 @@
 1.0 0.1  ADVP --> ADVP PP
 1.0 0.1  ADVP --> DT RB
 1.0 0.1  ADVP --> RP RB
+1.0 0.1  ADVP --> EX
 1.0 0.1  ADVP --> NN PP
 1.0 0.1  ADVP --> RB NN
 1.0 0.1  ADVP --> RB RB PP
@@ -123,7 +124,6 @@
 1.0 0.1  JJ --> VB ASP
 1.0 0.1  NN --> VB ASP
 1.0 0.1  NNP --> VB ASP
-1.0 0.1  NNPS --> NNP DIV
 1.0 0.1  NNS --> NN DIV
 1.0 0.1  NP --> DT JJ NN
 1.0 0.1  NP --> NNS
@@ -190,7 +190,6 @@
 1.0 0.1  NP --> JJ DT JJ NN
 1.0 0.1  NP --> CD JJ NNS
 1.0 0.1  NP --> DT JJ CD
-1.0 0.1  NP --> NNPS
 1.0 0.1  NP --> DT DT JJ NN
 1.0 0.1  NP --> DT JJ NN POS
 1.0 0.1  NP --> ADJP
@@ -213,7 +212,6 @@
 1.0 0.1  NP --> DT RB JJ NN
 1.0 0.1  NP --> NN ADJP
 1.0 0.1  NP --> NOT DT NN
-1.0 0.1  NP --> DT NNPS
 1.0 0.1  NP --> NN JJ NN
 1.0 0.1  NP --> PRP$ NN PP
 1.0 0.1  NP --> DT DT JJ NNS
@@ -293,12 +291,14 @@
 1.0 0.1  PP --> IN IN NP
 1.0 0.1  PP --> IN NP NP
 1.0 0.1  PP --> IN NP VP
+1.0 0.1  PP --> ADVP TO NP
 1.0 0.1  PP --> PRP
 1.0 0.1  PP --> CD NN
 1.0 0.1  PP --> NP IN NP
 1.0 0.1  PP --> NP PP
 1.0 0.1  PP --> ADVP IN PP
 1.0 0.1  PP --> PP PP
+1.0 0.1  PP --> RB TO NP
 1.0 0.1  PP --> IN NN
 1.0 0.1  PP --> JJ NNP
 1.0 0.1  PP --> RB IN VP
@@ -326,6 +326,7 @@
 1.0 0.1  S --> NP NOT VP
 1.0 0.1  S --> RB NP VP
 1.0 0.1  S --> NP ADVP NOT VP
+1.0 0.1  S --> TO VP
 1.0 0.1  S --> NP PP
 1.0 0.1  S --> ADVP NP VP INTJ
 1.0 0.1  S --> ADVP PP NP VP
@@ -339,12 +340,12 @@
 1.0 0.1  S --> PP VP
 1.0 0.1  S --> NP PRT
 1.0 0.1  VB --> VB ASP
-1.0 0.1  VBD --> VB T
 1.0 0.1  VBG --> VB ASP
 1.0 0.1  VBN --> VB T
 1.0 0.1  VBZ --> VB PRS
 1.0 0.1  VP --> AUX NP VP
 1.0 0.1  VP --> COP NP
+1.0 0.1  VP --> TO VP
 1.0 0.1  VP --> AUX VP
 1.0 0.1  VP --> VB PP
 1.0 0.1  VP --> MD VP
@@ -355,16 +356,12 @@
 1.0 0.1  VP --> MD NP VP
 1.0 0.1  VP --> VBG
 1.0 0.1  VP --> VB ADVP
-1.0 0.1  VP --> VBD NP
 1.0 0.1  VP --> COP
-1.0 0.1  VP --> VBP NP
 1.0 0.1  VP --> VB NP PRT
 1.0 0.1  VP --> VB NP ADVP
 1.0 0.1  VP --> COP PP
 1.0 0.1  VP --> VBG PP
 1.0 0.1  VP --> VBG NP
-1.0 0.1  VP --> VBP
-1.0 0.1  VP --> VBD
 1.0 0.1  VP --> COP NP NP
 1.0 0.1  VP --> AUX S
 1.0 0.1  VP --> VBD PP
@@ -373,7 +370,6 @@
 1.0 0.1  VP --> VBN
 1.0 0.1  VP --> AUX NOT NP VP
 1.0 0.1  VP --> COP NP ADJP
-1.0 0.1  VP --> VBP S
 1.0 0.1  VP --> COP NP PP
 1.0 0.1  VP --> VBZ
 1.0 0.1  VP --> VBZ PP
@@ -388,7 +384,6 @@
 1.0 0.1  VP --> VBN NP
 1.0 0.1  VP --> VB PP PP
 1.0 0.1  VP --> VB ADJP
-1.0 0.1  VP --> VBD S
 1.0 0.1  VP --> COP NOT ADJP
 1.0 0.1  VP --> VBP PP
 1.0 0.1  VP --> VB PP ADVP
@@ -407,9 +402,9 @@
 1.0 0.1  VP --> AUX NOT
 1.0 0.1  VP --> VBN S
 1.0 0.1  VP --> VBZ ADVP
-1.0 0.1  VP --> VBD NP NP
 1.0 0.1  VP --> VB ADVP PP
 1.0 0.1  VP --> VB NP ADJP
+1.0 0.1  VP --> TO
 1.0 0.1  VP --> VBD NP PRT
 1.0 0.1  VP --> COP ADJP ADVP
 1.0 0.1  VP --> VB IN
@@ -445,7 +440,6 @@
 1.0 0.1  VP --> VBP ADJP
 1.0 0.1  VP --> VBG PP ADVP
 1.0 0.1  VP --> VB NP ADVP PP
-1.0 0.1  VP --> VBD VP
 1.0 0.1  VP --> AUX NOT ADVP VP
 1.0 0.1  VP --> COP NP NP PP
 1.0 0.1  VP --> VBN NP ADVP
@@ -460,7 +454,6 @@
 1.0 0.1  VP --> VBZ NP ADVP
 1.0 0.1  VP --> COP NOT ADVP
 1.0 0.1  VP --> COP ADVP ADVP
-1.0 0.1  VP --> VBP NP NP
 1.0 0.1  VP --> COP S
 1.0 0.1  VP --> ADVP VB NP
 1.0 0.1  VP --> VBZ PRT
@@ -473,7 +466,6 @@
 1.0 0.1  VP --> COP NOT NP NP
 1.0 0.1  VP --> VBD PP ADVP
 1.0 0.1  VP --> VBG PRT NP
-1.0 0.1  VP --> VBP VP
 1.0 0.1  VP --> VB NOT
 1.0 0.1  VP --> COP NP NP ADVP
 1.0 0.1  VP --> VBN FRAG
@@ -491,13 +483,11 @@
 1.0 0.1  VP --> VBG ADVP ADVP
 1.0 0.1  VP --> VBP PRT
 1.0 0.1  VP --> AUX RB VP
-1.0 0.1  VP --> VBD NP S
 1.0 0.1  VP --> VBP NOT
 1.0 0.1  VP --> VBG PRT ADVP
 1.0 0.1  VP --> VB NP ADVP ADVP
 1.0 0.1  VP --> VBD PRT PP
 1.0 0.1  VP --> VBG PRT PP
-1.0 0.1  VP --> VBP NP VP
 1.0 0.1  VP --> AUX PP
 1.0 0.1  VP --> MD NOT
 1.0 0.1  VP --> ADVP VB
@@ -515,7 +505,6 @@
 1.0 0.1  VP --> VBP ADVP PP
 1.0 0.1  VP --> VBP PP PP
 1.0 0.1  VP --> MD S
-1.0 0.1  VP --> VBP NP S
 1.0 0.1  VP --> VB PP S
 1.0 0.1  VP --> VBD NP PP ADVP
 1.0 0.1  VP --> VB ADVP NP
@@ -529,7 +518,6 @@
 1.0 0.1  VP --> VB ADVP S
 1.0 0.1  VP --> COP NP S
 1.0 0.1  VP --> VB NOT VP
-1.0 0.1  VP --> VBD NP VP
 1.0 0.1  VP --> VBG NP PRT PP
 1.0 0.1  VP --> COP NOT NP PP
 1.0 0.1  VP --> MD NP INTJ VP
@@ -588,6 +576,7 @@
 1.0 0.1  VP --> ADVP VBG S
 1.0 0.1  VP --> COP NP ADVP ADJP
 1.0 0.1  VP --> RB VB
+1.0 0.1  VP --> TO ADVP VP
 1.0 0.1  VP --> VB NP PRT S
 1.0 0.1  VP --> VB PP ADVP PP
 1.0 0.1  VP --> VBD ADVP ADVP
@@ -602,7 +591,6 @@
 1.0 0.1  VP --> VB NP ADVP PRT
 1.0 0.1  VP --> VB NP PRT PP ADVP
 1.0 0.1  VP --> VB PP VP
-1.0 0.1  VP --> VBD INTJ
 1.0 0.1  VP --> VBD NP NP ADVP
 1.0 0.1  VP --> VBD PP S
 1.0 0.1  VP --> VBG NP PP ADVP
@@ -611,7 +599,6 @@
 1.0 0.1  VP --> VB NP ADJP PP
 1.0 0.1  VP --> VB NP PP NP
 1.0 0.1  VP --> VB PP ADJP
-1.0 0.1  VP --> VBD FRAG
 1.0 0.1  VP --> VBD PRT ADVP
 1.0 0.1  VP --> VBG ADJP PP
 1.0 0.1  VP --> VBG ADVP S
@@ -625,12 +612,10 @@
 1.0 0.1  VP --> MD ADVP
 1.0 0.1  VP --> MD NOT ADVP VP
 1.0 0.1  VP --> MD NP ADVP VP
-1.0 0.1  VP --> NP VBD
 1.0 0.1  VP --> VB NP PRT PRT
 1.0 0.1  VP --> VB S ADVP
 1.0 0.1  VP --> VBD PP PP PP
 1.0 0.1  VP --> VBP ADVP ADVP
-1.0 0.1  VP --> VBP INTJ
 1.0 0.1  VP --> VBZ ADJP ADVP
 1.0 0.1  VP --> ADVP VBD PP
 1.0 0.1  VP --> ADVP VBN PRT
@@ -654,6 +639,7 @@
 1.0 0.1  VP --> COP ADVP S
 1.0 0.1  VP --> COP PP NP
 1.0 0.1  VP --> COP RB ADJP
+1.0 0.1  VP --> TO NP
 1.0 0.1  VP --> VB NP ADJP ADVP
 1.0 0.1  VP --> VB NP ADVP NP
 1.0 0.1  VP --> VB NP NP PRT
