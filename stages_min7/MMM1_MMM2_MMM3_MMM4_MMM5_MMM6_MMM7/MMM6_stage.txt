@@ -1,9 +1,31 @@
+1.0 0.1  ROOT --> SQ
+1.0 0.1  ROOT --> S SQ
+1.0 0.1  ROOT --> SINV
+1.0 0.1  ROOT --> INTJ SQ
+1.0 0.1  ROOT --> SQ NP
+1.0 0.1  ROOT --> NP SQ
+1.0 0.1  ROOT --> INTJ S SQ
 1.0 0.1  ROOT --> S CC S
+1.0 0.1  ROOT --> FRAG SQ
+1.0 0.1  ROOT --> SQ INTJ
+1.0 0.1  ROOT --> INTJ SINV
+1.0 0.1  ROOT --> SQ FRAG
+1.0 0.1  ROOT --> SQ CC SQ
+1.0 0.1  ROOT --> INTJ NP SQ
 1.0 0.1  ROOT --> S CC FRAG
 1.0 0.1  ROOT --> INTJ S CC S
 1.0 0.1  ROOT --> FRAG CC S
+1.0 0.1  ROOT --> SINV NP
+1.0 0.1  ROOT --> SQ SQ
+1.0 0.1  ROOT --> S CC SQ
+1.0 0.1  ROOT --> INTJ FRAG SQ
 1.0 0.1  ROOT --> INTJ CC S
+1.0 0.1  ROOT --> S SQ NP
+1.0 0.1  ROOT --> S S SQ
 1.0 0.1  ROOT --> INTJ CC FRAG
+1.0 0.1  ROOT --> SINV FRAG
+1.0 0.1  ROOT --> SQ CC FRAG
+1.0 0.1  ROOT --> SQ S
 1.0 0.1  ROOT --> FRAG CC FRAG
 1.0 0.1  ADJP --> JJR
 1.0 0.1  ADJP --> WRB JJ
@@ -28,8 +50,10 @@
 1.0 0.1  FRAG --> CC NP
 1.0 0.1  FRAG --> CC NP VP
 1.0 0.1  FRAG --> WHADVP
+1.0 0.1  FRAG --> CC SQ
 1.0 0.1  FRAG --> WHADVP NP
 1.0 0.1  FRAG --> CC VP
+1.0 0.1  FRAG --> WHADVP SQ
 1.0 0.1  FRAG --> WHADVP NOT
 1.0 0.1  FRAG --> WHADVP VP
 1.0 0.1  FRAG --> S CC FRAG
@@ -40,6 +64,7 @@
 1.0 0.1  FRAG --> CC ADVP
 1.0 0.1  FRAG --> NP CC NP
 1.0 0.1  FRAG --> CC PP
+1.0 0.1  FRAG --> CC SINV
 1.0 0.1  FRAG --> WHADVP PP
 1.0 0.1  FRAG --> CC ADVP NP VP
 1.0 0.1  FRAG --> CC S INTJ
@@ -62,6 +87,8 @@
 1.0 0.1  FRAG --> CC NP PP
 1.0 0.1  FRAG --> NP CC S
 1.0 0.1  FRAG --> S CC S
+1.0 0.1  FRAG --> SQ CC FRAG
+1.0 0.1  FRAG --> VP SQ
 1.0 0.1  FRAG --> WHADVP ADVP
 1.0 0.1  NP --> NP CC NP
 1.0 0.1  NP --> DT JJR
@@ -103,7 +130,9 @@
 1.0 0.1  PP --> IN CC IN
 1.0 0.1  S --> S CC S
 1.0 0.1  S --> CC NP VP
+1.0 0.1  S --> NP VP SQ
 1.0 0.1  S --> INTJ CC S
+1.0 0.1  S --> INTJ NP VP SQ
 1.0 0.1  S --> CC ADVP NP VP
 1.0 0.1  S --> CC VP
 1.0 0.1  S --> S CC S CC S
@@ -111,7 +140,50 @@
 1.0 0.1  S --> ADVP S CC S
 1.0 0.1  S --> NP VP CC S
 1.0 0.1  S --> NP VP CC VP
+1.0 0.1  S --> S SQ
 1.0 0.1  S --> VP CC VP
+1.0 0.1  SINV --> ADVP VP
+1.0 0.1  SINV --> NP VP
+1.0 0.1  SINV --> ADVP VP NP
+1.0 0.1  SINV --> INTJ NP VP
+1.0 0.1  SINV --> ADVP NP VP
+1.0 0.1  SINV --> NP VP NP
+1.0 0.1  SINV --> NP NP VP
+1.0 0.1  SINV --> CC ADVP VP
+1.0 0.1  SQ --> VP
+1.0 0.1  SQ --> NP VP
+1.0 0.1  SQ --> AUX NP VP
+1.0 0.1  SQ --> MD NP VP
+1.0 0.1  SQ --> VP NP
+1.0 0.1  SQ --> INTJ VP
+1.0 0.1  SQ --> ADVP VP
+1.0 0.1  SQ --> ADVP NP VP
+1.0 0.1  SQ --> INTJ NP VP
+1.0 0.1  SQ --> COP NP
+1.0 0.1  SQ --> VP INTJ
+1.0 0.1  SQ --> SQ CC SQ
+1.0 0.1  SQ --> CC VP
+1.0 0.1  SQ --> CC NP VP
+1.0 0.1  SQ --> VP NP NP
+1.0 0.1  SQ --> NOT NP VP
+1.0 0.1  SQ --> COP NP ADJP
+1.0 0.1  SQ --> COP NP NP
+1.0 0.1  SQ --> NP ADVP VP
+1.0 0.1  SQ --> VP ADVP
+1.0 0.1  SQ --> S CC SQ
+1.0 0.1  SQ --> VP NP VP
+1.0 0.1  SQ --> PP NP VP
+1.0 0.1  SQ --> AUX NP
+1.0 0.1  SQ --> AUX NOT NP VP
+1.0 0.1  SQ --> VP VP
+1.0 0.1  SQ --> NP
+1.0 0.1  SQ --> NP VP INTJ
+1.0 0.1  SQ --> S SQ
+1.0 0.1  SQ --> PP VP
+1.0 0.1  SQ --> AUX NOT NP
+1.0 0.1  SQ --> AUX NP ADVP VP
+1.0 0.1  SQ --> NP NP VP
+1.0 0.1  SQ --> VB NP VP
 1.0 0.1  VP --> VP CC VP
 1.0 0.1  VP --> VB WHADVP
 1.0 0.1  VP --> VB CC VB

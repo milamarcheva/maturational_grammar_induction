@@ -120,7 +120,7 @@ STAGE_DEFS = [
         name="MMM6",
         pts={"COMP", "CC", "WP", "WP$", "WRB", "WDT", "JJR", "RBR"},
         nts={"SBAR", "SBARQ", "SINV", "SQ", "WHADJP", "WHADVP", "WHNP", },
-        exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP",},
+        exclude={"SBAR", "SBARQ", "WHNP", "WHNPP", "WHPP",},
     ),
 
     StageDef(
