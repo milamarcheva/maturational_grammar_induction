@@ -171,7 +171,7 @@ def main() -> None:
     )
     ap.add_argument(
         "--sentences",
-        required=True,
+        required=False,
         help="Sentence file (one sentence per line) to build vocab. Default: /Users/milamarcheva/Desktop/maturational_grammar_induction/yields/filtered_ctb_yields.txt",
         default = "/Users/milamarcheva/Desktop/maturational_grammar_induction/yields/filtered_ctb_yields.txt"
     )
@@ -182,8 +182,12 @@ def main() -> None:
     ap.add_argument(
         "--lexicalisation",
         default=argparse.SUPPRESS,
-        choices=["uniform", "postagged", "primed_by_freq"],
+        choices=["uniform", "postagged", "primed_by_freq", "ready_lexicon"],
         help="Lexicalisation scheme to use (default: uniform).",
+    )
+    ap.add_argument(
+        "--ready-lexicon-path",
+        help="Path to an existing lexicon file (used when lexicalisation=ready_lexicon).",
     )
     ap.add_argument(
         "--weight-prod",
@@ -202,14 +206,20 @@ def main() -> None:
         nargs="+",
         type=float,
         default=argparse.SUPPRESS,
-        help="Pseudocount(s) for production rules (default: 0.1).",
+        help=(
+            "Pseudocount(s) for production rules (default: 0.1). "
+            "If both prod and lex are set, all combinations are generated."
+        ),
     )
     ap.add_argument(
         "--pseudocount-lex",
         nargs="+",
         type=float,
         default=argparse.SUPPRESS,
-        help="Pseudocount(s) for lexical rules (default: 0.1).",
+        help=(
+            "Pseudocount(s) for lexical rules (default: 0.1). "
+            "If both prod and lex are set, all combinations are generated."
+        ),
     )
 
     args = ap.parse_args()
@@ -224,7 +234,8 @@ def main() -> None:
     default_pseudocount_lex = 0.1
 
     grammar_paths = [Path(path) for path in args.grammar]
-    sentences_path = Path(args.sentences)
+    sentences_path = Path(args.sentences) if args.sentences else None
+    ready_lexicon_path = Path(args.ready_lexicon_path) if getattr(args, "ready_lexicon_path", None) else None
     out_dir = Path(args.output) if args.output else default_out_dir
     lexicalisation = getattr(args, "lexicalisation", default_lexicalisation)
     weight_prod = getattr(args, "weight_prod", default_weight_prod)
@@ -236,23 +247,26 @@ def main() -> None:
     include_wl = hasattr(args, "weight_lex")
     include_pp = hasattr(args, "pseudocount_prod")
     include_pl = hasattr(args, "pseudocount_lex")
-    if pseudocount_prod_values is None and pseudocount_lex_values is None:
-        pseudocount_values = [default_pseudocount_prod]
-    elif pseudocount_prod_values is not None and pseudocount_lex_values is not None:
-        if list(pseudocount_prod_values) != list(pseudocount_lex_values):
-            raise SystemExit(
-                "--pseudocount-prod and --pseudocount-lex must be identical when both are set."
-            )
-        pseudocount_values = list(pseudocount_prod_values)
-    elif pseudocount_prod_values is not None:
-        pseudocount_values = list(pseudocount_prod_values)
+    if pseudocount_prod_values is None:
+        pseudocount_prod_values = [default_pseudocount_prod]
     else:
-        pseudocount_values = list(pseudocount_lex_values)
+        pseudocount_prod_values = list(pseudocount_prod_values)
+    if pseudocount_lex_values is None:
+        pseudocount_lex_values = [default_pseudocount_lex]
+    else:
+        pseudocount_lex_values = list(pseudocount_lex_values)
     def safe(value: object) -> str:
         return str(value).replace(" ", "").replace("/", "_").replace(".", "p")
-    vocab = read_vocab(sentences_path)
-    if not vocab:
-        raise SystemExit(f"No tokens found in sentence file: {sentences_path}")
+    if lexicalisation != "ready_lexicon":
+        if not sentences_path:
+            raise SystemExit("Sentence file is required unless using lexicalisation=ready_lexicon")
+        vocab = read_vocab(sentences_path)
+        if not vocab:
+            raise SystemExit(f"No tokens found in sentence file: {sentences_path}")
+    else:
+        vocab = []
+        if not ready_lexicon_path or not ready_lexicon_path.exists():
+            raise SystemExit("lexicalisation=ready_lexicon requires --ready-lexicon-path")
 
     for grammar_path in grammar_paths:
         with grammar_path.open(encoding="utf-8") as f:
@@ -270,38 +284,50 @@ def main() -> None:
             lexical_rules = build_postagged_lexicon(lex_rules, preterminals, vocab)
         elif lexicalisation == "primed_by_freq":
             lexical_rules = build_primed_by_freq_lexicon(lex_counts, preterminals, vocab)
+        elif lexicalisation == "ready_lexicon":
+            ready_rules = []
+            with ready_lexicon_path.open(encoding="utf-8") as f:
+                ready_rules = iter_rules(f)
+            if not ready_rules:
+                raise SystemExit(f"No rules found in ready lexicon: {ready_lexicon_path}")
+            _, ready_lex, ready_preterms, _ = split_rules(ready_rules)
+            if not ready_lex:
+                raise SystemExit(f"No lexical rules found in ready lexicon: {ready_lexicon_path}")
+            lexical_rules = ready_lex
+            preterminals = sorted(set(ready_preterms))
         else:
             raise SystemExit(f"Unsupported lexicalisation: {lexicalisation}")
 
-        for pseudocount in pseudocount_values:
-            name_parts = [grammar_path.stem]
-            if include_lex:
-                name_parts.append(f"lex-{safe(lexicalisation)}")
-            if include_wp:
-                name_parts.append(f"wp-{safe(weight_prod)}")
-            if include_wl:
-                name_parts.append(f"wl-{safe(weight_lex)}")
-            if include_pp:
-                name_parts.append(f"pp-{safe(pseudocount)}")
-            if include_pl:
-                name_parts.append(f"pl-{safe(pseudocount)}")
-            output_name = "__".join(name_parts) + grammar_path.suffix
-            output_path = out_dir / output_name
+        for pseudocount_prod in pseudocount_prod_values:
+            for pseudocount_lex in pseudocount_lex_values:
+                name_parts = [grammar_path.stem]
+                if include_lex:
+                    name_parts.append(f"lex-{safe(lexicalisation)}")
+                if include_wp:
+                    name_parts.append(f"wp-{safe(weight_prod)}")
+                if include_wl:
+                    name_parts.append(f"wl-{safe(weight_lex)}")
+                if include_pp:
+                    name_parts.append(f"pp-{safe(pseudocount_prod)}")
+                if include_pl:
+                    name_parts.append(f"pl-{safe(pseudocount_lex)}")
+                output_name = "__".join(name_parts) + grammar_path.suffix
+                output_path = out_dir / output_name
 
-            write_grammar(
-                output_path,
-                productions,
-                lexical_rules,
-                weight_prod,
-                pseudocount,
-                weight_lex,
-                pseudocount,
-            )
-            print(f"Wrote grammar to {output_path}")
-            print(f"- Productions: {len(productions)}")
-            print(f"- Preterminals: {len(preterminals)}")
-            print(f"- Vocab size: {len(vocab)}")
-            print(f"- Lexical rules: {len(lexical_rules)}")
+                write_grammar(
+                    output_path,
+                    productions,
+                    lexical_rules,
+                    weight_prod,
+                    pseudocount_prod,
+                    weight_lex,
+                    pseudocount_lex,
+                )
+                print(f"Wrote grammar to {output_path}")
+                print(f"- Productions: {len(productions)}")
+                print(f"- Preterminals: {len(preterminals)}")
+                print(f"- Vocab size: {len(vocab)}")
+                print(f"- Lexical rules: {len(lexical_rules)}")
 
 
 if __name__ == "__main__":
