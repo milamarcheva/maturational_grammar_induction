@@ -127,25 +127,99 @@ STAGE_DEFS = [
         name="MMM7",
         # pts={"COMP", "CC", "WP", "WP$", "WRB", "WDT"},
         pts = {"JJS", "RBS", "FW"},
-        nts={"SBAR", "SBARQ", "SINV", "SQ","WHADJP", "WHADVP", "WHNP", },
+        nts={"SBAR", "SBARQ", "WHADJP", "WHADVP", "WHNP", },
     ),
     # ---- MMM curriculum (collapsed) ----
-
     StageDef(
-        name="MMM12",
+        name="MMM1and2",
         pts={"VB", "NN", "NNP", "PRP", "PRP$"},
         nts={"ROOT", "S", "FRAG", "NP", "VP"},
+        exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP", "ADVP", "PP", "INTJ"},
+
     ),
 
     StageDef(
-        name="MMM34",
+        name="MMM3and4",
         pts={
-            "UH",
-            "VBD", "VBP", "VBZ", "AUX", "COP", "MD",
-            "ASP", "PRS",
-        },
-        nts={"INTJ"},
+            "UH", "DT", "DIV", 
+            "T", "EX", "VBD", "VBP"},
+        nts={"INTJ", "NNS"},
+        exclude={"SBAR", "SBARQ", "SQ", "SINV", "WHNP", "WHNPP", "WHPP", "ADVP", "PP",},
     ),
+    StageDef(
+            name="BGG1",
+            pts={"NOUN", "VERB", "PRON", "PROPN"},
+            nts={"ROOT", "VERBP", "NOUNP", "PRONP", "PROPNP"},
+            exclude={"ADJP", "ADPP", "DETP", "NUMP", "PARTP","AUXP","ADVP", "CCONJP", "INTJP", "SCONJP", "XP"},
+        ),
+    StageDef(
+            name="BGG2",
+            pts={"ADJ", "ADP", "DET", "NUM", "PART",},
+            exclude={"AUXP","ADVP", "CCONJP", "INTJP", "SCONJP", "XP"},
+        ),
+    StageDef(
+            name="BGG3",
+            pts={"AUX",},
+            exclude={"ADVP", "CCONJP", "INTJP", "SCONJP", "XP"},
+        ),
+    StageDef(
+            name="BGG4",
+            pts={"ADV", "CCONJ", "INTJ", "SCONJ", "X"},
+
+        ),
+
+    StageDef(
+            name="BGI1",
+            pts={"INTJ"},
+            nts={"ROOT", "INTJP"},
+            exclude={"NOUNP", "VERBP","ADJP", "ADPP", "DETP", "NUMP", "PARTP","AUXP","ADVP", "CCONJP", "SCONJP", "XP"},
+        ),
+    StageDef(
+            name="BGI2",
+            pts={"NOUN", "VERB", "PRON", "PROPN", "CCONJ", "SCONJ"},
+            exclude={"ADJP", "ADPP", "DETP", "NUMP", "PARTP","AUXP","ADVP","XP"},
+        ),
+    StageDef(
+            name="BGI3",
+            pts={"ADJ", "ADP", "ADV", "AUX"},
+            exclude={},
+        ),
+    StageDef(
+            name="BGI4",
+            pts={"DET", "NUM", "PART", "X"},
+
+        ),
+    StageDef(
+            name="BGMMM1",
+            pts={"NOUN", "VERB",},
+            nts={"ROOT", "VERBP", "NOUNP", },
+            exclude={"ADJP", "ADPP", "DETP", "NUMP", "PARTP","AUXP","ADVP", "CCONJP", "INTJP", "SCONJP", "XP", "PRONP", "PROPNP"},
+        ),
+ StageDef(
+            name="BGMMM2",
+            pts={"DET", "INTJ"},
+            exclude={"ADJP", "ADPP",  "NUMP", "PARTP","AUXP","ADVP", "CCONJP", "SCONJP", "XP", "PRONP", "PROPNP"},
+        ),
+    StageDef(
+            name="BGMMM3",
+            pts={"AUX",},
+            exclude={"ADJP", "ADPP",  "NUMP", "PARTP","ADVP", "CCONJP", "SCONJP", "XP", "PRONP", "PROPNP"}, 
+        ),
+    StageDef(
+            name="BGMMM4",
+            pts={"ADJ", "ADP", "ADV", "PART", "PRON", "PROPN",},
+            exclude={"ADJP", "ADPP",  "NUMP", "PARTP","ADVP", "CCONJP", "SCONJP", "XP"},
+        ),
+    StageDef(
+            name="BGMMM5",
+            pts={"CCONJ", "SCONJ", "NUM", "X",},
+            # pts={"ADV", "CCONJ", "INTJ", "SCONJ", "X"},
+
+        ),
+
+
+
+
 ]
 
 STAGE_DEF_MAP = {stage.name: stage for stage in STAGE_DEFS}
