@@ -16,10 +16,4 @@
 12	1	9186 41339 sentences failed to parse	2.48846e+06	8.04914	1.04077
 13	1	9186 41339 sentences failed to parse	2.48651e+06	8.04282	1.00766
 14	1	9186 41339 sentences failed to parse	2.48475e+06	8.03712	1.01688
-15	1	9186 41339 sentences failed to parse	2.48314e+06	8.03191	1.00005
-16	1	9186 41339 sentences failed to parse	2.48165e+06	8.0271	0.986393
-17	1	9186 41339 sentences failed to parse	2.48026e+06	8.0226	1.03269
-18	1	9186 41339 sentences failed to parse	2.47895e+06	8.01836	0.996969
-19	1	9186 41339 sentences failed to parse	2.4777e+06	8.01433	1.00137
-20	1	9186 41339 sentences failed to parse	2.47652e+06	8.01051	1.14508
-# run 0, entropy 8.01051, 9186 rules
+15	1	9186
