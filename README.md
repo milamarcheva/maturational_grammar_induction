@@ -81,3 +81,122 @@ Yield extraction (lowercased):
 ## procedure
 1. extract grammars or use the already extracted grammars in childes_tb_extracted_grammars
 2. create mature grammars using scripts/create_grammar.py
+
+
+## evaluation
+
+Run the commands below from the `maturational_grammar_induction` directory.
+
+`scripts/nltk_eval.py` is used for parse evaluation and JSD. It requires NLTK:
+
+```bash
+python3 -m pip install nltk tqdm
+```
+
+Common inputs:
+- `--induced-grammar`: grammar to evaluate.
+- `--sentences`: one tokenized sentence per line.
+- `--gold-parses`: bracketed gold trees, one per sentence.
+- `--oracle-grammar`: reference grammar for JSD, or to generate gold parses if `--gold-parses` is omitted.
+
+Evaluate labeled and unlabeled parse F1 against a gold parse file:
+
+```bash
+python3 scripts/nltk_eval.py \
+  --induced-grammar induced_grammars/result_filtered_ctb_grammar_withUnary_min5__lex-postagged__wp-1p0__wl-1p0__pp-0p1__pl-0p1_brown_sents.txt \
+  --sentences yields/test_yields1000.txt \
+  --gold-parses yields/test_parses1000.txt \
+  --eval-parse \
+  --processes 0 \
+  --progress-bar \
+  --timing
+```
+
+Evaluate F1 from gold parses, but use the oracle grammar only for JSD:
+
+```bash
+python3 scripts/nltk_eval.py \
+  --induced-grammar induced_grammars/result_filtered_ctb_grammar_withUnary_min5__lex-postagged__wp-1p0__wl-1p0__pp-0p1__pl-0p1_brown_sents.txt \
+  --oracle-grammar childes_tb_extracted_grammars/filtered_ctb_grammar_withUnary__percentage_min5.txt \
+  --sentences yields/test_yields1000.txt \
+  --gold-parses yields/test_parses1000.txt \
+  --eval-parse \
+  --eval-jsd \
+  --oracle-jsd-only
+```
+
+Run only JSD:
+
+```bash
+python3 scripts/nltk_eval.py \
+  --induced-grammar induced_grammars/result_filtered_ctb_grammar_withUnary_min5__lex-postagged__wp-1p0__wl-1p0__pp-0p1__pl-0p1_brown_sents.txt \
+  --oracle-grammar childes_tb_extracted_grammars/filtered_ctb_grammar_withUnary__percentage_min5.txt \
+  --eval-jsd
+```
+
+Run per-nonterminal JSD:
+
+```bash
+python3 scripts/nltk_eval.py \
+  --induced-grammar induced_grammars/result_filtered_ctb_grammar_withUnary_min5__lex-postagged__wp-1p0__wl-1p0__pp-0p1__pl-0p1_brown_sents.txt \
+  --oracle-grammar childes_tb_extracted_grammars/filtered_ctb_grammar_withUnary__percentage_min5.txt \
+  --eval-jsd-per-lhs
+```
+
+Run sentence log-likelihood with the induced grammar:
+
+```bash
+python3 scripts/nltk_eval.py \
+  --induced-grammar induced_grammars/result_filtered_ctb_grammar_withUnary_min5__lex-postagged__wp-1p0__wl-1p0__pp-0p1__pl-0p1_brown_sents.txt \
+  --sentences yields/child_utterances_vocab_morphtok_filtered_sampled_1000.txt \
+  --eval-loglik \
+  --loglik-mode viterbi \
+  --processes 0 \
+  --progress-bar \
+  --timing
+```
+
+`scripts/marginal_loglik.py` computes marginal log-likelihood with a dedicated inside algorithm. It supports unary rules and RHS length greater than 2, and uses `ROOT` as the default start symbol.
+
+Example:
+
+```bash
+python3 scripts/marginal_loglik.py \
+  --grammar induced_grammars/result_filtered_ctb_grammar_withUnary_min5__lex-postagged__wp-1p0__wl-1p0__pp-0p1__pl-0p1_brown_sents.txt \
+  --sentences yields/child_utterances_vocab_morphtok_filtered_all.txt \
+  --processes 0 \
+  --progress-every 50 \
+  --timing
+```
+
+The main output lines are:
+- `mean log-likelihood`: average sentence log-likelihood over parsed sentences.
+- `mean normalized log-likelihood (per token, sentence avg)`: average of `loglik(sentence) / len(sentence)` over parsed sentences.
+- `normalized log-likelihood (per token, corpus)`: total log-likelihood divided by the total number of tokens in parsed sentences.
+- `no-parse`: number of sentences excluded because the grammar could not assign them a parse.
+
+Example evaluation script:
+
+```bash
+#!/usr/bin/env bash
+set -euo pipefail
+
+python3 scripts/nltk_eval.py \
+  --induced-grammar induced_grammars/result_filtered_ctb_grammar_withUnary_min5__lex-postagged__wp-1p0__wl-1p0__pp-0p1__pl-0p1_brown_sents.txt \
+  --oracle-grammar childes_tb_extracted_grammars/filtered_ctb_grammar_withUnary__percentage_min5.txt \
+  --sentences yields/test_yields1000.txt \
+  --gold-parses yields/test_parses1000.txt \
+  --eval-parse \
+  --eval-jsd \
+  --oracle-jsd-only \
+  --processes 0 \
+  --progress-bar \
+  --timing
+
+python3 scripts/marginal_loglik.py \
+  --grammar induced_grammars/result_filtered_ctb_grammar_withUnary_min5__lex-postagged__wp-1p0__wl-1p0__pp-0p1__pl-0p1_brown_sents.txt \
+  --sentences yields/child_utterances_vocab_morphtok_filtered_all.txt \
+  --processes 0 \
+  --progress-every 50 \
+  --timing
+```
