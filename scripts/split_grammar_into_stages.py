@@ -119,7 +119,7 @@ STAGE_DEFS = [
     StageDef(
         name="MMM6",
         pts={"COMP", "CC", "WP", "WP$", "WRB", "WDT", "JJR", "RBR"},
-        nts={"SBAR", "SBARQ", "SINV", "SQ", "WHADJP", "WHADVP", "WHNP", },
+        nts={ "SINV", "SQ", "WHADJP", "WHADVP", },
         exclude={"SBAR", "SBARQ", "WHNP", "WHNPP", "WHPP",},
     ),
 
@@ -216,12 +216,164 @@ STAGE_DEFS = [
             # pts={"ADV", "CCONJ", "INTJ", "SCONJ", "X"},
 
         ),
+    # -------------------------
+    # Bulgarian Growing: BGMTG1–BGMTG5
+    # -------------------------
+    StageDef(
+        name="BGMTG1",
+        pts=["NOUN", "PROPN", "PRON", "VERB"],
+        nts=["NOUN", "NOUNP", "PRON", "ROOT", "VERB", "VERBP", "VOC"],
+        exclude=[
+            "ADJ", "ADJP", "ADPP", "ADV", "ADVP",
+            "AUX", "AUXP", "CCONJP", "DETDEF", "DETP", "DETS",
+            "INTJP", "JJDEF", "JJS", "NNDEF", "NNS", "NUMP",
+            "PARTP", "PRONDEF", "PRONS", "SBAR", "SCONJP", "SQ",
+            "WHADVP", "WHNP", "WHQP",
+        ],
+    ),
+    StageDef(
+        name="BGMTG2",
+        pts=["NNS", "DIV", "COUNT", "DET", "ADJ", "SUP", "CMP", "NUM", "ADV", "ADP", "PART"],
+        nts=[],
+        exclude=["AUX", "AUXP", "CCONJP", "INTJP", "SBAR", "SCONJP", "SQ", "WHADVP", "WHNP", "WHQP"],
+    ),
+    StageDef(
+        name="BGMTG3",
+        pts=["VB", "AGR", "AUX"],
+        nts=[],
+        exclude=["CCONJP", "INTJP", "SBAR", "SCONJP", "SQ", "WHADVP", "WHNP", "WHQP"],
+    ),
+    StageDef(
+        name="BGMTG4",
+        pts=["CCONJ", "SCONJ"],
+        nts=[],
+        exclude=["INTJP"],
+    ),
+    StageDef(
+        name="BGMTG5",
+        pts=["INTJ"],
+        nts=["INTJP"],
+        exclude=[],
+    ),
 
+    # -------------------------
+    # Bulgarian Inward: BGMTI1–BGMTI5
+    # -------------------------
+    StageDef(
+        name="BGMTI1",
+        pts=["NOUN", "VERB", "PRON", "INTJ"],
+        nts=["ROOT", "INTJP"],
+        exclude=[
+            "ADJ", "ADJP", "ADPP", "ADV", "ADVP",
+            "AUX", "AUXP", "CCONJP", "DETDEF", "DETP", "DETS",
+            "JJDEF", "JJS", "NNDEF", "NNS", "NOUNP", "NUMP",
+            "PARTP", "PRONDEF", "PRONS", "SBAR", "SCONJP", "SQ",
+            "VERBP", "VOC", "WHADVP", "WHNP", "WHQP",
+            "ADP", "ADV", "AGR", "AUX", "CCONJ", "CMP", "COUNT",
+            "DET", "DIV", "NNS", "NUM", "PART", "PROPN", "SCONJ",
+            "SUP", "VB",
+        ],
+    ),
+    StageDef(
+        name="BGMTI2",
+        pts=["PROPN", "VOC"],
+        nts=["ROOT", "INTJP", "NOUNP", "VERBP"],
+        exclude=[
+            "ADJ", "ADJP", "ADPP", "ADV", "ADVP",
+            "AUX", "AUXP", "CCONJP", "DETDEF", "DETP", "DETS",
+            "JJDEF", "JJS", "NNDEF", "NNS", "NUMP", "PARTP",
+            "PRONDEF", "PRONS", "SBAR", "SCONJP", "SQ",
+            "WHADVP", "WHNP", "WHQP",
+            "ADP", "ADV", "AGR", "AUX", "CCONJ", "CMP", "COUNT",
+            "DET", "DIV", "NNS", "NUM", "PART", "SCONJ", "SUP", "VB",
+        ],
+    ),
+    StageDef(
+        name="BGMTI3",
+        pts=["CCONJ", "SCONJ"],
+        nts=["SBAR", "SCONJP", "CCONJP", "SQ", "WHADVP", "WHNP", "WHQP"],
+        exclude=[
+            "ADJ", "ADJP", "ADPP", "ADV", "ADVP",
+            "AUX", "AUXP", "DETDEF", "DETP", "DETS",
+            "JJDEF", "JJS", "NNDEF", "NNS", "NUMP", "PARTP",
+            "PRONDEF", "PRONS", "ADP", "ADV", "AGR", "AUX",
+            "CMP", "COUNT", "DET", "DIV", "NNS", "NUM", "PART",
+            "SUP", "VB",
+        ],
+    ),
+    StageDef(
+        name="BGMTI4",
+        pts=["AUX", "AGR", "VB"],
+        nts=["AUXP"],
+        exclude=[
+            "ADJ", "ADJP", "ADPP", "ADV", "ADVP",
+            "DETDEF", "DETP", "DETS", "JJDEF", "JJS", "NNDEF",
+            "NNS", "NUMP", "PARTP", "PRONDEF", "PRONS",
+            "ADP", "ADV", "CMP", "COUNT", "DET", "DIV", "NNS",
+            "NUM", "PART", "SUP",
+        ],
+    ),
+    StageDef(
+        name="BGMTI5",
+        pts=["NNS", "DIV", "COUNT", "DET", "ADJ", "SUP", "CMP", "NUM", "ADV", "ADP", "PART"],
+        nts=[],
+        exclude=[],
+    ),
 
+    # -------------------------
+    # Bulgarian MMM: BGMTMMM1–BGMTMMM5
+    # PDF labels: MMM1and2, MMM3and4, MMM5, MMM6, MMM7
+    # -------------------------
+    StageDef(
+        name="BGMTMMM1",
+        pts=["VERB", "PRON", "PROPN", "NOUN"],
+        nts=["ROOT", "NOUNP", "VERBP", "VOC"],
+        exclude=[
+            "ADJ", "ADP", "ADV", "AGR", "AUX", "CCONJ", "CMP",
+            "COUNT", "DET", "DIV", "INTJ", "NNS", "NUM", "PART",
+            "SCONJ", "SUP", "VB",
+            "ADJ", "ADJP", "ADPP", "ADV", "ADVP", "AUX", "AUXP",
+            "CCONJP", "DETDEF", "DETP", "DETS", "INTJP", "JJDEF",
+            "JJS", "NNDEF", "NNS", "NUMP", "PARTP", "PRONDEF",
+            "PRONS", "SBAR", "SCONJP", "SQ", "WHADVP", "WHNP", "WHQP",
+        ],
+    ),
+    StageDef(
+        name="BGMTMMM2",
+        pts=["INTJ", "COUNT", "DET", "DIV", "NNS"],
+        nts=["INTJP", "NNS", "PRONS", "NNDEF", "PRONDEF", "DETDEF", "DETP", "DETS"],
+        exclude=[
+            "ADJ", "ADP", "ADV", "AGR", "AUX", "CCONJ", "CMP",
+            "NUM", "PART", "SCONJ", "SUP", "VB",
+            "ADJ", "ADJP", "ADPP", "ADV", "ADVP", "AUX", "AUXP",
+            "CCONJP", "JJDEF", "JJS", "NUMP", "PARTP",
+            "SBAR", "SCONJP", "SQ", "WHADVP", "WHNP", "WHQP",
+        ],
+    ),
+    StageDef(
+        name="BGMTMMM3",
+        pts=["ADJ", "ADP", "ADV", "AGR", "AUX", "NUM", "PART", "VB"],
+        nts=[],
+        exclude=["CCONJ", "SCONJ", "CMP", "SUP", "CCONJP", "SBAR", "SCONJP", "SQ", "WHADVP", "WHNP", "WHQP"],
+    ),
+    StageDef(
+        name="BGMTMMM4",
+        pts=["CMP", "CCONJ", "SCONJ"],
+        nts=["SINV", "SQ", "WHADJP", "WHADVP"],
+        exclude=["SBAR", "SBARQ", "WHNP", "WHNPP", "WHPP"],
+    ),
+    StageDef(
+        name="BGMTMMM5",
+        pts=["SUP"],
+        nts=["SBAR", "WHNP"],
+        exclude=[],
+    ),
 
 
 ]
 
+
+    
 STAGE_DEF_MAP = {stage.name: stage for stage in STAGE_DEFS}
 DEFAULT_ORDER = ["base", "VP", "TP", "INTJ", "CP"]
 
@@ -381,6 +533,9 @@ def main() -> None:
         "--order",
         default=",".join(DEFAULT_ORDER),
         help="Stage order (default: base,VP,TP,INTJ,CP).",
+        #BGMTG1,BGMTG2,BGMTG3,BGMTG4,BGMTG5
+        #BGMTI1,BGMTI2,BGMTI3,BGMTI4,BGMTI5
+        #BGMTMMM1,BGMTMMM2,BGMTMMM3,BGMTMMM4,BGMTMMM5
     )
     args = ap.parse_args()
 
