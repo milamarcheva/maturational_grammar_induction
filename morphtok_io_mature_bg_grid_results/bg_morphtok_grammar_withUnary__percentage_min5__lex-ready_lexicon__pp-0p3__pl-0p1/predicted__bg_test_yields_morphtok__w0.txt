@@ -1,0 +1,4481 @@
+(ROOT (SQ (VERB кажи) (VOC (NOUN мамо)))) (p=3.55548e-07)
+(ROOT (ADVP (ADP на) (ADV колко))) (p=1.72845e-07)
+(ROOT
+  (NOUNP (JJDEF (ADJ трето) (DET то)) (NOUN копче))
+  (VOC (VERBP (PART ли) (AUX (VB натиска) (AGR ш))))) (p=1.34897e-18)
+(ROOT (ADVP (ADV там) (AUX е))) (p=4.56672e-06)
+(ROOT
+  (SQ (VERB ела) (VOC (NOUNP (NOUN мамо) (PROPN ела))))) (p=4.28333e-11)
+(ROOT
+  (ADVP
+    (VERB виж)
+    (NOUNP
+      (NNDEF (NOUN риба) (DET та))
+      (ADVP
+        (ADV как)
+        (VERBP (PART ще) (AUX (VB изяд) (AGR е))))))
+  (VOC (PROPN малечко-палечко))) (p=9.41241e-25)
+(ROOT
+  (ADVP (AUX (VB иска) (AGR ш)) (PART ли))
+  (VOC
+    (NOUNP
+      (VERBP
+        (PART да)
+        (VERBP
+          (AUX (VB разглежда) (AGR ме))
+          (ADPP
+            (ADP на)
+            (NOUNP (PROPN леля) (PROPN велка)))))
+      (NNDEF (NOUN книжка) (DET та))))) (p=1.38487e-30)
+(ROOT
+  (SQ
+    (VERB срам)
+    (VOC
+      (ADPP
+        (VERBP (PRON ме) (AUX е))
+        (ADPP (ADP от) (WHNP (PRON теб))))))) (p=2.43519e-16)
+(ROOT
+  (VOC
+    (VERBP
+      (PART нали)
+      (VERBP (DET всяка) (AUX (VB ще) (AGR ше)))))
+  (PARTP
+    (PART да)
+    (VERBP
+      (PART си)
+      (VERBP
+        (VERB пипа)
+        (ADPP
+          (ADP на)
+          (NOUNP
+            (DETDEF (DETS (DET нейни)) (DET я))
+            (NOUN компютър))))))) (p=4.94606e-35)
+(ROOT
+  (SQ
+    (VERBP (PRON таз) (AUX е))
+    (VOC
+      (NOUNP
+        (DETDEF (DETS (DET мой)) (DET та))
+        (NOUN игра))))) (p=1.00263e-16)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (ADVP (ADV как) (VERBP (PRON ме) (VERB нарече))))) (p=1.90174e-12)
+(ROOT (INTJP (INTJ симончи) (VERB (VB пе) (AGR е)))) (p=2.56373e-10)
+(ROOT
+  (VOC (PROPN леля))
+  (PARTP
+    (PARTP
+      (PART да)
+      (VERBP (PRON ти) (AUX (VB помогн) (AGR е))))
+    (PART ли))) (p=4.57804e-15)
+(ROOT (INTJP (INTJ оо) (ADVP (ADV така) (PART ли)))) (p=7.8137e-11)
+(ROOT
+  (INTJP
+    (INTJ стига)
+    (VERBP (AUX сте) (AUX (VB скача) (AGR ли))))) (p=3.31908e-14)
+(ROOT (VERBP (PRON кой) (VERB чука))) (p=1.6196e-08)
+(ROOT (SQ (VERB виж) (VOC (NNS (NOUN таралеж) (COUNT а))))) (p=2.13234e-09)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP (PART ще) (AUX (VB пи) (AGR еш))))) (p=3.29697e-10)
+(ROOT
+  (INTJP (INTJ а) (ADV колко))
+  (NOUNP
+    (NNDEF (NOUN зъбче) (DET та))
+    (SBAR (AUX (VB има) (AGR ш))))) (p=5.8779e-17)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (NOUNP
+      (NNDEF (NOUN майка) (DET та))
+      (ADVP (ADV къде) (AUX е))))) (p=9.18385e-13)
+(ROOT
+  (NOUNP
+    (PRON я)
+    (ADVP
+      (ADV тука)
+      (VERBP (PART да) (AUX (VB вид) (AGR им)))))
+  (VOC
+    (NOUNP
+      (NNDEF (NOUN ранички) (DET те))
+      (VERBP (PRON дето) (AUX са))))) (p=6.26206e-27)
+(ROOT
+  (VOC (NOUNP (NUM една) (NOUN снимчица)))
+  (PARTP
+    (PART да)
+    (VERBP (PRON й) (AUX (VB пусн) (AGR е))))) (p=6.51498e-17)
+(ROOT
+  (ADVP (ADV готово) (ADVP (ADV сега) (AUX си)))
+  (VOC (ADJ чиста))) (p=7.46207e-16)
+(ROOT (INTJP (INTJ не) (INTJ маме))) (p=1.35419e-06)
+(ROOT
+  (SQ (VERB ква-ква) (VOC (NNDEF (NOUN патка) (DET та))))) (p=2.07673e-12)
+(ROOT
+  (NOUNP
+    (PROPN баба)
+    (VERBP (PRON какво) (AUX (VB яд) (AGR е))))) (p=2.22823e-10)
+(ROOT (PART ето) (ADV тука)) (p=6.01806e-08)
+(ROOT
+  (ADVP
+    (NOUNP (ADJ цели) (DET ят))
+    (VERBP (PRON се) (AUX (VB къп) (AGR е))))
+  (VOC (PROPN тати))) (p=1.74428e-18)
+(ROOT
+  (SQ
+    (ADJP (SCONJ защото) (SBAR (AUX е)))
+    (ADJ (CMP по-) (ADJ голяма)))) (p=1.6863e-11)
+(ROOT
+  (ADVP (VERBP (PRON ти) (VERB яде)) (ADV много))
+  (VOC (NOUN мамо))) (p=5.42909e-14)
+(ROOT
+  (INTJP
+    (INTJ а-у)
+    (NOUNP
+      (NNDEF (NOUN играчка) (DET та))
+      (VERBP (PRON се) (VERB счупи))))) (p=3.99337e-15)
+(ROOT (ADVP (ADP на) (ADV колко))) (p=1.72845e-07)
+(ROOT
+  (ADVP (AUX (VB гърм) (AGR и)) (PART ли))
+  (VOC (NNDEF (NOUN небе) (DET то)))) (p=7.82939e-14)
+(ROOT (PARTP (PART ще) (VERBP (PRON те) (VERB набия)))) (p=2.05079e-10)
+(ROOT
+  (NOUNP
+    (PROPN маца)
+    (VERBP
+      (AUX е)
+      (ADPP (ADP с) (JJDEF (ADJ червена) (DET та)))))
+  (VOC
+    (NOUNP
+      (NNDEF (NNS (NOUN коса) (COUNT а)) (DET тази))
+      (ADPP (ADP с) (JJDEF (ADJ лилава) (DET та)))))) (p=1.15303e-32)
+(ROOT (ADVP (VERB (VB пиша) (AGR й)) (ADV още))) (p=5.68627e-11)
+(ROOT
+  (VOC (VERBP (PART не) (AUX (VB мож) (AGR еш))))
+  (PARTP
+    (PARTP
+      (PART ли)
+      (VERBP (PART да) (AUX (VB покаж) (AGR еш))))
+    (ADPP (ADP с) (NNS (NOUN пръстче) (DIV та))))) (p=1.79657e-23)
+(ROOT
+  (INTJP
+    (INTJ тати)
+    (ADVP (ADV как) (VERBP (PRON се) (VERB казва))))) (p=1.12818e-11)
+(ROOT
+  (INTJP
+    (INTJ ей)
+    (ADVP
+      (ADV сега)
+      (VERBP
+        (VERB мама)
+        (PARTP
+          (PART ще)
+          (VERBP (PRON го) (AUX (VB донес) (AGR е)))))))) (p=6.88318e-18)
+(ROOT
+  (NOUNP
+    (NOUNP
+      (VERB (VB хвърля) (AGR й))
+      (NNDEF (NOUN топче) (DET то)))
+    (CCONJ и)
+    (VERBP (PART да) (AUX (VB вид) (AGR им))))
+  (VOC
+    (NOUNP
+      (PRON какво)
+      (VERBP (PART ще) (AUX (VB уцел) (AGR иш)))))) (p=3.5452e-32)
+(ROOT
+  (SQ (VERB има) (VOC (ADJP (ADJ малко) (NOUN цветенце))))) (p=5.39529e-12)
+(ROOT (SQ (PRON ти) (VERBP (AUX си) (ADJ мъничка)))) (p=1.43244e-10)
+(ROOT
+  (SQ
+    (VERB (VB няма) (AGR м))
+    (VOC (NNS (NOUN снимк) (DIV и))))) (p=7.15123e-12)
+(ROOT (INTJP (INTJP (INTJ айде) (VERB няма)) (NOUN писе))) (p=2.01178e-12)
+(ROOT (INTJP (INTJ не) (NOUN бани))) (p=4.36662e-09)
+(ROOT
+  (INTJ о)
+  (VOC (DETP (DETS (DET те)) (JJS (ADJ мръсн) (DIV и))))) (p=3.01261e-13)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (ADVP (VERBP (PRON кой) (AUX е)) (ADV къфънъ)))) (p=1.0811e-12)
+(ROOT
+  (ADVP (ADV как) (VERBP (PART ще) (AUX е)))
+  (VOC (NOUNP (PROPN калинка) (SBAR (AUX бе))))) (p=2.35006e-15)
+(ROOT
+  (INTJP
+    (INTJ моля)
+    (NOUNP (PRON те) (ADVP (VERB купи) (PART ми))))
+  (NOUNP (NUM една) (NOUN приятелка))) (p=2.80264e-21)
+(ROOT
+  (PARTP
+    (PARTP
+      (CCONJ а)
+      (VERBP
+        (PART ще)
+        (VERBP (PRON му) (AUX (VB изпе) (AGR еш)))))
+    (PART ли))
+  (VOC (WHNP (DET някоя) (NOUN песничка)))) (p=1.46626e-24)
+(ROOT
+  (ADVP
+    (VERBP (AUX (VB сед) (AGR и)) (ADV толкова))
+    (ADV много))) (p=2.72732e-12)
+(ROOT
+  (VOC (ADPP (ADP на) (WHNP (PRON какво))))
+  (PARTP
+    (PART ще)
+    (VERBP (AUX (VB рисува) (AGR ш)) (ADV сега)))) (p=9.5434e-16)
+(ROOT
+  (SQ
+    (VERB виж)
+    (VOC
+      (DETP
+        (DETP (VERB мама) (VOC (INTJ вели)))
+        (CCONJ и)
+        (NOUNP
+          (NNDEF (NOUN саше) (DET то))
+          (ADPP (ADP на) (NNS (NOUN количка) (DIV та)))))))) (p=2.00469e-27)
+(ROOT (NOUNP (NOUN муцунка) (NOUN муцунка))) (p=3.2601e-12)
+(ROOT (SQ (PROPN меца) (SBAR (NOUN мецанка)))) (p=2.53149e-12)
+(ROOT
+  (ADVP (ADVP (VERB има) (PART ли)) (SCONJ ако))
+  (VOC (NOUN мамо))) (p=5.41275e-12)
+(ROOT (NOUNP (ADP за) (PROPN альонка))) (p=5.42702e-10)
+(ROOT
+  (SQ
+    (NOUNP (VERB прилича) (PRON ти))
+    (ADPP (ADP на) (NOUNP (NOUN бебе) (PROPN мими))))) (p=7.29609e-17)
+(ROOT
+  (PARTP (PART не) (AUX съм))
+  (NOUNP
+    (VERBP (PRON те) (AUX (VB остав) (AGR ила)))
+    (NOUN мамо))) (p=3.46709e-17)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (NOUNP (PRON това) (VERBP (PRON какво) (AUX е))))) (p=2.38129e-09)
+(ROOT
+  (PARTP
+    (PARTP (PART не) (VERBP (PRON се) (VERB слага)))
+    (ADPP
+      (ADP на)
+      (WHNP
+        (NOUNP
+          (NNDEF (NNS (NOUN глава) (DIV та)) (DET то))
+          (VERBP (PRON се) (AUX (VB държ) (AGR и))))
+        (ADPP (ADP в) (NOUN ръка)))))
+  (NOUNP (VERBP (PRON това) (AUX е)) (NOUN дръжка))) (p=2.43824e-36)
+(ROOT (INTJ а) (VOC (PROPN зайко))) (p=2.99571e-07)
+(ROOT (ADV така) (PART ли)) (p=5.01141e-06)
+(ROOT
+  (SQ
+    (VERB (VB затваря) (AGR й))
+    (VOC (NNDEF (NOUN врата) (DET та))))) (p=4.11256e-12)
+(ROOT
+  (PART не)
+  (PARTP
+    (PART ми)
+    (VERBP (PRON се) (AUX (VB кара) (AGR й))))) (p=4.66813e-12)
+(ROOT (NOUNP (NNS (NOUN кукла) (DIV та)) (VERB избяга))) (p=3.39084e-11)
+(ROOT
+  (INTJP
+    (INTJ о-о)
+    (NOUNP
+      (PRON ти)
+      (VERBP (PRON я) (AUX (VB намер) (AGR и)))))) (p=2.25997e-13)
+(ROOT
+  (NOUNP (PRON аз) (VERBP (PART ли) (AUX съм)))
+  (VOC
+    (NOUNP (DETDEF (DETS (DET твоят)) (DET а)) (NOUN мама)))) (p=9.77011e-19)
+(ROOT
+  (INTJP
+    (INTJ а-а)
+    (VERBP (PART не) (AUX (VB обича) (AGR м))))
+  (PARTP
+    (PART да)
+    (VERBP (VERB ям) (ADJP (ADJ такова) (NOUN керемида))))) (p=3.3608e-25)
+(ROOT
+  (VOC (ADPP (ADP с) (WHNP (PRON какво))))
+  (PARTP
+    (PART ще)
+    (VERBP (PRON го) (AUX (VB черп) (AGR иш))))) (p=3.44105e-16)
+(ROOT
+  (SQ
+    (VERBP (VERB иди) (ADPP (ADP с) (NNS (PROPN тати))))
+    (NOUN мамо))) (p=3.05895e-14)
+(ROOT (PART да) (ADVP (VERB падна) (PART ли))) (p=7.40617e-09)
+(ROOT
+  (SQ
+    (ADP в)
+    (NOUNP (JJDEF (ADJ родилни) (DET я)) (NOUN дом)))) (p=1.81481e-13)
+(ROOT (INTJP (INTJ хайде) (VERB (VB рита) (AGR й)))) (p=2.09155e-10)
+(ROOT (NOUNP (VERB (VB изчист) (AGR и)) (PRON го))) (p=3.02101e-09)
+(ROOT
+  (INTJP (INTJP (INTJ миме) (VERB виж)) (NOUN пръстен))
+  (NOUNP
+    (NOUNP
+      (PRON дето)
+      (VERBP
+        (VERBP (PRON се) (AUX (VB пълн) (AGR и)))
+        (ADPP (ADP с) (NOUN вода))))
+    (CCONJ и)
+    (VERB пръска))) (p=1.41433e-34)
+(ROOT (INTJP (INTJ хайде) (VERB (VB танцува) (AGR йте)))) (p=7.7204e-11)
+(ROOT
+  (INTJP (INTJ калоянчо) (VERBP (PRON ги) (VERB видя)))) (p=6.06644e-10)
+(ROOT (ADVP (ADV как) (VERB лапа))) (p=5.28719e-09)
+(ROOT
+  (NOUNP (ADJP (PART не) (VERB няма)) (NOUN пясък))
+  (ADV вътре)) (p=2.30725e-14)
+(ROOT
+  (SQ
+    (VERB (VB има) (AGR ло))
+    (VOC (NOUNP (NUM едно) (NOUN време))))) (p=7.05952e-11)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (ADVP (ADV вътре) (VERBP (AUX е) (ADJ празна))))) (p=1.78398e-12)
+(ROOT
+  (SQ
+    (CCONJ и)
+    (DETP
+      (NOUNP
+        (NNDEF (NUM две) (DET те))
+        (VERBP
+          (NNS (NOUN краче) (DIV та))
+          (AUX (VB обу) (AGR хме))))
+      (ADPP (ADP с) (NOUN панталон))))) (p=4.29077e-25)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (NOUNP
+      (PRON това)
+      (VERBP (PRON какво) (AUX (VB бе) (AGR ше)))))) (p=8.39986e-11)
+(ROOT (INTJP (INTJP (INTJ не) (ADV миличко)) (ADV утре))) (p=1.85974e-12)
+(ROOT
+  (PARTP (PART ще) (VERBP (PRON те) (VERB ям)))
+  (NOUNP (PRON аз) (PRON тебе))) (p=1.04344e-16)
+(ROOT
+  (PARTP
+    (PART да)
+    (VERBP (PRON я) (AUX (VB махна) (AGR ли))))) (p=6.71991e-12)
+(ROOT
+  (ADVP (VERB обу) (PART си))
+  (VOC (NNDEF (NNS (NOUN маратонк) (DIV и)) (DET те)))) (p=1.72464e-15)
+(ROOT (ADPP (ADP на) (NNS (NOUN телефон) (COUNT а)))) (p=1.95721e-08)
+(ROOT (VERBP (PART не) (AUX (VB пипа) (AGR й)))) (p=4.26716e-09)
+(ROOT (INTJ а) (VOC (NNDEF (NOUN мама) (DET та)))) (p=7.24944e-08)
+(ROOT (ADPP (ADP в) (NNS (NOUN дом) (COUNT а)))) (p=8.90006e-08)
+(ROOT (VERBP (PART ще) (AUX (VB плач) (AGR еш)))) (p=8.02896e-09)
+(ROOT
+  (NOUNP
+    (NOUNP (PROPN ела) (VERBP (PART да) (VERB видя)))
+    (AUX бе))) (p=5.85512e-13)
+(ROOT
+  (SQ
+    (PRON ти)
+    (VERBP
+      (ADP с)
+      (VERBP (PRON кого) (AUX (VB спинка) (AGR ш)))))) (p=1.1782e-15)
+(ROOT
+  (VOC (VERBP (AUX (VB заповяда) (AGR й)) (NOUN миличка)))
+  (PARTP
+    (PARTP
+      (PART да)
+      (VERBP (PRON го) (AUX (VB прибер) (AGR еш))))
+    (ADPP (ADP в) (NNS (NOUN хладилник) (COUNT а))))) (p=5.56308e-28)
+(ROOT (INTJP (INTJ тука) (ADVP (VERB пари) (PART ли)))) (p=2.10249e-10)
+(ROOT
+  (SQ (VERBP (PRON това) (AUX е)) (VOC (PROPN иглика)))) (p=3.289e-10)
+(ROOT
+  (INTJP
+    (INTJP (INTJ кати) (NOUNP (PART ето) (PRON я)))
+    (ADV там))
+  (INTJ кати)) (p=5.88645e-19)
+(ROOT
+  (SQ
+    (VERB (VB слиза) (AGR й))
+    (VOC (VERBP (PART ще) (AUX (VB падн) (AGR еш)))))) (p=2.48476e-14)
+(ROOT
+  (VOC (PROPN мила))
+  (PARTP
+    (PART тука)
+    (VERBP (PART не) (AUX (VB мож) (AGR е))))) (p=6.34692e-14)
+(ROOT
+  (SQ
+    (VERBP (PART ще) (AUX (VB падн) (AGR еш)))
+    (VOC (ADPP (ADP от) (ADV там))))) (p=1.2954e-14)
+(ROOT
+  (INTJP
+    (INTJ хайде)
+    (VERBP
+      (PART да)
+      (VERBP
+        (AUX (VB смен) (AGR им))
+        (NNS (NOUN памперс) (COUNT а)))))) (p=2.70296e-17)
+(ROOT
+  (ADVP
+    (AUX (VB надява) (AGR ме))
+    (NOUNP
+      (PRON се)
+      (VERBP (PART да) (VERBP (AUX е) (ADJ здрава)))))
+  (VOC
+    (VERBP
+      (SCONJ като)
+      (VERBP (PRON се) (AUX (VB върн) (AGR е)))))) (p=1.19511e-25)
+(ROOT
+  (NOUNP (VERBP (PRON кой) (VERB дава)) (NOUN мляко))
+  (VOC (NOUN мамо))) (p=1.30077e-15)
+(ROOT
+  (PARTP (PART значи) (VERBP (PRON ти) (AUX си)))
+  (NOUNP (DETDEF (DETS (DET мое)) (DET то)) (NOUN бебе))) (p=1.67444e-18)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJ саше)
+      (VERBP
+        (VERBP (PRON аз) (AUX съм))
+        (ADPP (ADP на) (NOUNP (NOUN дядо) (PROPN сашо)))))
+    (NOUN прасе))) (p=5.74031e-25)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX (VB прави) (AGR хме)))
+    (VOC (NNDEF (NOUN вино) (DET то))))) (p=3.92072e-15)
+(ROOT
+  (ADVP
+    (ADV довечера)
+    (VERBP
+      (ADPP
+        (ADP с)
+        (NUMP
+          (NNDEF (NNS (NOUN как) (DIV и)) (DET те))
+          (ADPP
+            (ADP в)
+            (NUMP (ADV колко) (NNS (NOUN час) (COUNT а))))))
+      (AUX (VB има) (AGR ме))))
+  (VOC (NOUN среща))) (p=8.45967e-35)
+(ROOT
+  (SQ
+    (PRON това)
+    (VERBP (AUX са) (NNS (NOUN гъск) (DIV и))))) (p=6.19009e-12)
+(ROOT
+  (ADVP (ADV много) (AUX е))
+  (VOC (VERBP (ADJ голяма) (PART да)))) (p=9.72331e-12)
+(ROOT
+  (SQ
+    (VERBP (PRON кой) (AUX (VB бе) (AGR ше)))
+    (VOC (ADPP (ADP с) (WHNP (PRON нас)))))) (p=2.8544e-13)
+(ROOT
+  (NOUNP
+    (PROPN коле)
+    (VERBP (PART то) (AUX (VB има) (AGR ли))))
+  (VOC (NOUNP (PRON си) (NOUN майка)))) (p=2.83819e-19)
+(ROOT
+  (ADVP (AUX (VB ми) (AGR ят)) (PART си))
+  (VOC (NNDEF (NNS ръце) (DET те)))) (p=4.36142e-14)
+(ROOT
+  (NOUNP (PRON това) (VERBP (PRON какво) (AUX е)))
+  (VOC (NOUN мамо))) (p=1.04136e-10)
+(ROOT
+  (ADVP
+    (VERBP (AUX (VB остав) (AGR и)) (PRON ги))
+    (ADV там))) (p=1.88955e-11)
+(ROOT
+  (SQ
+    (PRON я)
+    (VERBP
+      (AUX (VB натиска) (AGR й))
+      (NNS (NOUN тостер) (COUNT а))))) (p=1.27123e-16)
+(ROOT (NOUNP (VERB сложи) (PRON я)) (ADV тука)) (p=8.28063e-11)
+(ROOT
+  (SQ
+    (VERBP (PRON кой) (AUX е))
+    (VOC (ADPP (ADP на) (WHNP (DET тази) (NOUN снимка)))))) (p=7.17161e-15)
+(ROOT
+  (ADVP (ADV много) (AUX (VB киха) (AGR ш)))
+  (VOC (NOUN мамо))) (p=4.86009e-13)
+(ROOT (PART да) (VOC (NOUN мамо))) (p=1.34089e-06)
+(ROOT
+  (SQ
+    (NOUNP
+      (PROPN ела)
+      (ADVP
+        (AUX (VB седн) (AGR и))
+        (NOUNP (PROPN ела) (SBAR (AUX (VB седн) (AGR и))))))
+    (ADPP (ADP у) (NOUN мама)))) (p=1.00833e-25)
+(ROOT (SQ (ADV точно) (ADV така))) (p=1.62939e-07)
+(ROOT
+  (SQ
+    (VERBP (PRON това) (AUX са))
+    (VOC (NOUNP (NOUN билк) (CCONJ и) (NOUN мамо))))) (p=4.02232e-15)
+(ROOT
+  (VOC (PROPN баба))
+  (PARTP
+    (PART ще)
+    (VERBP (PRON го) (AUX (VB махн) (AGR е))))) (p=1.85849e-12)
+(ROOT (INTJP (INTJ здравей) (INTJ тате))) (p=2.92502e-08)
+(ROOT (VERBP (PRON какво) (AUX (VB подрежда) (AGR ш)))) (p=8.49406e-10)
+(ROOT (SQ (PROPN мики) (PART ли))) (p=7.80768e-09)
+(ROOT
+  (ADVP
+    (ADV така)
+    (VERBP (PART не) (AUX (VB мож) (AGR еш))))) (p=1.05917e-09)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX (VB прав) (AGR и)))
+    (VOC (PROPN мечо)))) (p=1.22262e-10)
+(ROOT
+  (VOC (VERBP (PART ще) (AUX (VB даде) (AGR ш))))
+  (PARTP
+    (PART ли)
+    (VERBP
+      (PART да)
+      (VERBP
+        (AUX (VB прибер) (AGR ем))
+        (NNS (NOUN ключ) (COUNT а)))))) (p=1.24263e-24)
+(ROOT (VERBP (PRON какво) (VERB стана))) (p=9.44327e-07)
+(ROOT
+  (VOC
+    (NOUNP
+      (VERBP
+        (SCONJ като)
+        (VERBP
+          (PART не)
+          (VERBP (PRON се) (AUX (VB разбира) (AGR те)))))
+      (NNDEF (NUM двама) (DET та))))
+  (PARTP
+    (PART да)
+    (VERBP (PRON се) (AUX (VB воз) (AGR ите))))) (p=6.18445e-27)
+(ROOT
+  (SQ
+    (VERB дай)
+    (VOC
+      (VERBP
+        (PART да)
+        (VERBP (PRON я) (AUX (VB прибер) (AGR ем))))))) (p=2.0523e-13)
+(ROOT
+  (VOC (VERBP (PRON какво) (VERB стана)))
+  (PARTP (PART тука) (AUX бе))) (p=4.16259e-13)
+(ROOT (ADJP (NUM едно) (ADJ мъничко))) (p=4.94121e-09)
+(ROOT
+  (ADVP
+    (AUX (VB дава) (AGR й))
+    (NOUNP (JJDEF (ADJ жълто) (DET то)) (NOUN мече)))
+  (VOC (NOUNP (ADV сега) (ADV тука)))) (p=7.70137e-23)
+(ROOT (VOC (PROPN тече)) (NOUNP (VERB вчеши) (PRON ме))) (p=2.26579e-14)
+(ROOT (INTJP (INTJ оо) (NOUNP (PROPN мончи) (PROPN киха)))) (p=7.74747e-15)
+(ROOT (ADVP (ADV още) (AUX (VB иска) (AGR м)))) (p=2.77724e-08)
+(ROOT (SQ (VERB (VB горе) (AGR ли)) (VOC (PROPN тати)))) (p=1.37458e-10)
+(ROOT
+  (SQ
+    (VERBP (PRON кой) (AUX е))
+    (VOC (ADPP (ADP с) (WHNP (PRON нея)))))) (p=2.4496e-11)
+(ROOT
+  (NOUNP (PART ето) (PRON ти))
+  (VOC (NNS (NOUN тефтер) (COUNT а)))) (p=1.14901e-13)
+(ROOT
+  (PARTP
+    (PART да)
+    (VERBP (SCONJ защото) (VERBP (PRON се) (VERB качва))))
+  (VOC (ADJ прав))) (p=4.31528e-16)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (NOUNP
+      (PRON ти)
+      (ADPP
+        (ADP на)
+        (NUMP
+          (NNDEF (NOUN картинка) (DET та))
+          (PRON каква)))))
+  (PARTP
+    (PART си)
+    (VERBP (PRON я) (AUX (VB нарисува) (AGR ла))))) (p=3.01013e-26)
+(ROOT
+  (SQ
+    (VERB (VB игра) (AGR ят))
+    (VOC (ADPP (ADP на) (NNDEF (NOUN море) (DET то)))))) (p=1.92343e-12)
+(ROOT (SQ (PRON туй) (VERBP (PRON какво) (AUX е)))) (p=5.439e-08)
+(ROOT (ADVP (VERB слуша) (PART ли))) (p=1.14881e-07)
+(ROOT
+  (SQ
+    (VERB (VB пи) (AGR ят))
+    (VOC (NOUNP (NOUN вода) (CCONJ или) (NOUN чайче))))) (p=5.81946e-18)
+(ROOT (SQ (VERB няма) (VOC (NOUN мамо)))) (p=1.06373e-06)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX е))
+    (VOC (NOUNP (PRON това) (NOUN мамо))))) (p=5.87941e-11)
+(ROOT
+  (PARTP (PART ще) (VERBP (PRON те) (VERB заболи)))
+  (VOC (NNDEF (NOUN тумбаче) (DET то)))) (p=5.23766e-18)
+(ROOT
+  (ADVP (VERBP (PRON ти) (AUX си)) (ADV много))
+  (VOC (ADJ добър))) (p=1.45074e-12)
+(ROOT (INTJP (INTJ не) (NOUN мамо))) (p=1.97672e-06)
+(ROOT
+  (SQ
+    (VERB мама)
+    (VOC
+      (NOUNP
+        (PROPN мими)
+        (VERBP (PART ли) (VERBP (PRON те) (VERB бутна))))))) (p=5.97137e-17)
+(ROOT
+  (ADVP
+    (CCONJ и)
+    (NOUNP
+      (NOUNP (PRON тя) (VERBP (AUX е) (ADJ пластмасова)))
+      (CCONJ но)
+      (VERBP
+        (VERB няма)
+        (PARTP
+          (PARTP
+            (PART да)
+            (VERBP (PRON я) (AUX (VB изхвърля) (AGR ме))))
+          (NOUN мамо)))))
+  (VOC (WHNP (PRON нея)))) (p=1.2662e-35)
+(ROOT
+  (NOUNP
+    (PRON ти)
+    (VERBP
+      (PART ли)
+      (VERBP (PART ще) (AUX (VB взем) (AGR еш)))))
+  (VOC (NNDEF (NOUN одеало) (DET то)))) (p=6.56699e-19)
+(ROOT
+  (SQ
+    (ADP на)
+    (NOUNP
+      (PRON какво)
+      (VERBP
+        (AUX (VB бе) (AGR ше))
+        (AUX (VB стъпи) (AGR ла)))))) (p=9.53676e-17)
+(ROOT
+  (ADVP (AUX (VB чака) (AGR ме)) (PART да))
+  (VOC
+    (VERBP
+      (AUX (VB изстин) (AGR е))
+      (NNS (NOUN чушка) (DIV та))))) (p=6.0446e-21)
+(ROOT (INTJP (INTJ не) (NOUN мамо))) (p=1.97672e-06)
+(ROOT (INTJ айде) (VOC (PROPN пинко))) (p=4.36706e-09)
+(ROOT (INTJ тате) (VOC (DETP (VERB гуши) (VERB гуши)))) (p=5.13699e-17)
+(ROOT
+  (SQ
+    (VERBP
+      (VERBP
+        (AUX (VB говор) (AGR и))
+        (ADPP (ADP с) (WHNP (PRON него))))
+      (ADPP (ADP по) (NNDEF (NOUN телефонче) (DET то))))
+    (NOUN мамо))) (p=2.93535e-23)
+(ROOT
+  (SQ
+    (VERB няма)
+    (VOC (VERBP (PART да) (AUX (VB къса) (AGR ш)))))) (p=5.48627e-11)
+(ROOT (VOC (ADJ хубава)) (PARTP (PART ли) (AUX е))) (p=2.86438e-09)
+(ROOT
+  (ADVP
+    (VERBP (PRON какво) (AUX (VB прав) (AGR и)))
+    (ADV тук))) (p=4.53128e-10)
+(ROOT
+  (PARTP
+    (PART ще)
+    (VERBP (PRON се) (AUX (VB зале) (AGR е))))) (p=4.67074e-11)
+(ROOT
+  (SQ
+    (ADVP
+      (ADV тук)
+      (VERBP (AUX е) (NNS (NOUN обелка) (DIV та))))
+    (ADPP (ADP от) (NNS (NOUN патладжан) (COUNT а))))) (p=2.4578e-20)
+(ROOT
+  (SQ
+    (NOUNP
+      (NNDEF (NNS (NOUN копче) (DIV та)) (DET та))
+      (VERBP (PRON се) (AUX (VB ши) (AGR ят))))
+    (ADPP (ADP с) (ADJP (ADJ мънички) (NOUN иглички))))) (p=8.64943e-26)
+(ROOT
+  (ADVP
+    (ADVP (AUX (VB мож) (AGR еш)) (PART ли))
+    (ADJ сама))
+  (VOC
+    (VERBP
+      (PART да)
+      (VERBP
+        (AUX (VB пусн) (AGR еш))
+        (NNS (NOUN телевизор) (COUNT а)))))) (p=3.64363e-25)
+(ROOT
+  (INTJP
+    (INTJ айде)
+    (VERBP (PART да) (AUX (VB чет) (AGR ем))))) (p=2.48333e-11)
+(ROOT
+  (SQ
+    (NOUNP
+      (PRON кой)
+      (VERBP (PRON те) (AUX (VB науч) (AGR и))))
+    (ADVP
+      (ADV така)
+      (VERBP (PART да) (AUX (VB казва) (AGR ш)))))) (p=6.96258e-20)
+(ROOT
+  (SQ
+    (CCONJ ама)
+    (NOUNP (NNDEF (NOUN меченце) (DET то)) (PRON туй)))) (p=1.94562e-15)
+(ROOT
+  (ADVP (VERB ела) (ADV тук))
+  (VOC
+    (DETP
+      (NOUNP (NOUN влак) (NOUN юнак))
+      (ADPP (ADP при) (NOUN саше))))) (p=3.77932e-24)
+(ROOT
+  (PARTP
+    (PARTP
+      (PART ще)
+      (VERBP (PRON му) (AUX (VB дава) (AGR ш))))
+    (CCONJ и)
+    (VERBP
+      (PRON той)
+      (VERBP
+        (PART да)
+        (VERBP (PART си) (AUX (VB игра) (AGR е))))))) (p=2.18617e-22)
+(ROOT
+  (ADVP
+    (ADV къде)
+    (VERBP (AUX (VB отива) (AGR ш)) (ADV сега)))) (p=1.17407e-11)
+(ROOT (INTJP (INTJ ммм) (ADV вкусно))) (p=1.54306e-09)
+(ROOT
+  (PARTP
+    (PART да)
+    (VERBP (PRON някой) (VERBP (PRON се) (AUX е))))
+  (VOC
+    (VERBP
+      (AUX (VB качи) (AGR л))
+      (ADPP (ADP на) (NNDEF (NOUN дърво) (DET то)))))) (p=1.4768e-21)
+(ROOT
+  (PARTP (PART не) (VERBP (PRON това) (AUX е)))
+  (NOUNP (DETDEF (DETS (DET мо)) (DET я)) (NOUN сок))) (p=1.56593e-16)
+(ROOT
+  (INTJP
+    (INTJ мони)
+    (VERBP (PRON какво) (AUX (VB яд) (AGR еш))))) (p=5.65688e-11)
+(ROOT (ADPP (ADP във) (NNS (NOUN водичка) (DIV та)))) (p=3.10519e-10)
+(ROOT (NOUNP (PRON я) (ADV силно))) (p=7.04901e-08)
+(ROOT
+  (INTJP
+    (INTJP (INTJ а-у) (VERBP (PRON какво) (VERB става)))
+    (NOUN мамо))) (p=2.46835e-12)
+(ROOT
+  (PARTP
+    (PART не)
+    (VERBP (PRON те) (AUX (VB разбра) (AGR х))))) (p=1.84257e-10)
+(ROOT
+  (VOC (VERBP (PRON я) (VERB дай)))
+  (PARTP (PART да) (VERB видя))) (p=1.98264e-11)
+(ROOT (SQ (PRON я) (VERBP (PRON го) (VERB виж)))) (p=3.45629e-08)
+(ROOT
+  (SQ
+    (CCONJ и)
+    (DETP
+      (DETP (VERB мама) (VERB каза))
+      (ADVP
+        (ADV внимателно)
+        (VERBP
+          (PART да)
+          (VERBP
+            (VERB (VB пипа) (AGR ш))
+            (PARTP
+              (PART да)
+              (VERBP
+                (PART не)
+                (VERBP (PRON я) (AUX (VB смачка) (AGR ш))))))))))) (p=3.03344e-33)
+(ROOT (PART да) (VOC (NOUN мамо))) (p=1.34089e-06)
+(ROOT
+  (PARTP
+    (PARTP
+      (PART да)
+      (VERBP (PRON ти) (AUX (VB дад) (AGR ем))))
+    (PART ли))
+  (VOC (PROPN сироп))) (p=3.10909e-17)
+(ROOT
+  (NOUNP (PRON я) (VERBP (PRON им) (VERB разкажи)))
+  (VOC (NOUNP (NUM една) (NOUN приказка)))) (p=1.38039e-16)
+(ROOT
+  (SQ
+    (VERBP
+      (AUX (VB има) (AGR ли))
+      (NNS (NOUN място) (DIV и)))
+    (VOC (ADPP (ADP за) (WHNP (PRON мен)))))) (p=3.97866e-16)
+(ROOT (VERBP (PART ето) (AUX (VB легна) (AGR х)))) (p=7.46938e-10)
+(ROOT (SQ (VERBP (PRON каква) (AUX е)) (NOUN мама))) (p=5.0469e-10)
+(ROOT
+  (ADVP
+    (ADVP (VERB дай) (PART ми))
+    (ADJP (ADP за) (ADJ малко)))
+  (VOC (NNDEF (NOUN телефонче) (DET то)))) (p=5.83992e-20)
+(ROOT (INTJ мерси) (VOC (PROPN тече))) (p=2.50732e-10)
+(ROOT (NOUNP (PART ето) (PRON ги))) (p=1.45035e-07)
+(ROOT
+  (SQ
+    (NOUNP
+      (PRON аз)
+      (VERBP (PRON ги) (AUX (VB остави) (AGR х))))
+    (ADPP (ADP за) (WHNP (PRON теб))))) (p=1.23083e-17)
+(ROOT
+  (ADVP
+    (ADVP
+      (ADV там)
+      (VERBP (VERB има) (NNS (NOUN бонбон) (DIV и))))
+    (CCONJ но)
+    (VERBP (AUX са) (JJS (ADJ лют) (DIV и))))) (p=1.1392e-22)
+(ROOT
+  (SQ
+    (ADVP (ADV вън) (ADVP (VERB вали) (PART ли)))
+    (ADV още))) (p=4.38503e-17)
+(ROOT
+  (NOUNP
+    (PROPN маца)
+    (VERBP (PRON какво) (AUX (VB праве) (AGR ше))))
+  (VOC
+    (NOUNP
+      (NNDEF (NOUN сутрин) (DET та))
+      (VERBP
+        (SCONJ като)
+        (VERBP
+          (PRON се)
+          (VERBP (AUX (VB събуд) (AGR и)) (PRON ти))))))) (p=1.55204e-28)
+(ROOT (INTJP (INTJ а) (VERBP (PRON какво) (AUX е)))) (p=1.21735e-06)
+(ROOT
+  (ADVP
+    (ADV колко)
+    (VERBP
+      (NNS (NOUN сламк) (DIV и))
+      (AUX (VB има) (AGR ш))))) (p=1.7673e-15)
+(ROOT
+  (PARTP (PART ето) (VERBP (PRON какво) (AUX е)))
+  (VOC (WHNP (PRON това)))) (p=6.36529e-11)
+(ROOT (NOUNP (PART ето) (PRON ти)) (VOC (WHNP (PRON го)))) (p=3.95924e-10)
+(ROOT
+  (PARTP (PART ще) (AUX (VB обел) (AGR иш)))
+  (NOUNP (NNDEF (NOUN рокля) (DET та)) (PART ли))) (p=4.23441e-18)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (VERB има))
+    (VOC
+      (VERBP
+        (AUX (VB чет) (AGR е))
+        (NNDEF (NOUN коте) (DET то)))))) (p=6.84774e-17)
+(ROOT (NOUNP (VERB скри) (PRON ги)) (ADV долу)) (p=9.3523e-12)
+(ROOT (PART да) (VOC (NOUN мамо))) (p=1.34089e-06)
+(ROOT
+  (PARTP
+    (PART нека)
+    (VERBP (PRON се) (AUX (VB върт) (AGR и))))
+  (VOC (NNDEF (NOUN колело) (DET то)))) (p=1.38912e-16)
+(ROOT
+  (SQ
+    (CCONJ и)
+    (DETP
+      (NOUNP (PRON теб) (VERBP (PRON те) (AUX е)))
+      (VERBP (AUX (VB ухап) (AGR ало)) (NOUN комарче))))) (p=1.18777e-23)
+(ROOT (NOUNP (VERB кажи) (PRON й))) (p=4.12083e-07)
+(ROOT
+  (INTJP (INTJ айде) (VERB (VB отид) (AGR и)))
+  (DETP
+    (DET та)
+    (VERBP (AUX (VB отид) (AGR и)) (ADV сега)))) (p=6.48805e-20)
+(ROOT
+  (SQ
+    (VERB няма)
+    (VOC
+      (VERBP
+        (PART ли)
+        (VERBP (PART да) (AUX (VB яд) (AGR еш))))))) (p=3.71275e-12)
+(ROOT (SQ (CCONJ и) (ADVP (WHQP (ADV още)) (ADV къде)))) (p=1.21987e-08)
+(ROOT
+  (SQ
+    (VERB кажи)
+    (VOC
+      (NOUNP
+        (PRON какво)
+        (VERBP (AUX (VB иска) (AGR ш)) (PRON тате)))))) (p=1.60096e-15)
+(ROOT
+  (DETP
+    (DET то)
+    (ADVP (ADV пак) (VERBP (PART ще) (VERB избяга))))) (p=5.97511e-13)
+(ROOT
+  (SQ
+    (NOUNP
+      (PRON какво)
+      (VERBP
+        (PART ще)
+        (VERBP (PRON й) (AUX (VB дад) (AGR еш)))))
+    (ADPP
+      (ADP на)
+      (NOUNP
+        (PROPN мария)
+        (VERBP
+          (PART да)
+          (VERBP (PART си) (AUX (VB игра) (AGR е)))))))) (p=1.9205e-26)
+(ROOT (INTJP (INTJP (INTJ мони) (VERB иска)) (NOUN диня))) (p=9.81854e-13)
+(ROOT (INTJ май) (INTJP (INTJ май) (VERB падна))) (p=2.3393e-12)
+(ROOT
+  (ADVP
+    (VERBP (PRON какво) (AUX (VB прав) (AGR иш)))
+    (ADV сега))
+  (VOC (INTJ бе))) (p=2.58912e-14)
+(ROOT
+  (PARTP (PART ще) (VERBP (PRON го) (VERB заболи)))
+  (NOUNP
+    (VERBP
+      (VERB няма)
+      (PARTP
+        (PART да)
+        (VERBP (PRON го) (AUX (VB щип) (AGR еш)))))
+    (ADV там))) (p=1.59287e-26)
+(ROOT
+  (SQ
+    (VERB стой)
+    (VOC
+      (NOUNP
+        (VERBP (PART да) (AUX (VB оправ) (AGR им)))
+        (NNDEF (NOUN сандалки) (DET те)))))) (p=2.08063e-19)
+(ROOT (VERBP (PRON някой) (VERB мърда))) (p=3.73143e-09)
+(ROOT (PARTP (PART ще) (VERB има))) (p=1.66414e-06)
+(ROOT (SQ (PRON кой) (VERBP (PRON се) (VERB друса)))) (p=4.94717e-10)
+(ROOT
+  (VOC (PROPN ела))
+  (PARTP
+    (PART тука)
+    (VERBP
+      (ADV сега)
+      (VERBP
+        (PART ще)
+        (VERBP (PRON ги) (AUX (VB хран) (AGR им))))))) (p=3.81722e-21)
+(ROOT
+  (SQ
+    (ADVP
+      (ADV защо)
+      (VERBP
+        (PRON му)
+        (VERBP (PRON се) (AUX (VB кара) (AGR ш)))))
+    (ADV така))) (p=8.16975e-16)
+(ROOT
+  (DETP
+    (DET та)
+    (VERBP
+      (PART да)
+      (VERBP
+        (PART не)
+        (VERBP (AUX би) (AUX (VB хрумн) (AGR е))))))) (p=1.43023e-17)
+(ROOT
+  (SQ
+    (NOUNP
+      (PRON какво)
+      (VERBP (PRON му) (AUX (VB дава) (AGR ш))))
+    (ADPP (ADP на) (NNS (PROPN калоянчо))))) (p=8.91399e-16)
+(ROOT
+  (SQ
+    (ADVP
+      (ADV друго)
+      (VERBP
+        (VERB (VB иска) (AGR ш))
+        (PARTP
+          (PART ли)
+          (VERBP
+            (PART да)
+            (VERBP (PART си) (AUX (VB взима) (AGR ме)))))))
+    (ADPP (ADP за) (NOUN изпът)))) (p=2.88824e-28)
+(ROOT
+  (SQ
+    (NOUNP
+      (PRON ти)
+      (ADVP (ADV как) (AUX (VB пе) (AGR еш))))
+    (ADPP (ADP на) (NNS (PROPN калоянчо))))) (p=1.33786e-17)
+(ROOT
+  (INTJP
+    (INTJ моля)
+    (NOUNP
+      (VERBP (PRON те) (VERB изпей))
+      (NNDEF (NOUN песничка) (DET та))))) (p=2.05485e-16)
+(ROOT (INTJ ммм) (VOC (ADJP (ADJ вкусен) (NOUN банан)))) (p=1.68457e-14)
+(ROOT
+  (ADVP (SCONJ като) (VERB дойде))
+  (VOC
+    (NOUNP
+      (PROPN тати)
+      (VERBP
+        (PART ще)
+        (VERBP
+          (PRON му)
+          (VERBP (PRON я) (AUX (VB покаж) (AGR еш)))))))) (p=2.16869e-23)
+(ROOT
+  (INTJP (INTJ не) (NOUN калоянче))
+  (PARTP (PART не) (AUX (VB иска) (AGR м)))) (p=2.13516e-14)
+(ROOT
+  (SQ
+    (ADVP (VERB ела) (ADV тука))
+    (ADPP (ADP на) (NNDEF (NOUN гърненце) (DET то))))) (p=3.74513e-15)
+(ROOT
+  (SQ
+    (VERB мама)
+    (VOC
+      (ADPP
+        (VERBP
+          (PART ще)
+          (VERBP (PRON го) (AUX (VB обу) (AGR е))))
+        (ADPP (ADP на) (NNDEF (NOUN саше) (DET то))))))) (p=3.42374e-20)
+(ROOT
+  (NOUNP
+    (NOUNP
+      (ADPP
+        (ADP в)
+        (ADJP
+          (DETDEF (DETS (DET наш)) (DET ата))
+          (ADJP (PART не) (VERB (VB мож) (AGR е)))))
+      (VERBP (PART да) (AUX (VB влез) (AGR е))))
+    (CCONJ и)
+    (NNDEF (NNS (PROPN виле)) (DET то)))) (p=1.23732e-32)
+(ROOT (VERBP (PRON какво) (AUX (VB прав) (AGR иш)))) (p=3.59409e-08)
+(ROOT (PARTP (PART да) (VERBP (PRON го) (VERB прибереме)))) (p=2.90032e-10)
+(ROOT
+  (PARTP
+    (PART ще)
+    (VERBP
+      (PRON ти)
+      (VERBP (PRON се) (AUX (VB зави) (AGR е)))))
+  (NOUNP
+    (NUMP
+      (NNS (NOUN свят) (DIV и))
+      (ADPP
+        (ADPP
+          (VERBP (PART ще) (AUX (VB падн) (AGR еш)))
+          (ADPP (ADP върху) (NNS (NOUN саксия) (DIV та))))
+        (CCONJ и)
+        (ADPP
+          (ADP след)
+          (NOUNP
+            (PRON това)
+            (VERBP
+              (PART ще)
+              (VERBP (PRON ти) (AUX (VB изя) (AGR м))))))))
+    (NNS (NOUN нос) (COUNT а)))) (p=6.16654e-55)
+(ROOT
+  (ADVP (ADV хубаво) (VERBP (VERB хвани) (ADV отдолу)))
+  (VOC (WHNP (PRON това)))) (p=2.20811e-16)
+(ROOT
+  (INTJP
+    (INTJ о)
+    (NOUNP
+      (NNDEF (NOUN човече) (DET то))
+      (VERBP (PRON се) (AUX (VB сме) (AGR е)))))) (p=4.32803e-15)
+(ROOT
+  (NOUNP
+    (VERBP (PRON какво) (VERB има))
+    (NNDEF (NOUN момченце) (DET то)))
+  (VOC (NOUN мамо))) (p=1.09797e-14)
+(ROOT
+  (ADVP
+    (NOUNP (PROPN леля) (PROPN велка))
+    (VERBP
+      (PRON какво)
+      (VERBP (PART да) (AUX (VB прав) (AGR и)))))
+  (VOC (NOUNP (PROPN леля) (PROPN велка)))) (p=8.31261e-24)
+(ROOT
+  (INTJP
+    (INTJ ау)
+    (VERBP (PART ще) (VERBP (PRON ти) (VERB замръзне))))
+  (NOUNP
+    (NNDEF (NOUN дупе) (DET то))
+    (ADPP (ADP на) (NNS (NOUN под) (COUNT а))))) (p=2.28259e-26)
+(ROOT
+  (INTJP
+    (INTJ а-у)
+    (ADVP
+      (WHNP (DET таз) (NOUN игла))
+      (ADVP (ADV отде) (AUX (VB изскоч) (AGR и)))))
+  (INTJ бе)) (p=4.69782e-26)
+(ROOT
+  (INTJP
+    (INTJ калоянчо)
+    (VERBP (PRON какво) (AUX (VB пи) (AGR е))))) (p=3.61038e-11)
+(ROOT (PART да) (VOC (NOUN мамо))) (p=1.34089e-06)
+(ROOT (INTJP (INTJ не) (INTJ не))) (p=1.1767e-05)
+(ROOT
+  (ADVP
+    (CCONJ и)
+    (NOUNP
+      (PRON какво)
+      (VERBP (PRON ги) (AUX (VB прав) (AGR и)))))
+  (VOC
+    (WHNP
+      (NOUNP (VERB мама) (PROPN мърморана))
+      (NNS (NOUN котенца) (DIV та))))) (p=5.52774e-28)
+(ROOT
+  (PART да)
+  (ADVP (ADV малко) (VERBP (PRON се) (VERB спъна)))) (p=4.39559e-12)
+(ROOT (INTJP (INTJ браво) (NOUN мамо))) (p=5.30393e-07)
+(ROOT
+  (ADVP
+    (ADVP (VERBP (PART не) (VERB знам)) (ADV кога))
+    (VERBP (PART ще) (AUX (VB мог) (AGR ат))))
+  (VOC (VERBP (PART да) (AUX (VB дойд) (AGR ат))))) (p=8.17728e-25)
+(ROOT (INTJP (INTJ а) (ADV така))) (p=1.71769e-05)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX (VB прав) (AGR и)))
+    (VOC (NNDEF (NOUN момиче) (DET то))))) (p=9.00585e-12)
+(ROOT
+  (ADVP (AUX (VB пе) (AGR еш)) (PART ли))
+  (VOC (NOUN мамо))) (p=1.03479e-11)
+(ROOT
+  (SQ
+    (VERBP (VERB дай) (NNS (NOUN водичка) (DIV та)))
+    (NOUN мамо))) (p=2.34027e-13)
+(ROOT
+  (SQ
+    (VERB виж)
+    (VOC
+      (NOUNP
+        (PROPN калоянчо)
+        (VERBP (PRON ти) (VERB подава)))))) (p=2.35841e-14)
+(ROOT
+  (ADVP (ADV къде) (AUX е))
+  (VOC (NNDEF (NOUN цвете) (DET то)))) (p=8.17173e-11)
+(ROOT (PARTP (PART да) (VERBP (PRON се) (VERB съблека)))) (p=4.90315e-09)
+(ROOT
+  (ADVP
+    (ADV пак)
+    (VERBP
+      (PART ли)
+      (VERBP (PART ще) (AUX (VB прав) (AGR иш)))))
+  (VOC (NOUNP (NOUN чай) (CCONJ или) (NOUN кекс)))) (p=1.4653e-24)
+(ROOT
+  (ADVP (AUX (VB иска) (AGR ш)) (PART ли))
+  (VOC (NOUN какао))) (p=1.51373e-12)
+(ROOT (SQ (PRON какво) (VERBP (PRON й) (VERB има)))) (p=3.08685e-08)
+(ROOT
+  (SQ
+    (PRON ти)
+    (VERBP
+      (VERBP (PRON я) (AUX (VB преслуша) (AGR й)))
+      (ADV сега)))) (p=2.79281e-15)
+(ROOT
+  (SQ
+    (NOUNP (VERBP (PRON коя) (AUX е)) (NOUN майка))
+    (ADPP (ADP на) (NNDEF (NNS (PROPN коле)) (DET то))))) (p=7.41926e-19)
+(ROOT
+  (ADVP
+    (ADV пак)
+    (VERBP
+      (PART ще)
+      (VERBP (PRON се) (AUX (VB кач) (AGR и)))))) (p=3.37637e-12)
+(ROOT (ADVP (ADV къде) (AUX е))) (p=4.67047e-06)
+(ROOT (SQ (ADP за) (NOUNP (PRON кои) (NOUN хора)))) (p=9.07985e-12)
+(ROOT
+  (VOC (NOUN чантичка))
+  (PARTP (PART ли) (AUX (VB иска) (AGR ш)))) (p=4.43578e-13)
+(ROOT
+  (SQ
+    (VERB прибира)
+    (VOC
+      (DETP
+        (NOUNP
+          (NNDEF (NNS (NOUN част) (DIV и)) (DET те))
+          (VERBP
+            (NNDEF (NNS (NOUN ко) (DIV и)) (DET то))
+            (VERBP
+              (PART не)
+              (VERBP (PRON ти) (AUX (VB трябва) (AGR т))))))
+        (ADPP (ADP в) (NNS (NOUN торбичка) (DIV та))))))) (p=8.53962e-34)
+(ROOT
+  (SQ
+    (NOUNP
+      (ADP с)
+      (NOUNP
+        (PROPN лук)
+        (VERBP (PART не) (AUX (VB мож) (AGR е)))))
+    (ADPP (ADP с) (NNS (PROPN лук))))) (p=1.76651e-20)
+(ROOT
+  (INTJP
+    (INTJ и-и)
+    (VERBP
+      (NNDEF (NNS (NOUN топка) (DIV та)) (DET те))
+      (VERB бутна)))) (p=1.16212e-16)
+(ROOT
+  (SQ
+    (NOUNP (PRON кой) (VERBP (PART ще) (VERB има)))
+    (ADJP (ADJ рожден) (NOUN ден)))) (p=5.703e-16)
+(ROOT
+  (ADVP
+    (ADV къде)
+    (VERBP (PART да) (AUX (VB седн) (AGR е))))
+  (VOC (PROPN леля))) (p=1.54206e-12)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJ а)
+      (NOUNP (PRON това) (VERBP (PRON кой) (AUX е))))
+    (NOUN мамо))) (p=6.44241e-13)
+(ROOT
+  (SQ
+    (VERBP (NOUN запис) (AUX (VB прав) (AGR им)))
+    (VOC (VERBP (VERB ела) (ADV тук))))) (p=7.86927e-20)
+(ROOT
+  (ADVP (AUX (VB загуб) (AGR ила)) (PART ли))
+  (VOC (VERBP (AUX съм) (PRON те)))) (p=5.52934e-15)
+(ROOT
+  (INTJP
+    (INTJ май)
+    (ADVP
+      (SCONJ че)
+      (ADVP
+        (ADV пак)
+        (VERBP (PRON те) (AUX (VB маърз) (AGR и))))))) (p=1.36577e-18)
+(ROOT
+  (SQ
+    (CCONJ и)
+    (ADVP
+      (VERBP (PART да) (AUX (VB падн) (AGR еш)))
+      (ADV долу)))) (p=2.41658e-12)
+(ROOT
+  (SQ
+    (VERB кажи)
+    (VOC
+      (NOUNP
+        (VERBP (PRON какво) (AUX (VB прав) (AGR и)))
+        (NNDEF (NOUN конче) (DET то)))))) (p=1.79537e-15)
+(ROOT (PARTP (PART не) (VERB зная))) (p=1.81314e-07)
+(ROOT
+  (ADVP
+    (ADV защо)
+    (VERBP (PRON му) (AUX (VB извад) (AGR и))))
+  (VOC
+    (NOUNP (NNDEF (NOUN краче) (DET то)) (SBAR (ADV защо))))) (p=3.37864e-19)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJP
+        (INTJ ели)
+        (VERBP (PART то) (AUX (VB има) (AGR ли))))
+      (NOUN пуловер))
+    (NOUN мамо))) (p=1.59819e-19)
+(ROOT (VERBP (PART не) (AUX е))) (p=2.85435e-05)
+(ROOT
+  (ADVP (VERBP (AUX (VB чу) (AGR ли)) (PRON го)) (ADV как))
+  (VOC (VERBP (PRON се) (AUX (VB глез) (AGR и))))) (p=2.19449e-18)
+(ROOT
+  (SQ
+    (VERBP (AUX (VB люле) (AGR ем)) (PRON се))
+    (INTJ даа))) (p=5.54193e-14)
+(ROOT
+  (ADVP
+    (ADV защо)
+    (VERBP (PRON го) (AUX (VB бол) (AGR и))))
+  (VOC
+    (NOUNP
+      (PROPN мечо)
+      (VERBP
+        (NNDEF (NOUN краче) (DET то))
+        (VERBP (AUX бе) (NOUN мамо)))))) (p=7.91386e-27)
+(ROOT
+  (SQ
+    (CCONJ но)
+    (DETP
+      (NOUNP
+        (PRON той)
+        (VERBP (PART не) (VERBP (PRON се) (VERB слага))))
+      (ADPP (ADP на) (NNS (NOUN глава) (DIV та)))))) (p=2.45973e-17)
+(ROOT (ADVP (ADV студено) (VERBP (PART ми) (AUX е)))) (p=3.12614e-09)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX е))
+    (VOC (NOUNP (PRON това) (NOUN пътепъте))))) (p=4.60669e-14)
+(ROOT
+  (ADVP (ADV къде) (VERBP (VERB има) (NOUN кремче)))
+  (INTJP (INTJ бе) (INTJ майче))) (p=7.06212e-20)
+(ROOT (INTJP (INTJ а) (ADV тук))) (p=8.52308e-06)
+(ROOT
+  (VOC
+    (DETP
+      (NOUNP
+        (PRON той)
+        (ADVP (ADV сега) (VERBP (VERB има) (NOUN батерия))))
+      (VERBP (VERB няма) (NOUN нужда))))
+  (PARTP
+    (PART да)
+    (VERBP (PRON я) (AUX (VB смен) (AGR им))))) (p=6.1193e-34)
+(ROOT
+  (NOUNP (PART ето) (PRON я))
+  (VOC (NNDEF (NOUN торта) (DET та)))) (p=5.21044e-13)
+(ROOT (VERBP (PRON кой) (AUX е))) (p=4.35802e-06)
+(ROOT
+  (SQ (PRON те) (VERBP (AUX са) (JJS (ADJ голем) (DIV и))))) (p=9.47895e-11)
+(ROOT
+  (SQ
+    (ADVP (ADV хубаво) (VERBP (PART ли) (AUX е)))
+    (ADV така))) (p=5.2836e-11)
+(ROOT
+  (ADVP (ADV тука) (AUX (VB държ) (AGR и)))
+  (VOC (PROPN зайко))) (p=6.35929e-13)
+(ROOT
+  (ADVP
+    (ADV сега)
+    (VERBP
+      (PRON ти)
+      (VERBP
+        (PART ще)
+        (VERBP (PART ми) (AUX (VB направ) (AGR иш))))))
+  (VOC (NOUN кафе))) (p=3.0561e-19)
+(ROOT
+  (SQ
+    (WHNP (DET тази) (NOUN блузка))
+    (VERBP (ADP с) (VERBP (PRON какво) (AUX е))))) (p=1.07347e-16)
+(ROOT
+  (VOC (NOUN банан))
+  (PARTP (AUX (VB иска) (AGR ш)) (PART ли))) (p=1.71665e-13)
+(ROOT (PARTP (PART да) (VERBP (PRON ти) (VERB извадя)))) (p=1.76749e-09)
+(ROOT
+  (ADVP
+    (NOUNP
+      (NOUNP (VERB няма) (PRON го))
+      (ADPP (ADP на) (NNS (NOUN земя) (DIV та))))
+    (VERBP (SCONJ защото) (VERBP (PRON се) (AUX е))))
+  (VOC
+    (VERBP
+      (VERBP (AUX (VB качи) (AGR л)) (ADV тук))
+      (ADV горе)))) (p=5.8021e-31)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (VERB има))
+    (VOC (ADPP (ADP на) (WHNP (DET тази) (NOUN топка)))))) (p=9.48364e-15)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (NOUNP
+      (PRON това)
+      (VERBP (PRON какво) (AUX (VB бе) (AGR ше)))))) (p=8.39986e-11)
+(ROOT
+  (ADVP (VERB кажи) (ADV сега))
+  (VOC (PROPN довиждане))) (p=3.43555e-11)
+(ROOT
+  (INTJP
+    (INTJ ау)
+    (NOUNP
+      (PRON тя)
+      (VERBP (PART ще) (AUX (VB плач) (AGR е)))))) (p=4.74392e-14)
+(ROOT
+  (VOC (VERBP (PART ще) (AUX (VB мож) (AGR еш))))
+  (PARTP
+    (PART ли)
+    (VERBP
+      (PART да)
+      (VERBP
+        (PART ми)
+        (VERBP (PRON я) (AUX (VB слож) (AGR иш))))))) (p=8.08876e-21)
+(ROOT
+  (ADVP (ADV много) (VERBP (AUX е) (ADV вкусно)))
+  (PART нали)) (p=2.20798e-14)
+(ROOT
+  (PARTP
+    (PART ето)
+    (VERBP (VERB маме) (NNS (NOUN вода) (DIV та))))) (p=4.16129e-13)
+(ROOT
+  (SQ
+    (VERB кажи)
+    (VOC (NOUNP (PRON какво) (VERBP (AUX е) (PRON това)))))) (p=2.83656e-11)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX (VB прав) (AGR и)))
+    (VOC
+      (NOUNP
+        (NNDEF (NOUN батко) (DET то))
+        (SBAR (AUX (VB слушка) (AGR ли))))))) (p=3.84349e-20)
+(ROOT
+  (PART да)
+  (PARTP
+    (CCONJ ама)
+    (VERBP
+      (SCONJ като)
+      (VERBP
+        (VERB (VB падн) (AGR еш))
+        (PARTP (PART ще) (AUX (VB плач) (AGR еш))))))) (p=1.90483e-21)
+(ROOT
+  (ADVP
+    (ADV къде)
+    (VERBP (AUX е) (NNS (NOUN къщичка) (DIV та))))
+  (VOC (PROPN стефи))) (p=3.88339e-14)
+(ROOT
+  (PART ето)
+  (ADVP (ADV тук) (VERBP (VERB има) (ADV друго)))) (p=7.33303e-14)
+(ROOT
+  (INTJP
+    (INTJ ели)
+    (NOUNP (PRON какво) (VERBP (AUX е) (PRON това))))) (p=1.75634e-11)
+(ROOT
+  (SQ
+    (NOUNP
+      (PRON я)
+      (VERBP
+        (PART да)
+        (VERBP (PRON ни) (AUX (VB изпе) (AGR еш)))))
+    (ADVP (NOUNP (NUM една) (NOUN песничка)) (ADV сега)))) (p=7.70742e-24)
+(ROOT
+  (INTJP
+    (INTJ саше)
+    (ADVP
+      (ADV къде)
+      (VERBP (AUX (VB отива) (AGR ш)) (PRON ти))))) (p=1.66453e-14)
+(ROOT
+  (ADVP (ADV къде) (VERBP (VERB стъпа) (PRON ти)))
+  (VOC (NOUN бабо))) (p=4.9637e-16)
+(ROOT
+  (ADVP
+    (ADVP
+      (VERBP
+        (PART ето)
+        (VERBP
+          (PART ще)
+          (VERBP (PRON я) (AUX (VB слож) (AGR им)))))
+      (ADV вътре))
+    (CCONJ и)
+    (VERBP (PART ще) (AUX (VB продълж) (AGR иш))))
+  (VOC
+    (VERBP
+      (PART да)
+      (VERBP (PRON я) (AUX (VB бута) (AGR ш)))))) (p=5.84471e-35)
+(ROOT (INTJ а) (VOC (NNS (NOUN вълк) (COUNT а)))) (p=3.72568e-08)
+(ROOT
+  (ADVP (ADV къде) (AUX е))
+  (VOC (NOUNP (JJDEF (ADJ твой) (DET та)) (NOUN чаша)))) (p=5.98496e-14)
+(ROOT
+  (SQ
+    (VERBP
+      (VERBP (PRON какво) (VERB има))
+      (ADPP (ADP в) (NNS (NOUN тавичка) (DIV та))))
+    (NOUN мамо))) (p=1.92858e-17)
+(ROOT (VERBP (PRON какво) (AUX (VB иска) (AGR ш)))) (p=9.84118e-08)
+(ROOT
+  (PARTP (PART ще) (VERBP (AUX съм) (PRON ти)))
+  (NOUNP
+    (ADJP
+      (ADJ сърдита)
+      (ADJP (SCONJ ако) (SBAR (AUX (VB откъсн) (AGR еш)))))
+    (NOUN цвете))) (p=4.57064e-27)
+(ROOT (INTJP (INTJ а-у) (NOUN рибка))) (p=1.46909e-08)
+(ROOT
+  (PARTP
+    (PART не)
+    (VERBP
+      (PRON го)
+      (VERBP (PART ли) (AUX (VB ще) (AGR ш)))))) (p=1.3622e-12)
+(ROOT
+  (INTJP
+    (INTJ аа)
+    (NOUNP
+      (VERBP (PRON това) (AUX са))
+      (NNDEF (NOUN очила) (DET та))))) (p=1.30961e-15)
+(ROOT
+  (NOUNP (ADV много) (ADJP (ADJ интересна) (NOUN работа)))
+  (VERB (VB има) (AGR ш))) (p=1.64439e-17)
+(ROOT
+  (PART еей)
+  (ADVP
+    (ADV там)
+    (VERBP (AUX е) (NNDEF (NOUN море) (DET то))))) (p=1.25948e-16)
+(ROOT (VERBP (ADPP (ADP на) (NOUN мама)) (AUX са))) (p=5.34778e-11)
+(ROOT
+  (VOC (NOUN панделка))
+  (PARTP (PART си) (VERBP (VERB има) (PRON той)))) (p=8.3834e-14)
+(ROOT
+  (VOC (NOUN пумпалче))
+  (PARTP (PART ли) (VERBP (AUX е) (NOUN мамо)))) (p=3.74247e-14)
+(ROOT (ADVP (ADV тук) (AUX съм)) (VOC (NOUN мамо))) (p=1.1114e-09)
+(ROOT
+  (SQ
+    (NOUNP (PRON ти) (VERBP (PRON й) (VERB подаде)))
+    (CCONJ ама)
+    (VERBP
+      (PRON тя)
+      (VERBP
+        (ADPP (ADP в) (WHNP (DET таз) (NOUN ръчичка)))
+        (VERBP
+          (AUX (VB държ) (AGR и))
+          (NNS (NOUN филийка) (DIV та))))))) (p=1.83434e-38)
+(ROOT
+  (ADVP
+    (NOUNP (JJDEF (ADJ друго) (DET то)) (NOUN коляно))
+    (ADVP (AUX (VB бол) (AGR и)) (PART ли)))
+  (VOC (WHNP (PRON те)))) (p=4.6577e-21)
+(ROOT
+  (SQ
+    (PRON тази)
+    (VERBP (PART ли) (VERBP (AUX е) (PRON тя))))) (p=2.20067e-11)
+(ROOT
+  (ADVP
+    (NOUNP (PRON кой) (VERBP (PRON й) (AUX е)))
+    (VERBP
+      (AUX (VB взе) (AGR л))
+      (NNS (NOUN кола) (DIV та))))
+  (VOC (NOUN мамо))) (p=2.7841e-21)
+(ROOT (SQ (PRON този) (VERBP (PRON кой) (AUX е)))) (p=7.764e-09)
+(ROOT (INTJP (INTJ здравей) (NOUN сладурано))) (p=3.58231e-11)
+(ROOT
+  (ADVP (VERBP (VERB кажи) (NOUN мама)) (ADV как))
+  (VOC (VERBP (PRON се) (VERB казва)))) (p=1.97423e-16)
+(ROOT (SQ (VERB пийна) (VOC (VERBP (PART ли) (AUX си))))) (p=1.71009e-10)
+(ROOT
+  (ADVP
+    (ADV пак)
+    (VERBP
+      (PART да)
+      (VERBP (PRON ме) (AUX (VB направ) (AGR и)))))) (p=1.29316e-11)
+(ROOT
+  (SQ
+    (VERBP (PRON ти) (VERB изяш))
+    (VOC
+      (DETP
+        (NOUNP (PRON тази) (NNS (NOUN бонбонка) (COUNT а)))
+        (ADPP
+          (ADP на)
+          (NOUNP
+            (VERBP (PROPN леля) (VERB дай))
+            (ADJ друга))))))) (p=1.42926e-31)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX (VB прав) (AGR и)))
+    (VOC (NNDEF (NOUN небе) (DET то))))) (p=6.53429e-12)
+(ROOT (PART да) (VOC (NNDEF (NOUN ръбче) (DET та)))) (p=4.13476e-10)
+(ROOT
+  (ADVP
+    (ADV сега)
+    (VERBP
+      (PART не)
+      (VERBP (PRON се) (AUX (VB игра) (AGR е)))))) (p=3.10244e-11)
+(ROOT (SQ (PRON кой) (VERBP (AUX е) (ADJ болен)))) (p=1.80547e-10)
+(ROOT
+  (INTJP
+    (INTJ моля)
+    (NOUNP (PRON те) (ADVP (VERB сипи) (PART ми))))
+  (NOUNP (NUM едно) (NOUN яйчице))) (p=1.76719e-22)
+(ROOT
+  (NOUNP (NNDEF (NUM две) (DET те)) (SBAR (NOUN баби)))
+  (VOC (NNS (NOUN мари) (DIV и)))) (p=5.01394e-19)
+(ROOT (INTJP (INTJ а) (VERBP (PRON кой) (VERB падна)))) (p=8.84368e-09)
+(ROOT
+  (SQ
+    (NOUNP
+      (PRON я)
+      (VERBP (PRON го) (AUX (VB пипн) (AGR и))))
+    (ADVP (ADV студено) (VERBP (PART ли) (AUX е))))) (p=3.87062e-19)
+(ROOT
+  (VOC
+    (ADPP
+      (VERBP (PRON аз) (AUX (VB идва) (AGR м)))
+      (ADPP (ADP при) (NNDEF (NNS деца) (DET та)))))
+  (PARTP (PART да) (VERB спя))) (p=6.07612e-22)
+(ROOT
+  (SQ
+    (NOUNP (VERB (VB изпиша) (AGR й)) (PRON се))
+    (CCONJ и)
+    (VERBP
+      (PART ще)
+      (VERBP (PRON ти) (VERBP (PRON я) (VERB дам)))))) (p=2.37715e-21)
+(ROOT
+  (ADVP (AUX (VB измор) (AGR и)) (PART ли))
+  (VOC (NOUNP (PRON се) (ADV вече)))) (p=5.23995e-14)
+(ROOT
+  (INTJP (INTJ хоп) (INTJ хайде))
+  (PARTP
+    (PARTP (PART да) (VERBP (PRON ти) (VERB помогна)))
+    (PARTP
+      (PART да)
+      (VERBP (PRON се) (AUX (VB кач) (AGR иш)))))) (p=6.34694e-23)
+(ROOT
+  (ADVP (AUX (VB иска) (AGR ш)) (PART ли))
+  (VOC (NNDEF (NOUN книжка) (DET та)))) (p=1.52772e-12)
+(ROOT
+  (PARTP
+    (PART не)
+    (VERBP (VERB мога) (PARTP (PART да) (VERB разбера))))) (p=1.1616e-12)
+(ROOT (SQ (VERBP (PART не) (AUX си)) (NOUN вълк))) (p=2.47168e-09)
+(ROOT (SQ (ADVP (CCONJ ами) (PART да)) (ADV така))) (p=1.50084e-09)
+(ROOT
+  (NOUNP
+    (ADVP (VERB има) (PART си))
+    (NNS (NOUN раче) (DIV и)))
+  (VOC
+    (NOUNP
+      (NNDEF (NOUN раче) (DET то))
+      (VERBP
+        (VERB иска)
+        (PARTP
+          (PART да)
+          (VERBP (PRON го) (AUX (VB щипн) (AGR е)))))))) (p=1.4341e-32)
+(ROOT (NOUNP (PRON я) (VERB виж)) (VERB виж)) (p=4.3045e-11)
+(ROOT (ADPP (ADP в) (NNS (NOUN кухня) (DIV та)))) (p=3.63082e-08)
+(ROOT
+  (SQ
+    (PRON тази)
+    (VERBP
+      (PART ли)
+      (VERBP (PART си) (VERBP (VERB хареса) (PRON ти)))))) (p=7.99934e-16)
+(ROOT
+  (ADVP
+    (ADV сега)
+    (VERBP
+      (PART ще)
+      (VERBP (PRON му) (AUX (VB изправ) (AGR им)))))
+  (VOC (NNDEF (NOUN антенка) (DET та)))) (p=1.51786e-19)
+(ROOT
+  (VOC (PROPN леля))
+  (PARTP
+    (NOUNP (VERB има) (PRON ти))
+    (PARTP (PART нали) (VERBP (PRON й) (VERB даде))))) (p=6.80736e-19)
+(ROOT (SQ (VERB (VB иска) (AGR ш)) (VOC (NOUN лъжичка)))) (p=2.31628e-10)
+(ROOT
+  (SQ
+    (VERB дай)
+    (VOC
+      (VERBP (PART да) (VERBP (PRON ти) (VERB помогна)))))) (p=1.35054e-11)
+(ROOT
+  (SQ
+    (PRON ние)
+    (VERBP
+      (ADV сега)
+      (VERBP
+        (AUX (VB гледа) (AGR ме))
+        (ADJP (ADJ бебешки) (NOUN списания)))))) (p=3.64424e-23)
+(ROOT
+  (ADVP (ADV къде) (AUX е))
+  (VOC (NNDEF (NNS (PROPN мими)) (DET то)))) (p=3.23212e-12)
+(ROOT (PARTP (PART не) (VERBP (PRON го) (VERB хапи)))) (p=6.26649e-10)
+(ROOT (NOUNP (PROPN ела) (PROPN ела)) (VOC (PROPN ели))) (p=2.12732e-11)
+(ROOT (INTJ аа) (VOC (NNDEF (NOUN играчка) (DET та)))) (p=1.42094e-10)
+(ROOT (VERBP (PRON кой) (VERB чука))) (p=1.6196e-08)
+(ROOT
+  (INTJP
+    (INTJ а-у)
+    (NOUNP
+      (PRON какво)
+      (VERBP (AUX (VB яд) (AGR еш)) (PRON ти))))) (p=2.56846e-14)
+(ROOT
+  (NOUNP (NUM една) (ADJP (VERB завлече) (ADV някъде)))) (p=2.08742e-14)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX (VB прав) (AGR ят)))
+    (VOC
+      (DETP
+        (NOUNP (PRON тези) (NNS (NOUN хор) (COUNT а)))
+        (ADPP (ADP с) (NNDEF (NOUN чаши) (DET те))))))) (p=4.62792e-25)
+(ROOT
+  (ADVP (VERB вземи) (PART си))
+  (VOC
+    (DETP
+      (NOUNP (ADV само) (NUM една))
+      (ADPP
+        (VERBP
+          (ADP за)
+          (VERBP
+            (PART да)
+            (VERBP
+              (PART не)
+              (VERBP (PRON ги) (AUX (VB изсип) (AGR ем))))))
+        (ADPP (ADP на) (NNDEF (NOUN легло) (DET то))))))) (p=1.64052e-34)
+(ROOT
+  (PART да)
+  (ADVP
+    (ADV вече)
+    (VERBP (PART не) (VERBP (PRON ни) (VERB трябва))))) (p=5.38674e-13)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP (ADV друго) (VERBP (PRON си) (VERB купи))))) (p=8.10662e-14)
+(ROOT
+  (SQ
+    (VOC (NOUN кърпички))
+    (ADVP
+      (ADV повече)
+      (VERBP
+        (PART не)
+        (VERBP (PART ми) (AUX (VB трябва) (AGR т))))))) (p=6.3768e-21)
+(ROOT
+  (DETP
+    (DET то)
+    (ADVP (ADV вече) (VERBP (PART не) (VERB става))))) (p=4.28981e-12)
+(ROOT (ADVP (VERB боли) (PART да))) (p=1.99446e-07)
+(ROOT
+  (INTJP
+    (INTJ мони)
+    (VERBP
+      (PART да)
+      (VERBP (PART не) (AUX (VB скоч) (AGR и)))))) (p=1.95557e-12)
+(ROOT (INTJP (INTJ дий) (INTJ коньо))) (p=1.39423e-09)
+(ROOT
+  (SQ
+    (ADP с)
+    (NOUNP
+      (VERBP (PRON какво) (AUX (VB пиш) (AGR ат)))
+      (NNDEF (NNS деца) (DET та))))) (p=3.83859e-16)
+(ROOT (SQ (PRON какво) (VERBP (AUX са) (PRON това)))) (p=1.27642e-08)
+(ROOT (NOUNP (VERB няма) (PRON го))) (p=4.17529e-06)
+(ROOT
+  (PART да)
+  (ADVP (CCONJ обаче) (NOUNP (DET какви) (NNS цветя)))) (p=9.47072e-16)
+(ROOT
+  (INTJP
+    (INTJ маме)
+    (VERBP
+      (PART да)
+      (VERBP (PART не) (AUX (VB падн) (AGR е)))))) (p=5.80084e-12)
+(ROOT
+  (ADJP
+    (JJS (ADJ чист))
+    (CCONJ и)
+    (JJS (ADJ чист) (DIV и)))) (p=3.59993e-12)
+(ROOT
+  (SQ
+    (CCONJ и)
+    (DETP (DET те) (ADVP (VERB дойдоха) (PART ли))))) (p=2.50137e-12)
+(ROOT
+  (VOC (NOUN лельо))
+  (NOUNP (NOUNP (VERB сложи) (PRON го)) (ADV там))) (p=1.47402e-17)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (ADVP
+      (ADV как)
+      (VERBP (PRON се) (AUX (VB казва) (AGR ш)))))) (p=3.23349e-11)
+(ROOT
+  (ADVP
+    (AUX (VB остав) (AGR и))
+    (NOUNP (PRON това) (NNS (NOUN търкало) (DIV и))))
+  (VOC (PROPN ела))) (p=5.56627e-18)
+(ROOT
+  (ADVP (INTJ ши) (ADVP (VERB мийм) (PART ли)))
+  (VOC (NNDEF (NOUN дете) (DET то)))) (p=1.28732e-18)
+(ROOT (INTJ а) (VOC (WHNP (PRON това)))) (p=5.14553e-06)
+(ROOT (VERBP (PART ще) (AUX (VB донес) (AGR е)))) (p=2.58514e-08)
+(ROOT
+  (NOUNP
+    (SCONJ като)
+    (NOUNP (JJDEF (ADJ твой) (DET то)) (NOUN чайче)))
+  (VERB (VB пар) (AGR и))) (p=1.14219e-19)
+(ROOT (SQ (PROPN арина) (SBAR (AUX (VB бяга) (AGR й))))) (p=1.54333e-11)
+(ROOT
+  (NOUNP
+    (DETDEF (DETS (DET твоят)) (DET а))
+    (PROPN тиквичка))
+  (PART да)) (p=2.37344e-15)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX (VB папа) (AGR ш)))
+    (NOUN мамо))) (p=4.05706e-12)
+(ROOT
+  (SQ
+    (VERB боли)
+    (VOC
+      (DETP
+        (NOUNP (PART ли) (PRON те))
+        (ADPP (ADP от) (NNS (NOUN масаж) (COUNT а))))))) (p=1.08344e-18)
+(ROOT (VERBP (PRON я) (VERB виж))) (p=8.43198e-07)
+(ROOT (SQ (VERB (VB търс) (AGR и)) (VOC (NOUN мамо)))) (p=7.04803e-09)
+(ROOT (SQ (PROPN пинокио) (PART да))) (p=1.04017e-08)
+(ROOT
+  (SQ
+    (VERBP
+      (AUX (VB чака) (AGR й))
+      (ADPP
+        (VERBP
+          (PRON аз)
+          (VERBP (PART да) (VERBP (PRON ти) (VERB пусна))))
+        (ADPP
+          (NOUNP (NUM една) (NOUN змия))
+          (ADPP (ADP на) (WHNP (PRON тебе))))))
+    (INTJ сссссс))) (p=1.32722e-35)
+(ROOT
+  (SQ
+    (ADVP (ADV граци) (VERBP (PRON се) (VERB прибра)))
+    (ADPP (ADP в) (NOUN къщи)))) (p=2.47547e-16)
+(ROOT
+  (ADVP
+    (ADVP
+      (NOUNP
+        (PROPN ела)
+        (VERBP (PART да) (VERBP (PRON те) (VERB облека))))
+      (VERBP
+        (SCONJ че)
+        (VERBP (PART ще) (AUX (VB ход) (AGR им)))))
+    (VERBP (PART да) (AUX (VB гледа) (AGR ме))))
+  (INTJP (INTJ хей) (ADV бънбо))) (p=2.13811e-39)
+(ROOT
+  (SQ
+    (VERBP (PRON кое) (AUX (VB бръмч) (AGR и)))
+    (NOUN мамо))) (p=1.66743e-13)
+(ROOT
+  (INTJP
+    (INTJ хайде)
+    (ADVP (AUX (VB подава) (AGR й)) (PART ми)))) (p=1.91761e-12)
+(ROOT (ADVP (ADV къде) (AUX е))) (p=4.67047e-06)
+(ROOT
+  (NOUNP
+    (NNDEF (NOUN чайник) (DET ът))
+    (VERBP (ADV как) (VERB пуска)))
+  (VOC (NOUN пара))) (p=6.53279e-21)
+(ROOT (ADVP (ADV само) (NOUNP (NUM една) (NOUN кърпичка)))) (p=7.07197e-11)
+(ROOT (SQ (VERB (VB има) (AGR м)) (VOC (NOUN сопол)))) (p=4.60214e-11)
+(ROOT
+  (VOC (NOUN мамо))
+  (NOUNP
+    (PRON аз)
+    (ADVP
+      (ADVP (ADV вече) (AUX съм))
+      (VERBP
+        (VERBP (PRON ви) (AUX (VB снима) (AGR ла)))
+        (ADV така))))) (p=3.85381e-27)
+(ROOT
+  (ADVP
+    (ADVP (ADV тук) (VERBP (AUX са) (ADV тук)))
+    (VERBP (AUX са) (NNS (NOUN картофк) (DIV и))))
+  (VOC (WHNP (DET те) (NOUN мамо)))) (p=1.00526e-23)
+(ROOT (ADVP (ADV долу) (VERB падна))) (p=5.04229e-09)
+(ROOT
+  (VOC (NOUNP (PRON тези) (NOUN песнички)))
+  (PARTP (PART не) (VERBP (PRON ги) (VERB знам)))) (p=2.72119e-17)
+(ROOT (ADV тъй) (PART ли)) (p=2.46544e-06)
+(ROOT
+  (SQ
+    (CCONJ и)
+    (NOUNP
+      (VERBP (PRON какво) (AUX (VB прав) (AGR и)))
+      (NNDEF (NOUN бебе) (DET то))))) (p=4.6827e-13)
+(ROOT (ADVP (ADV още) (VERBP (PART не) (VERB спинка)))) (p=5.77295e-10)
+(ROOT
+  (PARTP (PART не) (AUX е))
+  (NOUNP
+    (DETDEF (DETS (DET тво)) (DET я))
+    (ADJP
+      (DETDEF (DETS (DET тво)) (DET я))
+      (ADJP (AUX е) (ADV тука))))) (p=6.28278e-24)
+(ROOT
+  (PARTP
+    (PARTP (PART да) (VERBP (PRON ти) (VERB налея)))
+    (PART ли))
+  (VOC (ADPP (ADP от) (WHNP (PRON този))))) (p=1.98065e-18)
+(ROOT
+  (SQ
+    (VERB успя)
+    (VOC
+      (VERBP
+        (PART ли)
+        (VERBP
+          (PART да)
+          (VERBP (PRON го) (AUX (VB лапн) (AGR е)))))))) (p=2.47758e-16)
+(ROOT
+  (PARTP
+    (PART ще)
+    (VERBP (PRON го) (AUX (VB счуп) (AGR иш))))) (p=5.73659e-11)
+(ROOT
+  (SQ
+    (NOUNP
+      (PRON той)
+      (VERBP (PART си) (AUX (VB игра) (AGR е))))
+    (ADPP (ADP с) (NOUN тях)))) (p=3.11979e-15)
+(ROOT
+  (PARTP
+    (PART не)
+    (VERBP
+      (VERB няма)
+      (PARTP
+        (PART да)
+        (VERBP (PRON го) (AUX (VB лапа) (AGR ш))))))) (p=6.82562e-15)
+(ROOT
+  (SQ
+    (VERB дай)
+    (VOC
+      (VERBP
+        (PART да)
+        (VERBP (PRON ги) (AUX (VB изми) (AGR ем))))))) (p=6.56767e-14)
+(ROOT
+  (ADVP (AUX (VB иска) (AGR ш)) (PART ли))
+  (VOC (VERBP (PART да) (AUX (VB папка) (AGR ш))))) (p=6.29445e-15)
+(ROOT
+  (SQ
+    (NOUNP (PRON тя) (VERBP (ADV много) (VERB приказва)))
+    (ADPP (ADP на) (NOUN уъ)))) (p=4.0605e-19)
+(ROOT (VERBP (PRON какво) (AUX е))) (p=1.53033e-05)
+(ROOT
+  (ADVP
+    (CCONJ ама)
+    (ADVP
+      (ADV защо)
+      (VERBP (PART да) (VERBP (PRON те) (VERB държа)))))
+  (VOC
+    (DETP
+      (NOUNP
+        (NOUN мамо)
+        (VERBP (PART нали) (AUX (VB иска) (AGR ше))))
+      (VERBP (PART да) (AUX (VB излез) (AGR ем)))))) (p=5.11888e-33)
+(ROOT
+  (SQ
+    (VERB (VB дава) (AGR й))
+    (VOC (NNS (NOUN чашк) (DIV и))))) (p=1.14152e-12)
+(ROOT
+  (ADVP (AUX е) (ADVP (ADV как) (VERBP (PART ще) (AUX е))))
+  (VOC (NNDEF (NNS (PROPN саши)) (DET то)))) (p=3.17992e-18)
+(ROOT
+  (SQ
+    (VERBP (PRON я) (VERB виж))
+    (VOC (NOUNP (PRON какво) (VERBP (AUX е) (PRON това)))))) (p=8.75601e-14)
+(ROOT (ADVP (ADV добре) (AUX (VB сяда) (AGR м)))) (p=4.95255e-10)
+(ROOT
+  (ADVP
+    (VERBP
+      (VERB има)
+      (NUMP
+        (NNS (NOUN сьобщение))
+        (ADPP (ADP от) (NNS (NOUN космос) (COUNT а)))))
+    (ADV извънредно))) (p=2.99539e-24)
+(ROOT
+  (SQ
+    (VERBP
+      (PART не)
+      (VERBP
+        (VERB (VB иска) (AGR ш))
+        (PARTP
+          (PARTP (PART да) (AUX (VB каж) (AGR еш)))
+          (CCONJ или)
+          (VERBP (PART не) (AUX (VB пи) (AGR ят))))))
+    (NOUN кафе))) (p=2.71141e-28)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (NOUNP
+      (NNDEF (NOUN патенце) (DET то))
+      (VERBP (ADV как) (VERB вика))))) (p=2.08505e-15)
+(ROOT
+  (SQ
+    (CCONJ и)
+    (ADVP (VERBP (PRON кой) (AUX е)) (ADV вътре)))) (p=4.35351e-10)
+(ROOT
+  (SQ
+    (VERBP (PART нали) (AUX (VB направи) (AGR хме)))
+    (NOUN мамо))) (p=3.49583e-13)
+(ROOT
+  (VOC (VERBP (AUX (VB вика) (AGR й)) (NOUN дядо)))
+  (PARTP (PART да) (AUX (VB дойд) (AGR е)))) (p=6.71139e-17)
+(ROOT
+  (SQ
+    (ADVP (ADV сега) (AUX (VB пода) (AGR й)))
+    (ADPP (ADP на) (NNS (PROPN дани))))) (p=1.6052e-15)
+(ROOT
+  (PARTP
+    (PART не)
+    (VERBP
+      (VERB мога)
+      (PARTP
+        (PART да)
+        (VERBP
+          (VERB стигна)
+          (NNS (NOUN копченца) (DIV та))))))) (p=8.0564e-19)
+(ROOT
+  (PART ми)
+  (VOC
+    (DETP
+      (DETP
+        (NOUNP (ADV сигурно) (ADV отзад))
+        (ADPP (ADP в) (NNS (NOUN кола) (DIV та))))
+      (ADPP
+        (ADP като)
+        (DETDEF (DETS (DET ваш) (DIV и)) (DET те)))))) (p=4.18591e-29)
+(ROOT
+  (INTJP (INTJ а) (INTJ тука))
+  (NOUNP
+    (NNDEF (NOUN майка) (DET та))
+    (VERBP (PRON какво) (AUX (VB прав) (AGR и))))) (p=1.5541e-15)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP (PART да) (VERBP (PRON ти) (VERB дам))))) (p=4.04147e-10)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJ а)
+      (NOUNP
+        (PRON ти)
+        (ADVP (ADV къде) (AUX (VB има) (AGR ш)))))
+    (NOUN бенка))) (p=1.35415e-18)
+(ROOT
+  (SQ (NOUN пръстен) (SBAR (VERBP (PRON се) (VERB казва))))) (p=1.94048e-11)
+(ROOT
+  (NOUNP (VERB (VB харесва) (AGR ли)) (PRON ти))
+  (VOC (NNDEF (NOUN месо) (DET то)))) (p=3.49729e-15)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJ а)
+      (NOUNP
+        (PROPN баба)
+        (VERBP (PRON какво) (AUX (VB прав) (AGR и)))))
+    (ADV вън))) (p=4.6643e-16)
+(ROOT (SQ (VERBP (PRON кой) (VERB има)) (NOUN мустаци))) (p=1.23081e-10)
+(ROOT
+  (SQ
+    (PRON това)
+    (VERBP (AUX е) (NNS (NOUN крава) (DIV та))))) (p=1.03744e-10)
+(ROOT
+  (INTJP
+    (INTJ мони)
+    (VERBP (AUX (VB иска) (AGR ли)) (NOUN динка)))) (p=5.13068e-15)
+(ROOT (ADJP (ADJ смешен) (NOUN космонавт))) (p=4.82047e-12)
+(ROOT
+  (VOC (PROPN ела))
+  (PARTP
+    (PART да)
+    (VERBP (AUX (VB свир) (AGR иш)) (NOUN мамо)))) (p=1.36011e-14)
+(ROOT (INTJ ей) (VOC (PROPN писана))) (p=1.50075e-08)
+(ROOT
+  (PART да)
+  (PARTP (PART не) (VERBP (PRON се) (VERB ухапа)))) (p=3.63165e-10)
+(ROOT
+  (ADVP (VERB (VB гледа) (AGR й)) (ADV колко))
+  (VOC (NOUNP (NNS (NOUN работ) (DIV и)) (VERB има)))) (p=2.91007e-18)
+(ROOT
+  (ADVP
+    (ADV къде)
+    (VERBP (PRON я) (AUX (VB праща) (AGR ш))))) (p=1.86064e-12)
+(ROOT
+  (SQ
+    (VERBP (PRON това) (AUX е))
+    (VOC
+      (DETP
+        (NOUNP (NOUN камион) (NOUN камион))
+        (ADPP (ADP с) (NNS (NOUN балон) (DIV и))))))) (p=8.00287e-23)
+(ROOT
+  (SQ (VERB развали) (VOC (NNDEF (NOUN къща) (DET та))))) (p=1.04399e-10)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJ а)
+      (NOUNP
+        (PRON тези)
+        (VERBP
+          (NNDEF (NNS (NOUN обувк) (DIV и)) (DET какви))
+          (SBAR (AUX са)))))
+    (NOUN мамо))) (p=1.14687e-21)
+(ROOT
+  (NOUNP (PRON ти) (VERBP (PART нали) (AUX си)))
+  (VOC (PROPN доктор))) (p=3.04628e-13)
+(ROOT (ADVP (ADV студено) (VERBP (PART ли) (AUX е)))) (p=6.76053e-09)
+(ROOT
+  (SQ
+    (NOUNP
+      (PROPN баба)
+      (VERBP
+        (PRON какво)
+        (VERBP (PART ще) (AUX (VB направ) (AGR и)))))
+    (ADPP
+      (ADP от)
+      (NNDEF (NNS (NOUN гъбк) (DIV и)) (DET те))))) (p=2.11511e-20)
+(ROOT
+  (SQ
+    (VERBP (PART да) (VERB мами))
+    (VOC
+      (DETP
+        (NOUNP
+          (DETDEF (DETS (DET тво) (DIV и)) (DET те))
+          (NOUN дрехи))
+        (VERB простира))))) (p=1.18979e-22)
+(ROOT
+  (NOUNP
+    (NNDEF (NOUN докторки) (DET те))
+    (SBAR (AUX (VB има) (AGR т))))
+  (VOC (NOUN помощници))) (p=1.64496e-18)
+(ROOT (ADVP (VERB кажи) (PART ми)) (VOC (NOUN мамо))) (p=1.08219e-09)
+(ROOT
+  (ADVP (VERB иска) (PART си))
+  (VOC (NNDEF (NOUN шапка) (DET та)))) (p=3.43749e-11)
+(ROOT
+  (INTJP
+    (INTJ ам)
+    (NOUNP
+      (NOUNP
+        (VERBP (PRON те) (AUX (VB свърши) (AGR ха)))
+        (NOUN мамо))
+      (AUX (VB свърши) (AGR ха))))) (p=5.56781e-23)
+(ROOT
+  (SQ
+    (ADP в)
+    (NOUNP
+      (NNDEF (NOUN джобчета) (DET та))
+      (SBAR (AUX (VB дрънк) (AGR ат)))))) (p=4.37336e-19)
+(ROOT
+  (INTJP
+    (INTJ айде)
+    (ADVP
+      (VERBP
+        (PART да)
+        (VERBP (PRON я) (AUX (VB направ) (AGR им))))
+      (ADV пак)))) (p=1.04253e-15)
+(ROOT
+  (NOUNP
+    (VERBP (PRON той) (VERB преглежда))
+    (NOUNP (PROPN вълчо) (VERBP (VERB гледа) (PRON му))))
+  (VOC (NNDEF (NOUN гърло) (DET то)))) (p=2.84189e-26)
+(ROOT
+  (ADVP (ADV сега) (AUX (VB връща) (AGR м)))
+  (VOC
+    (NOUNP
+      (PROPN алиса)
+      (VERBP (PART да) (VERBP (PRON ти) (VERB пусна)))))) (p=3.49961e-19)
+(ROOT (ADVP (ADV как) (AUX (VB прав) (AGR иш)))) (p=1.46831e-08)
+(ROOT
+  (SQ
+    (VERB (VB иска) (AGR ш))
+    (VOC
+      (ADPP
+        (ADP при)
+        (WHNP
+          (NOUNP
+            (NNDEF (NNS деца) (DET та))
+            (VERBP (PART да) (AUX (VB ход) (AGR иш))))
+          (ADPP (ADP на) (ADJP (ADJ децка) (NOUN градина)))))))) (p=7.02366e-29)
+(ROOT
+  (INTJ а-у)
+  (INTJP
+    (INTJ бабе)
+    (ADVP
+      (ADVP
+        (ADP за)
+        (ADVP
+          (ADV никъде)
+          (VERBP (PART не) (VERBP (PRON си) (VERB виж)))))
+      (VERBP (PRON какво) (AUX (VB направ) (AGR и)))))) (p=1.8541e-29)
+(ROOT
+  (ADVP
+    (ADVP (AUX (VB слушка) (AGR ше)) (PART ли))
+    (NOUNP (PRON ти) (NOUN дядо)))
+  (VOC (PROPN любчо))) (p=1.35747e-21)
+(ROOT
+  (INTJP
+    (INTJ айде)
+    (NOUNP
+      (PRON аз)
+      (VERBP
+        (PART ще)
+        (VERBP (PRON ти) (AUX (VB помага) (AGR м))))))) (p=1.15564e-16)
+(ROOT
+  (SQ
+    (ADVP (ADV как) (AUX (VB казва) (AGR м)))
+    (ADPP (ADP на) (NNS (PROPN баба))))) (p=2.79745e-13)
+(ROOT
+  (ADVP
+    (ADVP
+      (ADVP
+        (VERBP
+          (PART не)
+          (VERBP (AUX е) (ADJP (ADJ счупено) (NOUN мамо))))
+        (ADV загубено))
+      (VERBP (AUX е) (ADV някъде)))
+    (CCONJ и)
+    (VERBP
+      (PART не)
+      (VERBP
+        (VERB мога)
+        (PARTP
+          (PARTP (PART да) (VERBP (PRON го) (VERB намеря)))
+          (ADV къде)))))
+  (VOC (VERBP (PART е) (VERB сложено)))) (p=4.37396e-50)
+(ROOT
+  (ADVP (VERB виж) (ADV как))
+  (VOC (VERBP (PRON се) (AUX (VB глез) (AGR и))))) (p=4.70887e-14)
+(ROOT (INTJP (INTJP (INTJ хайде) (VERB няма)) (NOUN кон))) (p=5.26535e-10)
+(ROOT (SQ (VERB (VB има) (AGR ли)) (VOC (NOUN змия)))) (p=4.94669e-10)
+(ROOT
+  (DETP
+    (DET то)
+    (VERBP
+      (ADP на)
+      (VERBP (PRON какво) (AUX (VB прилича) (AGR ше)))))) (p=1.40801e-13)
+(ROOT
+  (INTJP
+    (INTJ ауу)
+    (NOUNP (PRON какво) (VERBP (PRON се) (VERB чува))))) (p=4.63066e-13)
+(ROOT (PARTP (CCONJ и) (VERBP (PRON какво) (VERB събира)))) (p=1.64964e-09)
+(ROOT
+  (NOUNP
+    (NNDEF (NOUN пчела) (DET та))
+    (VERBP (PRON какво) (VERB дава)))) (p=9.79705e-13)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX (VB прав) (AGR и)))
+    (VOC (NNDEF (NNS (PROPN стефи)) (DET то))))) (p=1.2238e-13)
+(ROOT
+  (SQ
+    (NOUNP (PRON туй) (NOUN бонбон))
+    (CCONJ и)
+    (VERBP
+      (PART не)
+      (VERBP (AUX са) (NNS (NOUN хапче) (DIV та)))))) (p=3.22578e-20)
+(ROOT
+  (SQ
+    (VERBP (AUX (VB харесва) (AGR ли)) (PRON ти))
+    (NOUN стефче))) (p=9.51064e-15)
+(ROOT
+  (ADVP
+    (NOUNP
+      (PRON я)
+      (VERBP (VERB дай) (WHNP (DET тоз) (NOUN пръстен))))
+    (ADVP (ADV тука) (VERBP (PRON я) (VERB дай))))
+  (VOC (NNS (NOUN пръстен) (COUNT а)))) (p=3.04076e-30)
+(ROOT (SQ (PRON кой) (VERBP (AUX е) (PRON това)))) (p=1.91983e-08)
+(ROOT
+  (PARTP
+    (PART да)
+    (VERBP (PRON го) (AUX (VB зави) (AGR ем))))
+  (VOC (ADPP (ADP като) (NOUN бебе)))) (p=4.18832e-17)
+(ROOT (ADPP (ADP без) (NOUN топче))) (p=2.49971e-09)
+(ROOT
+  (PARTP
+    (PART не)
+    (VERBP
+      (VERB мога)
+      (PARTP
+        (PART да)
+        (VERBP (PRON го) (AUX (VB гледа) (AGR м))))))) (p=3.14023e-14)
+(ROOT (VERBP (PRON какво) (AUX (VB иска) (AGR ш)))) (p=9.84118e-08)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX е))
+    (VOC (NOUNP (PRON това) (NOUN бъклица))))) (p=4.9909e-13)
+(ROOT (NOUNP (PRON какво) (NOUN мамо))) (p=1.28336e-06)
+(ROOT
+  (SQ
+    (NOUNP (NNS (NOUN камън) (DIV и)) (VERB има))
+    (ADPP (ADP по) (NNDEF (NOUN път) (DET я))))) (p=1.61341e-15)
+(ROOT (SQ (VERB дай) (VOC (NOUN мамо)))) (p=4.08919e-07)
+(ROOT
+  (PARTP
+    (PART да)
+    (VERBP (PRON го) (AUX (VB нави) (AGR е))))
+  (VOC (PROPN леля))) (p=6.69682e-14)
+(ROOT
+  (ADVP
+    (ADV така)
+    (VERBP (PART ли) (AUX (VB прав) (AGR и))))) (p=2.82805e-09)
+(ROOT (NOUNP (VERB (VB целун) (AGR и)) (PRON го))) (p=1.99902e-09)
+(ROOT
+  (PART да)
+  (NOUNP
+    (JJS (ADJ красив) (DIV и))
+    (ADJP (ADJ коледни) (NOUN лампички)))) (p=4.13284e-19)
+(ROOT (INTJP (INTJ а) (INTJ ха))) (p=1.77134e-06)
+(ROOT (ADJP (ADP на) (ADJ английски))) (p=2.93704e-09)
+(ROOT
+  (PART да)
+  (ADVP
+    (CCONJ ама)
+    (ADVP
+      (NOUNP
+        (PROPN калоянчо)
+        (VERBP (PRON се) (AUX (VB разсърд) (AGR и))))
+      (VERBP
+        (SCONJ че)
+        (VERBP
+          (AUX (VB иска) (AGR ш))
+          (ADPP
+            (VERBP (PART да) (AUX (VB ход) (AGR иш)))
+            (ADPP (ADP при) (ADJP (ADJ друго) (NOUN бебе))))))))) (p=1.23775e-40)
+(ROOT
+  (INTJP (INTJ а) (ADV тез))
+  (PARTP (PART тука) (VERBP (PRON кои) (AUX са)))) (p=1.01871e-16)
+(ROOT
+  (SQ
+    (VERBP (PART да) (AUX (VB прав) (AGR им)))
+    (NOUN комин))) (p=1.93722e-11)
+(ROOT
+  (SQ
+    (VERB мама)
+    (VOC (VERBP (PART не) (AUX (VB слуша) (AGR ли)))))) (p=3.2542e-11)
+(ROOT
+  (ADVP (VERB виж) (ADV тука))
+  (VOC (VERBP (PRON кой) (VERB мърда)))) (p=1.92196e-14)
+(ROOT (DETP (VERB внимава) (VERB (VB внимава) (AGR й)))) (p=1.09557e-13)
+(ROOT (SQ (VERB кажи) (VOC (INTJ моля)))) (p=4.73424e-08)
+(ROOT (ADVP (VERBP (PRON аз) (AUX съм)) (ADV тук))) (p=1.54858e-09)
+(ROOT
+  (VOC (ADPP (ADP на) (NNS (PROPN зайо))))
+  (PARTP (PARTP (PART да) (VERB дам)) (PART ли))) (p=1.83758e-15)
+(ROOT
+  (VOC (NOUNP (ADV само) (NOUN солети)))
+  (PARTP
+    (PART ли)
+    (VERBP (AUX (VB пуш) (AGR иш)) (PRON ти)))) (p=1.19818e-20)
+(ROOT (INTJP (INTJ а) (NOUN бикини))) (p=1.02695e-08)
+(ROOT (NOUNP (NOUN коли) (NOUN коли))) (p=2.38407e-11)
+(ROOT
+  (INTJP
+    (INTJ скок)
+    (VERBP
+      (VERB скочи)
+      (ADPP (ADP във) (NNS (NOUN вода) (DIV та)))))) (p=1.36997e-15)
+(ROOT
+  (INTJP (INTJ саше) (VERB виж))
+  (PARTP (PART тука) (VERBP (PRON какво) (VERB има)))) (p=2.24499e-15)
+(ROOT
+  (SQ
+    (CCONJ или)
+    (DETP
+      (DETP
+        (NOUNP (SCONJ като) (VERB (VB слиза) (AGR т)))
+        (ADPP (ADP с) (NOUN баща)))
+      (ADPP
+        (ADPP
+          (VERBP (PART си) (AUX (VB купува) (AGR т)))
+          (ADPP (ADP по) (NNS (NUM два))))
+        (CCONJ или)
+        (ADPP (ADP по) (NNS (NUM един))))))) (p=1.25369e-42)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (VERBP (AUX (VB намер) (AGR и)) (PRON го)))) (p=2.05324e-09)
+(ROOT
+  (ADVP
+    (ADV леко)
+    (VERBP
+      (PART да)
+      (VERBP
+        (PART не)
+        (VERBP (PRON го) (AUX (VB блъсн) (AGR еш))))))) (p=4.22617e-16)
+(ROOT
+  (SQ
+    (PRON тази)
+    (VERBP (PART ли) (VERBP (AUX е) (PRON такава))))) (p=6.73009e-13)
+(ROOT
+  (ADVP
+    (ADV тука)
+    (VERBP (VERB има) (NNS (NOUN пъпк) (DIV и))))
+  (VOC (NNDEF (NOUN жаба) (DET та)))) (p=5.42486e-18)
+(ROOT
+  (ADVP
+    (AUX (VB боцн) (AGR и))
+    (NOUNP (ADP на) (PROPN леля)))
+  (VOC (NOUNP (NUM една) (NOUN инжекция)))) (p=2.6735e-21)
+(ROOT
+  (SQ
+    (VERBP
+      (PART не)
+      (VERBP (PRON ти) (AUX (VB има) (AGR ш))))
+    (NOUN сок))) (p=1.61121e-13)
+(ROOT
+  (VOC (JJS (ADJ сурова) (DIV е)))
+  (PARTP (PART не) (VERBP (PRON се) (AUX (VB яд) (AGR е))))) (p=1.31406e-16)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP (VERBP (AUX е) (PRON това)) (ADV тук)))) (p=2.06156e-11)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX (VB прав) (AGR и)))
+    (INTJ бати))) (p=4.80628e-11)
+(ROOT
+  (SQ
+    (NOUNP
+      (NNDEF (NOUN име) (DET то))
+      (ADPP (ADP на) (NNS (NOUN доктор) (COUNT а))))
+    (ADVP (ADV как) (AUX е)))) (p=2.20002e-17)
+(ROOT
+  (VOC (DETP (INTJ моля) (DET те)))
+  (PARTP (PART да) (VERBP (PRON се) (VERB наям)))) (p=3.78174e-15)
+(ROOT
+  (ADVP
+    (ADV много)
+    (VERBP (PRON хубаво) (AUX (VB мириш) (AGR е))))) (p=2.18207e-13)
+(ROOT
+  (ADVP
+    (NOUNP
+      (ADP от)
+      (NOUNP
+        (NNDEF (NOUN влакче) (DET то))
+        (VERBP (PART ли) (VERB слиза))))
+    (VERB мама))
+  (VOC (INTJ вели))) (p=2.37589e-26)
+(ROOT
+  (VOC (ADPP (ADP на) (WHNP (PRON кого))))
+  (PARTP (PART да) (AUX (VB каж) (AGR е)))) (p=9.85676e-13)
+(ROOT (NOUNP (JJDEF (ADJ стар) (DET ия)) (NOUN мечок))) (p=2.98737e-10)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (VERBP (NNS (NOUN лебед) (COUNT а)) (AUX е)))
+  (INTJ тука)) (p=1.86016e-14)
+(ROOT (SQ (PRON какво) (VERBP (AUX е) (PRON това)))) (p=6.74153e-08)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJP
+        (INTJ а-у)
+        (NOUNP
+          (PRON какво)
+          (VERBP (AUX (VB направ) (AGR и)) (PRON ти))))
+      (NOUN мамо))
+    (NOUN бомба))) (p=7.87631e-22)
+(ROOT
+  (NOUNP
+    (PRON те)
+    (VERBP
+      (PART ще)
+      (VERBP (PART си) (AUX (VB направ) (AGR ят)))))
+  (VOC (NOUN море))) (p=2.76604e-16)
+(ROOT
+  (NOUNP (PRON коя) (NOUN песничка))
+  (VOC (VERBP (AUX (VB пе) (AGR еш)) (NOUN мамо)))) (p=1.75036e-18)
+(ROOT
+  (ADVP (AUX (VB знае) (AGR ш)) (PART ли))
+  (VOC (VERBP (PRON какво) (AUX (VB иска) (AGR ш))))) (p=5.73668e-14)
+(ROOT
+  (NOUNP
+    (PROPN оранцево)
+    (VERBP
+      (NNDEF (NOUN небе) (DET то))
+      (SBAR (ADJ оранжево))))
+  (VOC (NNDEF (NOUN море) (DET то)))) (p=6.6629e-24)
+(ROOT
+  (NOUNP (ADP с) (NOUNP (NUM едно) (NOUN пръстче)))
+  (VERB (VB върт) (AGR и))) (p=4.14304e-16)
+(ROOT
+  (VOC (VERBP (PRON ти) (AUX (VB мож) (AGR еш))))
+  (PARTP
+    (PART ли)
+    (VERBP
+      (PART да)
+      (VERBP (PRON я) (AUX (VB схруска) (AGR ш)))))) (p=1.03871e-19)
+(ROOT
+  (ADVP
+    (ADVP (AUX (VB чака) (AGR й)) (PART да))
+    (VERBP (PRON си) (VERB обуя)))
+  (VOC
+    (NOUNP
+      (DETDEF (DETS (DET мой)) (DET те))
+      (NOUN обувчици)))) (p=9.54258e-26)
+(ROOT
+  (NOUNP
+    (PRON ти)
+    (ADPP
+      (ADP на)
+      (NOUNP (PROPN баба) (VERBP (PRON каква) (AUX си)))))) (p=3.20407e-15)
+(ROOT (ADVP (ADV защо) (VERBP (PART да) (VERB дойда)))) (p=1.04623e-09)
+(ROOT (INTJP (INTJ дани) (INTJ не))) (p=3.63941e-07)
+(ROOT
+  (NOUNP
+    (PRON какво)
+    (VERBP (PART да) (AUX (VB дад) (AGR е))))
+  (VERB мама)) (p=3.26703e-13)
+(ROOT
+  (ADVP
+    (ADV малко)
+    (VERBP (PART ли) (VERBP (PART ще) (AUX е))))) (p=7.16887e-10)
+(ROOT (VERBP (PART не) (AUX (VB неде) (AGR й)))) (p=5.1959e-09)
+(ROOT
+  (SQ
+    (ADPP (ADP с) (NNS (PROPN мишо)))
+    (DETP
+      (DETP
+        (DETP
+          (NOUNP (VERB разбира) (PRON се))
+          (ADPP (ADP на) (NOUN мама)))
+        (ADPP (ADP на) (NNS (NOUN работа) (DIV та))))
+      (ADPP (ADP на) (NNS (NOUN дъска) (DIV та)))))) (p=5.43315e-31)
+(ROOT
+  (VOC (DETP (DET какъв) (PART си)))
+  (NOUNP (NOUN терорист) (NOUN терорист))) (p=7.80454e-21)
+(ROOT (SQ (ADV така) (ADV така))) (p=8.86693e-07)
+(ROOT
+  (NOUNP
+    (PRON ти)
+    (ADVP
+      (ADV как)
+      (VERBP (PRON се) (AUX (VB казва) (AGR ш)))))
+  (VOC (NOUN мамо))) (p=5.33521e-16)
+(ROOT
+  (ADVP
+    (VERBP (VERB няма) (NNS (NOUN блуза) (DIV та)))
+    (ADV само))
+  (VOC
+    (NOUNP
+      (NNDEF (NOUN елече) (DET то))
+      (VERBP (VERB няма) (NNS (NOUN блуза) (DIV та)))))) (p=4.2997e-28)
+(ROOT
+  (VOC (NOUNP (VERB дай) (PRON го)))
+  (PARTP
+    (PARTP
+      (PART да)
+      (VERBP (PRON го) (AUX (VB прибер) (AGR ем))))
+    (ADV тука))) (p=8.99201e-19)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (NOUNP (PRON това) (VERBP (PRON какво) (AUX е))))) (p=2.38129e-09)
+(ROOT
+  (SQ
+    (CCONJ ама)
+    (DETP
+      (DETP
+        (NOUNP
+          (PRON ти)
+          (VERBP
+            (VERB (VB мож) (AGR еш))
+            (PARTP
+              (PART да)
+              (VERBP (AUX (VB дъвч) (AGR еш)) (NOUN дъвка)))))
+        (VERBP (PRON ти) (AUX си)))
+      (ADJP (ADJ голямо) (NOUN дете))))) (p=7.28543e-37)
+(ROOT
+  (ADVP (AUX (VB вдигн) (AGR и)) (PART си))
+  (VOC
+    (NOUNP
+      (NNDEF (NOUN коляно) (DET то))
+      (ADPP (ADP от) (NNS (NOUN земя) (DIV та)))))) (p=3.28393e-19)
+(ROOT
+  (INTJ пей)
+  (VOC (ADPP (ADP на) (NNS (NOUN дед) (DIV и))))) (p=5.46542e-13)
+(ROOT (PART да) (VOC (NOUN мамо))) (p=1.34089e-06)
+(ROOT
+  (ADVP
+    (ADV как)
+    (VERBP (PART да) (AUX (VB няма) (AGR ш))))) (p=2.1908e-09)
+(ROOT
+  (ADVP (AUX (VB мож) (AGR еш)) (PART ли))
+  (VOC
+    (VERBP
+      (PART да)
+      (VERBP (PRON я) (AUX (VB кара) (AGR ш)))))) (p=1.15853e-16)
+(ROOT (SQ (VERB кажи) (VOC (NOUN вики)))) (p=4.48497e-10)
+(ROOT
+  (SQ
+    (VERBP
+      (VERB (VB иска) (AGR ш))
+      (PARTP
+        (PART ли)
+        (VERBP (PART да) (AUX (VB седн) (AGR еш)))))
+    (NOUN мамо))) (p=1.8416e-17)
+(ROOT
+  (PARTP (PART е) (AUX (VB остав) (AGR и)))
+  (NOUNP
+    (NNDEF (NOUN коте) (DET то))
+    (VERBP
+      (AUX (VB остав) (AGR и))
+      (NNDEF (NOUN коте) (DET то))))) (p=5.06939e-23)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX (VB направ) (AGR и)))
+    (VOC (PROPN стефи)))) (p=6.47471e-11)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJ о)
+      (ADVP (CCONJ и) (VERBP (PRON тя) (VERB има))))
+    (NOUN якичка))
+  (ADPP
+    (ADPP (ADP на) (NNS (NOUN пуловер) (COUNT а)))
+    (CCONJ и)
+    (VERBP
+      (PRON тя)
+      (VERBP (PART си) (VERBP (PRON го) (VERB разтегля)))))) (p=1.72347e-37)
+(ROOT
+  (SQ
+    (NOUNP
+      (NOUN мамо)
+      (VERBP (PRON какво) (AUX (VB има) (AGR ш))))
+    (ADPP (ADP на) (NNS (NOUN рокля) (DIV та))))) (p=3.90825e-17)
+(ROOT
+  (SQ
+    (VERB няма)
+    (VOC
+      (NOUNP
+        (NOUNP
+          (PRON го)
+          (VERBP (PART то) (VERBP (PRON се) (AUX е))))
+        (AUX (VB скри) (AGR ло)))))) (p=3.27959e-18)
+(ROOT
+  (VOC
+    (ADPP
+      (VERBP (PART да) (VERBP (PART не) (AUX си)))
+      (ADPP (ADP от) (NNDEF (NOUN море) (DET то)))))
+  (PARTP
+    (PART си)
+    (VERBP (PRON ги) (AUX (VB взе) (AGR ла))))) (p=2.28238e-22)
+(ROOT
+  (NOUNP
+    (NNDEF (NOUN татко) (DET то))
+    (VERBP (PRON какво) (AUX (VB прав) (AGR и))))
+  (ADV тука)) (p=7.45755e-15)
+(ROOT
+  (INTJP
+    (INTJ тати)
+    (VERBP (PART ще) (AUX (VB пи) (AGR е))))
+  (NOUNP (PART ли) (NOUN чай))) (p=7.13559e-19)
+(ROOT
+  (SQ
+    (ADVP (CCONJ и) (VERBP (PRON ти) (VERB взе)))
+    (ADPP (ADP на) (NNS (PROPN калоянчо))))) (p=4.19624e-14)
+(ROOT
+  (SQ
+    (NOUNP (VERBP (PRON туй) (VERB мама)) (PROPN мими))
+    (ADPP (ADP като) (ADJ мъничка)))) (p=1.55897e-20)
+(ROOT
+  (NOUNP (PROPN милка) (VERBP (AUX е) (NOUN крава)))
+  (VOC (NOUN бабо))) (p=5.44389e-17)
+(ROOT
+  (VOC
+    (ADPP
+      (ADPP (ADP на) (NOUNP (PROPN леля) (PROPN велка)))
+      (CCONJ и)
+      (ADPP (ADP на) (NOUNP (NOUN чичо) (PROPN митко)))))
+  (PARTP
+    (PARTP
+      (VERBP (PART ще) (AUX (VB даде) (AGR ш)))
+      (PART ли))
+    (NOUN портокалче))) (p=2.35918e-40)
+(ROOT (SQ (VERB падна) (VOC (NNS (NOUN стол) (COUNT а))))) (p=6.69379e-10)
+(ROOT
+  (SQ
+    (VERB (VB става) (AGR й))
+    (VOC (VERBP (PART да) (AUX (VB яд) (AGR еш)))))) (p=4.35513e-13)
+(ROOT
+  (VOC
+    (DETP
+      (NOUNP (VERB (VB обад) (AGR и)) (PRON се))
+      (ADPP (ADP на) (NOUN мама))))
+  (NOUNP
+    (PROPN мими)
+    (VERBP (PART да) (AUX (VB дойд) (AGR е))))) (p=2.67442e-23)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP (PART ще) (AUX (VB прав) (AGR иш))))) (p=1.59374e-09)
+(ROOT
+  (PARTP (PART ще) (VERBP (PRON те) (VERB ям)))
+  (NOUNP (PRON аз) (PRON тебе))) (p=1.04344e-16)
+(ROOT (SQ (PRON този) (VERBP (AUX е) (ADJ развален)))) (p=2.62949e-12)
+(ROOT (SQ (PRON това) (VERBP (PRON какво) (AUX е)))) (p=3.8842e-07)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJ а)
+      (ADVP (ADV тук) (VERBP (PRON какво) (VERB има))))
+    (NOUN мамо))
+  (ADPP (ADP на) (NNS (NOUN картинка) (DIV та)))) (p=5.97597e-20)
+(ROOT (INTJP (INTJ браво) (NOUN мамо))) (p=5.30393e-07)
+(ROOT (SQ (VERB има) (VOC (NOUN ощче)))) (p=8.24156e-10)
+(ROOT
+  (SQ
+    (VERB (VB пита) (AGR й))
+    (VOC
+      (NOUNP
+        (PROPN леля)
+        (ADVP (AUX (VB мож) (AGR е)) (PART ли)))))) (p=3.42124e-17)
+(ROOT
+  (ADVP
+    (ADVP (AUX (VB иска) (AGR ла)) (PART да))
+    (VERBP (PRON й) (VERB купя)))
+  (VOC (ADJP (ADJ голям) (NOUN пистолет)))) (p=3.85286e-22)
+(ROOT
+  (ADVP
+    (NOUNP
+      (DETDEF (DETS (DET я)) (DET каква))
+      (NOUN картинка))
+    (VERB има))
+  (VOC (PROPN стефи))) (p=1.13171e-18)
+(ROOT
+  (INTJP
+    (INTJP (INTJ хайде) (ADVP (VERB вземи) (PART си)))
+    (NOUN мамо))) (p=2.30698e-12)
+(ROOT
+  (ADVP
+    (AUX (VB иска) (AGR ш))
+    (ADVP
+      (ADV там)
+      (VERBP (PART да) (AUX (VB постел) (AGR им)))))
+  (VOC (NNDEF (NOUN одеало) (DET то)))) (p=2.06753e-23)
+(ROOT
+  (NOUNP
+    (PRON тя)
+    (VERBP
+      (PART нали)
+      (VERBP
+        (AUX е)
+        (NOUNP
+          (DETDEF (DETS (DET твоят)) (DET а))
+          (NOUN възглавница)))))
+  (VOC (NOUN мамо))) (p=6.88594e-24)
+(ROOT (NOUNP (DET кое) (NOUN момиченце))) (p=8.97149e-09)
+(ROOT
+  (ADVP
+    (VERBP (PRON кой) (VERBP (PRON се) (VERB чува)))
+    (ADV там))
+  (VOC (NOUN мамо))) (p=9.05681e-16)
+(ROOT (SQ (VERB няма) (VOC (NOUN мамо)))) (p=1.06373e-06)
+(ROOT
+  (ADVP
+    (ADV после)
+    (VERBP
+      (PRON какво)
+      (VERBP (PART ще) (AUX (VB прав) (AGR им)))))) (p=4.51808e-13)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (NOUNP
+      (DETDEF (DETS (DET твоят)) (DET а))
+      (NOUN буква)))) (p=1.15986e-13)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP
+      (PART да)
+      (VERBP (PART си) (AUX (VB покаж) (AGR е)))))) (p=1.73262e-11)
+(ROOT
+  (SQ
+    (VERBP (PRON аз) (VERB нося))
+    (VOC (ADJP (ADJ друга) (NOUN лъжица))))) (p=1.96105e-15)
+(ROOT
+  (PARTP
+    (PART не)
+    (VERBP (VERB стана) (PARTP (PART не) (VERB стана))))) (p=1.27836e-11)
+(ROOT
+  (ADVP
+    (ADPP
+      (ADP през)
+      (NOUNP
+        (NNDEF (NOUN нощ) (DET та))
+        (VERBP
+          (SCONJ като)
+          (VERBP
+            (AUX (VB изскоч) (AGR или))
+            (ADPP (ADP от) (NNS (NOUN тенджера) (DIV та)))))))
+    (ADVP (VERB виж) (ADV как)))
+  (VOC (NOUNP (VERB полазили) (PROPN баба)))) (p=7.3873e-40)
+(ROOT
+  (ADVP
+    (NOUNP
+      (PRON той)
+      (VERBP (PART не) (AUX (VB мож) (AGR е))))
+    (VERBP (PART да) (AUX (VB стигн) (AGR е))))
+  (VOC (VERBP (PART да) (VERB рисува)))) (p=4.17677e-22)
+(ROOT
+  (SQ
+    (VERBP (PRON те) (AUX са))
+    (VOC (NNDEF (NNS (NOUN мо) (DIV и)) (DET те))))) (p=1.05122e-12)
+(ROOT
+  (SQ
+    (VERBP
+      (VERB кажи)
+      (PARTP
+        (PART ми)
+        (VERBP
+          (PART не)
+          (VERBP
+            (VERB мога)
+            (PARTP
+              (PART да)
+              (VERBP (PRON те) (VERB разбера)))))))
+    (VOC (VERBP (PRON какво) (AUX (VB иска) (AGR ш)))))) (p=3.03715e-26)
+(ROOT
+  (INTJP (INTJ а) (ADV тук))
+  (NOUNP
+    (PROPN мони)
+    (VERBP (ADP с) (VERBP (PRON кого) (AUX е))))) (p=7.99277e-18)
+(ROOT
+  (PARTP
+    (PART значи)
+    (VERBP
+      (ADV довечера)
+      (VERBP
+        (SCONJ като)
+        (VERBP
+          (VERB (VB дойд) (AGR ат))
+          (PARTP
+            (PART да)
+            (VERBP (PRON им) (AUX (VB каж) (AGR ем))))))))
+  (VOC
+    (DETP
+      (SCONJ че)
+      (DETP
+        (NOUNP
+          (PRON ти)
+          (VERBP (PART ще) (AUX (VB ход) (AGR иш))))
+        (ADPP
+          (ADPP (ADP на) (NNS (NOUN сватба) (DIV та)))
+          (PART нали)))))) (p=1.36639e-48)
+(ROOT
+  (SQ (VERB виж) (VOC (NOUNP (NUM едно) (NOUN човече))))) (p=7.5525e-10)
+(ROOT
+  (ADVP (VERB виж) (ADV как))
+  (VOC
+    (NOUNP
+      (VERBP (PRON му) (AUX (VB вис) (AGR и)))
+      (NNDEF (NOUN лампа) (DET та))))) (p=3.05301e-20)
+(ROOT (INTJP (INTJ ало) (INTJ мони))) (p=6.10927e-08)
+(ROOT (SQ (VERB (VB папа) (AGR й)) (VOC (PROPN дидо)))) (p=9.0472e-13)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJ мони)
+      (VERBP (PART ще) (AUX (VB яд) (AGR е))))
+    (NOUN сандвич))) (p=2.02165e-15)
+(ROOT
+  (SQ
+    (VERB (VB изключ) (AGR и))
+    (VOC (NNS (NOUN телевизор) (COUNT а))))) (p=2.7659e-13)
+(ROOT
+  (ADVP
+    (ADV вътре)
+    (VERBP
+      (PART ли)
+      (VERBP
+        (PART ще)
+        (VERBP (PRON ги) (AUX (VB пуска) (AGR ш))))))) (p=1.68937e-16)
+(ROOT
+  (SQ
+    (NOUNP (PRON туй) (NOUN бонбон))
+    (CCONJ и)
+    (VERBP (PART ли) (AUX са)))) (p=2.35479e-14)
+(ROOT
+  (SQ
+    (ADVP
+      (VERBP
+        (PART да)
+        (VERBP
+          (SCONJ че)
+          (VERBP
+            (VERB трябва)
+            (PARTP
+              (PART да)
+              (VERBP (AUX (VB сто) (AGR ят)) (ADV просто))))))
+      (ADV там))
+    (ADV затова))) (p=1.40217e-24)
+(ROOT (SQ (VERBP (PRON какво) (VERB стана)) (NOUN тече))) (p=9.34737e-11)
+(ROOT
+  (SQ
+    (ADP до)
+    (NOUNP (NNDEF (NOUN тоалетна) (DET та)) (SBAR (AUX е))))) (p=4.01795e-13)
+(ROOT
+  (ADVP
+    (ADVP (VERBP (PRON я) (VERB кажи)) (ADV как))
+    (VERBP (PRON се) (AUX (VB казв) (AGR ат))))
+  (VOC
+    (NOUNP
+      (DETDEF (DETS (DET тво) (DIV и)) (DET те))
+      (NOUN баби)))) (p=1.79981e-27)
+(ROOT (ADVP (ADV къде) (VERBP (AUX е) (PRON бау-бау)))) (p=2.01458e-11)
+(ROOT
+  (ADVP (ADV трудно) (AUX е))
+  (VOC (NOUNP (NOUN мамо) (PART да)))) (p=9.82359e-13)
+(ROOT (VERBP (PRON какво) (AUX (VB прав) (AGR иш)))) (p=3.59409e-08)
+(ROOT
+  (INTJP (INTJ ах) (INTJ тате))
+  (PARTP
+    (PART ще)
+    (VERBP (PRON го) (AUX (VB удар) (AGR иш))))) (p=2.04349e-15)
+(ROOT (INTJ айде) (INTJP (INTJ пей) (INTJ де))) (p=5.14873e-11)
+(ROOT (NOUNP (VERB изядох) (PRON я))) (p=6.21137e-09)
+(ROOT
+  (INTJP
+    (INTJ симончи)
+    (ADVP
+      (NOUNP
+        (PRON аз)
+        (VERBP
+          (PART ще)
+          (VERBP
+            (PART си)
+            (VERBP
+              (VERB играя)
+              (ADPP
+                (ADP на)
+                (NOUNP
+                  (DETDEF (DETS (DET тво)) (DET я))
+                  (NOUN компютър)))))))
+      (VERBP
+        (SCONJ ако)
+        (VERBP (PRON ти) (AUX (VB продължава) (AGR ш))))))
+  (PARTP
+    (PART да)
+    (VERBP
+      (AUX (VB цъка) (AGR ш))
+      (ADPP (ADP на) (NNDEF (NOUN мо) (DET я)))))) (p=8.3475e-54)
+(ROOT
+  (NOUNP (PRON каква) (ADJP (ADJ хубава) (NOUN гривна)))
+  (VERB има)) (p=3.24728e-16)
+(ROOT (INTJP (INTJ а) (VERBP (PRON едни) (VERB чехли)))) (p=1.96833e-12)
+(ROOT (ADPP (ADP за) (ADJP (ADJ голо) (NOUN момиче)))) (p=3.90092e-12)
+(ROOT
+  (SQ (VERB къпи) (VOC (NNDEF (NOUN кукличка) (DET та))))) (p=8.927e-13)
+(ROOT
+  (SQ
+    (PRON каквото)
+    (VERBP (AUX (VB вид) (AGR иш)) (CCONJ и)))) (p=3.73031e-13)
+(ROOT (ADVP (VERB има) (PART ли))) (p=2.88224e-06)
+(ROOT
+  (SQ
+    (ADVP
+      (ADVP
+        (VERBP (PART да) (AUX (VB има) (AGR ш)))
+        (ADV много))
+      (ADJP
+        (JJS (ADJ хубав) (DIV и))
+        (NNS (NOUN чорап) (DIV и))))
+    (ADPP (ADP с) (NNS (NOUN котк) (DIV и))))) (p=2.86431e-24)
+(ROOT
+  (SQ
+    (NOUNP (VERB (VB къп) (AGR ят)) (PRON се))
+    (ADPP (ADP в) (NNDEF (NOUN море) (DET то))))) (p=6.76909e-15)
+(ROOT
+  (ADVP
+    (ADVP
+      (ADVP (VERB мами) (ADV тук))
+      (VERBP (PRON те) (AUX е)))
+    (AUX (VB ухап) (AGR ал)))
+  (VOC (NOUNP (NUM един) (NOUN комар)))) (p=4.16791e-27)
+(ROOT
+  (SQ
+    (VERB (VB чака) (AGR й))
+    (VOC
+      (DETP
+        (DETP (PART да) (VERB пийна))
+        (ADJP (ADJ малко) (NOUN мляко)))))) (p=2.59022e-20)
+(ROOT (SQ (ADV точно) (ADV така))) (p=1.62939e-07)
+(ROOT (INTJP (INTJ па-па) (PART да))) (p=3.5748e-08)
+(ROOT (SQ (PRON какво) (VERBP (AUX е) (PRON туй)))) (p=9.44008e-09)
+(ROOT
+  (NOUNP (ADV само) (NUM една))
+  (VOC (DETP (INTJ моля) (DET те)))) (p=4.80931e-13)
+(ROOT
+  (SQ
+    (NOUNP (PRON коя) (NOUN риба))
+    (ADVP
+      (ADV (SUP най-) (ADV много))
+      (VERBP (PRON ти) (VERB харесва))))) (p=2.88946e-20)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (ADVP
+      (NOUNP (PRON той) (PROPN коко))
+      (VERBP (PRON го) (VERB няма))))) (p=3.18471e-16)
+(ROOT (PART да) (VOC (NOUN мамо))) (p=1.34089e-06)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJ а)
+      (NOUNP (PRON това) (VERBP (PRON кой) (AUX е))))
+    (NOUN мамо))) (p=6.44241e-13)
+(ROOT
+  (VOC (VERBP (PART не) (AUX (VB дава) (AGR ш))))
+  (PARTP
+    (PART ли)
+    (VERBP
+      (VERB мама)
+      (PARTP
+        (PART да)
+        (VERBP (PRON те) (AUX (VB облеч) (AGR е))))))) (p=3.65896e-22)
+(ROOT
+  (SQ
+    (NOUN гребенче)
+    (ADPP (ADP в) (NNS (NOUN коса) (DIV та))))) (p=3.43278e-13)
+(ROOT
+  (SQ
+    (ADP до)
+    (NOUNP
+      (VERBP (PART ми) (VERBP (PROPN сол) (VERB пей)))
+      (NNDEF (NOUN гама) (DET та))))) (p=3.32325e-23)
+(ROOT
+  (NOUNP
+    (VERBP (PRON какво) (AUX (VB прав) (AGR и)))
+    (NNDEF (NOUN зайче) (DET то)))
+  (VOC (NOUN мамо))) (p=1.21732e-15)
+(ROOT
+  (INTJP
+    (INTJ мм)
+    (NOUNP (PRON какво) (ADJP (ADJ хубаво) (NOUN мече))))) (p=7.17887e-16)
+(ROOT
+  (VOC (VERBP (PART ще) (AUX (VB отид) (AGR ем))))
+  (PARTP
+    (PART да)
+    (VERBP (PRON го) (AUX (VB взем) (AGR ем))))) (p=6.04869e-17)
+(ROOT (NOUNP (VERB облиза) (PRON го))) (p=3.08305e-08)
+(ROOT
+  (SQ
+    (VERB трябва)
+    (VOC (VERBP (PART да) (AUX (VB заред) (AGR иш)))))) (p=1.38779e-12)
+(ROOT (SQ (PRON кой) (VERBP (AUX е) (PRON този)))) (p=1.34754e-09)
+(ROOT
+  (INTJP (INTJ о) (INTJ браво))
+  (NOUNP
+    (PRON ти)
+    (VERBP (PRON я) (AUX (VB направ) (AGR и))))) (p=4.75609e-15)
+(ROOT (VERBP (PRON какво) (AUX (VB иска) (AGR ш)))) (p=9.84118e-08)
+(ROOT
+  (SQ
+    (NOUNP (ADP на) (PRON всичко))
+    (ADJP (ADJ (CMP по-) (ADJ голямо)) (NOUN трактор)))) (p=9.3519e-17)
+(ROOT
+  (SQ
+    (PRON кой)
+    (VERBP
+      (PART ще)
+      (VERBP (PRON ги) (AUX (VB подред) (AGR и)))))) (p=2.16009e-13)
+(ROOT
+  (ADVP
+    (NOUNP (PROPN тече) (ADVP (VERB изяш) (PART си)))
+    (ADV първо))
+  (VOC
+    (NOUNP
+      (NNDEF (NOUN саламче) (DET то))
+      (ADVP
+        (CCONJ и)
+        (ADVP
+          (ADV после)
+          (VERBP
+            (PART ще)
+            (VERBP (PRON се) (AUX (VB друса) (AGR ш))))))))) (p=1.23857e-39)
+(ROOT
+  (SQ
+    (PRON я)
+    (VERBP
+      (PRON тате)
+      (VERBP (PART да) (AUX (VB вид) (AGR и)))))) (p=1.33309e-13)
+(ROOT
+  (SQ
+    (ADVP (VERBP (PRON я) (VERB кажи)) (ADV вчера))
+    (ADVP
+      (ADV къде)
+      (VERBP
+        (VERB ходи)
+        (ADPP (ADP на) (WHNP (DET кое) (NOUN село))))))) (p=9.02489e-27)
+(ROOT (PARTP (PART не) (VERB щъ))) (p=2.42354e-09)
+(ROOT
+  (VOC (NOUNP (PRON ти) (ADPP (ADP с) (NOUN ръчичка))))
+  (PARTP
+    (PART ли)
+    (VERBP
+      (PART ще)
+      (VERBP (PRON го) (AUX (VB бел) (AGR иш)))))) (p=6.37171e-24)
+(ROOT
+  (SQ
+    (NOUNP
+      (VERBP (PART да) (AUX (VB нареж) (AGR ем)))
+      (NNDEF (NOUN торта) (DET та)))
+    (ADPP (ADP на) (NOUN парченца)))) (p=2.91307e-21)
+(ROOT
+  (INTJP
+    (INTJ кококо)
+    (VERBP (AUX (VB снася) (AGR т)) (NOUN яйца)))) (p=1.86777e-18)
+(ROOT
+  (VOC
+    (VERBP
+      (VERB дошло)
+      (ADPP (ADP с) (NNS (NOUN какичка) (DIV та)))))
+  (PARTP
+    (PART да)
+    (VERBP
+      (AUX (VB хван) (AGR ат))
+      (NNDEF (NOUN теленце) (DET то))))) (p=3.36381e-27)
+(ROOT (PART ето) (VOC (PROPN уо))) (p=1.7585e-09)
+(ROOT
+  (NOUNP (VERB покажи) (PRON ги))
+  (VOC (NOUNP (PRON тя) (VERBP (PART да) (VERB зяпа))))) (p=2.04577e-17)
+(ROOT (INTJP (INTJ не) (INTJ маме))) (p=1.35419e-06)
+(ROOT
+  (ADVP
+    (ADVP
+      (NOUNP (VERBP (PART не) (AUX бе)) (NOUN мамо))
+      (VERB няма))
+    (SCONJ ако))) (p=3.58618e-16)
+(ROOT
+  (ADVP (AUX (VB иска) (AGR ш)) (PART ли))
+  (VOC
+    (DETP
+      (ADV там)
+      (DETP
+        (NOUNP
+          (ADPP (ADP на) (NNS (NOUN възглавница) (DIV та)))
+          (VERBP (PART да) (AUX (VB отид) (AGR ем))))
+        (VERBP (PART да) (AUX (VB рисува) (AGR ме))))))) (p=4.57377e-33)
+(ROOT (PARTP (PART да) (VERB мама))) (p=1.12094e-06)
+(ROOT (INTJP (INTJ мони) (VERBP (PRON каква) (AUX е)))) (p=3.53075e-09)
+(ROOT
+  (ADV бързо)
+  (VOC (ADPP (ADP на) (NNDEF (NOUN гърне) (DET то))))) (p=1.43427e-11)
+(ROOT
+  (SQ
+    (VERB няма)
+    (VOC
+      (DETP
+        (NOUNP
+          (NOUNP (PRON ги) (NOUN бабо))
+          (AUX (VB прибр) (AGR али)))
+        (VERBP (AUX са) (PRON се)))))) (p=1.26324e-22)
+(ROOT
+  (INTJP
+    (INTJ ох)
+    (VERBP (AUX (VB бутна) (AGR ме)) (ADV пак)))) (p=7.98705e-14)
+(ROOT
+  (ADVP (ADV тез) (VERBP (PRON кои) (AUX са)))
+  (VOC (VERBP (AUX бе) (NOUN мамо)))) (p=7.83792e-18)
+(ROOT
+  (ADVP
+    (VERBP
+      (VERB трябва)
+      (PARTP
+        (PART да)
+        (VERBP (PRON го) (AUX (VB търс) (AGR им)))))
+    (ADV сега))) (p=8.45101e-16)
+(ROOT (INTJP (INTJ не) (INTJ не))) (p=1.1767e-05)
+(ROOT
+  (PARTP
+    (PARTP
+      (PARTP (PART ще) (VERBP (PRON го) (VERB донеса)))
+      (ADV само))
+    (PARTP (PART да) (VERBP (PRON ни) (AUX е))))
+  (NOUNP
+    (ADJP
+      (ADJ топличко)
+      (ADJP (SCONJ като) (SBAR (AUX (VB гледа) (AGR ме)))))
+    (NOUN телевизия))) (p=1.7072e-36)
+(ROOT
+  (SQ (VERB виж) (VOC (VERBP (VERB има) (NOUN панделка))))) (p=2.13492e-12)
+(ROOT
+  (PARTP
+    (PARTP
+      (PART ще)
+      (VERBP (PART си) (AUX (VB обу) (AGR еш))))
+    (PART ли))
+  (VOC (NNDEF (NNS (NOUN чорап) (DIV и)) (DET те)))) (p=7.51118e-20)
+(ROOT
+  (ADVP (ADV защо) (AUX (VB плач) (AGR е)))
+  (VOC (NOUN мамо))) (p=1.27484e-11)
+(ROOT (INTJP (INTJ браво) (ADV миличко))) (p=1.04132e-08)
+(ROOT
+  (ADVP (ADV там) (AUX е))
+  (VOC (ADJP (ADJ мокро) (NOUN мамо)))) (p=3.27931e-13)
+(ROOT
+  (INTJP
+    (INTJ тука)
+    (VERBP (PRON го) (AUX (VB обу) (AGR й))))) (p=1.17871e-11)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (ADVP (ADV тука) (VERBP (PRON я) (VERB виж))))) (p=7.8401e-11)
+(ROOT
+  (ADVP
+    (AUX (VB гледка) (AGR ли))
+    (NOUNP (ADV тук) (NOUN мамо)))
+  (VOC (NOUNP (NOUN бебе) (PROPN мими)))) (p=1.83389e-23)
+(ROOT (ADVP (ADV черно) (AUX е))) (p=8.38159e-09)
+(ROOT
+  (ADVP
+    (ADV вън)
+    (VERBP
+      (PART ще)
+      (VERBP (PRON се) (AUX (VB изцапа) (AGR т)))))
+  (VOC
+    (WHNP
+      (NOUNP (CCONJ и) (NNDEF (NUM две) (DET те)))
+      (NNS (NOUN топк) (DIV и))))) (p=3.21203e-28)
+(ROOT (SQ (VERB (VB внимава) (AGR й)) (VOC (INTJ како)))) (p=3.64762e-12)
+(ROOT
+  (ADVP (VERB виж) (ADV как))
+  (VOC (VERBP (PRON се) (VERB плези)))) (p=2.87302e-14)
+(ROOT (VERBP (PRON какво) (AUX (VB иска) (AGR ш)))) (p=9.84118e-08)
+(ROOT
+  (ADVP
+    (ADV защо)
+    (VERBP (PRON го) (AUX (VB счуп) (AGR и))))) (p=1.13384e-10)
+(ROOT
+  (PARTP
+    (PART то)
+    (VERBP
+      (AUX е)
+      (ADPP (ADP за) (NOUNP (PRON тебе) (PRON това)))))
+  (NOUNP (NOUN бобче) (NOUN миличка))) (p=2.45622e-26)
+(ROOT
+  (SQ
+    (VERB обясни)
+    (VOC
+      (ADPP
+        (ADP на)
+        (WHNP
+          (NOUNP
+            (PROPN калоянчо)
+            (VERBP
+              (PRON какво)
+              (VERBP (PART ще) (AUX (VB прав) (AGR им)))))
+          (ADPP (ADP с) (NNDEF (NOUN пластмаси) (DET те)))))))) (p=1.39754e-27)
+(ROOT
+  (INTJP (INTJP (INTJ мони) (VERB има)) (NOUN прическа))) (p=4.58165e-12)
+(ROOT (ADV непослушке) (VOC (WHNP (PRON такава)))) (p=7.10418e-12)
+(ROOT (SQ (PRON какво) (VERBP (AUX е) (PRON това)))) (p=6.74153e-08)
+(ROOT
+  (INTJP (INTJ троп) (INTJ троп))
+  (NOUNP (NOUN краче) (DET та))) (p=4.57853e-15)
+(ROOT (VERBP (PRON какво) (AUX (VB събува) (AGR ш)))) (p=4.6637e-10)
+(ROOT (ADVP (ADVP (VERB има) (PART ли)) (SCONJ ако))) (p=2.25329e-09)
+(ROOT (INTJP (INTJ нани) (PART да))) (p=3.8421e-07)
+(ROOT
+  (ADVP
+    (VERBP
+      (VERB няма)
+      (PARTP
+        (PARTP
+          (PART да)
+          (VERBP (PRON те) (AUX (VB обичка) (AGR м))))
+        (ADV толкова)))
+    (ADV много))
+  (VOC
+    (NOUNP
+      (SCONJ защото)
+      (NOUNP
+        (PRON ти)
+        (VERBP
+          (PART ще)
+          (VERBP (AUX си) (ADJP (ADJ лошо) (NOUN дете)))))))) (p=1.03884e-37)
+(ROOT
+  (SQ
+    (NOUNP (VERBP (PRON я) (VERB качи)) (NOUN деди))
+    (ADPP (ADP на) (NOUN конче)))) (p=1.21202e-18)
+(ROOT
+  (SQ
+    (ADVP (VERB (VB избяга) (AGR л)) (ADV далеч))
+    (ADPP (ADP в) (NNS (NOUN гора) (DIV та))))) (p=1.04539e-15)
+(ROOT
+  (PARTP
+    (PARTP
+      (PART ето)
+      (VERBP (PRON това) (AUX (VB свир) (AGR и))))
+    (VERB виж))) (p=1.50299e-15)
+(ROOT
+  (INTJP
+    (INTJ тати)
+    (ADVP (ADV как) (VERBP (PRON се) (VERB казва))))) (p=1.12818e-11)
+(ROOT (INTJP (INTJ браво) (NOUN мамо))) (p=5.30393e-07)
+(ROOT
+  (ADPP
+    (VERBP
+      (PRONDEF (PRONS (PRON той)) (DET какъв))
+      (VERBP (PRON ти) (AUX е)))
+    (ADPP (ADP на) (WHNP (PRON теб))))
+  (VOC (PROPN калоянчо))) (p=3.77049e-22)
+(ROOT (SQ (VERBP (PRON това) (AUX е)) (NOUN топка))) (p=2.69872e-09)
+(ROOT (ADVP (VERB (VB чака) (AGR й)) (ADV сега))) (p=1.38961e-09)
+(ROOT
+  (INTJP (INTJ а) (VERB виж))
+  (NOUNP (DET какви) (NNS (NOUN лепенк) (DIV и)))) (p=5.49581e-17)
+(ROOT (SQ (VERBP (PRON какво) (AUX бе)) (NOUN мамо))) (p=8.99469e-09)
+(ROOT
+  (SQ
+    (VERBP (VERB дай) (PARTP (PART ми) (PRON го)))
+    (INTJ де))) (p=1.06766e-13)
+(ROOT (SQ (PRON я) (VERBP (PRON го) (VERB покажи)))) (p=2.4917e-09)
+(ROOT
+  (NOUNP
+    (PRON ти)
+    (VERBP (PART ще) (AUX (VB яде) (AGR ш))))
+  (PART ли)) (p=6.60024e-15)
+(ROOT (INTJP (INTJ ей) (INTJ тука))) (p=1.45887e-06)
+(ROOT
+  (NOUNP (PART ето) (PRON ти))
+  (VOC (NNDEF (NOUN кукла) (DET та)))) (p=8.5767e-13)
+(ROOT
+  (VOC (VERBP (PRON той) (VERB иска)))
+  (PARTP
+    (PARTP
+      (PARTP
+        (PART да)
+        (VERBP
+          (AUX (VB яд) (AGR е))
+          (NNDEF (NNS (NOUN бонбон) (DIV и)) (DET те))))
+      (NOUN мамо))
+    (PARTP
+      (PART не)
+      (VERBP
+        (VERB иска)
+        (PARTP (PART да) (VERBP (VERB гледа) (NOUN влак))))))) (p=2.03176e-38)
+(ROOT (INTJP (INTJ а) (VERBP (PRON кака) (AUX течи)))) (p=6.27022e-12)
+(ROOT
+  (INTJP (INTJ а-у) (ADV как))
+  (PARTP
+    (PARTP
+      (PART ще)
+      (VERBP (PRON го) (AUX (VB намер) (AGR им))))
+    (ADV сега))) (p=1.0436e-17)
+(ROOT
+  (SQ
+    (VERBP
+      (PRON какво)
+      (VERBP
+        (VERBP (AUX е) (PRON туй))
+        (NNS (NOUN боц) (DIV та))))
+    (INTJ боц))) (p=4.44268e-22)
+(ROOT (SQ (VERB виж) (VOC (DETP (VERB виж) (VERB виж))))) (p=7.11311e-11)
+(ROOT (INTJ а) (VOC (WHNP (PRON това)))) (p=5.14553e-06)
+(ROOT
+  (NOUNP
+    (NNDEF (NOUN кукла) (DET та))
+    (VERBP
+      (VERB иска)
+      (PARTP
+        (PART да)
+        (VERBP
+          (AUX (VB сед) (AGR и))
+          (NNS (NOUN бос) (COUNT а))))))) (p=6.47245e-23)
+(ROOT
+  (ADVP
+    (ADV къде)
+    (VERBP
+      (PART ще)
+      (VERBP (PRON го) (AUX (VB слож) (AGR им)))))) (p=4.00386e-13)
+(ROOT
+  (PARTP
+    (PART не)
+    (VERBP (PRON ги) (AUX (VB пипа) (AGR й))))) (p=4.52575e-11)
+(ROOT
+  (INTJP
+    (INTJ хайде)
+    (VERBP (PART да) (VERBP (PRON си) (VERB ходим))))) (p=2.83612e-11)
+(ROOT
+  (ADVP (ADV къде) (VERBP (PRON ти) (AUX е)))
+  (VOC
+    (NOUNP
+      (NNDEF (NOUN кофа) (DET та))
+      (VERBP
+        (PART да)
+        (VERBP (PRON я) (AUX (VB залеп) (AGR им))))))) (p=1.31672e-22)
+(ROOT (INTJP (INTJ хайде) (NOUNP (VERB обърни) (PRON се)))) (p=3.77513e-10)
+(ROOT
+  (SQ
+    (CCONJ и)
+    (ADVP
+      (ADV после)
+      (NOUNP
+        (NNDEF (NOUN прасенца) (DET та))
+        (VERBP (PRON какво) (AUX (VB направ) (AGR или))))))) (p=3.21997e-19)
+(ROOT
+  (PART ето)
+  (PARTP (PART ето) (VERBP (CCONJ й) (PRON го)))) (p=1.50739e-14)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (NOUNP (PRONS (PRON тя)) (JJS (ADJ мила) (DIV та))))) (p=3.10236e-12)
+(ROOT
+  (PARTP
+    (VERBP (PRON ти) (AUX (VB изплаш) (AGR и)))
+    (PART ли))
+  (NOUNP (PRON се) (NOUN мамо))) (p=8.06534e-16)
+(ROOT
+  (SQ
+    (ADVP
+      (ADV къде)
+      (VERBP (PART ще) (AUX (VB отива) (AGR ш))))
+    (ADPP (ADP с) (NOUN чанта)))) (p=3.24519e-16)
+(ROOT
+  (ADVP
+    (AUX (VB чака) (AGR й))
+    (NOUNP
+      (PRON аз)
+      (VERBP
+        (PART ще)
+        (VERBP
+          (VERB седна)
+          (ADPP
+            (ADP до)
+            (NOUNP
+              (PRON теб)
+              (VERBP
+                (ADP за)
+                (VERBP (PART да) (AUX (VB мож) (AGR ем))))))))))
+  (VOC (VERBP (PART да) (AUX (VB разговаря) (AGR ме))))) (p=1.42498e-38)
+(ROOT
+  (ADVP
+    (ADV така)
+    (VERBP (PART ли) (VERBP (VERB вика) (NOUN мамо))))
+  (VOC (PROPN ели))) (p=1.44635e-16)
+(ROOT
+  (ADVP (ADV много) (AUX е))
+  (VOC (ADJP (ADJ тясно) (NOUN мамо)))) (p=8.8335e-13)
+(ROOT
+  (ADVP
+    (VERBP (PRON какво) (AUX (VB гледа) (AGR ш)))
+    (ADV там))) (p=8.66709e-11)
+(ROOT (NOUNP (PRON какво) (NOUN мамо))) (p=1.28336e-06)
+(ROOT
+  (PARTP
+    (CCONJ и)
+    (VERBP (AUX (VB има) (AGR ше)) (NUM едно)))) (p=2.0716e-10)
+(ROOT
+  (NOUNP
+    (VERBP (VERB пада) (NNDEF (NOUN дърво) (DET то)))
+    (NNDEF (NOUN дърво) (DET то)))
+  (VOC (NNDEF (NOUN дърво) (DET то)))) (p=3.58316e-20)
+(ROOT
+  (VOC (VERBP (AUX е) (ADV как)))
+  (PARTP
+    (PART ще)
+    (VERBP
+      (AUX (VB иска) (AGR ш))
+      (NNS (NOUN ботуш) (DIV и))))) (p=1.64773e-17)
+(ROOT
+  (ADVP
+    (SCONJ защото)
+    (ADVP
+      (CCONJ и)
+      (NOUNP
+        (VERBP
+          (PRON той)
+          (VERBP
+            (PART ще)
+            (VERBP
+              (VERB има)
+              (NUMP
+                (NNDEF (NOUN гостенче) (DET та))
+                (PRON онова)))))
+        (NNDEF (NOUN бебенце) (DET то)))))
+  (VOC (NOUN мамо))) (p=2.18126e-33)
+(ROOT
+  (VOC (PROPN баба))
+  (PARTP
+    (PARTP
+      (PART да)
+      (VERBP (PRON ги) (AUX (VB скри) (AGR е))))
+    (PART ли))) (p=1.19154e-14)
+(ROOT
+  (PARTP (PART ето) (VERB виж))
+  (NOUNP
+    (NNDEF (NOUN коза) (DET та))
+    (VERBP (VERB има) (NNS (NOUN рог) (COUNT а))))) (p=3.01782e-21)
+(ROOT
+  (SQ
+    (CCONJ ами)
+    (DETP
+      (NOUNP
+        (VERBP
+          (PRON аз)
+          (VERBP
+            (PART да)
+            (VERBP
+              (VERB дойда)
+              (PARTP
+                (PART ли)
+                (VERBP
+                  (PART да)
+                  (VERBP
+                    (PRON й)
+                    (AUX (VB издърпа) (AGR м))))))))
+        (NNDEF (NNS уши) (DET те)))
+      (ADPP
+        (ADP на)
+        (WHNP
+          (NOUNP (JJDEF (ADJ лоша) (DET та)) (NOUN лелка))
+          (NOUNP
+            (VERBP (PRON дето) (VERB наказва))
+            (NNDEF (NNS деца) (DET та)))))))) (p=5.81313e-57)
+(ROOT
+  (SQ
+    (NOUNP
+      (PRON тя)
+      (VERBP
+        (AUX е)
+        (ADPP (ADP на) (NNS (NOUN картинка) (DIV та)))))
+    (ADPP
+      (ADP на)
+      (NOUNP (PRON никой) (VERBP (PART не) (AUX е)))))) (p=5.83e-21)
+(ROOT (ADVP (AUX (VB мири) (AGR ше)) (PART ли))) (p=3.73366e-09)
+(ROOT
+  (ADVP (AUX (VB чува) (AGR ш)) (PART ли))
+  (VOC (WHNP (PRON го)))) (p=5.58478e-11)
+(ROOT
+  (ADVP
+    (CCONJ и)
+    (VERBP
+      (PART ще)
+      (VERBP (PRON ти) (AUX (VB донес) (AGR ат)))))
+  (VOC (NOUN подарък))) (p=5.7912e-17)
+(ROOT (SQ (PRON този) (VERBP (PRON кой) (AUX е)))) (p=7.764e-09)
+(ROOT
+  (PARTP (PART да) (VERBP (PRON тези) (AUX са)))
+  (VOC (ADPP (ADP на) (NOUNP (PROPN леля) (PROPN велка))))) (p=2.0463e-17)
+(ROOT (INTJ ели) (INTJP (INTJ ели) (INTJ ели))) (p=2.14568e-10)
+(ROOT
+  (DETP
+    (DETP
+      (DET какви)
+      (VERBP (PRON ги) (AUX (VB върш) (AGR иш))))
+    (AUX бе))) (p=1.42745e-18)
+(ROOT (PARTP (PART ама) (VERB няма))) (p=1.98088e-08)
+(ROOT (NOUNP (NUM три) (NOUN яйчица))) (p=1.25802e-08)
+(ROOT
+  (ADVP
+    (ADV как)
+    (VERBP (PART не) (AUX (VB слуша) (AGR ш))))
+  (VOC (VERBP (AUX бе) (ADV красавицо)))) (p=7.72196e-19)
+(ROOT (INTJP (INTJ дий) (INTJ дий))) (p=3.22445e-08)
+(ROOT
+  (NOUNP
+    (PRON ти)
+    (ADVP
+      (ADV пак)
+      (VERBP
+        (PART си)
+        (VERBP (PART си) (AUX (VB удар) (AGR ила))))))
+  (VOC (NNDEF (NOUN коляно) (DET то)))) (p=4.25675e-22)
+(ROOT
+  (SQ
+    (PRON кой)
+    (VERBP
+      (PART ще)
+      (VERBP (VERB кара) (NNS (NOUN влак) (COUNT а)))))) (p=3.3507e-15)
+(ROOT
+  (PARTP (PART ще) (VERBP (PRON те) (VERB ям)))
+  (VOC (WHNP (PRON аз)))) (p=9.2332e-13)
+(ROOT
+  (SQ
+    (VERBP (PRON ти) (AUX си))
+    (VOC
+      (NOUNP
+        (DETDEF (DETS (DET мой)) (DET та))
+        (NOUN приятелка))))) (p=4.95936e-16)
+(ROOT
+  (SQ
+    (NOUNP
+      (PRON какво)
+      (VERBP (PART ще) (AUX (VB прав) (AGR иш))))
+    (ADPP (ADP със) (NNDEF (NOUN столче) (DET то))))) (p=2.59923e-17)
+(ROOT (VERBP (PART ще) (AUX (VB падн) (AGR еш)))) (p=1.40042e-08)
+(ROOT (INTJP (INTJ айде) (NOUNP (VERB пиша) (PRON й)))) (p=3.74798e-11)
+(ROOT
+  (NOUNP
+    (NOUN коса)
+    (ADPP (ADP за) (NNS (NOUN коса) (DIV та))))
+  (VOC (VERBP (AUX е) (PRON това)))) (p=1.39271e-17)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP
+      (AUX (VB прав) (AGR и))
+      (NNS (NOUN катеричка) (DIV та))))) (p=6.28001e-13)
+(ROOT (ADV много) (VOC (ADJP (ADJ хубаво) (NOUN кръгче)))) (p=5.08552e-13)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX е))
+    (VOC
+      (VERBP
+        (AUX (VB остав) (AGR ило))
+        (NUMP
+          (NNDEF (NOUN саше) (DET то))
+          (ADPP (ADP в) (NNDEF (NOUN креватче) (DET то)))))))) (p=6.1998e-24)
+(ROOT
+  (SQ
+    (ADVP (VERBP (PRON какво) (VERB кара)) (ADV много))
+    (ADV силно))) (p=1.74802e-13)
+(ROOT (DETP (DET тая) (PART ли))) (p=3.33194e-08)
+(ROOT
+  (SQ (VERB няма) (VOC (VERBP (ADJ пишано) (PART ли))))) (p=3.05224e-13)
+(ROOT (NOUNP (VERB кажи) (PRON му)) (VOC (INTJ чао))) (p=6.47329e-12)
+(ROOT
+  (SQ
+    (VERB (VB изпер) (AGR и))
+    (VOC
+      (NOUNP
+        (NNDEF (NOUN шапка) (DET та))
+        (VERBP (SCONJ че) (VERBP (AUX е) (ADJ мръсна))))))) (p=2.11833e-21)
+(ROOT
+  (NOUNP (DETDEF (DETS (DET твойт)) (DET а)) (NOUN майка))
+  (VOC (VERBP (PRON коя) (AUX е)))) (p=5.3101e-17)
+(ROOT (SQ (VERBP (PART не) (VERB звъня)) (NOUN мамо))) (p=1.92799e-11)
+(ROOT (SQ (VERBP (PRON това) (AUX е)) (NOUN фенерче))) (p=5.2312e-10)
+(ROOT
+  (ADVP (AUX (VB има) (AGR ш)) (PART ли))
+  (VOC
+    (DETP
+      (NOUNP (PRON си) (NOUN касичка))
+      (ADPP (ADP за) (NNDEF (NOUN парички) (DET те)))))) (p=6.72088e-23)
+(ROOT (ADVP (ADV вкусно) (VERBP (PART ли) (AUX е)))) (p=3.04939e-09)
+(ROOT (SQ (VERB (VB папа) (AGR й)) (VOC (NOUN миличка)))) (p=1.83605e-12)
+(ROOT
+  (SQ
+    (ADVP (AUX (VB иска) (AGR ш)) (PART да))
+    (ADVP (AUX (VB папа) (AGR ш)) (PART ли)))) (p=3.03668e-16)
+(ROOT
+  (INTJP (INTJ калоянчо) (VERB (VB говор) (AGR и)))
+  (PARTP (PART ли) (VERBP (PRON ти) (VERB маме)))) (p=1.90617e-17)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJ а-у)
+      (NOUNP
+        (NNDEF (NOUN маймунка) (DET та))
+        (SBAR (AUX (VB спинка) (AGR ли)))))
+    (NOUN мамо))) (p=1.15826e-18)
+(ROOT
+  (INTJP
+    (INTJ хайде)
+    (VERBP (AUX (VB дава) (AGR й)) (ADV дани)))
+  (INTJ дий)) (p=8.3382e-18)
+(ROOT
+  (SQ
+    (VERBP (PRON я) (AUX (VB издуха) (AGR й)))
+    (VOC (NNDEF (NOUN носле) (DET то))))) (p=3.59133e-17)
+(ROOT (VERBP (PRON какво) (AUX (VB прав) (AGR иш)))) (p=3.59409e-08)
+(ROOT
+  (NOUNP
+    (DETDEF (DETS (DET мое)) (DET то))
+    (NNS (NOUN бебе) (DIV е)))) (p=9.00495e-13)
+(ROOT (PART да) (ADVP (ADV тъй) (AUX (VB мож) (AGR е)))) (p=5.26896e-10)
+(ROOT
+  (SQ
+    (PRON кой)
+    (VERBP
+      (PART ще)
+      (VERBP (PRON го) (AUX (VB намер) (AGR и)))))) (p=1.78024e-11)
+(ROOT (ADVP (AUX (VB иска) (AGR ш)) (PART ли))) (p=6.66608e-08)
+(ROOT
+  (NOUNP
+    (PRON ти)
+    (VERBP (PART май) (VERBP (PRON ги) (VERB обърка))))
+  (VOC (NNDEF (NOUN песнички) (DET те)))) (p=8.37333e-21)
+(ROOT (ADVP (ADV къде) (VERBP (PRON го) (VERB взима)))) (p=2.17892e-10)
+(ROOT
+  (ADVP (AUX (VB мож) (AGR е)) (PART ли))
+  (VOC
+    (VERBP
+      (PART да)
+      (VERBP
+        (VERB седя)
+        (ADPP (ADP на) (WHNP (PRON него))))))) (p=1.07659e-18)
+(ROOT
+  (VOC (NOUN майка))
+  (PARTP
+    (PART си)
+    (VERBP (PART ли) (AUX (VB търс) (AGR ят))))) (p=9.74005e-14)
+(ROOT
+  (ADVP (ADV къде) (AUX е))
+  (VOC (NNDEF (NOUN обувка) (DET та)))) (p=1.84662e-11)
+(ROOT
+  (SQ
+    (NOUNP (PRON те) (VERBP (AUX са) (PRON ти)))
+    (ADJP (ADV малко) (JJS (ADJ голем) (DIV и))))) (p=3.33232e-17)
+(ROOT (ADVP (ADV къде) (AUX е)) (VOC (PROPN оги))) (p=2.41474e-09)
+(ROOT
+  (NOUNP (PART ето) (PRON ти))
+  (VOC (NNS (NOUN нож) (COUNT а)))) (p=9.41058e-13)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (NOUNP
+      (PRON кого)
+      (VERBP (PART ще) (AUX (VB пръска) (AGR ш)))))) (p=1.28987e-14)
+(ROOT (INTJP (INTJ а-у) (NOUN пате))) (p=3.31829e-08)
+(ROOT
+  (VOC (PROPN були))
+  (NOUNP
+    (NNS (NOUN моряк) (COUNT а))
+    (VERBP (PART ли) (AUX (VB обича) (AGR ш))))) (p=4.35316e-21)
+(ROOT
+  (ADVP (AUX (VB иска) (AGR ш)) (PART ли))
+  (VOC (NOUN краставичка))) (p=1.3593e-12)
+(ROOT
+  (INTJ а)
+  (VOC (JJDEF (JJS (ADJ малк) (DIV и)) (DET те)))) (p=1.32111e-09)
+(ROOT
+  (SQ
+    (VERBP (PRON кой) (AUX (VB суч) (AGR и)))
+    (VOC
+      (NOUNP
+        (NNDEF (NOUN бабо) (DET кой))
+        (SBAR (AUX (VB куч) (AGR и))))))) (p=2.58835e-23)
+(ROOT (INTJ хайде) (INTJP (INTJ стига) (ADV толкова))) (p=1.55628e-09)
+(ROOT
+  (SQ
+    (PRON този)
+    (VERBP
+      (NNDEF (NOUN еднорог) (DET какъв))
+      (SBAR (AUX е))))) (p=5.04627e-16)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJ а)
+      (NOUNP (PROPN дани) (VERBP (PRON каква) (AUX е))))
+    (NOUN мамо))
+  (NOUNP (PROPN кака) (VERBP (PART ли) (AUX е)))) (p=1.06485e-22)
+(ROOT
+  (SQ
+    (VERB няма)
+    (VOC (VERBP (PART да) (VERBP (PRON ги) (VERB ям)))))) (p=1.54133e-11)
+(ROOT
+  (NOUNP
+    (NNDEF (NOUN глупачка) (DET та))
+    (VERBP (AUX е) (ADJ болна)))) (p=4.44843e-14)
+(ROOT
+  (SQ
+    (ADP с)
+    (NOUNP (PRON какво) (VERBP (PRON се) (VERB напи))))) (p=1.47735e-12)
+(ROOT (INTJ а) (VOC (WHNP (PRON това)))) (p=5.14553e-06)
+(ROOT (SQ (VERB има) (VOC (NNDEF (NOUN чанта) (DET та))))) (p=6.09434e-09)
+(ROOT
+  (SQ (VERBP (PRON това) (AUX е)) (VOC (PROPN боклуче)))) (p=1.52006e-10)
+(ROOT (INTJP (INTJ браво) (NOUN мамо))) (p=5.30393e-07)
+(ROOT
+  (VOC (NOUNP (VERB (VB иска) (AGR м)) (PRON той)))
+  (PARTP
+    (PART да)
+    (VERBP (PRON ме) (AUX (VB гуш) (AGR и))))) (p=1.08135e-17)
+(ROOT
+  (INTJP (INTJ а-у) (INTJ миме))
+  (NOUNP
+    (PRON аз)
+    (VERBP
+      (PART си)
+      (VERBP (AUX (VB намери) (AGR х)) (PRON нещо))))) (p=5.51136e-22)
+(ROOT
+  (VOC (ADPP (ADP с) (WHNP (PRON кого))))
+  (PARTP
+    (PART ще)
+    (VERBP (AUX (VB спинка) (AGR ш)) (ADV днес)))) (p=1.29911e-18)
+(ROOT (INTJ бухал) (VOC (PROPN буху-буху))) (p=9.14349e-11)
+(ROOT (SQ (CCONJ и) (ADVP (ADV така) (VERB прави)))) (p=1.04329e-09)
+(ROOT
+  (SQ
+    (VERBP (PRON я) (VERB изпей))
+    (VOC (ADPP (ADP за) (NNS (NOUN пчеличка) (DIV та)))))) (p=9.76159e-16)
+(ROOT
+  (INTJP (VERB дай) (INTJ о))
+  (NOUNP (ADP на) (PRON мене))
+  (VOC (NNDEF (NOUN кубче) (DET то)))) (p=2.10683e-21)
+(ROOT
+  (ADVP (VERBP (PRON какво) (VERB има)) (ADV там))
+  (VOC (NOUN дупка))) (p=1.80901e-12)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP (PRON те) (AUX (VB боле) (AGR ше))))) (p=3.90195e-11)
+(ROOT (NOUNP (NOUN топка) (NOUN топка))) (p=1.4305e-10)
+(ROOT (SQ (VERB (VB вика) (AGR й)) (VOC (PROPN кака)))) (p=7.67282e-10)
+(ROOT
+  (ADVP (ADV къде) (AUX (VB вижда) (AGR ш)))
+  (VOC (NOUN кошче))) (p=1.03676e-13)
+(ROOT
+  (SQ
+    (CCONJ и)
+    (NOUNP (PRON това) (VERBP (PART е) (VERB вълнено))))) (p=1.31815e-13)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP
+      (AUX (VB прав) (AGR и))
+      (NNS (NOUN кукла) (DIV та))))) (p=2.08153e-12)
+(ROOT
+  (SQ
+    (VERBP (PART нали) (AUX (VB знае) (AGR ш)))
+    (VOC
+      (VERBP
+        (SCONJ че)
+        (VERBP (AUX е) (ADPP (ADP при) (NOUN доктор))))))) (p=2.30775e-20)
+(ROOT (ADVP (ADV топло) (AUX е))) (p=1.01215e-07)
+(ROOT (SQ (PRON кой) (VERBP (AUX е) (PRON този)))) (p=1.34754e-09)
+(ROOT
+  (INTJP (INTJ о-о) (NOUNP (PRON това) (NOUN дете)))
+  (ADVP (ADV самичко) (VERB подрежда))) (p=3.44009e-22)
+(ROOT
+  (PART да)
+  (PARTP
+    (PART не)
+    (VERBP (PRON те) (AUX (VB хап) (AGR ят))))) (p=3.4447e-13)
+(ROOT
+  (VOC
+    (NOUNP
+      (NOUNP (PROPN радо) (VERBP (PART да) (VERB папа)))
+      (CCONJ а)
+      (VERBP (PRON ти) (AUX (VB иска) (AGR ш)))))
+  (PARTP
+    (PART ли)
+    (VERBP (PART да) (AUX (VB хапн) (AGR еш))))) (p=3.51488e-30)
+(ROOT
+  (SQ
+    (NOUNP
+      (NOUN куче)
+      (VERBP (VERB дай) (NNS (NOUN кокал) (COUNT а))))
+    (ADPP (ADP на) (NOUNP (PROPN кака) (PROPN александра))))) (p=4.598e-24)
+(ROOT
+  (INTJP (INTJ хайде) (INTJ тате))
+  (NOUNP (VERB (VB уцел) (AGR и)) (PRON ме))) (p=1.52524e-15)
+(ROOT
+  (PARTP
+    (PART да)
+    (VERBP (PRON я) (AUX (VB ритна) (AGR ли))))
+  (VOC (WHNP (PRON аз)))) (p=1.84225e-14)
+(ROOT
+  (ADVP
+    (ADV повече)
+    (VERBP (PART не) (AUX (VB иска) (AGR ш))))) (p=5.88672e-10)
+(ROOT
+  (NOUNP (VERB (VB подрежда) (AGR й)) (PRON ти))
+  (VOC
+    (NOUNP
+      (PRON аз)
+      (VERBP (PART да) (AUX (VB разхвърля) (AGR м)))))) (p=5.26217e-22)
+(ROOT
+  (ADVP (VERB кажи) (ADV много))
+  (VOC (INTJ благодаря))) (p=5.80886e-11)
+(ROOT
+  (SQ
+    (VERBP (PRON я) (AUX (VB пробва) (AGR й)))
+    (NOUN дядо))) (p=1.92409e-13)
+(ROOT
+  (NOUNP
+    (NOUNP (PRON тя))
+    (DETDEF (DETS (DET мой)) (DET та)))) (p=9.57951e-13)
+(ROOT
+  (SQ
+    (NOUNP (PROPN ела) (PROPN ела))
+    (ADPP (ADP при) (NOUN мама)))) (p=1.78044e-13)
+(ROOT
+  (INTJP
+    (INTJ а-а)
+    (VERBP (VERB мий) (NNS (NOUN шапка) (DIV та))))) (p=3.68014e-14)
+(ROOT
+  (PARTP
+    (PART не)
+    (VERBP
+      (VERB (VB отива) (AGR й))
+      (PARTP (PART да) (AUX (VB стряска) (AGR ш)))))
+  (NOUNP
+    (PROPN баба)
+    (VERBP (PRON тя) (VERBP (ADV вече) (VERB спинка))))) (p=1.94707e-30)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP
+      (PART си)
+      (VERBP (AUX (VB има) (AGR ш)) (PRON ти))))) (p=4.65993e-12)
+(ROOT (INTJP (INTJ о) (VERB (VB извинява) (AGR й)))) (p=7.63042e-11)
+(ROOT
+  (SQ
+    (VERBP (PRON какво) (AUX (VB прав) (AGR ят)))
+    (VOC (WHNP (DET те) (NOUN мамо))))) (p=2.24103e-12)
+(ROOT
+  (PARTP
+    (PART ще)
+    (VERBP (PRON ви) (VERBP (PRON ги) (VERB дам))))
+  (VOC (ADPP (ADP в) (NOUN купичка)))) (p=1.81395e-19)
+(ROOT
+  (ADVP
+    (ADVP (ADV добре) (VERBP (PART ама) (VERB кажи)))
+    (VERBP (PRON какво) (AUX (VB иска) (AGR ш))))
+  (VOC (INTJ ам))) (p=5.06051e-22)
+(ROOT
+  (ADVP
+    (NOUNP
+      (PROPN ела)
+      (VERBP
+        (PART да)
+        (VERBP (PART ми) (AUX (VB каж) (AGR еш)))))
+    (VERBP (PRON кой) (AUX е)))
+  (VOC (WHNP (PRON това)))) (p=1.05556e-20)
+(ROOT (NOUNP (SCONJ като) (NOUN светулка))) (p=1.11165e-09)
+(ROOT (VERBP (PRON какво) (VERB има))) (p=2.55038e-06)
+(ROOT (INTJ а) (VOC (WHNP (PRON това)))) (p=5.14553e-06)
+(ROOT (VERBP (PRON какво) (AUX (VB иска) (AGR ш)))) (p=9.84118e-08)
+(ROOT
+  (SQ
+    (VERB (VB чака) (AGR й))
+    (VOC
+      (VERBP
+        (AUX (VB чака) (AGR й))
+        (ADPP (ADP по) (NNS (NUM един))))))) (p=8.90173e-18)
+(ROOT
+  (NOUNP (VERB дай) (PRON му))
+  (VOC
+    (DETP
+      (NOUNP (NUM едно) (NOUN парченце))
+      (ADPP (ADP на) (WHNP (PRON него)))))) (p=2.92766e-18)
+(ROOT
+  (SQ
+    (PRON ти)
+    (VERBP
+      (PART май)
+      (VERBP
+        (PART си)
+        (VERBP (PRON ги) (AUX (VB измисля) (AGR ш))))))) (p=1.77869e-17)
+(ROOT (SQ (VERB (VB каж) (AGR ат)) (VOC (NOUN мамо)))) (p=2.4326e-09)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP
+      (PART ще)
+      (VERBP (AUX (VB прав) (AGR иш)) (ADV сега))))) (p=1.47954e-12)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (ADVP (VERBP (PRON какво) (VERB има)) (ADV тук)))
+  (ADPP (ADP на) (NNDEF (NOUN въженце) (DET то)))) (p=1.62389e-18)
+(ROOT
+  (SQ
+    (VERB (VB дига) (AGR й))
+    (VOC (NNDEF (NOUN гащи) (DET те))))) (p=1.46239e-13)
+(ROOT
+  (INTJP
+    (INTJ хайде)
+    (ADVP (ADV сега) (AUX (VB става) (AGR й))))
+  (PARTP (PART ще) (VERBP (PRON ти) (VERB помогна)))) (p=1.51625e-18)
+(ROOT
+  (INTJP (INTJP (INTJ а) (VERB виж)) (NOUN паричка))
+  (ADPP (ADP за) (NNS (NOUN касичка) (DIV та)))) (p=3.97951e-19)
+(ROOT
+  (SQ
+    (PRON ти)
+    (VERBP
+      (PRON какво)
+      (VERBP (PART ще) (AUX (VB нарисува) (AGR ш)))))) (p=1.6025e-13)
+(ROOT
+  (NOUNP
+    (VERBP (AUX (VB иска) (AGR ш)) (ADV още))
+    (NOUNP (NUM една) (NOUN кака)))
+  (PART ли)) (p=4.16032e-19)
+(ROOT
+  (SQ (VERB мама) (VOC (VERBP (PART да) (VERB папка))))) (p=7.37264e-11)
+(ROOT
+  (NOUNP
+    (PRON елито)
+    (ADPP (ADP с) (NNS (NOUN муцунка) (DIV та))))
+  (ADV напред)) (p=1.55122e-18)
+(ROOT
+  (ADVP
+    (NOUNP (NUM едно) (NOUN болтче))
+    (VERBP (PART е) (AUX (VB загуб) (AGR ила))))
+  (VOC (NOUN мама))) (p=8.94594e-22)
+(ROOT
+  (ADVP (VERBP (PART не) (AUX (VB мож) (AGR е))) (ADV там))) (p=7.77121e-10)
+(ROOT (ADVP (VERB кажи) (PART ми)) (VOC (NOUN мамо))) (p=1.08219e-09)
+(ROOT (SQ (ADP в) (NOUNP (PRON коя) (NOUN точка)))) (p=9.58962e-13)
+(ROOT
+  (VOC (VERBP (PART да) (AUX (VB мож) (AGR еш))))
+  (PARTP
+    (PART да)
+    (VERBP
+      (AUX (VB влез) (AGR еш))
+      (ADPP
+        (CCONJ и)
+        (ADPP (ADP с) (NNS (NOUN пояс) (COUNT а))))))) (p=1.13098e-23)
+(ROOT (ADVP (ADV къде) (AUX е)) (VOC (PROPN мишутка))) (p=4.63549e-10)
+(ROOT (ADJP (ADJ голяма) (NOUN кокошка))) (p=6.36665e-09)
+(ROOT (VERBP (PRON какво) (AUX (VB открива) (AGR ш)))) (p=7.06566e-10)
+(ROOT (PART да) (VOC (NOUN очила))) (p=3.66008e-08)
+(ROOT
+  (VOC
+    (ADPP
+      (ADP на)
+      (NOUNP
+        (DETDEF (DETS (DET твое)) (DET то))
+        (NOUN панталонче))))
+  (NOUNP (PRON кой) (NNS (NOUN герой) (DIV е)))) (p=1.76905e-24)
+(ROOT
+  (NOUNP
+    (VERBP (PRON какво) (AUX (VB прав) (AGR и)))
+    (NNDEF (NOUN бебе) (DET то)))
+  (ADV там)) (p=5.43436e-15)
+(ROOT
+  (ADVP (AUX (VB иска) (AGR ш)) (PART ли))
+  (VOC (INTJ ам-ам))) (p=5.43928e-13)
+(ROOT (ADVP (ADV тук) (VERBP (PRON какво) (VERB има)))) (p=1.48605e-08)
+(ROOT (INTJP (INTJ дани) (PART ли))) (p=1.05063e-07)
+(ROOT
+  (SQ
+    (NOUNP (VERB (VB науч) (AGR и)) (PRON ме))
+    (ADVP (ADV как) (AUX (VB бе) (AGR ше))))) (p=1.13958e-15)
+(ROOT (NOUNP (PRON коя) (NOUN кутийка))) (p=1.77302e-09)
+(ROOT
+  (INTJP
+    (INTJ ели)
+    (VERBP (AUX (VB нахрани) (AGR ли)) (PRON се)))) (p=1.26829e-12)
+(ROOT
+  (SQ
+    (VERB няма)
+    (VOC
+      (VERBP
+        (PART да)
+        (VERBP (PRON го) (AUX (VB пипа) (AGR ш))))))) (p=1.65661e-12)
+(ROOT
+  (SQ
+    (PRON той)
+    (VERBP (ADP без) (VERBP (PART да) (VERB иска))))) (p=1.65436e-12)
+(ROOT (ADVP (VERBP (PRON какво) (VERB има)) (ADV там))) (p=6.4635e-09)
+(ROOT
+  (DETP
+    (ADV навсякъде)
+    (DETP
+      (NNS (NOUN шоколад) (DIV и))
+      (JJS (ADJ (SUP най-) (ADJ различни)))))) (p=2.32592e-18)
+(ROOT (NOUNP (PROPN кака) (PROPN дани))) (p=1.0591e-08)
+(ROOT
+  (NOUNP
+    (PRON той)
+    (ADVP
+      (ADV сега)
+      (VERBP (PRON се) (AUX (VB събуд) (AGR и)))))
+  (VOC (NOUN мамо))) (p=1.27348e-15)
+(ROOT
+  (PARTP
+    (VERBP (PART ще) (AUX (VB става) (AGR ме)))
+    (PART ли))
+  (VOC (ADPP (ADP от) (NNDEF (NOUN гърне) (DET то))))) (p=9.94446e-19)
+(ROOT
+  (SQ
+    (VERB (VB иска) (AGR ш))
+    (VOC (VERBP (PART да) (AUX (VB прибира) (AGR ме)))))) (p=3.06132e-13)
+(ROOT
+  (PARTP
+    (PART ще)
+    (VERBP (PRON я) (AUX (VB остав) (AGR иш))))
+  (VOC (ADPP (ADP върху) (NNS (NOUN маса) (DIV та))))) (p=2.36473e-17)
+(ROOT
+  (SQ
+    (NOUNP
+      (PRON я)
+      (VERBP (PART да) (AUX (VB каж) (AGR ем))))
+    (ADPP
+      (ADP на)
+      (NOUNP
+        (PROPN леля)
+        (ADVP
+          (ADV вчера)
+          (VERBP
+            (PRON какво)
+            (VERBP (PRON се) (VERB случи)))))))) (p=5.43334e-27)
+(ROOT
+  (ADVP
+    (VERBP
+      (PART то)
+      (VERBP (AUX (VB папка) (AGR ли)) (PRON се)))
+    (ADV вкусно))
+  (VOC (VERBP (PART ли) (AUX е)))) (p=2.36372e-20)
+(ROOT (VOC (ADJ готова)) (PARTP (PART ли) (AUX си))) (p=1.07592e-10)
+(ROOT (INTJP (INTJP (INTJ тука) (ADV горе)) (ADV горе))) (p=7.28407e-12)
+(ROOT
+  (PARTP (PART не) (VERBP (PART не) (AUX са)))
+  (VOC
+    (VERBP
+      (VERBP (AUX (VB порастна) (AGR ли)) (ADV още))
+      (DETDEF (DETS (DET негов) (DIV и)) (DET те))))) (p=4.75009e-25)
+(ROOT
+  (ADVP
+    (ADV довечера)
+    (VERBP
+      (SCONJ като)
+      (VERBP (AUX (VB пи) (AGR еш)) (ADV пак))))
+  (VOC (NOUN мляко))) (p=6.19606e-20)
+(ROOT
+  (ADPP (ADP за) (NNS (NOUN лястовичка) (DIV та)))
+  (VOC
+    (ADPP
+      (ADP след)
+      (ADJP (ADJ малко) (ADJP (PART ще) (VERB има)))))) (p=6.05555e-20)
+(ROOT
+  (INTJP (INTJ симончи) (VERB мама))
+  (ADVP
+    (ADV как)
+    (VERBP (VERB казва) (ADPP (ADP на) (NNS (PROPN баба)))))) (p=3.78569e-20)
+(ROOT (SQ (VERBP (PRON това) (AUX са)) (NOUN буквички))) (p=4.2088e-11)
+(ROOT (PARTP (PART ще) (VERB спинка))) (p=4.89927e-08)
+(ROOT
+  (ADVP (AUX (VB чет) (AGR еш)) (PART ли))
+  (VOC (NOUN мамо))) (p=4.59307e-12)
+(ROOT (VERBP (PRON такава) (AUX е))) (p=2.52834e-07)
+(ROOT
+  (INTJP
+    (INTJ хайде)
+    (VERBP (PART да) (AUX (VB рисува) (AGR ме))))) (p=5.34363e-11)
+(ROOT
+  (SQ
+    (VERB (VB бърка) (AGR м))
+    (VOC
+      (VERBP
+        (AUX (VB бърка) (AGR м))
+        (AUX (VB бърка) (AGR м)))))) (p=1.17617e-20)
+(ROOT (NOUNP (CCONJ ами) (VERB няма))) (p=1.54074e-08)
+(ROOT (NOUNP (PRON какво) (NOUN мамо))) (p=1.28336e-06)
+(ROOT (VERBP (PART не) (AUX (VB пипа) (AGR й)))) (p=4.26716e-09)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (NOUNP
+      (PRON той)
+      (VERBP
+        (PART ще)
+        (VERBP (PRON те) (AUX (VB воз) (AGR и))))))
+  (PARTP
+    (PARTP (PART ли) (PRON теб))
+    (ADPP (ADP на) (NNDEF (NOUN атв) (DET то))))) (p=3.96769e-30)
+(ROOT (PARTP (PART не) (VERBP (AUX си) (ADJ гладна)))) (p=1.37794e-10)
+(ROOT
+  (PARTP (PART ще) (VERBP (PRON я) (VERB пусна)))
+  (NOUNP
+    (VERBP
+      (SCONJ като)
+      (VERBP (PRON се) (AUX (VB извърт) (AGR и))))
+    (NNDEF (NOUN касета) (DET та)))) (p=1.04288e-25)
+(ROOT (SQ (ADV там) (NOUN конче))) (p=6.14113e-09)
+(ROOT
+  (ADVP (ADV къде) (VERBP (PRON го) (VERB видя)))
+  (VOC (NOUNP (PRON това) (NOUN пате)))) (p=4.70704e-15)
+(ROOT
+  (INTJ айде)
+  (VOC (ADPP (ADP за) (NNS (PROPN калинка))))) (p=1.47414e-11)
+(ROOT
+  (VOC (NOUNP (NUM двайсет) (ADJP (CCONJ и) (ADJ осми))))
+  (PARTP (PART ли) (VERBP (AUX сме) (ADV днеска)))) (p=1.0567e-22)
+(ROOT
+  (ADVP (VERB (VB чака) (AGR й)) (ADV малко))
+  (VOC
+    (NOUNP
+      (PRON той)
+      (VERBP
+        (PART не)
+        (VERBP (AUX (VB мож) (AGR е)) (ADJ самичък)))))) (p=1.83951e-23)
+(ROOT
+  (SQ
+    (NOUNP
+      (PRON нищо)
+      (VERBP (PRON аз) (VERBP (PART ще) (VERB чета))))
+    (ADPP (ADP с) (WHNP (PRON теб))))) (p=1.01752e-19)
+(ROOT
+  (PART да)
+  (VOC (ADPP (ADP за) (NNS (NOUN бал) (COUNT а))))) (p=6.50488e-11)
+(ROOT (PARTP (PART не) (VERB знам))) (p=3.21603e-07)
+(ROOT
+  (INTJP (INTJ браво) (INTJ браво))
+  (ADPP (ADP на) (NNDEF (NOUN дете) (DET то)))) (p=4.20159e-13)
+(ROOT
+  (INTJP
+    (INTJP
+      (INTJ а)
+      (NOUNP
+        (PRON какво)
+        (VERBP (AUX (VB прав) (AGR и)) (PRON това))))
+    (NOUN момче))
+  (INTJ тука)) (p=1.44978e-18)
+(ROOT
+  (VOC (PROPN ела))
+  (PARTP
+    (PART тука)
+    (VERBP (PART да) (VERBP (PRON те) (VERB обуя))))) (p=7.23104e-16)
+(ROOT
+  (SQ
+    (ADVP
+      (ADV много)
+      (ADVP (ADV малко) (VERBP (PRON ни) (VERB остава))))
+    (ADPP (ADP от) (NNS (NOUN запис) (COUNT а))))) (p=2.28268e-20)
+(ROOT
+  (SQ
+    (VERB виж)
+    (VOC
+      (NOUNP
+        (PROPN калоянчо)
+        (VERBP (PRON ти) (AUX (VB пе) (AGR е))))))) (p=2.46656e-14)
+(ROOT
+  (ADVP
+    (ADVP (VERB виж) (ADV как))
+    (VERBP (PRON те) (VERB гледа)))
+  (VOC
+    (DETP
+      (NOUNP
+        (PROPN калоянчо)
+        (ADVP
+          (ADV сега)
+          (VERBP (AUX (VB игра) (AGR й)) (PRON си))))
+      (ADPP (ADP с) (WHNP (PRON него)))))) (p=3.97546e-33)
+(ROOT (PARTP (PART не) (VERBP (PART не) (VERB иска)))) (p=2.20309e-08)
+(ROOT (SQ (VERBP (PRON ти) (AUX си)) (VOC (PROPN кака)))) (p=2.3444e-09)
+(ROOT
+  (PARTP
+    (PART ето)
+    (VERBP
+      (VERB мама)
+      (PARTP
+        (PART ще)
+        (VERBP (PRON ти) (AUX (VB дад) (AGR е))))))) (p=4.84077e-16)
+(ROOT
+  (SQ
+    (ADVP
+      (AUX (VB остав) (AGR и))
+      (NOUNP (DET тая) (NOUN кукла)))
+    (ADV сега))) (p=6.09887e-17)
+(ROOT
+  (INTJP
+    (INTJ а-у)
+    (VERBP (SCONJ че) (VERBP (AUX е) (ADV удобничко))))) (p=1.02266e-13)
+(ROOT
+  (SQ
+    (CCONJ и)
+    (NOUNP (PRON тя) (VERBP (PART да) (VERB папа))))) (p=3.99142e-11)
+(ROOT (SQ (PRON тази) (VERBP (PRON коя) (AUX е)))) (p=9.21028e-10)
+(ROOT
+  (ADVP
+    (AUX (VB направ) (AGR ило))
+    (NOUNP
+      (NOUNP
+        (NNS (NOUN бела) (DIV и))
+        (VERBP (PRON се) (AUX (VB умор) (AGR ило))))
+      (CCONJ и)
+      (ADVP (AUX (VB легна) (AGR ло)) (PART да))))
+  (VOC (PROPN нанка))) (p=1.91636e-36)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (ADVP
+      (ADPP (ADP в) (NNS (NOUN чайник) (COUNT а)))
+      (ADVP (VERBP (PRON какво) (VERB има)) (ADV още))))) (p=1.38293e-18)
+(ROOT (PART не) (PART не) (PART не)) (p=5.76144e-07)
+(ROOT
+  (ADVP
+    (AUX (VB има) (AGR ли))
+    (NOUNP (NOUN обувк) (CCONJ и) (NOUN мамо)))
+  (VOC (PROPN меца))) (p=2.88845e-18)
+(ROOT
+  (NOUNP (VERB (VB махн) (AGR и)) (PRON го))
+  (VOC (NOUNP (PRON това) (NOUN мече)))) (p=6.25185e-16)
+(ROOT
+  (INTJP
+    (INTJ ей)
+    (NOUNP (PRON го) (NNS (NOUN попот) (COUNT а))))) (p=4.51199e-14)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP (PART ще) (AUX (VB прав) (AGR иш))))) (p=1.59374e-09)
+(ROOT
+  (SQ
+    (PRON какво)
+    (VERBP
+      (PART ще)
+      (VERBP (PRON ги) (AUX (VB прав) (AGR иш)))))) (p=6.98276e-12)
+(ROOT (SQ (PRON това) (VERBP (PRON какво) (AUX е)))) (p=3.8842e-07)
+(ROOT
+  (INTJP
+    (INTJ хайде)
+    (NOUNP
+      (NOUNP
+        (ADPP (ADP за) (NNDEF (NUM три) (DET те)))
+        (NOUN мечк))
+      (CCONJ и)
+      (VERB разкажи)))) (p=3.03837e-21)
+(ROOT
+  (INTJ а)
+  (VOC
+    (ADPP
+      (ADP за)
+      (NOUNP
+        (NNDEF (NNS (NOUN ниндж) (DIV и)) (DET те))
+        (SBAR (AUX (VB гледа) (AGR ли))))))) (p=1.23344e-17)
+(ROOT
+  (PARTP (PART нали) (VERBP (PRON го) (VERB чу)))
+  (VOC
+    (VERBP (SCONJ че) (VERBP (PRON се) (VERB разплака))))) (p=1.8579e-17)
+(ROOT
+  (PARTP
+    (PART да)
+    (VERBP (PRON ги) (AUX (VB махн) (AGR ем))))) (p=4.41593e-11)
+(ROOT
+  (SQ
+    (CCONJ а)
+    (DETP
+      (NOUNP
+        (PROPN поля)
+        (VERBP (AUX (VB кара) (AGR ли)) (PRON се)))
+      (ADPP (ADP на) (NNDEF (NOUN миме) (DET то)))))) (p=4.27851e-22)
+(ROOT
+  (ADVP (ADP от) (ADV тук))
+  (VOC
+    (VERBP
+      (AUX (VB цел) (AGR иш))
+      (NNS (NOUN мишена) (DIV та))))) (p=5.41421e-21)
+(ROOT
+  (INTJP
+    (INTJ да-да)
+    (ADVP (ADV много) (AUX (VB иска) (AGR ш))))) (p=6.48625e-12)
+(ROOT
+  (SQ
+    (ADVP
+      (ADV къде)
+      (VERBP (AUX е) (NNDEF (NOUN боли) (DET то))))
+    (ADPP (ADP на) (NNDEF (NOUN ели) (DET то))))) (p=1.46772e-18)
+(ROOT
+  (INTJP
+    (INTJ хайде)
+    (NOUNP (JJDEF (ADJ втори) (DET я)) (NOUN куплет)))) (p=7.80975e-14)
+(ROOT
+  (PARTP
+    (PART да)
+    (VERBP (PRON я) (AUX (VB направ) (AGR им))))
+  (NOUNP (ADJP (ADJ друг) (NOUN цвят)) (ADJ червена))) (p=4.76267e-21)
+(ROOT
+  (INTJP (INTJP (INTJ ели) (VERB ела)) (NOUN мамо))
+  (PARTP
+    (PART да)
+    (VERBP
+      (AUX (VB направ) (AGR им))
+      (NNDEF (NOUN записче) (DET то))))) (p=2.84662e-23)
+(ROOT
+  (ADVP (ADV как) (AUX (VB бе) (AGR ше)))
+  (VOC (NOUN бабо))) (p=6.96429e-11)
+(ROOT (SQ (PRON този) (VERBP (PRON кой) (AUX е)))) (p=7.764e-09)
+(ROOT
+  (VOC (VERBP (PART не) (AUX (VB сяда) (AGR ш))))
+  (PARTP
+    (PART не)
+    (VERBP
+      (VERB (VB мож) (AGR е))
+      (PARTP (PART да) (AUX (VB седн) (AGR еш)))))) (p=9.68281e-22)
+(ROOT
+  (PARTP
+    (PART ще)
+    (VERBP (PRON я) (AUX (VB изми) (AGR ем))))
+  (NOUNP
+    (PROPN ела)
+    (VERBP
+      (PART да)
+      (VERBP (PRON я) (AUX (VB изми) (AGR ем)))))) (p=6.77764e-24)
+(ROOT
+  (ADVP
+    (ADV много)
+    (VERBP (PRON хубаво) (AUX (VB скача) (AGR ш))))) (p=5.96141e-13)
+(ROOT
+  (PARTP
+    (PART не)
+    (VERBP (VERB мога) (PARTP (PART да) (VERB разбера))))) (p=1.1616e-12)
+(ROOT
+  (SQ
+    (VERB (VB сложи) (AGR ла))
+    (VOC
+      (DETP
+        (NOUNP (PRON какво) (NOUN мамо))
+        (ADPP (ADP на) (NNS (NOUN главичка) (DIV та))))))) (p=1.56496e-18)
+(ROOT
+  (SQ
+    (NOUNP
+      (VERBP
+        (PART да)
+        (VERBP (PART не) (AUX (VB падн) (AGR е))))
+      (NNDEF (NOUN дупе) (DET то)))
+    (ADPP (ADP на) (NNS (NOUN земя) (DIV та))))) (p=1.58088e-19)
+(ROOT
+  (VOC
+    (NOUNP
+      (PRON той)
+      (VERBP (AUX е) (ADJP (ADV още) (ADJ мъничък)))))
+  (PARTP
+    (PARTP
+      (PART не)
+      (VERBP (AUX (VB мож) (AGR е)) (ADV така)))
+    (PARTP (PART да) (VERBP (PRON се) (VERB гушка))))) (p=1.07671e-30)
+(ROOT
+  (VOC (VERBP (AUX (VB чака) (AGR й)) (ADV сега)))
+  (PARTP
+    (PART ще)
+    (VERBP
+      (AUX (VB намер) (AGR им))
+      (NNS (NOUN уилм) (COUNT а))))) (p=6.40396e-23)
+(ROOT
+  (INTJ пей)
+  (VOC (ADPP (ADP за) (NOUNP (PROPN зайо) (PROPN байо))))) (p=1.24803e-15)
+(ROOT
+  (ADVP
+    (VERBP
+      (SCONJ като)
+      (VERBP
+        (AUX (VB изяд) (AGR еш))
+        (NNS (NOUN бонбон) (COUNT а))))
+    (ADV тогава))) (p=8.62272e-18)
+(ROOT (NOUNP (PROPN кума) (PROPN лиса))) (p=5.21573e-10)
+(ROOT (ADVP (ADV още) (NOUNP (NUM една) (NOUN ябълка)))) (p=1.86773e-10)
+(ROOT
+  (SQ
+    (NOUNP (VERB (VB скара) (AGR й)) (PRON се))
+    (ADPP (ADP на) (NNS (PROPN уилма))))) (p=3.89659e-16)
+(ROOT (INTJ а) (VOC (WHNP (PRON това)))) (p=5.14553e-06)
+(ROOT (ADVP (VERB няма) (PART да))) (p=1.35518e-05)
+(ROOT (SQ (NOUN балон) (PART ли))) (p=1.21728e-08)
+(ROOT (VERBP (PRON какво) (AUX (VB направ) (AGR и)))) (p=1.73817e-07)
+(ROOT (NOUNP (VERB (VB върн) (AGR и)) (PRON я))) (p=2.53037e-08)
+(ROOT
+  (SQ
+    (VERBP (PART не) (AUX (VB иска) (AGR м)))
+    (VOC (ADPP (ADP във) (NNS (NOUN водичка) (DIV та)))))) (p=2.11922e-15)
+(ROOT (ADVP (VERB (VB излиза) (AGR й)) (ADV оттука))) (p=2.46978e-12)
+(ROOT
+  (INTJP
+    (INTJ а)
+    (ADVP (AUX (VB обича) (AGR ш)) (PART ли)))
+  (PARTP
+    (PART да)
+    (VERBP
+      (AUX (VB гледа) (AGR ш))
+      (NNS (NOUN книжк) (DIV и))))) (p=3.67738e-21)
+(ROOT
+  (SQ
+    (VERBP (PRON те) (AUX са))
+    (VOC (ADPP (ADP за) (NOUN десерт))))) (p=1.99504e-13)
+(ROOT
+  (INTJP (INTJ благодаря) (NOUN лельо))
+  (ADPP
+    (ADP за)
+    (NNDEF (NNS (NOUN бонбон) (DIV и)) (DET те)))) (p=2.31415e-18)
+(ROOT
+  (INTJP
+    (INTJ а-а)
+    (VERBP
+      (VERB мий)
+      (NNDEF (NNS (NOUN зъб) (DIV и)) (DET те))))) (p=1.40203e-15)
+(ROOT (ADVP (ADV вече) (AUX е))) (p=4.56686e-06)
+(ROOT (VERBP (PART не) (AUX (VB чу) (AGR х)))) (p=3.54971e-08)
+(ROOT
+  (INTJP
+    (INTJ хайде)
+    (ADVP
+      (NOUNP (VERB чети) (PRON ти))
+      (ADVP
+        (ADV вече)
+        (VERBP
+          (AUX (VB бе) (AGR ше))
+          (AUX (VB почна) (AGR ла))))))
+  (PARTP (PART да) (AUX (VB чет) (AGR еш)))) (p=1.78762e-31)
+(ROOT (INTJP (INTJ о) (INTJ не))) (p=5.21523e-06)
+(ROOT
+  (PARTP
+    (PARTP
+      (PARTP
+        (VERBP (PART ще) (AUX (VB отд) (AGR еш)))
+        (PART ли))
+      (ADV сега))
+    (ADV оттатъка))
+  (VOC (ADPP (ADP за) (NOUN закуска)))) (p=7.61015e-30)
+(ROOT
+  (ADVP
+    (VERBP (PART не) (AUX са))
+    (ADVP (VERB наместени) (PART ли)))) (p=3.65099e-15)
+(ROOT (ADV така) (PART ли)) (p=5.01141e-06)
+(ROOT
+  (ADVP (AUX (VB иска) (AGR м)) (PART ама))
+  (VOC
+    (VERBP
+      (DETDEF (DETS (DET мой)) (DET то))
+      (VERBP (PART ли) (AUX е))))) (p=2.39618e-19)
+(ROOT
+  (SQ
+    (NOUNP
+      (PROPN маша)
+      (VERBP (PRON какво) (AUX (VB направ) (AGR ила))))
+    (ADPP (ADP в) (NNS (NOUN гора) (DIV та))))) (p=3.16567e-17)
+(ROOT (PART да) (VOC (NOUN мамо))) (p=1.34089e-06)
+(ROOT
+  (ADV леко)
+  (VOC (ADPP (ADP с) (WHNP (DET тия) (NOUN гащи))))) (p=1.60315e-15)
+(ROOT
+  (PART не)
+  (ADVP
+    (ADV много)
+    (ADVP
+      (ADV после)
+      (VERBP (PART ще) (AUX (VB чист) (AGR им)))))) (p=5.05828e-17)
