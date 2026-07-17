@@ -1,0 +1,43 @@
+Parse evaluation (oracle grammar)
+- sentences: 1000
+- gold source: oracle grammar
+- gold parses available: 1000
+- predicted parses available: 1000
+- evaluated: 1000
+Unlabeled spans
+- exact match accuracy: 0.250000
+- precision: 0.722322
+- recall: 0.622334
+- f1: 0.668611
+Labeled spans
+- exact match accuracy: 0.060000
+- precision: 0.375262
+- recall: 0.325205
+- f1: 0.348445
+- leaf mismatches: 0
+- predicted parse errors: 0, no-parse: 0
+- gold parse errors: 0, no-parse: 0
+Parse evaluation (gold parses)
+- sentences: 1000
+- gold source: gold parse file
+- gold parses available: 1000
+- predicted parses available: 1000
+- evaluated: 1000
+Unlabeled spans
+- exact match accuracy: 0.220000
+- precision: 0.733798
+- recall: 0.637537
+- f1: 0.682289
+Labeled spans
+- exact match accuracy: 0.041000
+- precision: 0.376522
+- recall: 0.304725
+- f1: 0.336840
+- leaf mismatches: 0
+- predicted parse errors: 0, no-parse: 0
+- gold parse errors: 0, no-parse: 0
+JSD evaluation
+- shared nonterminals: 45
+- only in oracle: 0
+- only in induced: 0
+- mean JSD (base 2.0): 0.289773

@@ -1,0 +1,54 @@
+grammar	pp	pl	parseable	unlabeled_F1	JSD	file
+	0.1	0.1				bg_morphtok_grammar_withUnary__percentage_min1__lex-ready_lexicon__pp-0p1__pl-0p1.eval.out
+	0.1	0.3				bg_morphtok_grammar_withUnary__percentage_min1__lex-ready_lexicon__pp-0p1__pl-0p3.eval.out
+	0.1	0.5				bg_morphtok_grammar_withUnary__percentage_min1__lex-ready_lexicon__pp-0p1__pl-0p5.eval.out
+	0.3	0.1				bg_morphtok_grammar_withUnary__percentage_min1__lex-ready_lexicon__pp-0p3__pl-0p1.eval.out
+	0.3	0.3				bg_morphtok_grammar_withUnary__percentage_min1__lex-ready_lexicon__pp-0p3__pl-0p3.eval.out
+	0.3	0.5				bg_morphtok_grammar_withUnary__percentage_min1__lex-ready_lexicon__pp-0p3__pl-0p5.eval.out
+	0.5	0.1				bg_morphtok_grammar_withUnary__percentage_min1__lex-ready_lexicon__pp-0p5__pl-0p1.eval.out
+	0.5	0.3				bg_morphtok_grammar_withUnary__percentage_min1__lex-ready_lexicon__pp-0p5__pl-0p3.eval.out
+	0.5	0.5				bg_morphtok_grammar_withUnary__percentage_min1__lex-ready_lexicon__pp-0p5__pl-0p5.eval.out
+	0.1	0.1	1000	0.603435	0.282883	bg_morphtok_grammar_withUnary__percentage_min2__lex-ready_lexicon__pp-0p1__pl-0p1.eval.out
+	0.1	0.3	1000	0.604070	0.283150	bg_morphtok_grammar_withUnary__percentage_min2__lex-ready_lexicon__pp-0p1__pl-0p3.eval.out
+	0.1	0.5	1000	0.602796	0.283547	bg_morphtok_grammar_withUnary__percentage_min2__lex-ready_lexicon__pp-0p1__pl-0p5.eval.out
+	0.3	0.1	1000	0.603435	0.281335	bg_morphtok_grammar_withUnary__percentage_min2__lex-ready_lexicon__pp-0p3__pl-0p1.eval.out
+	0.3	0.3	1000	0.604160	0.281543	bg_morphtok_grammar_withUnary__percentage_min2__lex-ready_lexicon__pp-0p3__pl-0p3.eval.out
+	0.3	0.5	1000	0.603705	0.281918	bg_morphtok_grammar_withUnary__percentage_min2__lex-ready_lexicon__pp-0p3__pl-0p5.eval.out
+	0.5	0.1	1000	0.603731	0.279335	bg_morphtok_grammar_withUnary__percentage_min2__lex-ready_lexicon__pp-0p5__pl-0p1.eval.out
+	0.5	0.3	1000	0.603070	0.279462	bg_morphtok_grammar_withUnary__percentage_min2__lex-ready_lexicon__pp-0p5__pl-0p3.eval.out
+	0.5	0.5	1000	0.602684	0.279823	bg_morphtok_grammar_withUnary__percentage_min2__lex-ready_lexicon__pp-0p5__pl-0p5.eval.out
+	0.1	0.1	1000	0.617515	0.265162	bg_morphtok_grammar_withUnary__percentage_min3__lex-ready_lexicon__pp-0p1__pl-0p1.eval.out
+	0.1	0.3	1000	0.618865	0.268295	bg_morphtok_grammar_withUnary__percentage_min3__lex-ready_lexicon__pp-0p1__pl-0p3.eval.out
+	0.1	0.5	1000	0.618190	0.268728	bg_morphtok_grammar_withUnary__percentage_min3__lex-ready_lexicon__pp-0p1__pl-0p5.eval.out
+	0.3	0.1	1000	0.617429	0.263662	bg_morphtok_grammar_withUnary__percentage_min3__lex-ready_lexicon__pp-0p3__pl-0p1.eval.out
+	0.3	0.3	1000	0.618780	0.266099	bg_morphtok_grammar_withUnary__percentage_min3__lex-ready_lexicon__pp-0p3__pl-0p3.eval.out
+	0.3	0.5	1000	0.618865	0.266518	bg_morphtok_grammar_withUnary__percentage_min3__lex-ready_lexicon__pp-0p3__pl-0p5.eval.out
+	0.5	0.1	1000	0.616995	0.262202	bg_morphtok_grammar_withUnary__percentage_min3__lex-ready_lexicon__pp-0p5__pl-0p1.eval.out
+	0.5	0.3	1000	0.618276	0.264116	bg_morphtok_grammar_withUnary__percentage_min3__lex-ready_lexicon__pp-0p5__pl-0p3.eval.out
+	0.5	0.5	1000	0.617965	0.264510	bg_morphtok_grammar_withUnary__percentage_min3__lex-ready_lexicon__pp-0p5__pl-0p5.eval.out
+	0.1	0.1	1000	0.620388	0.247683	bg_morphtok_grammar_withUnary__percentage_min4__lex-ready_lexicon__pp-0p1__pl-0p1.eval.out
+	0.1	0.3	1000	0.624356	0.247835	bg_morphtok_grammar_withUnary__percentage_min4__lex-ready_lexicon__pp-0p1__pl-0p3.eval.out
+	0.1	0.5	1000	0.625755	0.248123	bg_morphtok_grammar_withUnary__percentage_min4__lex-ready_lexicon__pp-0p1__pl-0p5.eval.out
+	0.3	0.1	1000	0.619096	0.246967	bg_morphtok_grammar_withUnary__percentage_min4__lex-ready_lexicon__pp-0p3__pl-0p1.eval.out
+	0.3	0.3	1000	0.624650	0.247083	bg_morphtok_grammar_withUnary__percentage_min4__lex-ready_lexicon__pp-0p3__pl-0p3.eval.out
+	0.3	0.5	1000	0.625140	0.247363	bg_morphtok_grammar_withUnary__percentage_min4__lex-ready_lexicon__pp-0p3__pl-0p5.eval.out
+	0.5	0.1	1000	0.619405	0.246110	bg_morphtok_grammar_withUnary__percentage_min4__lex-ready_lexicon__pp-0p5__pl-0p1.eval.out
+	0.5	0.3	1000	0.624790	0.246218	bg_morphtok_grammar_withUnary__percentage_min4__lex-ready_lexicon__pp-0p5__pl-0p3.eval.out
+	0.5	0.5	1000	0.624832	0.246499	bg_morphtok_grammar_withUnary__percentage_min4__lex-ready_lexicon__pp-0p5__pl-0p5.eval.out
+	0.1	0.1	1000	0.626366	0.249451	bg_morphtok_grammar_withUnary__percentage_min5__lex-ready_lexicon__pp-0p1__pl-0p1.eval.out
+	0.1	0.3	1000	0.628470	0.249841	bg_morphtok_grammar_withUnary__percentage_min5__lex-ready_lexicon__pp-0p1__pl-0p3.eval.out
+	0.1	0.5	1000	0.629068	0.250211	bg_morphtok_grammar_withUnary__percentage_min5__lex-ready_lexicon__pp-0p1__pl-0p5.eval.out
+	0.3	0.1	1000	0.626227	0.248509	bg_morphtok_grammar_withUnary__percentage_min5__lex-ready_lexicon__pp-0p3__pl-0p1.eval.out
+	0.3	0.3	1000	0.628552	0.248813	bg_morphtok_grammar_withUnary__percentage_min5__lex-ready_lexicon__pp-0p3__pl-0p3.eval.out
+	0.3	0.5	1000	0.629374	0.249166	bg_morphtok_grammar_withUnary__percentage_min5__lex-ready_lexicon__pp-0p3__pl-0p5.eval.out
+	0.5	0.1	1000	0.626157	0.247514	bg_morphtok_grammar_withUnary__percentage_min5__lex-ready_lexicon__pp-0p5__pl-0p1.eval.out
+	0.5	0.3	1000	0.628775	0.247764	bg_morphtok_grammar_withUnary__percentage_min5__lex-ready_lexicon__pp-0p5__pl-0p3.eval.out
+	0.1	0.1	1000	0.682218	0.288012	ud_childes_bg_grammar_withUnary__counts_min1__lex-ready_lexicon__pp-0p1__pl-0p1.eval.out
+	0.1	0.3	1000	0.682080	0.289034	ud_childes_bg_grammar_withUnary__counts_min1__lex-ready_lexicon__pp-0p1__pl-0p3.eval.out
+	0.1	0.5	1000	0.681043	0.290348	ud_childes_bg_grammar_withUnary__counts_min1__lex-ready_lexicon__pp-0p1__pl-0p5.eval.out
+	0.3	0.1	1000	0.682218	0.287748	ud_childes_bg_grammar_withUnary__counts_min1__lex-ready_lexicon__pp-0p3__pl-0p1.eval.out
+	0.3	0.3	1000	0.682008	0.288768	ud_childes_bg_grammar_withUnary__counts_min1__lex-ready_lexicon__pp-0p3__pl-0p3.eval.out
+	0.3	0.5	1000	0.682636	0.290075	ud_childes_bg_grammar_withUnary__counts_min1__lex-ready_lexicon__pp-0p3__pl-0p5.eval.out
+	0.5	0.1	1000	0.681105	0.287449	ud_childes_bg_grammar_withUnary__counts_min1__lex-ready_lexicon__pp-0p5__pl-0p1.eval.out
+	0.5	0.3	1000	0.681661	0.288469	ud_childes_bg_grammar_withUnary__counts_min1__lex-ready_lexicon__pp-0p5__pl-0p3.eval.out
+	0.5	0.5	1000	0.682289	0.289773	ud_childes_bg_grammar_withUnary__counts_min1__lex-ready_lexicon__pp-0p5__pl-0p5.eval.out

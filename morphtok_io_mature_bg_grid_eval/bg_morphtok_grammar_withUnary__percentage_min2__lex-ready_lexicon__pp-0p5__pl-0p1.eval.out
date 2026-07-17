@@ -1,0 +1,45 @@
+Parse evaluation (oracle grammar)
+- sentences: 1000
+- gold source: oracle grammar
+- gold parses available: 1000
+- predicted parses available: 1000
+- evaluated: 1000
+Unlabeled spans
+- exact match accuracy: 0.150000
+- precision: 0.695404
+- recall: 0.518346
+- f1: 0.593961
+Labeled spans
+- exact match accuracy: 0.020000
+- precision: 0.271191
+- recall: 0.204024
+- f1: 0.232860
+- leaf mismatches: 0
+- predicted cache: /home/mmm67/maturational_grammar_induction/morphtok_io_mature_bg_grid_results/bg_morphtok_grammar_withUnary__percentage_min2__lex-ready_lexicon__pp-0p5__pl-0p1/predicted__bg_test_yields_morphtok__w0.txt
+- predicted parse errors: n/a, no-parse: 0
+- gold parse errors: 0, no-parse: 0
+Parse evaluation (gold parses)
+- sentences: 1000
+- gold source: gold parse file
+- gold parses available: 1000
+- predicted parses available: 1000
+- evaluated: 1000
+Unlabeled spans
+- exact match accuracy: 0.153000
+- precision: 0.721784
+- recall: 0.518866
+- f1: 0.603731
+Labeled spans
+- exact match accuracy: 0.021000
+- precision: 0.296670
+- recall: 0.199864
+- f1: 0.238830
+- leaf mismatches: 0
+- predicted cache: /home/mmm67/maturational_grammar_induction/morphtok_io_mature_bg_grid_results/bg_morphtok_grammar_withUnary__percentage_min2__lex-ready_lexicon__pp-0p5__pl-0p1/predicted__bg_test_yields_morphtok__w0.txt
+- predicted parse errors: n/a, no-parse: 0
+- gold parse errors: 0, no-parse: 0
+JSD evaluation
+- shared nonterminals: 47
+- only in oracle: 0
+- only in induced: 0
+- mean JSD (base 2.0): 0.279335
