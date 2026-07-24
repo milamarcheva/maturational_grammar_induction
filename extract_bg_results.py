@@ -196,7 +196,9 @@ def extract_base(dir_name: str) -> str:
 
 def extract_morphtok_grammar(dir_name: str) -> str:
     """
-    Grammar is the segment after stages_bg_stages_morphtok_, e.g. mv or merged_min2.
+    Grammar is the segment after stages_bg_stages_morphtok_, e.g. mv or
+    merged_min5. Some runs are named with minN directly, so normalize those
+    to merged_minN in the output.
     """
     prefix = dir_name.split("__ps-")[0]
     needle = "stages_bg_stages_morphtok_"
@@ -204,11 +206,11 @@ def extract_morphtok_grammar(dir_name: str) -> str:
         return ""
 
     rest = prefix[len(needle):]
-    if rest.startswith("merged_min"):
-        m = re.match(r"(merged_min\d+)_", rest)
-        return m.group(1) if m else ""
     if rest.startswith("mv_"):
         return "mv"
+    m = re.match(r"(?:(merged_min\d+)|(min\d+))_", rest)
+    if m:
+        return m.group(1) or f"merged_{m.group(2)}"
     return ""
 
 
