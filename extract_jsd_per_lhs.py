@@ -1,82 +1,103 @@
 #!/usr/bin/env python3
 
+import argparse
 import os
 import re
 import pandas as pd
 
-INPUT_DIR = "."
-OUTFILE = "staged_jsd_per_lhs_results_mmm.tsv"
+DEFAULT_INPUT_DIR = "staged_eval_outputs_detailed_jsd_per_lhs_mmm"
 
-rows = []
 
-for fname in os.listdir(INPUT_DIR):
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--input-dir",
+        default=DEFAULT_INPUT_DIR,
+        help="Directory containing *.jsd_per_lhs.out files.",
+    )
+    parser.add_argument(
+        "--outfile",
+        default=None,
+        help="Output TSV path. Defaults to <input-dir>/jsd_per_lhs_table.tsv.",
+    )
+    return parser.parse_args()
 
-    if not fname.endswith(".jsd_per_lhs.out"):
-        continue
 
-    path = os.path.join(INPUT_DIR, fname)
+def build_rows(input_dir):
+    rows = []
 
-    # ---------- stage ----------
-    m = re.search(r"__([0-9]{2})_", fname)
-    if not m:
-        continue
-    stage = m.group(1)
+    for fname in os.listdir(input_dir):
+        if not fname.endswith(".jsd_per_lhs.out"):
+            continue
 
-    # ---------- dir (everything before __<stage>_) ----------
-    dir_name = fname.split(f"__{stage}_")[0]
+        path = os.path.join(input_dir, fname)
 
-    # ---------- parameters ----------
-    sp_match = re.search(r"ps-([0-9p]+)", fname)
-    sp = sp_match.group(1).replace("p", ".") if sp_match else ""
+        # ---------- stage ----------
+        m = re.search(r"__([0-9]{2})_", fname)
+        if not m:
+            continue
+        stage = m.group(1)
 
-    sl_match = re.search(r"ls-([0-9p]+)", fname)
-    sl = sl_match.group(1).replace("p", ".") if sl_match else ""
+        # ---------- dir (everything before __<stage>_) ----------
+        dir_name = fname.split(f"__{stage}_")[0]
 
-    eta_match = re.search(r"nbe-([0-9p]+)", fname)
-    eta = eta_match.group(1).replace("p", ".") if eta_match else ""
+        # ---------- parameters ----------
+        sp_match = re.search(r"ps-([0-9p]+)", fname)
+        sp = sp_match.group(1).replace("p", ".") if sp_match else ""
 
-    base = "MMM1and2"
+        sl_match = re.search(r"ls-([0-9p]+)", fname)
+        sl = sl_match.group(1).replace("p", ".") if sl_match else ""
 
-    # ---------- read NT JSD values ----------
-    jsd_vals = {}
+        eta_match = re.search(r"nbe-([0-9p]+)", fname)
+        eta = eta_match.group(1).replace("p", ".") if eta_match else ""
 
-    with open(path) as f:
+        base = "MMM1and2"
 
-        reading = False
+        # ---------- read NT JSD values ----------
+        jsd_vals = {}
 
-        for line in f:
+        with open(path) as f:
+            reading = False
 
-            line = line.strip()
+            for line in f:
+                line = line.strip()
 
-            if line.startswith("JSD per nonterminal"):
-                reading = True
-                continue
+                if line.startswith("JSD per nonterminal"):
+                    reading = True
+                    continue
 
-            if reading and line:
+                if reading and line:
+                    parts = line.split()
 
-                parts = line.split()
+                    if len(parts) == 2:
+                        nt, val = parts
+                        jsd_vals[nt] = float(val)
 
-                if len(parts) == 2:
-                    nt, val = parts
-                    jsd_vals[nt] = float(val)
+        row = {
+            "dir": dir_name,
+            "base": base,
+            "stage": stage,
+            "s_p": sp,
+            "s_l": sl,
+            "eta": eta,
+        }
+        row.update(jsd_vals)
+        rows.append(row)
 
-    row = {
-        "dir": dir_name,
-        "base": base,
-        "stage": stage,
-        "s_p": sp,
-        "s_l": sl,
-        "eta": eta
-    }
+    return rows
 
-    row.update(jsd_vals)
 
-    rows.append(row)
+def main():
+    args = parse_args()
+    input_dir = args.input_dir
+    outfile = args.outfile or os.path.join(input_dir, "jsd_per_lhs_table.tsv")
 
-df = pd.DataFrame(rows)
+    rows = build_rows(input_dir)
+    df = pd.DataFrame(rows)
+    df = df.sort_values(["dir", "stage"])
+    df.to_csv(outfile, sep="\t", index=False)
+    print("Wrote", outfile)
 
-df = df.sort_values(["dir", "stage"])
 
-df.to_csv(OUTFILE, sep="\t", index=False)
-
-print("Wrote", OUTFILE)
+if __name__ == "__main__":
+    main()
